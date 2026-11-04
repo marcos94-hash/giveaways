@@ -1776,6 +1776,76 @@
       "source": "Claude review 2026-11-04",
       "id": "the-ultimate-kc-holiday-sweepstakes-chiefs-x-hallmark",
       "rules_checked": "full"
+    },
+    {
+      "name": "Fandango Destined for Adventure Sweepstakes",
+      "prize": "1 winner: trip for up to 4 to Los Angeles (ARV $4,995)",
+      "category": "trip",
+      "entry_url": "https://destinedforadventuresweepstakes.entertowinprizes.com/",
+      "rules_url": "https://destinedforadventuresweepstakes.entertowinprizes.com/wp-content/uploads/2026/10/Fandango-Destined-For-Adventure-Sweepstakes-Official-Rules.pdf",
+      "ends": "2026-11-30T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends 11:59 PM PT Nov 29. One entry per person/email. Form asks for name, street address (no PO box), phone and email. 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://destinedforadventuresweepstakes.entertowinprizes.com/wp-content/uploads/2026/10/Fandango-Destined-For-Adventure-Sweepstakes-Official-Rules.pdf",
+        "checked_at": "2026-11-04T11:52-05:00",
+        "evidence": [
+          "https://destinedforadventuresweepstakes.entertowinprizes.com/wp-content/uploads/2026/10/Fandango-Destined-For-Adventure-Sweepstakes-Official-Rules.pdf"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "destinedforadventuresweepstakes.entertowinprizes.com"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "fandango-destined-for-adventure-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Kraft Parmesan Parmsgiving Sweepstakes",
+      "prize": "1 winner: $4,900 Visa gift card + year's supply of Kraft Parmesan (ARV $4,959)",
+      "category": "gift_card",
+      "entry_url": "https://kraftnaturalcheese.com/parmsgiving/",
+      "rules_url": "https://kraftnaturalcheese.com/parmsgiving/",
+      "ends": "2026-12-02T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Form includes a short answer about bringing Kraft Parmesan to your Thanksgiving table; any answer counts (random drawing). Use your legal name as on your ID. One entry per person. 50 states, territories and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://kraftnaturalcheese.com/parmsgiving/",
+        "checked_at": "2026-11-04T11:53-05:00",
+        "evidence": [
+          "https://kraftnaturalcheese.com/parmsgiving/"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "kraft-parmesan-parmsgiving-sweepstakes",
+      "match": [
+        "kraftnaturalcheese.com/parmsgiving"
+      ],
+      "rules_checked": "full"
     }
   ]
 }

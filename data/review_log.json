@@ -396,14 +396,31 @@
         "prev": null
       }
     },
+    "https://destinedforadventuresweepstakes.entertowinprizes.com/": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:52:54-05:00",
+      "evidence": [
+        "https://destinedforadventuresweepstakes.entertowinprizes.com/wp-content/uploads/2026/10/Fandango-Destined-For-Adventure-Sweepstakes-Official-Rules.pdf"
+      ],
+      "listing_id": "fandango-destined-for-adventure-sweepstakes",
+      "decided_at": "2026-11-04T11:52:54-05:00",
+      "next_retry_at": null
+    },
     "https://destinedforadventuresweepstakes.entertowinprizes.com/wp-content/uploads/2026/10/Fandango-Destined-For-Adventure-Sweepstakes-Official-Rules.pdf": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:52:54-05:00",
+      "evidence": [
+        "https://destinedforadventuresweepstakes.entertowinprizes.com/wp-content/uploads/2026/10/Fandango-Destined-For-Adventure-Sweepstakes-Official-Rules.pdf"
+      ],
+      "listing_id": "fandango-destined-for-adventure-sweepstakes",
+      "decided_at": "2026-11-04T11:52:54-05:00",
+      "next_retry_at": null
     },
     "https://dixxon.com/pages/free-flannels-for-year-giveaway": {
       "attempts": 0,
@@ -796,12 +813,16 @@
     },
     "https://kraftnaturalcheese.com/parmsgiving": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:53:30-05:00",
+      "evidence": [
+        "https://kraftnaturalcheese.com/parmsgiving/"
+      ],
+      "listing_id": "kraft-parmesan-parmsgiving-sweepstakes",
+      "decided_at": "2026-11-04T11:53:30-05:00",
+      "next_retry_at": null
     },
     "https://legendairymilk.com/pages/thankful-for-you-registry-giveaway-terms": {
       "attempts": 0,
