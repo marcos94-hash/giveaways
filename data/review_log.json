@@ -278,12 +278,16 @@
     },
     "https://gigaparts.com/eufymake-sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "ended",
+      "reason": "Sponsor's official rules: promotion period ended Nov 3, 2026 at 11:59 PM CT",
+      "last_attempt_at": "2026-11-04T01:28:51-05:00",
+      "evidence": [
+        "https://www.gigaparts.com/eufymake-sweepstakes"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:28:51-05:00",
+      "name": "GigaParts x Anker eufyMake E1 Sweepstakes"
     },
     "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-": {
       "attempts": 0,
@@ -342,12 +346,16 @@
     },
     "https://hinttreatyourselfsweeps.com/rules": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "no_free_online_entry",
+      "reason": "Sponsor rules: online entry requires uploading a receipt for a Hint Treat Yourself pack purchase; the only free method is a hand-printed mail-in entry",
+      "last_attempt_at": "2026-11-04T01:29:06-05:00",
+      "evidence": [
+        "https://www.hinttreatyourselfsweeps.com/rules"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:29:06-05:00",
+      "name": "Win a Trip to Palm Springs, Aspen or New York City!"
     },
     "https://ign.com/rewards": {
       "name": "IGN x Best Buy daily giveaway",
@@ -533,14 +541,31 @@
       "decided_at": "2026-11-03",
       "attempts": 0
     },
+    "https://pepsipromos.com/knicks": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T01:29:53-05:00",
+      "evidence": [
+        "https://pepsipromos.com/knicks/knicks_rules/"
+      ],
+      "listing_id": "2026-pepsi-knicks-sweepstakes",
+      "decided_at": "2026-11-04T01:29:53-05:00",
+      "next_retry_at": null
+    },
     "https://pepsipromos.com/knicks/knicks_rules": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T01:29:53-05:00",
+      "evidence": [
+        "https://pepsipromos.com/knicks/knicks_rules/"
+      ],
+      "listing_id": "2026-pepsi-knicks-sweepstakes",
+      "decided_at": "2026-11-04T01:29:53-05:00",
+      "next_retry_at": null
     },
     "https://perdue.com/holiday-drop": {
       "name": "Perdue Holiday Drop Sweepstakes",

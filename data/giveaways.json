@@ -1298,6 +1298,44 @@
         "continentaltire.com/newsletter-signup"
       ],
       "rules_checked": "full"
+    },
+    {
+      "name": "2026 Pepsi Knicks Sweepstakes",
+      "prize": "47 winners: 2 tickets to a 2026-27 Knicks game at Madison Square Garden (ARV up to $550 each)",
+      "category": "other",
+      "entry_url": "https://pepsipromos.com/knicks/",
+      "rules_url": "https://pepsipromos.com/knicks/knicks_rules/",
+      "ends": "2026-12-31T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Local: open only to NY, CT and NJ residents within 150 miles of Madison Square Garden (Newark qualifies), 18+. One entry per person/email per day, day runs midnight to 11:59:59 PM ET. Single drawing about Jan 4, 2027.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://pepsipromos.com/knicks/knicks_rules/",
+        "checked_at": "2026-11-04T01:29-05:00",
+        "evidence": [
+          "https://pepsipromos.com/knicks/knicks_rules/"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "pepsipromos.com/knicks"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "2026-pepsi-knicks-sweepstakes",
+      "rules_checked": "full"
     }
   ]
 }
