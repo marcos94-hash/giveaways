@@ -1672,6 +1672,110 @@
         "chewy.com/education/chewy-claus"
       ],
       "rules_checked": "partial"
+    },
+    {
+      "name": "Exmark Built to Be an American Legend Giveaway",
+      "prize": "1 winner: 60-inch USA 250 Lazer Z X-Series mower (retail value $30,000)",
+      "category": "other",
+      "entry_url": "https://www.exmark.com/America250",
+      "rules_url": null,
+      "ends": "2026-12-12T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One entry per person. Registration form on Exmark's site; check which of the two URLs hosts the form.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.exmark.com/America250/official-rules",
+        "checked_at": "2026-11-04T11:50-05:00",
+        "evidence": [
+          "https://www.exmark.com/America250/official-rules"
+        ],
+        "reason": "Sponsor's rules confirm free registration, US residents 18+ and one entry per person, but give the end date (Dec 12, 2026) with no time or time zone; the rules also give two different entry URLs (exmark.com/America250 and exmark.com/usa250).",
+        "missing": [
+          "deadline"
+        ]
+      },
+      "match": [
+        "exmark.com/America250",
+        "exmark.com/usa250"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "exmark-built-to-be-an-american-legend-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Electrolit Holiday Hydration Sweepstakes",
+      "prize": "10 winners: two $500 The North Face gift cards ($1,000); 200 Electrolit beanies",
+      "category": "gift_card",
+      "entry_url": "https://hydrateandwin2026.com/",
+      "rules_url": "https://hydrateandwin2026.com/sections/showsweeprules/ElectrolitHolidayHydrationSweepstakes/eng",
+      "ends": "2027-01-03T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One entry per person for the whole promotion. 50 states and DC, 18+. No purchase needed.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://hydrateandwin2026.com/sections/showsweeprules/ElectrolitHolidayHydrationSweepstakes/eng",
+        "checked_at": "2026-11-04T11:51-05:00",
+        "evidence": [
+          "https://hydrateandwin2026.com/sections/showsweeprules/ElectrolitHolidayHydrationSweepstakes/eng"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "hydrateandwin2026.com"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "electrolit-holiday-hydration-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "The Ultimate KC Holiday Sweepstakes (Chiefs x Hallmark)",
+      "prize": "1 winner: 4 tickets to the Hallmark Christmas Experience + 4 club-level tickets, field passes and post-game field photo at Chiefs vs Patriots on 12/21 (ARV $5,000)",
+      "category": "trip",
+      "entry_url": "https://web.witcontests.com/chiefs/sweepstakes/win/the-ultimate-kc-holiday-261001",
+      "rules_url": "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf",
+      "ends": "2026-11-16T00:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends 11:59 PM CT Nov 15. One entry per person/phone number. US residents 18+ (void in Florida and New York). Prize is in Kansas City; travel isn't included per the prize description.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf",
+        "checked_at": "2026-11-04T11:52-05:00",
+        "evidence": [
+          "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "web.witcontests.com/chiefs/sweepstakes/win/the-ultimate-kc-holiday-261001"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "the-ultimate-kc-holiday-sweepstakes-chiefs-x-hallmark",
+      "rules_checked": "full"
     }
   ]
 }
