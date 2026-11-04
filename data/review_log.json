@@ -125,7 +125,8 @@
       "reason_code": "js_only",
       "reason": "Gleam page didn't load for review; the listing site gives no eligibility.",
       "last_attempt_at": "2026-11-04T00:05:00-05:00",
-      "next_retry_at": "2026-11-05T00:05:00-05:00"
+      "next_retry_at": "2026-11-05T00:05:00-05:00",
+      "name": "win a golden Logitech G ASTRO Headset"
     },
     "https://goldbelly.com/spotlight/thanksgiving-sweepstakes": {
       "attempts": 1,
@@ -133,7 +134,8 @@
       "reason_code": "no_rules_found",
       "reason": "Entry page shows an email box but no official rules.",
       "last_attempt_at": "2026-11-04T00:05:00-05:00",
-      "next_retry_at": "2026-11-05T00:05:00-05:00"
+      "next_retry_at": "2026-11-05T00:05:00-05:00",
+      "name": "Goldbelly Thanksgiving Sweepstakes"
     },
     "https://hgtv.com/sweepstakes/home-for-the-holidays": {
       "name": "HGTV Home for the Holidays",
@@ -296,7 +298,8 @@
       "reason_code": "incomplete_info",
       "reason": "No dates or eligibility on the page; the entry form is linked from an Instagram bio.",
       "last_attempt_at": "2026-11-04T00:05:00-05:00",
-      "next_retry_at": "2026-11-05T00:05:00-05:00"
+      "next_retry_at": "2026-11-05T00:05:00-05:00",
+      "name": "Zxrchloe 10K Giveaway"
     },
     "https://sweepwidget.com/c/103277-vtmslewf": {
       "attempts": 1,
@@ -304,7 +307,8 @@
       "reason_code": "js_only",
       "reason": "SweepWidget page only showed 'Loading Giveaway'.",
       "last_attempt_at": "2026-11-04T00:05:00-05:00",
-      "next_retry_at": "2026-11-05T00:05:00-05:00"
+      "next_retry_at": "2026-11-05T00:05:00-05:00",
+      "name": "Keystone It’s All in the Can Sweepstakes"
     },
     "https://tablotv.com/contest": {
       "name": "Tablo Race Weekend Sweepstakes",
@@ -346,7 +350,8 @@
       "reason_code": "possible_membership",
       "reason": "Run through a radio-show members' page; rules not found, may need membership.",
       "last_attempt_at": "2026-11-04T00:05:00-05:00",
-      "next_retry_at": "2026-11-05T00:05:00-05:00"
+      "next_retry_at": "2026-11-05T00:05:00-05:00",
+      "name": "The Christmas Mortgage Miracle Sweepstakes"
     },
     "https://ulta.com/company/terms-and-conditions/scan-to-win-sweepstakes": {
       "name": "Ulta Beauty Scan to Win #2",
