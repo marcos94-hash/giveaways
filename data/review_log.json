@@ -787,12 +787,16 @@
     },
     "https://jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:01:23-05:00",
+      "evidence": [
+        "https://www.jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026"
+      ],
+      "listing_id": "jackson-perkins-weekly-holiday-giveaway-2026",
+      "decided_at": "2026-11-04T12:01:23-05:00",
+      "next_retry_at": null
     },
     "https://kensingtonbooks.com/HolidayLuxeBundle": {
       "attempts": 0,
@@ -1026,14 +1030,31 @@
       "next_retry_at": "2026-11-05T11:39:59-05:00",
       "name": "Orange Julius Smoothie Smash"
     },
+    "https://outback.com/best-steaks-ever": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:00:38-05:00",
+      "evidence": [
+        "https://www.outback.com/best-steaks-ever/official-rules"
+      ],
+      "listing_id": "outback-best-steaks-ever-sweepstakes",
+      "decided_at": "2026-11-04T12:00:38-05:00",
+      "next_retry_at": null
+    },
     "https://outback.com/best-steaks-ever/official-rules": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:00:38-05:00",
+      "evidence": [
+        "https://www.outback.com/best-steaks-ever/official-rules"
+      ],
+      "listing_id": "outback-best-steaks-ever-sweepstakes",
+      "decided_at": "2026-11-04T12:00:38-05:00",
+      "next_retry_at": null
     },
     "https://paninigroup.com/": {
       "name": "Panini",

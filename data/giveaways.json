@@ -2070,6 +2070,76 @@
       "source": "Claude review 2026-11-04",
       "id": "lego-win-your-wish-list-sweepstakes",
       "rules_checked": "full"
+    },
+    {
+      "name": "Outback Best Steaks Ever Sweepstakes",
+      "prize": "Grand $1,000 in Outback gift cards; first $500; second $250",
+      "category": "gift_card",
+      "entry_url": "https://www.outback.com/best-steaks-ever",
+      "rules_url": "https://www.outback.com/best-steaks-ever/official-rules",
+      "ends": "2026-12-28T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One entry per person/email for the whole period. Form asks for name, email and date of birth; the video is optional. US residents 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.outback.com/best-steaks-ever/official-rules",
+        "checked_at": "2026-11-04T12:00-05:00",
+        "evidence": [
+          "https://www.outback.com/best-steaks-ever/official-rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "outback.com/best-steaks-ever"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "outback-best-steaks-ever-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Jackson & Perkins Weekly Holiday Giveaway 2026",
+      "prize": "9 weekly winners: a Jackson & Perkins holiday gift (ARV $39.95-$119.95)",
+      "category": "other",
+      "entry_url": "https://www.jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026",
+      "rules_url": "https://www.jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026",
+      "ends": "2026-12-01T23:45:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One email entry per person for the whole promotion; it carries forward into every remaining Friday drawing, so enter early. US residents 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026",
+        "checked_at": "2026-11-04T12:01-05:00",
+        "evidence": [
+          "https://www.jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "jackson-perkins-weekly-holiday-giveaway-2026",
+      "rules_checked": "full"
     }
   ]
 }
