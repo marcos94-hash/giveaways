@@ -2320,6 +2320,76 @@
       "source": "Claude review 2026-11-04",
       "id": "big-sky-brands-far-out-flavors-contest",
       "rules_checked": "full"
+    },
+    {
+      "name": "Fancy Feast Little Gem Micro Bag Sweepstakes",
+      "prize": "25 winners: Little Gem micro bag (ARV $500 each)",
+      "category": "other",
+      "entry_url": "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes",
+      "rules_url": "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules",
+      "ends": "2026-11-19T00:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends 11:59:59 PM CT Nov 18. One entry per method per person (web form or myPurina app). 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules",
+        "checked_at": "2026-11-04T12:09-05:00",
+        "evidence": [
+          "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "purina.com/s/fancy-feast-little-gem-microbag-sweepstakes"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "fancy-feast-little-gem-micro-bag-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Dixxon Free Flannels for a Year Giveaway",
+      "prize": "1 winner: 52 Dixxon flannels (one a week for a year)",
+      "category": "other",
+      "entry_url": "https://www.dixxon.com/pages/free-flannels-for-year-giveaway",
+      "rules_url": "https://www.dixxon.com/pages/free-flannels-for-year-giveaway",
+      "ends": "2026-12-31T12:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Closes 9:00 AM PST Dec 31. One entry per household (email). US residents 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.dixxon.com/pages/free-flannels-for-year-giveaway",
+        "checked_at": "2026-11-04T12:11-05:00",
+        "evidence": [
+          "https://www.dixxon.com/pages/free-flannels-for-year-giveaway"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "dixxon-free-flannels-for-a-year-giveaway",
+      "match": [
+        "dixxon.com/pages/free-flannels-for-year-giveaway"
+      ],
+      "rules_checked": "full"
     }
   ]
 }

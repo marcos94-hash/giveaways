@@ -266,13 +266,16 @@
       "next_retry_at": null
     },
     "https://calisqueeze.com/win-a-cali-squeeze-yeti-cooler": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "Sponsor page (Firestone Walker's Cali Squeeze, 21+ age gate) embeds a ViralSweep widget; dates, eligible states and rules load by script. Their other giveaways are limited to certain states (NJ included).",
+      "last_attempt_at": "2026-11-04T12:11:24-05:00",
+      "evidence": [
+        "https://www.calisqueeze.com/win-a-cali-squeeze-yeti-cooler/"
+      ],
+      "next_retry_at": "2026-11-05T12:11:24-05:00",
+      "name": "Win a Custom Cali Squeeze YETI Cooler!"
     },
     "https://campaign.aptivada.com/terms/1923861": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
@@ -491,12 +494,16 @@
     },
     "https://dixxon.com/pages/free-flannels-for-year-giveaway": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:11:24-05:00",
+      "evidence": [
+        "https://www.dixxon.com/pages/free-flannels-for-year-giveaway"
+      ],
+      "listing_id": "dixxon-free-flannels-for-a-year-giveaway",
+      "decided_at": "2026-11-04T12:11:24-05:00",
+      "next_retry_at": null
     },
     "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf": {
       "attempts": 1,
@@ -1129,14 +1136,31 @@
       "reason": "Rules as quoted by listing sites (48 states + DC, 18+, one website entry a day, ET days); Perdue's own rules not read.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
+    "https://purina.com/s/fancy-feast-little-gem-microbag-sweepstakes": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:09:45-05:00",
+      "evidence": [
+        "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules"
+      ],
+      "listing_id": "fancy-feast-little-gem-micro-bag-sweepstakes",
+      "decided_at": "2026-11-04T12:09:45-05:00",
+      "next_retry_at": null
+    },
     "https://purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:09:45-05:00",
+      "evidence": [
+        "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules"
+      ],
+      "listing_id": "fancy-feast-little-gem-micro-bag-sweepstakes",
+      "decided_at": "2026-11-04T12:09:45-05:00",
+      "next_retry_at": null
     },
     "https://qr.health-ade.com/c/Y3WM": {
       "name": "Health-Ade Free Groceries for a Year Giveaway",
@@ -1365,13 +1389,13 @@
       "name": "755 Win Walmart Gift Cards in Their November"
     },
     "https://sweepstakes.roundisnow.com/mightyswellsolostove2026": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Page read needs an access approval that timed out (Nov 4 ~12:10 ET); rules not found on mightyswell.com by search",
+      "last_attempt_at": "2026-11-04T12:11:24-05:00",
+      "next_retry_at": "2026-11-05T12:11:24-05:00",
+      "name": "Win a Custom Solo Stove in the Mighty Swell Solo Stove Sweepstakes!"
     },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
       "attempts": 2,
