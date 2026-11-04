@@ -1336,6 +1336,44 @@
       "source": "Claude review 2026-11-04",
       "id": "2026-pepsi-knicks-sweepstakes",
       "rules_checked": "full"
+    },
+    {
+      "name": "Rangers Perks: Win 100,000 AAdvantage Miles (American Airlines)",
+      "prize": "100,000 American Airlines AAdvantage miles",
+      "category": "trip",
+      "entry_url": "https://www.rangersperks.com/",
+      "rules_url": null,
+      "ends": "2026-11-30T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "account": "Free American Airlines AAdvantage membership required to enter",
+        "age21": true
+      },
+      "notes": "Other sweepstakes on the same site are limited to people within 150 miles of Globe Life Field (Texas); this one says all fans 21+. Check the rules link on the page before entering.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.rangersperks.com/",
+        "checked_at": "2026-11-04T01:30-05:00",
+        "evidence": [
+          "https://www.rangersperks.com/"
+        ],
+        "reason": "Sponsor page (American Airlines) says the miles sweepstakes is open to fans 21+ through Nov 30, 2026, no purchase necessary, AAdvantage membership required; its separate official rules weren't read, so end time, state eligibility and entry limit aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "rangers-perks-win-100-000-aadvantage-miles-american-airlines",
+      "match": [
+        "rangersperks.com/"
+      ],
+      "rules_checked": "partial"
     }
   ]
 }

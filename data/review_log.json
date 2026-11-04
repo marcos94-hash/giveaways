@@ -228,12 +228,16 @@
     },
     "https://ebacamoe.com/official-rules": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "other",
+      "reason": "Sponsor rules (Wyndham d/b/a Eddie Bauer Adventure Club, a timeshare promotion) limit entry to people 28 or older; listings only support 18, 19 or 21 age gates, so it can't be age-filtered safely",
+      "last_attempt_at": "2026-11-04T01:30:06-05:00",
+      "evidence": [
+        "https://ebacamoe.com/official-rules"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:30:06-05:00",
+      "name": "The Eddie Bauer Red Rocks and Roam Giveaway! 65 Winners get Gift Cards!"
     },
     "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf": {
       "name": "Best Buy Store Speedrun (rules PDF)",
@@ -619,12 +623,16 @@
     },
     "https://rangersperks.com/": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor page (American Airlines) says the miles sweepstakes is open to fans 21+ through Nov 30, 2026, no purchase necessary, AAdvantage membership required; its separate official rules weren't read, so end time, state eligibility and entry limit aren't confirmed.",
+      "last_attempt_at": "2026-11-04T01:30:32-05:00",
+      "evidence": [
+        "https://www.rangersperks.com/"
+      ],
+      "listing_id": "rangers-perks-win-100-000-aadvantage-miles-american-airlines",
+      "decided_at": "2026-11-04T01:30:32-05:00",
+      "next_retry_at": "2026-11-07T01:30:32-05:00"
     },
     "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes": {
       "name": "Real Good Foods Meatball Sweepstakes",
@@ -712,12 +720,16 @@
     },
     "https://survey.walmart.com/": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "no_free_online_entry",
+      "reason": "Sponsor rules (2026 Q4 Walmart Nov-Jan Sweepstakes): online entry needs a survey code from a Walmart purchase receipt or emailed invitation; the free method is a mailed postcard",
+      "last_attempt_at": "2026-11-04T01:30:32-05:00",
+      "evidence": [
+        "https://corporate.walmart.com/walmart-customer-satisfaction-sweepstakes-rules"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:30:32-05:00",
+      "name": "755 Win Walmart Gift Cards in Their November"
     },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
       "attempts": 2,
