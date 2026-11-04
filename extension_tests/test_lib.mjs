@@ -81,7 +81,13 @@ t("weekdays only, 1 PM ET reset (IGN)", () => {
 });
 
 t("URL matching picks the most specific giveaway", () => {
-  const list = JSON.parse(fs.readFileSync(new URL("../extension/giveaways.json", import.meta.url))).giveaways;
+  // Fixed fixture: the bundled list changes daily and ended listings drop off.
+  const list = [
+    { id: "ign-bestbuy-7-dualsense", entry_url: "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller", match: ["ign.com/rewards/win-a-dualsense-ps5-wireless-controller"] },
+    { id: "ign-bestbuy-daily", entry_url: "https://www.ign.com/rewards", match: ["ign.com/rewards"] },
+    { id: "hgtv-home-for-holidays", entry_url: "https://www.hgtv.com/sweepstakes/home-for-the-holidays", match: ["hgtv.com/sweepstakes/home-for-the-holidays"] },
+    { id: "ramsey-cash", entry_url: "https://www.ramseysolutions.com/giveaway/ramsey-cash-giveaway", match: ["ramseysolutions.com/giveaway/ramsey-cash-giveaway", "daveramsey.com/giveaway"] },
+  ];
   assert.equal(matchGiveaway("https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller", list).id, "ign-bestbuy-7-dualsense");
   assert.equal(matchGiveaway("https://www.ign.com/rewards/win-something-else", list).id, "ign-bestbuy-daily");
   assert.equal(matchGiveaway("https://www.hgtv.com/sweepstakes/home-for-the-holidays?x=1", list).id, "hgtv-home-for-holidays");

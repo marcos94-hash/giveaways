@@ -4,45 +4,6 @@
   "source": "Found by the Mac mini finder and Perplexity/web search, checked against official rules by Claude.",
   "giveaways": [
     {
-      "id": "ign-bestbuy-7-dualsense",
-      "name": "IGN x Best Buy #7: DualSense controller",
-      "prize": "DualSense PS5 controller ($74.99) + entry into the week's grand prize bundle",
-      "category": "electronics",
-      "entry_url": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
-      "rules_url": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
-      "rules_note": "Terms & Conditions section of the page.",
-      "match": [
-        "ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
-      ],
-      "ends": "2026-11-04T12:00:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "flags": {
-        "account": "Free IGN account"
-      },
-      "notes": "Rules say it ends 10 AM PDT, but daylight time ended, so noon ET is the safe cutoff. One prize max across the whole promotion. AK, HI, NY, FL excluded; NJ is fine.",
-      "rules_checked": "full",
-      "min_age": 18,
-      "added": "2026-11-03",
-      "source": "Claude review 2026-11-03",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
-        "checked_at": "2026-11-03",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
-        ],
-        "note": "Rules give the end as 10:00 AM PDT; listed as noon ET to be safe."
-      }
-    },
-    {
       "name": "Perdue Holiday Drop Sweepstakes",
       "prize": "5 NYC trips for 2 to a Food Network Kitchen dinner + $2,750 in Visa prepaid cards each (ARV $6,850)",
       "category": "trip",
@@ -943,17 +904,17 @@
       "name": "Finish Grocery Gift Card Giveaway",
       "prize": "4 x $2,500 Visa gift cards",
       "category": "gift_card",
-      "entry_url": "https://www.finishdishwashing.com",
+      "entry_url": "https://www.finishdishwashing.com/sign-up/",
       "rules_url": "https://www.finishdishwashing.com/policies/cobranded-giveaway/",
       "match": [
-        "finishdishwashing.com/policies/cobranded-giveaway"
+        "finishdishwashing.com/sign-up"
       ],
       "ends": "2027-01-20T23:59:59-05:00",
       "limit": {
         "type": "once"
       },
       "flags": {},
-      "notes": "One entry total.",
+      "notes": "One entry per person for the whole sweepstakes. The rules name the Finish homepage as the entry site; the Sign Up page (finishdishwashing.com/sign-up/) carries the giveaway and its Enter Now button opens the form on an external Jebbit page, which isn't listed here, so details won't be filled there. 50 states and DC, 18+; void in Florida and New York (the short rules also list Hawaii, Alaska and Puerto Rico).",
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
@@ -961,7 +922,7 @@
       "verification": {
         "status": "verified",
         "rules_source": "https://www.finishdishwashing.com/policies/cobranded-giveaway/",
-        "checked_at": "2026-11-03",
+        "checked_at": "2026-11-04T12:15-05:00",
         "confirmed": {
           "eligibility": true,
           "free_entry": true,
@@ -969,7 +930,8 @@
           "entry_limit": true
         },
         "evidence": [
-          "https://www.finishdishwashing.com/policies/cobranded-giveaway/"
+          "https://www.finishdishwashing.com/policies/cobranded-giveaway/",
+          "https://www.finishdishwashing.com/sign-up/"
         ]
       }
     },
@@ -1007,6 +969,1538 @@
           "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules"
         ]
       }
+    },
+    {
+      "name": "Chipotle Bag Sweepstakes",
+      "prize": "8,000 oversized Chipotle bags (ARV $30 each), 2,000 per weekly drawing",
+      "category": "other",
+      "entry_url": "https://www.bigasschipotlebag.com/alternative-method-of-entry",
+      "rules_url": "https://www.chipotle.com/giveaway",
+      "match": [
+        "bigasschipotlebag.com/alternative-method-of-entry"
+      ],
+      "ends": "2026-11-11T02:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Chipotle Rewards membership (free); create it yourself"
+      },
+      "notes": "Free entry form requires a Chipotle Rewards membership (free; create it yourself). Form asks for name, email and month/year of birth. Open to the 50 states and DC. One entry per person per day by any method; the rules don't define the day (the sponsor's database clock is the timekeeper), so this waits 24 hours between entries. Four weekly drawings, so entering early gives more chances. The purchase route (Family Meal) isn't needed.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.chipotle.com/giveaway",
+        "checked_at": "2026-11-04T01:00:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.chipotle.com/giveaway"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "chipotle-bag-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Murf Ultimate Beach Haul Giveaway",
+      "prize": "1 winner: Murf Alpha ST e-bike, basket and surf rack, PARKIT chair, $1,000 Salty Crew gift card, Lost surfboard, Turtlebox speaker (total ARV $5,120)",
+      "category": "electronics",
+      "entry_url": "https://www.murfelectricbikes.com/pages/ultimate-beach-haul-giveaway",
+      "rules_url": "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules",
+      "match": [
+        "murfelectricbikes.com/pages/ultimate-beach-haul-giveaway"
+      ],
+      "ends": "2026-11-07T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Instagram account needed: the rules require following Murf and all four participating brands, still following when the winner is picked",
+        "follow": "Must follow Murf and all four participating brands on Instagram, still following when the winner is picked",
+        "marketing": "Entering signs you up for Murf's and the participating brands' marketing emails"
+      },
+      "notes": "IMPORTANT: the rules require following Murf and all four participating brands on Instagram (still following when the winner is picked), and entering signs you up for Murf's and the brands' marketing emails. Do the follows yourself if you want this one; nothing here follows accounts for you. Form asks for name and email. Open to the 48 contiguous states, DC and Hawaii (Alaska excluded), 18+. One entry per person and email.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules",
+        "checked_at": "2026-11-04T01:00:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "murf-ultimate-beach-haul-giveaway",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Organic Valley 2026 Thanksgiving Giveaway",
+      "prize": "1 winner: 24 Organic Valley free-product coupons ($312) + swag bundle ($100), total ARV $412",
+      "category": "other",
+      "entry_url": "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes",
+      "rules_url": "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes#rules",
+      "match": [
+        "woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes"
+      ],
+      "ends": "2026-11-08T22:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "The web form appears to ask for an Instagram follow; the rules call social actions optional bonus entries. The free email entry needs no social account.",
+        "account": "Instagram account may be needed for the web form; use the email entry if not"
+      },
+      "notes": "One entry per person for the whole promotion. Ends 9:00 PM CT Nov 8. Open to the 50 states and US territories, 18+. Free alternative: email OVgiveawayentries@organicvalley.com with subject 'ORGANIC VALLEY 2026 THANKSGIVING GIVEAWAY' and your name, home address (no PO box), phone, email, date of birth, city and state. Optional bonus entries for Instagram/TikTok follows and Facebook/Twitter shares are not tracked here.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes#rules",
+        "checked_at": "2026-11-04T01:11:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "organic-valley-2026-thanksgiving-giveaway",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Fall Into Cozy Sweepstakes (Penguin Random House)",
+      "prize": "1 winner: 7-item cozy prize pack with books and a pillow (ARV $356)",
+      "category": "other",
+      "entry_url": "https://sites.prh.com/fallintocozysweeps",
+      "rules_url": "https://sites.prh.com/fallintocozysweeps/rules",
+      "ends": "2026-11-06T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Open to the 50 states and DC, 18+. One entry per person. Online form only.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://sites.prh.com/fallintocozysweeps/rules",
+        "checked_at": "2026-11-04T01:25-05:00",
+        "evidence": [
+          "https://sites.prh.com/fallintocozysweeps/rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "fall-into-cozy-sweepstakes-penguin-random-house",
+      "match": [
+        "sites.prh.com/fallintocozysweeps"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Cold Stone Creamery The Cat in the Hat Sweepstakes",
+      "prize": "1 winner: private screening of The Cat in the Hat for up to 51 people + $100 Cold Stone gift card (ARV $1,600)",
+      "category": "other",
+      "entry_url": "https://www.coldstonecreamery.com/sweepstakes/",
+      "rules_url": "https://www.coldstonecreamery.com/sweepstakes/Sweepstakes-Rules.pdf",
+      "ends": "2026-11-08T01:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends 11:59 PM Arizona time Nov 7. Open to the 50 states and DC, 18+. The web form gives one entry; the free email entry (cscsweepstakes@kahalamgmt.com, subject 'Cold Stone Creamery The Cat in the Hat Sweepstakes Entry', with name, email, mailing address and day/evening phone) can be sent up to 4 times, max 4 entries total by any method. Web entry may involve the My Cold Stone Club rewards program; the email route avoids it.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.coldstonecreamery.com/sweepstakes/Sweepstakes-Rules.pdf",
+        "checked_at": "2026-11-04T01:26-05:00",
+        "evidence": [
+          "https://www.coldstonecreamery.com/sweepstakes/Sweepstakes-Rules.pdf"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "cold-stone-creamery-the-cat-in-the-hat-sweepstakes",
+      "match": [
+        "coldstonecreamery.com/sweepstakes"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Nokian Tyres Virtual Green Tire Giveaway",
+      "prize": "Weekly: set of Nokian tires (closest map guess) or 2 lift-ticket vouchers (second closest); grand prize 3-night mountain getaway (random drawing)",
+      "category": "trip",
+      "entry_url": "https://na.nokiantyres.com/gtg/",
+      "rules_url": null,
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Place a pin on the map once a day; a new resort location each week. Daily clues are posted on Nokian's and the resorts' social channels.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://na.nokiantyres.com/gtg/rules/",
+        "checked_at": "2026-11-04T01:27-05:00",
+        "evidence": [
+          "https://na.nokiantyres.com/gtg/"
+        ],
+        "reason": "Sponsor's giveaway page gives the dates (ends Nov 22 11:59 PM ET) and one entry per day, but the official rules page blocks the page reader (robots.txt), so eligibility, free entry and age weren't confirmed. Weekly prizes go to the closest guess, not a random draw.",
+        "missing": [
+          "eligibility",
+          "free_entry"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "nokian-tyres-virtual-green-tire-giveaway",
+      "match": [
+        "na.nokiantyres.com/gtg"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "INSP Grateful Gathering Sweepstakes",
+      "prize": "1 winner: prize pack with $250 Visa gift card, digital photo frame, board games set and John Wayne items (ARV $571)",
+      "category": "gift_card",
+      "entry_url": "https://www.insp.com/sweepstakes/grateful-gathering-sweepstakes/",
+      "rules_url": "https://www.insp.com/sweepstakes-rules/",
+      "ends": "2026-11-30T09:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Online form only (no mail entries). One entry per person per day; the rules don't define the day, so this waits 24 hours. Open to the 50 states and DC, 18+ on the start date. Ends 9:59 AM ET Nov 30.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.insp.com/sweepstakes-rules/",
+        "checked_at": "2026-11-04T01:28-05:00",
+        "evidence": [
+          "https://www.insp.com/sweepstakes-rules/",
+          "https://www.insp.com/sweepstakes/"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "insp.com/sweepstakes"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "insp-grateful-gathering-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Continental Tire 2026 CRM Sweepstakes",
+      "prize": "1 winner: set of 4 Continental tires (ARV $1,200)",
+      "category": "other",
+      "entry_url": "https://continentaltire.com/newsletter-signup",
+      "rules_url": "https://continentaltire.com/monthly-sweepstakes-rules",
+      "ends": "2026-12-31T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering is a newsletter signup: you agree to Continental marketing emails"
+      },
+      "notes": "Newsletter signup doubles as the entry. One entry per email address for the whole year; drawing Jan 10, 2027. Open to US and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://continentaltire.com/monthly-sweepstakes-rules",
+        "checked_at": "2026-11-04T01:28-05:00",
+        "evidence": [
+          "https://continentaltire.com/monthly-sweepstakes-rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "continental-tire-2026-crm-sweepstakes",
+      "match": [
+        "continentaltire.com/newsletter-signup"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "2026 Pepsi Knicks Sweepstakes",
+      "prize": "47 winners: 2 tickets to a 2026-27 Knicks game at Madison Square Garden (ARV up to $550 each)",
+      "category": "other",
+      "entry_url": "https://pepsipromos.com/knicks/",
+      "rules_url": "https://pepsipromos.com/knicks/knicks_rules/",
+      "ends": "2026-12-31T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Local: open only to NY, CT and NJ residents within 150 miles of Madison Square Garden (Newark qualifies), 18+. One entry per person/email per day, day runs midnight to 11:59:59 PM ET. Single drawing about Jan 4, 2027.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://pepsipromos.com/knicks/knicks_rules/",
+        "checked_at": "2026-11-04T01:29-05:00",
+        "evidence": [
+          "https://pepsipromos.com/knicks/knicks_rules/"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "pepsipromos.com/knicks"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "2026-pepsi-knicks-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Rangers Perks: Win 100,000 AAdvantage Miles (American Airlines)",
+      "prize": "100,000 American Airlines AAdvantage miles",
+      "category": "trip",
+      "entry_url": "https://www.rangersperks.com/",
+      "rules_url": null,
+      "ends": "2026-11-30T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "account": "Free American Airlines AAdvantage membership required to enter",
+        "age21": true
+      },
+      "notes": "Other sweepstakes on the same site are limited to people within 150 miles of Globe Life Field (Texas); this one says all fans 21+. Check the rules link on the page before entering.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.rangersperks.com/",
+        "checked_at": "2026-11-04T01:30-05:00",
+        "evidence": [
+          "https://www.rangersperks.com/"
+        ],
+        "reason": "Sponsor page (American Airlines) says the miles sweepstakes is open to fans 21+ through Nov 30, 2026, no purchase necessary, AAdvantage membership required; its separate official rules weren't read, so end time, state eligibility and entry limit aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "rangers-perks-win-100-000-aadvantage-miles-american-airlines",
+      "match": [
+        "rangersperks.com/"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Hallmark Christmas Countdown Adventure Game (Michaels)",
+      "prize": "Grand prize $1,500 Michaels gift card; 200 Michaels digital gift cards ($25/$10) plus movie and cocoa prizes (total ARV $5,560)",
+      "category": "gift_card",
+      "entry_url": "https://countdownadventure.hallmarkchannel.com/",
+      "rules_url": "https://countdownadventure.hallmarkchannel.com/rules",
+      "ends": "2026-11-23T23:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Free HallmarkChannel.com account; log in yourself"
+      },
+      "notes": "Open a door each day (32 daily entry periods, midnight to 11:59 PM ET); one door entry plus one jigsaw or spin-the-wheel play per day. Open to the 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://countdownadventure.hallmarkchannel.com/rules",
+        "checked_at": "2026-11-04T11:37-05:00",
+        "evidence": [
+          "https://countdownadventure.hallmarkchannel.com/rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "hallmark-christmas-countdown-adventure-game-michaels",
+      "match": [
+        "countdownadventure.hallmarkchannel.com/"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Kensington Holiday Luxe Bundle Giveaway",
+      "prize": "Deluxe limited editions of Kate Stewart's holiday books, A Season of Secrets by Fern Michaels, and a Comfrt Dreamer blanket",
+      "category": "other",
+      "entry_url": "https://www.kensingtonbooks.com/HolidayLuxeBundle/",
+      "rules_url": null,
+      "ends": "2026-11-30T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Likely a newsletter signup. Check the entry page's rules before entering.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.kensingtonbooks.com/pages/termsconditions/",
+        "checked_at": "2026-11-04T11:37-05:00",
+        "evidence": [
+          "https://www.kensingtonbooks.com/between-the-chapters/giveaways/",
+          "https://www.kensingtonbooks.com/pages/termsconditions/"
+        ],
+        "reason": "Kensington's giveaways page lists it as running Oct 30 to Nov 30, and its general sweepstakes terms use Eastern time, but the entry page returns an error to the page reader, so eligibility, entry method and limit weren't confirmed. Other Kensington giveaways are US-only (not Rhode Island), 18+, via newsletter signup.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "kensington-holiday-luxe-bundle-giveaway",
+      "match": [
+        "kensingtonbooks.com/HolidayLuxeBundle"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Vato Tuned Honda OBD1 PnP Standalone ECU Giveaway",
+      "prize": "1 winner: Vato Tuned Honda OBD1 plug-and-play standalone ECU (ARV $599)",
+      "category": "electronics",
+      "entry_url": "https://kingsumo.com/g/107jyv3/win-a-vato-tuned-honda-obd1-pnp-standalone-ecu",
+      "rules_url": "https://kingsumo.com/giveaways/107jyv3/rules",
+      "ends": "2026-11-30T00:45:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Car part (fits OBD1 Hondas). Ends 11:45 PM CT Nov 29. 18+. One entry per person by email; optional bonus entries for Instagram/Facebook/YouTube follows and referrals aren't needed.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://kingsumo.com/giveaways/107jyv3/rules",
+        "checked_at": "2026-11-04T11:38-05:00",
+        "evidence": [
+          "https://kingsumo.com/giveaways/107jyv3/rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "kingsumo.com/g/107jyv3"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "vato-tuned-honda-obd1-pnp-standalone-ecu-giveaway",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Epsom Salt Council Stress Less Express Giveaway",
+      "prize": "1 winner: $250 Hooga Health, $100 Primally Pure and $100 Cozy Earth gift cards, $50 Target gift card, 4 lbs Epsom salt (ARV up to $500)",
+      "category": "gift_card",
+      "entry_url": "https://kingsumo.com/g/19w8xpm/epsom-salt-council-stress-less-express-giveaway/xw28qzn",
+      "rules_url": null,
+      "ends": "2026-12-16T00:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "21+. The entry page asks you to like the Epsom Salt Council Facebook page after the form; the rules don't require it. Other actions are optional bonus entries.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://kingsumo.com/giveaways/19w8xpm/rules",
+        "checked_at": "2026-11-04T11:39-05:00",
+        "evidence": [
+          "https://kingsumo.com/giveaways/19w8xpm/rules"
+        ],
+        "reason": "Sponsor's rules confirm free entry, 21+ and no US state exclusions, but give only a date (entries by Dec 15, 2026) with no time, and state no per-person entry limit. The page says the deadline is Central time.",
+        "missing": [
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "match": [
+        "kingsumo.com/g/19w8xpm"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "epsom-salt-council-stress-less-express-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Universal Forgotten Island Sweepstakes",
+      "prize": "Signed Forgotten Island concept art (ERV $100 each)",
+      "category": "other",
+      "entry_url": "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form",
+      "rules_url": "https://www.universalpicturesathome.com/forgotten-island-sweepstakes",
+      "ends": "2026-11-20T21:00:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Entries must be received by 6:00 PM PT Nov 20 (the period runs to Nov 27 but later entries don't count). One entry per person per day, up to 31; the rules don't define the day, so this waits 24 hours. Form asks for email, name and birth date. 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.universalpicturesathome.com/forgotten-island-sweepstakes",
+        "checked_at": "2026-11-04T11:43-05:00",
+        "evidence": [
+          "https://www.universalpicturesathome.com/forgotten-island-sweepstakes",
+          "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "universal-forgotten-island-sweepstakes",
+      "match": [
+        "cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Ferrero Rocher Raise A Rocher Sweepstakes (free entry)",
+      "prize": "3 grand prizes: 4-day/3-night NYC New Year's Eve trip for 2 (ARV $25,000); 55 secondary prizes per phase ($6-$72)",
+      "category": "trip",
+      "entry_url": "https://www.ferrerorocher.com/us/en/xp/raise-a-rocher/lead/register/amoe",
+      "rules_url": "https://www.ferrerorocher.com/us/en/xp/raise-a-rocher/terms-and-conditions",
+      "ends": "2026-12-31T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Grand prize (NYC trip) entries close 11:59:59 PM ET Dec 6; secondary prizes run to Dec 31. Free form asks for birth month/year, name, email, phone and ZIP. One entry per person per day by any method (ET day). 50 states and DC, 21+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.ferrerorocher.com/us/en/xp/raise-a-rocher/terms-and-conditions",
+        "checked_at": "2026-11-04T11:46-05:00",
+        "evidence": [
+          "https://www.ferrerorocher.com/us/en/xp/raise-a-rocher/terms-and-conditions"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "ferrerorocher.com/us/en/xp/raise-a-rocher/lead/register/amoe"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "ferrero-rocher-raise-a-rocher-sweepstakes-free-entry",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Wonka Golden Ticket Sweepstakes & Instant Win",
+      "prize": "5 Golden Ticket Las Vegas trips for 4 with Netflix House VIP admission (ARV $9,000); 1,440 Wonka Factory Bundles (ARV $55)",
+      "category": "trip",
+      "entry_url": "https://www.wonka.com/us/en/xp/golden-ticket/lead/register",
+      "rules_url": "https://www.wonka.com/us/en/xp/golden-ticket/terms-and-conditions",
+      "ends": "2027-07-31T23:59:59-04:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Instant win: each daily entry reveals right away whether you won, and you must claim in the same session. One entry per person per day (ET). Name and email only. 50 states and DC, 21+. Runs until July 31, 2027.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.wonka.com/us/en/xp/golden-ticket/terms-and-conditions",
+        "checked_at": "2026-11-04T11:47-05:00",
+        "evidence": [
+          "https://www.wonka.com/us/en/xp/golden-ticket/terms-and-conditions"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "wonka.com/us/en/xp/golden-ticket"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "wonka-golden-ticket-sweepstakes-instant-win",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Chewy Claus 2026 (pet holiday letter sweepstakes)",
+      "prize": "About 14,000 winners get a Chewy goody box surprise for their pet (per listing site)",
+      "category": "other",
+      "entry_url": "https://www.chewy.com/education/chewy-claus",
+      "rules_url": null,
+      "ends": "2026-12-24T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Write a holiday letter for your pet on Chewy's page. Free, no account needed per Chewy's FAQ.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.chewy.com/education/chewy-claus",
+        "checked_at": "2026-11-04T11:49-05:00",
+        "evidence": [
+          "https://be.chewy.com/chewy-claus-terms-conditions",
+          "https://www.chewy.com/education/chewy-claus"
+        ],
+        "reason": "The listing's short link blocks automated readers; it matches Chewy Claus (ends Dec 24). Chewy's FAQ says Nov 2 to Dec 24 11:59 PM, free with no Chewy account, 18+ in the 48 contiguous states and DC, but the official rules (entry limit, prize count) weren't readable.",
+        "missing": [
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "chewy-claus-2026-pet-holiday-letter-sweepstakes",
+      "match": [
+        "chewy.com/education/chewy-claus"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Exmark Built to Be an American Legend Giveaway",
+      "prize": "1 winner: 60-inch USA 250 Lazer Z X-Series mower (retail value $30,000)",
+      "category": "other",
+      "entry_url": "https://www.exmark.com/America250",
+      "rules_url": null,
+      "ends": "2026-12-12T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One entry per person. Registration form on Exmark's site; check which of the two URLs hosts the form.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.exmark.com/America250/official-rules",
+        "checked_at": "2026-11-04T11:50-05:00",
+        "evidence": [
+          "https://www.exmark.com/America250/official-rules"
+        ],
+        "reason": "Sponsor's rules confirm free registration, US residents 18+ and one entry per person, but give the end date (Dec 12, 2026) with no time or time zone; the rules also give two different entry URLs (exmark.com/America250 and exmark.com/usa250).",
+        "missing": [
+          "deadline"
+        ]
+      },
+      "match": [
+        "exmark.com/America250",
+        "exmark.com/usa250"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "exmark-built-to-be-an-american-legend-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Electrolit Holiday Hydration Sweepstakes",
+      "prize": "10 winners: two $500 The North Face gift cards ($1,000); 200 Electrolit beanies",
+      "category": "gift_card",
+      "entry_url": "https://hydrateandwin2026.com/",
+      "rules_url": "https://hydrateandwin2026.com/sections/showsweeprules/ElectrolitHolidayHydrationSweepstakes/eng",
+      "ends": "2027-01-03T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One entry per person for the whole promotion. 50 states and DC, 18+. No purchase needed.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://hydrateandwin2026.com/sections/showsweeprules/ElectrolitHolidayHydrationSweepstakes/eng",
+        "checked_at": "2026-11-04T11:51-05:00",
+        "evidence": [
+          "https://hydrateandwin2026.com/sections/showsweeprules/ElectrolitHolidayHydrationSweepstakes/eng"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "hydrateandwin2026.com"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "electrolit-holiday-hydration-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "The Ultimate KC Holiday Sweepstakes (Chiefs x Hallmark)",
+      "prize": "1 winner: 4 tickets to the Hallmark Christmas Experience + 4 club-level tickets, field passes and post-game field photo at Chiefs vs Patriots on 12/21 (ARV $5,000)",
+      "category": "trip",
+      "entry_url": "https://web.witcontests.com/chiefs/sweepstakes/win/the-ultimate-kc-holiday-261001",
+      "rules_url": "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf",
+      "ends": "2026-11-16T00:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends 11:59 PM CT Nov 15. One entry per person/phone number. US residents 18+ (void in Florida and New York). Prize is in Kansas City; travel isn't included per the prize description.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf",
+        "checked_at": "2026-11-04T11:52-05:00",
+        "evidence": [
+          "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "web.witcontests.com/chiefs/sweepstakes/win/the-ultimate-kc-holiday-261001"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "the-ultimate-kc-holiday-sweepstakes-chiefs-x-hallmark",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Fandango Destined for Adventure Sweepstakes",
+      "prize": "1 winner: trip for up to 4 to Los Angeles (ARV $4,995)",
+      "category": "trip",
+      "entry_url": "https://destinedforadventuresweepstakes.entertowinprizes.com/",
+      "rules_url": "https://destinedforadventuresweepstakes.entertowinprizes.com/wp-content/uploads/2026/10/Fandango-Destined-For-Adventure-Sweepstakes-Official-Rules.pdf",
+      "ends": "2026-11-30T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends 11:59 PM PT Nov 29. One entry per person/email. Form asks for name, street address (no PO box), phone and email. 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://destinedforadventuresweepstakes.entertowinprizes.com/wp-content/uploads/2026/10/Fandango-Destined-For-Adventure-Sweepstakes-Official-Rules.pdf",
+        "checked_at": "2026-11-04T11:52-05:00",
+        "evidence": [
+          "https://destinedforadventuresweepstakes.entertowinprizes.com/wp-content/uploads/2026/10/Fandango-Destined-For-Adventure-Sweepstakes-Official-Rules.pdf"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "destinedforadventuresweepstakes.entertowinprizes.com"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "fandango-destined-for-adventure-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Kraft Parmesan Parmsgiving Sweepstakes",
+      "prize": "1 winner: $4,900 Visa gift card + year's supply of Kraft Parmesan (ARV $4,959)",
+      "category": "gift_card",
+      "entry_url": "https://kraftnaturalcheese.com/parmsgiving/",
+      "rules_url": "https://kraftnaturalcheese.com/parmsgiving/",
+      "ends": "2026-12-02T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Form includes a short answer about bringing Kraft Parmesan to your Thanksgiving table; any answer counts (random drawing). Use your legal name as on your ID. One entry per person. 50 states, territories and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://kraftnaturalcheese.com/parmsgiving/",
+        "checked_at": "2026-11-04T11:53-05:00",
+        "evidence": [
+          "https://kraftnaturalcheese.com/parmsgiving/"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "kraft-parmesan-parmsgiving-sweepstakes",
+      "match": [
+        "kraftnaturalcheese.com/parmsgiving"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Madison Creek Outfitters + Greeley Hat Works $4,000 Giveaway",
+      "prize": "1 winner: $2,000 Madison Creek + $2,000 Greeley Hat Works gift certificates ($4,000)",
+      "category": "gift_card",
+      "entry_url": "https://madisoncreekoutfitters.com/pages/giveaway",
+      "rules_url": "https://madisoncreekoutfitters.com/pages/giveaway",
+      "ends": "2026-11-30T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "The FAQ says entering means agreeing to marketing email (the rules call opt-in optional)"
+      },
+      "notes": "One entry per person/email. US residents 18+. No purchase or social action required.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://madisoncreekoutfitters.com/pages/giveaway",
+        "checked_at": "2026-11-04T11:54-05:00",
+        "evidence": [
+          "https://madisoncreekoutfitters.com/pages/giveaway"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "madison-creek-outfitters-greeley-hat-works-4-000-giveaway",
+      "match": [
+        "madisoncreekoutfitters.com/pages/giveaway"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Lucky Golf Four Sets of Golf Clubs Giveaway",
+      "prize": "4 full sets of Lucky Golf clubs: one for the winner and three for guests the winner picks (ARV $927 each, $3,708 total)",
+      "category": "other",
+      "entry_url": "https://luckygolf.com/pages/giveaway",
+      "rules_url": "https://www.luckygolf.com/pages/giveaway",
+      "ends": "2026-11-17T01:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends 11:59 PM Mountain Nov 16. One email entry per person; an optional public Instagram/TikTok video of your clubs adds 10 bonus entries. 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.luckygolf.com/pages/giveaway",
+        "checked_at": "2026-11-04T11:55-05:00",
+        "evidence": [
+          "https://www.luckygolf.com/pages/giveaway"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "luckygolf.com/pages/giveaway"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "lucky-golf-four-sets-of-golf-clubs-giveaway",
+      "rules_checked": "full"
+    },
+    {
+      "name": "David's Bridal NBC Newlyweds Taping Trip Sweepstakes",
+      "prize": "1 winner: trip for 2 to Los Angeles (airfare, 2 hotel nights, transfers) + 2 tickets to a Dec 11 taping of NBC's Newlyweds (ARV $3,500)",
+      "category": "trip",
+      "entry_url": "https://davidsbridal.attn.tv/p/Vyh/",
+      "rules_url": "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules",
+      "ends": "2026-11-13T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entry form is a David's Bridal text-message signup page (asks for mobile number); expect marketing texts"
+      },
+      "notes": "One entry per person. Form asks for name, email, mobile number and ZIP. 48 contiguous states and DC, 18+. You don't need to be engaged or married.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules",
+        "checked_at": "2026-11-04T11:56-05:00",
+        "evidence": [
+          "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "davidsbridal.attn.tv/p/Vyh"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "david-s-bridal-nbc-newlyweds-taping-trip-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Allegiant Double Down Flyaway Sweepstakes (Luke Bryan & Jason Aldean)",
+      "prize": "1 winner: 2 tickets to the Double Down Tour (Dec 11, Allegiant Stadium, Las Vegas) + round-trip flights and hotel (ARV $2,258)",
+      "category": "trip",
+      "entry_url": "https://www.allegiantair.com/DoubleDownFlyawaySweepstakes",
+      "rules_url": "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules",
+      "ends": "2026-11-21T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Ends 11:59 PM PT Nov 20. One entry per email address. 50 states and DC, 21+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules",
+        "checked_at": "2026-11-04T11:58-05:00",
+        "evidence": [
+          "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "allegiantair.com/DoubleDownFlyawaySweepstakes"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "allegiant-double-down-flyaway-sweepstakes-luke-bryan-jason-a",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Delta Faucet $2,100 Hair Care Giveaway",
+      "prize": "1 winner: hair care package (ARV $2,100)",
+      "category": "other",
+      "entry_url": "https://www.deltafaucet.com/giveaways",
+      "rules_url": "https://www.deltafaucet.com/giveaways",
+      "ends": "2026-11-16T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "The rules say a social media account is required to enter (Gleam form)"
+      },
+      "notes": "Ends 11:59 PM PT Nov 15. Embedded Gleam form asks for name and email. One entry per person. 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.deltafaucet.com/giveaways",
+        "checked_at": "2026-11-04T11:59-05:00",
+        "evidence": [
+          "https://www.deltafaucet.com/giveaways"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "deltafaucet.com/giveaways"
+      ],
+      "frames": [
+        "gleam.io/*"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "delta-faucet-2-100-hair-care-giveaway",
+      "rules_checked": "full"
+    },
+    {
+      "name": "LEGO Win Your Wish List Sweepstakes",
+      "prize": "2 US winners: their LEGO.com wish list, up to $1,000 each",
+      "category": "other",
+      "entry_url": "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist",
+      "rules_url": "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist",
+      "ends": "2026-11-22T10:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Free LEGO Insiders membership; you enter from your own wish list while logged in"
+      },
+      "notes": "Make a wish list on LEGO.com, then click Enter Sweepstake on your wish list page (you accept the terms there yourself). Ends 15:59 UTC Nov 22 (10:59 AM ET). One entry per person, 18+. You can edit the list until the end.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist",
+        "checked_at": "2026-11-04T11:59-05:00",
+        "evidence": [
+          "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "lego.com/en-us/holiday-gifts/win-your-wishlist",
+        "lego.com/en-us/member/wishlist"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "lego-win-your-wish-list-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Outback Best Steaks Ever Sweepstakes",
+      "prize": "Grand $1,000 in Outback gift cards; first $500; second $250",
+      "category": "gift_card",
+      "entry_url": "https://www.outback.com/best-steaks-ever",
+      "rules_url": "https://www.outback.com/best-steaks-ever/official-rules",
+      "ends": "2026-12-28T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One entry per person/email for the whole period. Form asks for name, email and date of birth; the video is optional. US residents 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.outback.com/best-steaks-ever/official-rules",
+        "checked_at": "2026-11-04T12:00-05:00",
+        "evidence": [
+          "https://www.outback.com/best-steaks-ever/official-rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "outback.com/best-steaks-ever"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "outback-best-steaks-ever-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Jackson & Perkins Weekly Holiday Giveaway 2026",
+      "prize": "9 weekly winners: a Jackson & Perkins holiday gift (ARV $39.95-$119.95)",
+      "category": "other",
+      "entry_url": "https://www.jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026",
+      "rules_url": "https://www.jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026",
+      "ends": "2026-12-01T23:45:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One email entry per person for the whole promotion; it carries forward into every remaining Friday drawing, so enter early. US residents 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026",
+        "checked_at": "2026-11-04T12:01-05:00",
+        "evidence": [
+          "https://www.jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "jackson-perkins-weekly-holiday-giveaway-2026",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Peppermayo PM Insider Giveaway (Van Cleef & Arpels necklace)",
+      "prize": "Van Cleef & Arpels Vintage Alhambra pendant necklace (ARV AUD 5,050); weekly AUD 1,000 Peppermayo vouchers",
+      "category": "other",
+      "entry_url": "https://us.peppermayo.com/pages/pm-insider-2026",
+      "rules_url": "https://us.peppermayo.com/pages/pm-insider-2026",
+      "ends": "2026-12-02T07:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Instagram and TikTok accounts required",
+        "follow": "Must follow Peppermayo on Instagram and TikTok before submitting the form"
+      },
+      "notes": "IMPORTANT: the terms require following Peppermayo on Instagram and TikTok, then submitting the form; do the follows yourself if you want this one. Australian sponsor, open internationally, 18+. Closes 11:59 PM AEDT Dec 2 (7:59 AM ET). One form entry; liking/tagging posts adds optional bonus entries.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://us.peppermayo.com/pages/pm-insider-2026",
+        "checked_at": "2026-11-04T12:04-05:00",
+        "evidence": [
+          "https://us.peppermayo.com/pages/pm-insider-2026"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "peppermayo-pm-insider-giveaway-van-cleef-arpels-necklace",
+      "match": [
+        "us.peppermayo.com/pages/pm-insider-2026"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "BuzzBallz Sip & Send Holiday Sweepstakes",
+      "prize": "BuzzBallz-branded merch: tent (ARV $999.99), ornaments and earmuffs; about 600 prizes, no alcohol",
+      "category": "other",
+      "entry_url": "https://buzzballzholiday.com/",
+      "rules_url": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/buzzballzholiday_OfficialRules.html",
+      "ends": "2027-01-01T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Alcohol-brand sponsor (Sazerac), but the prizes are branded merchandise, no alcohol. 21+ with a valid ID; the site has an age gate. One entry per person. 50 states and DC.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/buzzballzholiday_OfficialRules.html",
+        "checked_at": "2026-11-04T12:06-05:00",
+        "evidence": [
+          "https://www.mdmgames.com/MDMAdmin/RulesPolicies/buzzballzholiday_OfficialRules.html"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "buzzballzholiday.com"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "buzzballz-sip-send-holiday-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "ENGL Ravager IR Amplifier Sweepstakes",
+      "prize": "1 winner: ENGL Ravager IR tube amplifier head ($699)",
+      "category": "electronics",
+      "entry_url": "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes",
+      "rules_url": "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes",
+      "ends": "2026-12-01T01:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Free ESP All Access account required for non-members"
+      },
+      "notes": "Closes 11:59 PM Pacific Nov 30. One entry per person. US, Canada and Mexico, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes",
+        "checked_at": "2026-11-04T12:07-05:00",
+        "evidence": [
+          "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "engl-ravager-ir-amplifier-sweepstakes",
+      "match": [
+        "engl-usa.com/pages/engl-ravager-ir-sweepstakes"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "AVON Beauty & Cheer Sweepstakes",
+      "prize": "Avon beauty prize pack (listing sites say $500+)",
+      "category": "other",
+      "entry_url": "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes",
+      "rules_url": null,
+      "ends": "2026-11-17T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Form asks for name, email and address.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes",
+        "checked_at": "2026-11-04T12:08-05:00",
+        "evidence": [
+          "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes"
+        ],
+        "reason": "Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the linked official rules weren't readable, so the entry limit and prize value aren't confirmed.",
+        "missing": [
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "avon-beauty-cheer-sweepstakes",
+      "match": [
+        "avon.com/sweepstakes/beauty--cheer-sweepstakes"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Big Sky Brands Far Out Flavors Contest",
+      "prize": "23 prizes: grand (CAD $682), second (CAD $354), third (CAD $118) and 20 swag boxes (about CAD $68)",
+      "category": "other",
+      "entry_url": "https://bigskybrands.com/pages/far-out-flavors",
+      "rules_url": "https://bigskybrands.com/pages/contest-rules",
+      "ends": "2026-11-16T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Random draw; winners must answer a math skill-testing question. Submit your email on the contest page; Instagram comments on the pinned post also count, up to 10 unique entries per person for the contest period. US and Canada, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://bigskybrands.com/pages/contest-rules",
+        "checked_at": "2026-11-04T12:09-05:00",
+        "evidence": [
+          "https://bigskybrands.com/pages/contest-rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "bigskybrands.com/pages/far-out-flavors"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "big-sky-brands-far-out-flavors-contest",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Fancy Feast Little Gem Micro Bag Sweepstakes",
+      "prize": "25 winners: Little Gem micro bag (ARV $500 each)",
+      "category": "other",
+      "entry_url": "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes",
+      "rules_url": "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules",
+      "ends": "2026-11-19T00:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends 11:59:59 PM CT Nov 18. One entry per method per person (web form or myPurina app). 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules",
+        "checked_at": "2026-11-04T12:09-05:00",
+        "evidence": [
+          "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "purina.com/s/fancy-feast-little-gem-microbag-sweepstakes"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "fancy-feast-little-gem-micro-bag-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Dixxon Free Flannels for a Year Giveaway",
+      "prize": "1 winner: 52 Dixxon flannels (one a week for a year)",
+      "category": "other",
+      "entry_url": "https://www.dixxon.com/pages/free-flannels-for-year-giveaway",
+      "rules_url": "https://www.dixxon.com/pages/free-flannels-for-year-giveaway",
+      "ends": "2026-12-31T12:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Closes 9:00 AM PST Dec 31. One entry per household (email). US residents 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.dixxon.com/pages/free-flannels-for-year-giveaway",
+        "checked_at": "2026-11-04T12:11-05:00",
+        "evidence": [
+          "https://www.dixxon.com/pages/free-flannels-for-year-giveaway"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "dixxon-free-flannels-for-a-year-giveaway",
+      "match": [
+        "dixxon.com/pages/free-flannels-for-year-giveaway"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Mighty Swell Solo Stove Sweepstakes",
+      "prize": "Custom Solo Stove (per listing site)",
+      "category": "other",
+      "entry_url": "https://sweepstakes.roundisnow.com/mightyswellsolostove2026",
+      "rules_url": null,
+      "ends": "2026-12-31T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Spiked-seltzer brand; 21+. Prize per listing: a custom Solo Stove.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://sweepstakes.roundisnow.com/mightyswellsolostove2026",
+        "checked_at": "2026-11-04T12:11-05:00",
+        "evidence": [
+          "https://sweepstakes.roundisnow.com/mightyswellsolostove2026"
+        ],
+        "reason": "Entry page (read Nov 4 12:12 ET) says no purchase necessary, US and DC residents 21+, but its Official Rules link is empty, so dates, entry limit and prize details aren't confirmed. End date is the listing site's guess.",
+        "missing": [
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "mighty-swell-solo-stove-sweepstakes",
+      "match": [
+        "sweepstakes.roundisnow.com/mightyswellsolostove2026"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Tatcha Advent Calendar Giveaway",
+      "prize": "Tatcha 12 Ways to Love Your Skin advent calendar for you and a friend (5 winners per listing site)",
+      "category": "other",
+      "entry_url": "https://refer.tatcha.com/october2026sweepstakes",
+      "rules_url": null,
+      "ends": "2026-11-19T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Email entry; referring friends adds entries.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640",
+        "checked_at": "2026-11-04T12:12-05:00",
+        "evidence": [
+          "https://refer.tatcha.com/october2026sweepstakes",
+          "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
+        ],
+        "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "match": [
+        "refer.tatcha.com/october2026sweepstakes"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "tatcha-advent-calendar-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Santa Margherita Uncork Extraordinary Moments Holiday Sweepstakes",
+      "prize": "725 winners: set of 5 Santa Margherita scented candles ($77 each), no alcohol",
+      "category": "other",
+      "entry_url": "https://www.santamargheritawines.com/holidaygiveaway",
+      "rules_url": "https://www.santamargheritawines.com/holidaygiveawayrules",
+      "ends": "2026-12-31T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Winery sponsor, but the prize is candles. 21+; only listed states are eligible and New Jersey is one of them. Enter your birth date at the age gate, then fill in the entry form. One entry per person.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.santamargheritawines.com/holidaygiveawayrules",
+        "checked_at": "2026-11-04T12:12-05:00",
+        "evidence": [
+          "https://www.santamargheritawines.com/holidaygiveawayrules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "santamargheritawines.com/holidaygiveaway"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "santa-margherita-uncork-extraordinary-moments-holiday-sweeps",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Sony x Seattle Seahawks WH-1000XM6 Headphones Sweepstakes",
+      "prize": "Sony WH-1000XM6 noise-cancelling headphones in a Seattle Seahawks design",
+      "category": "electronics",
+      "entry_url": "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones",
+      "rules_url": null,
+      "ends": "2026-11-30T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One entry per person/email. 50 states and DC, 18+. Needs a rules check, so the extension won't fill it unless you choose Fill anyway.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
+        "checked_at": "2026-11-04T12:15-05:00",
+        "evidence": [
+          "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
+          "https://www.androidauthority.com/sony-nfl-xm6-headphone-sweepstakes-3725213/"
+        ],
+        "reason": "Researcher-provided primary-source evidence (Sony's official rules via web search, Nov 4 12:15 ET): 50 states and DC, 18+, free online form, one entry per person/email, ends 11:59:59 PM ET Nov 30, 2026. Kept as needs rules check because the rules have a broad clause against automated entry generation, and the rules page is blocked for this reviewer's page reader.",
+        "missing": [],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence_note": "Facts provided by the researcher from Sony's official rules found via web search; not read directly by this reviewer."
+      },
+      "match": [
+        "cloud.email.sel.sony.com/SonyxSeahawksHeadphones"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "sony-x-seattle-seahawks-wh-1000xm6-headphones-sweepstakes",
+      "rules_checked": "partial"
     }
   ]
 }

@@ -4,45 +4,6 @@
   "source": "Found by the Mac mini finder and Perplexity/web search, checked against official rules by Claude.",
   "giveaways": [
     {
-      "id": "ign-bestbuy-7-dualsense",
-      "name": "IGN x Best Buy #7: DualSense controller",
-      "prize": "DualSense PS5 controller ($74.99) + entry into the week's grand prize bundle",
-      "category": "electronics",
-      "entry_url": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
-      "rules_url": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
-      "rules_note": "Terms & Conditions section of the page.",
-      "match": [
-        "ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
-      ],
-      "ends": "2026-11-04T12:00:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "flags": {
-        "account": "Free IGN account"
-      },
-      "notes": "Rules say it ends 10 AM PDT, but daylight time ended, so noon ET is the safe cutoff. One prize max across the whole promotion. AK, HI, NY, FL excluded; NJ is fine.",
-      "rules_checked": "full",
-      "min_age": 18,
-      "added": "2026-11-03",
-      "source": "Claude review 2026-11-03",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
-        "checked_at": "2026-11-03",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
-        ],
-        "note": "Rules give the end as 10:00 AM PDT; listed as noon ET to be safe."
-      }
-    },
-    {
       "name": "Perdue Holiday Drop Sweepstakes",
       "prize": "5 NYC trips for 2 to a Food Network Kitchen dinner + $2,750 in Visa prepaid cards each (ARV $6,850)",
       "category": "trip",
@@ -943,17 +904,17 @@
       "name": "Finish Grocery Gift Card Giveaway",
       "prize": "4 x $2,500 Visa gift cards",
       "category": "gift_card",
-      "entry_url": "https://www.finishdishwashing.com",
+      "entry_url": "https://www.finishdishwashing.com/sign-up/",
       "rules_url": "https://www.finishdishwashing.com/policies/cobranded-giveaway/",
       "match": [
-        "finishdishwashing.com/policies/cobranded-giveaway"
+        "finishdishwashing.com/sign-up"
       ],
       "ends": "2027-01-20T23:59:59-05:00",
       "limit": {
         "type": "once"
       },
       "flags": {},
-      "notes": "One entry total.",
+      "notes": "One entry per person for the whole sweepstakes. The rules name the Finish homepage as the entry site; the Sign Up page (finishdishwashing.com/sign-up/) carries the giveaway and its Enter Now button opens the form on an external Jebbit page, which isn't listed here, so details won't be filled there. 50 states and DC, 18+; void in Florida and New York (the short rules also list Hawaii, Alaska and Puerto Rico).",
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
@@ -961,7 +922,7 @@
       "verification": {
         "status": "verified",
         "rules_source": "https://www.finishdishwashing.com/policies/cobranded-giveaway/",
-        "checked_at": "2026-11-03",
+        "checked_at": "2026-11-04T12:15-05:00",
         "confirmed": {
           "eligibility": true,
           "free_entry": true,
@@ -969,7 +930,8 @@
           "entry_limit": true
         },
         "evidence": [
-          "https://www.finishdishwashing.com/policies/cobranded-giveaway/"
+          "https://www.finishdishwashing.com/policies/cobranded-giveaway/",
+          "https://www.finishdishwashing.com/sign-up/"
         ]
       }
     },
@@ -2500,6 +2462,45 @@
       "source": "Claude review 2026-11-04",
       "id": "santa-margherita-uncork-extraordinary-moments-holiday-sweeps",
       "rules_checked": "full"
+    },
+    {
+      "name": "Sony x Seattle Seahawks WH-1000XM6 Headphones Sweepstakes",
+      "prize": "Sony WH-1000XM6 noise-cancelling headphones in a Seattle Seahawks design",
+      "category": "electronics",
+      "entry_url": "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones",
+      "rules_url": null,
+      "ends": "2026-11-30T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One entry per person/email. 50 states and DC, 18+. Needs a rules check, so the extension won't fill it unless you choose Fill anyway.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
+        "checked_at": "2026-11-04T12:15-05:00",
+        "evidence": [
+          "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
+          "https://www.androidauthority.com/sony-nfl-xm6-headphone-sweepstakes-3725213/"
+        ],
+        "reason": "Researcher-provided primary-source evidence (Sony's official rules via web search, Nov 4 12:15 ET): 50 states and DC, 18+, free online form, one entry per person/email, ends 11:59:59 PM ET Nov 30, 2026. Kept as needs rules check because the rules have a broad clause against automated entry generation, and the rules page is blocked for this reviewer's page reader.",
+        "missing": [],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence_note": "Facts provided by the researcher from Sony's official rules found via web search; not read directly by this reviewer."
+      },
+      "match": [
+        "cloud.email.sel.sony.com/SonyxSeahawksHeadphones"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "sony-x-seattle-seahawks-wh-1000xm6-headphones-sweepstakes",
+      "rules_checked": "partial"
     }
   ]
 }

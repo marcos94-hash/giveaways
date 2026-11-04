@@ -14,13 +14,16 @@
       "name": "Win the Ultimate AC Barbeque Game Day Prize Pack!"
     },
     "https://ahxlegoland.com/en/gate": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "Arm & Hammer (Church & Dwight) LEGOLAND trip site returns only its title and description; form and rules load by script",
+      "last_attempt_at": "2026-11-04T12:16:47-05:00",
+      "evidence": [
+        "https://ahxlegoland.com/en/gate"
+      ],
+      "next_retry_at": "2026-11-05T12:16:47-05:00",
+      "name": "Win a Trip for Four to Legoland!"
     },
     "https://allegiantair.com/DoubleDownFlyawaySweepstakes": {
       "attempts": 0,
@@ -108,13 +111,13 @@
       "name": "THERMAL GEAR AND HOG HUNT SWEEPSTAKES"
     },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "ViralSweep returns a client error to the page reader; Yankee Candle gift card giveaway rules can't be read here",
+      "last_attempt_at": "2026-11-04T12:16:53-05:00",
+      "next_retry_at": "2026-11-05T12:16:53-05:00",
+      "name": "Win 1 of 6 Gift Cards from Yankee Candle!"
     },
     "https://app.viralsweep.com/sweeps/full/f5c8a8-238992?framed=1": {
       "attempts": 0,
@@ -335,14 +338,35 @@
       "decided_at": "2026-11-04T00:59:07-05:00",
       "next_retry_at": null
     },
+    "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Researcher-provided primary-source evidence (Sony's official rules via web search, Nov 4 12:15 ET): 50 states and DC, 18+, free online form, one entry per person/email, ends 11:59:59 PM ET Nov 30, 2026. Kept as needs rules check because the rules have a broad clause against automated entry generation, and the rules page is blocked for this reviewer's page reader.",
+      "last_attempt_at": "2026-11-04T12:15:54-05:00",
+      "evidence": [
+        "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
+        "https://www.androidauthority.com/sony-nfl-xm6-headphone-sweepstakes-3725213/"
+      ],
+      "listing_id": "sony-x-seattle-seahawks-wh-1000xm6-headphones-sweepstakes",
+      "decided_at": "2026-11-04T12:15:54-05:00",
+      "next_retry_at": "2026-11-07T12:15:54-05:00"
+    },
     "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules": {
-      "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page-reading tool blocks this Sony site, so the rules can't be read here (Seahawks promotion may be regional)",
-      "last_attempt_at": "2026-11-04T11:57:15-05:00",
-      "next_retry_at": "2026-11-05T11:57:15-05:00",
-      "name": "Win Sony x Seattle Seahawks Headphones!"
+      "attempts": 2,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Researcher-provided primary-source evidence (Sony's official rules via web search, Nov 4 12:15 ET): 50 states and DC, 18+, free online form, one entry per person/email, ends 11:59:59 PM ET Nov 30, 2026. Kept as needs rules check because the rules have a broad clause against automated entry generation, and the rules page is blocked for this reviewer's page reader.",
+      "last_attempt_at": "2026-11-04T12:15:54-05:00",
+      "next_retry_at": "2026-11-07T12:15:54-05:00",
+      "name": "Win Sony x Seattle Seahawks Headphones!",
+      "evidence": [
+        "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
+        "https://www.androidauthority.com/sony-nfl-xm6-headphone-sweepstakes-3725213/",
+        "https://www.technobezz.com/news/sony-wh-1000xm6-nfl-team-designs-sweepstakes"
+      ],
+      "listing_id": "sony-x-seattle-seahawks-wh-1000xm6-headphones-sweepstakes",
+      "decided_at": "2026-11-04T12:15:54-05:00"
     },
     "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form": {
       "attempts": 0,
@@ -790,8 +814,8 @@
     },
     "https://ign.com/rewards/win-a-dualsense-ps5-wireless-controller": {
       "name": "IGN x Best Buy #7: DualSense controller",
-      "status": "listed",
-      "decided_at": "2026-11-03",
+      "status": "ended",
+      "decided_at": "2026-11-04T12:16:53-05:00",
       "attempts": 0,
       "listing_id": "ign-bestbuy-7-dualsense",
       "reason_code": "verified",
@@ -1183,13 +1207,13 @@
       "name": "Win $4200 For Groceries and More!"
     },
     "https://qr.sapporobeer.com/c/OK40": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "robots_blocked",
+      "reason": "Sapporo QR short link disallows automated readers (robots.txt); destination and rules unknown",
+      "last_attempt_at": "2026-11-04T12:15:18-05:00",
+      "next_retry_at": "2026-11-05T12:15:18-05:00",
+      "name": "30 Will Win in the Sapporo x Onimusha Bottle Opener Giveaway!"
     },
     "https://ramseysolutions.com/company/policies/ramsey-cash-giveaway-official-rules": {
       "attempts": 0,
@@ -1386,12 +1410,16 @@
     },
     "https://social-ejg-dm.s3.us-east-1.amazonaws.com/taylor/Tastemakers+Sweepstakes+Official+Rules_v2.pdf": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "not_open_to_nj",
+      "reason": "Sponsor rules (E. & J. Gallo, Tastemakers Sweepstakes): Utah and New Jersey residents are excluded",
+      "last_attempt_at": "2026-11-04T12:15:54-05:00",
+      "evidence": [
+        "https://social-ejg-dm.s3.us-east-1.amazonaws.com/taylor/Tastemakers+Sweepstakes+Official+Rules_v2.pdf"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T12:15:54-05:00",
+      "name": "120 Winners get Merch Prizes in The Tastemakers Sweepstakes!"
     },
     "https://southernliving.com/sweepstakes/entry?sweepId=slv-flash-headstart-1026-eo": {
       "attempts": 1,
@@ -1403,13 +1431,13 @@
       "name": "28 Will Win a $100 Amazon GC in The Head Start on Holidays Giveaway!"
     },
     "https://starbucks.promo.eprize.com/survey/public/COMPILED/en/fulfillment/rules_2021.ae83bf2ad04b5fa42cfdec81f0c8479d.pdf": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Rules PDF returns a client error to the page reader. Customer-experience survey sweepstakes usually need a receipt survey code online with mail-in as the free method; not confirmed.",
+      "last_attempt_at": "2026-11-04T12:12:55-05:00",
+      "next_retry_at": "2026-11-05T12:12:55-05:00",
+      "name": "1.2K Win a GC in The Starbucks Customer Experience Sweeps!"
     },
     "https://survey.walmart.com/": {
       "attempts": 0,
