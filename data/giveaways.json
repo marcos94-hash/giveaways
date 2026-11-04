@@ -1083,6 +1083,44 @@
       "source": "Claude review 2026-11-04",
       "id": "murf-ultimate-beach-haul-giveaway",
       "rules_checked": "full"
+    },
+    {
+      "name": "Organic Valley 2026 Thanksgiving Giveaway",
+      "prize": "1 winner: 24 Organic Valley free-product coupons ($312) + swag bundle ($100), total ARV $412",
+      "category": "other",
+      "entry_url": "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes",
+      "rules_url": "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes#rules",
+      "match": [
+        "woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes"
+      ],
+      "ends": "2026-11-08T22:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "The web form appears to ask for an Instagram follow; the rules call social actions optional bonus entries. The free email entry needs no social account.",
+        "account": "Instagram account may be needed for the web form; use the email entry if not"
+      },
+      "notes": "One entry per person for the whole promotion. Ends 9:00 PM CT Nov 8. Open to the 50 states and US territories, 18+. Free alternative: email OVgiveawayentries@organicvalley.com with subject 'ORGANIC VALLEY 2026 THANKSGIVING GIVEAWAY' and your name, home address (no PO box), phone, email, date of birth, city and state. Optional bonus entries for Instagram/TikTok follows and Facebook/Twitter shares are not tracked here.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes#rules",
+        "checked_at": "2026-11-04T01:11:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "organic-valley-2026-thanksgiving-giveaway",
+      "rules_checked": "full"
     }
   ]
 }

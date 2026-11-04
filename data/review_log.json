@@ -33,13 +33,16 @@
       "name": "The Cozy Gut Health Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1": {
-      "attempts": 1,
+      "attempts": 2,
       "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "ViralSweep page needs a page-access approval that wasn't answered; rules not found by search",
-      "last_attempt_at": "2026-11-04T01:02:01-05:00",
-      "next_retry_at": "2026-11-05T01:02:01-05:00",
-      "name": "GOWOOD sunglasses Giveaway"
+      "reason": "Access approved Nov 4 01:13 ET, but ViralSweep returned a client error to the page reader; nothing of the page or rules was retrieved",
+      "last_attempt_at": "2026-11-04T01:13:08-05:00",
+      "next_retry_at": "2026-11-06T01:13:08-05:00",
+      "name": "GOWOOD sunglasses Giveaway",
+      "evidence": [
+        "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1"
+      ]
     },
     "https://app.viralsweep.com/sweeps/full/f5c8a8-238992?framed=1": {
       "attempts": 0,
@@ -52,13 +55,16 @@
       "name": "Win this $22,000 Noveske 12.5\" 6.5 Creedmoor"
     },
     "https://app.wyng.com/Mineragua365": {
-      "attempts": 1,
+      "attempts": 2,
       "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Wyng entry page needs a page-access approval that wasn't answered; current rules not found by search",
-      "last_attempt_at": "2026-11-04T01:02:01-05:00",
-      "next_retry_at": "2026-11-05T01:02:01-05:00",
-      "name": "1 Winner in The Free Mineagua for 375 Days Sweepstakes!"
+      "reason_code": "js_only",
+      "reason": "Access approved Nov 4 01:12 ET, but the Wyng page returns only metadata (title 'WINoneYEARsupply'); the form and rules load by script, so sponsor, dates, eligibility and limit can't be read",
+      "last_attempt_at": "2026-11-04T01:12:40-05:00",
+      "next_retry_at": "2026-11-06T01:12:40-05:00",
+      "name": "1 Winner in The Free Mineagua for 375 Days Sweepstakes!",
+      "evidence": [
+        "https://app.wyng.com/Mineragua365"
+      ]
     },
     "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules": {
       "name": "PCMag Readers' Choice: Phones & Carriers survey",
@@ -425,13 +431,16 @@
       "attempts": 0
     },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
-      "attempts": 1,
+      "attempts": 2,
       "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "SweepWidget page needs a page-access approval that wasn't answered; current rules not found by search",
-      "last_attempt_at": "2026-11-04T01:02:01-05:00",
-      "next_retry_at": "2026-11-05T01:02:01-05:00",
-      "name": "Samantha Brown Holiday Collection Giveaway"
+      "reason_code": "js_only",
+      "reason": "Access approved Nov 4 01:13 ET, but the SweepWidget page shows only a 'Loading Giveaway' placeholder and description (two winners get a luggage-line bundle); rules, dates, eligibility and limit load by script",
+      "last_attempt_at": "2026-11-04T01:13:34-05:00",
+      "next_retry_at": "2026-11-06T01:13:34-05:00",
+      "name": "Samantha Brown Holiday Collection Giveaway",
+      "evidence": [
+        "https://sweepwidget.com/c/103203-zj5pi0v7"
+      ]
     },
     "https://sweepwidget.com/c/103243-54m70kqo": {
       "attempts": 0,
@@ -571,15 +580,18 @@
     },
     "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "no_rules_found",
-      "reason": "Organic Valley's own giveaway page shows the 2024 edition with no rules; the 2026 Woorise page needs a page-access approval that wasn't answered; 2026 rules not found by search",
-      "last_attempt_at": "2026-11-04T01:02:01-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T01:11:46-05:00",
       "evidence": [
-        "https://organicvalley.coop/promotions/giveaway"
+        "https://organicvalley.coop/promotions/giveaway",
+        "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes"
       ],
-      "next_retry_at": "2026-11-05T01:02:01-05:00",
-      "name": "Win a $400 Prize Pack in The Organic Valley 2026 Thanksgiving Giveaway!"
+      "next_retry_at": null,
+      "name": "Win a $400 Prize Pack in The Organic Valley 2026 Thanksgiving Giveaway!",
+      "listing_id": "organic-valley-2026-thanksgiving-giveaway",
+      "decided_at": "2026-11-04T01:11:46-05:00"
     }
   }
 }
