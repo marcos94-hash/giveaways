@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Giveaway Filler · Today</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header>
+    <div>
+      <div class="title">Giveaway Filler</div>
+      <div class="sub" id="summary">Loading…</div>
+    </div>
+    <a href="options.html" target="_blank" class="link" id="settingsLink">Settings</a>
+  </header>
+  <div id="warn" class="warn" hidden></div>
+  <button id="openAll" class="primary" disabled>Open all due</button>
+  <p class="hint">Opens the ready giveaways (rules verified) and fills in your details. You check each form, tick any boxes you want and click submit yourself.</p>
+  <section><h2>Ready to enter <span id="dueCount"></span></h2><div id="due"></div></section>
+  <section id="checkSec"><h2>Needs a rules check <span id="checkCount"></span></h2>
+    <p class="hint">Not checked against the sponsor's own rules yet, so these aren't in Open all and won't fill on their own. Read the rules first.</p>
+    <div id="check"></div></section>
+  <section><h2>Done for now <span id="doneCount"></span></h2><div id="done"></div></section>
+  <section id="laterSec"><h2>Opens later</h2><div id="later"></div></section>
+  <footer id="foot"></footer>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>

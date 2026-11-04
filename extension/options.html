@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Giveaway Filler · Settings</title>
+  <link rel="stylesheet" href="popup.css">
+  <style>
+    body { width: auto; max-width: 620px; margin: 24px auto; padding: 0 16px 40px; }
+    h1 { font-size: 20px; margin: 0 0 4px; }
+    fieldset { border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin: 16px 0; }
+    legend { font-weight: 700; padding: 0 6px; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 12px; }
+    .full { grid-column: 1 / -1; }
+    label { display: block; font-size: 12px; color: var(--muted); }
+    input[type=text], input[type=email], input[type=tel], input[type=date], input[type=url], input[type=time] {
+      display: block; width: 100%; margin-top: 3px; padding: 7px 8px; border: 1px solid var(--line); border-radius: 7px; font: inherit; color: var(--fg); }
+    .inline { display: flex; align-items: center; gap: 8px; color: var(--fg); font-size: 13px; }
+    .note { color: var(--muted); font-size: 12px; margin: 6px 0 0; }
+    .saved { color: var(--green); font-weight: 600; margin-left: 10px; }
+    .bar { display: flex; gap: 8px; align-items: center; margin-top: 10px; flex-wrap: wrap; }
+    button.primary { width: auto; padding: 8px 16px; }
+    .danger { color: #b91c1c; }
+  </style>
+</head>
+<body>
+  <h1>Giveaway Filler</h1>
+  <p class="note">Fills in giveaway forms with these details. It never clicks submit, ticks boxes, fills passwords or touches captchas. Everything here stays in this browser.</p>
+
+  <form id="profile">
+    <fieldset>
+      <legend>Your details</legend>
+      <div class="grid">
+        <label>First name<input type="text" name="firstName" autocomplete="off" required></label>
+        <label>Last name<input type="text" name="lastName" autocomplete="off" required></label>
+        <label class="full">Email (a giveaway-only address keeps the marketing out of your main inbox)<input type="email" name="email" autocomplete="off" required></label>
+        <label>Phone<input type="tel" name="phone" autocomplete="off" placeholder="9735551234"></label>
+        <label>Date of birth<input type="date" name="dob"></label>
+        <label class="full">Street address<input type="text" name="address1" autocomplete="off"></label>
+        <label class="full">Apt / unit (optional)<input type="text" name="address2" autocomplete="off"></label>
+        <label>City<input type="text" name="city" autocomplete="off"></label>
+        <label>State<input type="text" name="state" maxlength="2" value="NJ" autocomplete="off"></label>
+        <label>ZIP<input type="text" name="zip" maxlength="10" autocomplete="off"></label>
+      </div>
+      <div class="bar"><button class="primary" type="submit">Save details</button><span id="profileSaved" class="saved" hidden>Saved</span></div>
+      <p class="note">Use your real legal name and a mailing address that matches your ID. Sponsors verify winners, and a mismatch can cost you the prize.</p>
+    </fieldset>
+  </form>
+
+  <fieldset>
+    <legend>Daily reminder</legend>
+    <label class="inline"><input type="checkbox" id="reminderOn"> Notify me when giveaways are ready</label>
+    <label style="margin-top:8px">Time<input type="time" id="reminderTime" style="max-width:140px"></label>
+  </fieldset>
+
+  <fieldset>
+    <legend>On-page helper</legend>
+    <label class="inline"><input type="checkbox" id="showBanner"> Show the small helper box on entry pages</label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Giveaway list</legend>
+    <label>List URL (optional). Leave blank to use the daily-reviewed list from your giveaways repo on GitHub.
+      <input type="url" id="listUrl" placeholder="https://raw.githubusercontent.com/you/giveaways/main/data/giveaways.json"></label>
+    <div class="bar"><button id="saveList" type="button">Save and refresh</button><span id="listStatus" class="note"></span></div>
+  </fieldset>
+
+  <fieldset>
+    <legend>Entry log</legend>
+    <p class="note" id="logSummary"></p>
+    <div class="bar">
+      <button id="exportLog" type="button">Export CSV</button>
+      <button id="clearLog" type="button" class="danger">Clear log</button>
+    </div>
+  </fieldset>
+
+  <script type="module" src="options.js"></script>
+</body>
+</html>

@@ -25,7 +25,22 @@
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
+        ],
+        "note": "Rules give the end as 10:00 AM PDT; listed as noon ET to be safe."
+      }
     },
     {
       "name": "Perdue Holiday Drop Sweepstakes",
@@ -50,7 +65,20 @@
       "id": "perdue-holiday-drop-sweepstakes",
       "match": [
         "perdue.com/holiday-drop"
-      ]
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "Rules as quoted by listing sites (48 states + DC, 18+, one website entry a day, ET days); Perdue's own rules not read.",
+        "evidence": [
+          "https://www.sweepstakestoday.com/sweeps/details/118286/perdue-foods-holiday-drop-sweepstakes",
+          "https://livesweepstakes.uk/perdue-x-food-network-holiday-dinner-drop-sweepstakes/"
+        ],
+        "missing": [
+          "deadline_time"
+        ]
+      }
     },
     {
       "id": "real-good-foods-meatball",
@@ -75,7 +103,21 @@
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules"
+        ]
+      }
     },
     {
       "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
@@ -96,7 +138,21 @@
       "notes": "No T-Mobile account needed on this free entry page. Asks for name, email, phone and street address (no PO boxes). One entry per person for the week; a new weekly sweepstakes starts each Tuesday.",
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
-      "id": "t-mobile-tuesdays-week-544-sweepstakes-free-entry-page"
+      "id": "t-mobile-tuesdays-week-544-sweepstakes-free-entry-page",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://amoe.t-mobiletuesdays.com/page/rules",
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://amoe.t-mobiletuesdays.com/page/rules"
+        ]
+      }
     },
     {
       "id": "ign-bestbuy-daily",
@@ -123,10 +179,24 @@
       },
       "notes": "Pick the current Best Buy 'Biggest OOO Ever' giveaway on IGN Rewards. Each one has its own page and allows one entry. Runs through Nov 13.",
       "day_note": "New giveaways open around 10 AM Pacific (1 PM ET) on weekdays.",
-      "rules_checked": "full",
+      "rules_checked": "partial",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "Each weekday giveaway has its own rules: read that day's Terms & Conditions. Giveaways #4, #5 and #7 allowed NJ with one entry each.",
+        "evidence": [
+          "https://www.ign.com/rewards/win-govee-dreamview-tv-light-strips",
+          "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
+        ],
+        "missing": [
+          "deadline",
+          "entry_limit"
+        ]
+      }
     },
     {
       "id": "upgraded-points-universal",
@@ -147,7 +217,21 @@
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://upgradedpoints.com/news/universal-giveaway-2026/",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://upgradedpoints.com/news/universal-giveaway-2026/"
+        ]
+      }
     },
     {
       "id": "bravo-vanderpump-vegas",
@@ -170,7 +254,21 @@
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes"
+        ]
+      }
     },
     {
       "id": "bestbuy-store-speedrun",
@@ -198,7 +296,22 @@
       "rules_checked": "partial",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "Details come from listing sites. Best Buy's official rules PDF was found by the Mac mini but not read yet.",
+        "evidence": [
+          "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      }
     },
     {
       "id": "valpak-holiday-haul",
@@ -220,7 +333,20 @@
       "rules_checked": "partial",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "Valpak's rules page blocks automated reading. Dates and 18+ come from Valpak's entry page; the end time and daily limit come from listing sites.",
+        "evidence": [
+          "https://www.valpak.com/holiday"
+        ],
+        "missing": [
+          "entry_limit",
+          "deadline_time"
+        ]
+      }
     },
     {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
@@ -243,7 +369,20 @@
       "id": "kewpie-japan-experience-sweepstakes-iheart",
       "match": [
         "kiisfm.iheart.com/promotions"
-      ]
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
+        "evidence": [
+          "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes",
+          "https://www.sweepsadvantage.com/japan-sweepstakes"
+        ],
+        "missing": [
+          "entry_limit_day_definition"
+        ]
+      }
     },
     {
       "name": "Health-Ade Free Groceries for a Year Giveaway",
@@ -265,7 +404,22 @@
       "id": "health-ade-free-groceries-for-a-year-giveaway",
       "match": [
         "qr.health-ade.com/c/Y3WM"
-      ]
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "From one listing site only (50 US + DC except RI, one entry); the entry page blocks automated reading and Health-Ade's rules weren't read.",
+        "evidence": [
+          "https://www.sweepsadvantage.com/one-entry-sweepstakes.html"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      }
     },
     {
       "id": "jersey-mikes-my-way",
@@ -292,7 +446,21 @@
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.jerseymikes.com/news/official-rules-of-the-jersey-mikes-my-way-sweepstakes",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.jerseymikes.com/news/official-rules-of-the-jersey-mikes-my-way-sweepstakes"
+        ]
+      }
     },
     {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
@@ -316,7 +484,21 @@
       "id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
       "match": [
         "news.iheart.com/promotions"
-      ]
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
+        "evidence": [
+          "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
+          "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
+        ],
+        "missing": [
+          "eligibility",
+          "entry_limit_day_definition"
+        ]
+      }
     },
     {
       "id": "ramsey-cash",
@@ -344,7 +526,21 @@
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.ramseysolutions.com/company/policies/ramsey-cash-giveaway-official-rules",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.ramseysolutions.com/company/policies/ramsey-cash-giveaway-official-rules"
+        ]
+      }
     },
     {
       "id": "hallmark-very-merry",
@@ -373,7 +569,20 @@
       "rules_checked": "partial",
       "min_age": 21,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "The Official Rules document wasn't read. Hallmark's own prize page states 21+, the 50 states/DC/PR, no purchase and Oct 16 to Dec 25 ET; the daily limit is from Hallmark's FAQ and listing sites.",
+        "evidence": [
+          "https://verymerrygiveaway.hallmarkchannel.com/all-prizes/OCT29-NOV09",
+          "https://www.hallmarkchannel.com/christmas/about-the-hallmark-channel-very-merry-giveaway-sweepstakes"
+        ],
+        "missing": [
+          "entry_limit"
+        ]
+      }
     },
     {
       "id": "corona-holiday",
@@ -399,7 +608,21 @@
       "rules_checked": "full",
       "min_age": 21,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.coronausa.com/pages/h-or-2026",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.coronausa.com/pages/h-or-2026"
+        ]
+      }
     },
     {
       "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
@@ -423,7 +646,22 @@
       "id": "coppola-diamond-collection-holiday-party-sweepstakes",
       "match": [
         "coppolaholidayoffer.com/en"
-      ]
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "From listing sites (21+, US + DC except Utah, one entry); Coppola's rules weren't read.",
+        "evidence": [
+          "https://www.sweepsadvantage.com/holiday-sweepstakes"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      }
     },
     {
       "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
@@ -447,7 +685,21 @@
       "notes": "Open to the 50 US + DC (age of majority). Weekly drawings every Friday and entries carry forward, so entering early covers more drawings. Rules run on Central time.",
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
-      "id": "snack-watch-and-win-sweepstakes-orville-redenbacher-x-hallma"
+      "id": "snack-watch-and-win-sweepstakes-orville-redenbacher-x-hallma",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.snackwatchandwin.com/Info/OfficialRules/",
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.snackwatchandwin.com/Info/OfficialRules/"
+        ]
+      }
     },
     {
       "name": "Starbucks Uncap, Scan & Win (free daily play)",
@@ -474,7 +726,20 @@
       "notes": "No purchase needed: sign in at the site and play once a day. Losing plays become grand prize entries. Ends 11:59 PM Pacific on Dec 31. Day boundary assumed Pacific time.",
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
-      "id": "starbucks-uncap-scan-win-free-daily-play"
+      "id": "starbucks-uncap-scan-win-free-daily-play",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "Rules as quoted by listing sites (free daily play with Starbucks Rewards); the official rules on starbucks.promo.eprize.com weren't read and the day boundary is assumed Pacific.",
+        "evidence": [
+          "https://www.sweepstakesbible.com/giveaways/starbucks-uncap-scan-win-2026-sweepstakes",
+          "https://perksensei.com/latest/starbucks-uncap-scan-win-2026-11"
+        ],
+        "missing": [
+          "entry_limit_day_definition"
+        ]
+      }
     },
     {
       "id": "coca-cola-holiday",
@@ -500,7 +765,21 @@
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.coca-cola.com/us/en/legal/coca-cola-holiday-sweepstakes",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.coca-cola.com/us/en/legal/coca-cola-holiday-sweepstakes"
+        ]
+      }
     },
     {
       "id": "hgtv-home-for-holidays",
@@ -528,7 +807,22 @@
       "rules_checked": "partial",
       "min_age": 21,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
+        "evidence": [
+          "https://www.hgtv.com/sweepstakes/home-for-the-holidays"
+        ],
+        "missing": [
+          "eligibility"
+        ]
+      },
+      "frames": [
+        "xd.wayin.com"
+      ]
     },
     {
       "id": "foodnetwork-home-for-holidays",
@@ -556,7 +850,22 @@
       "rules_checked": "partial",
       "min_age": 21,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
+        "evidence": [
+          "https://www.hgtv.com/sweepstakes/home-for-the-holidays"
+        ],
+        "missing": [
+          "eligibility"
+        ]
+      },
+      "frames": [
+        "xd.wayin.com"
+      ]
     },
     {
       "name": "Take Flight with Pepsi Sweepstakes",
@@ -578,7 +887,21 @@
       "id": "take-flight-with-pepsi-sweepstakes",
       "match": [
         "takeflightwithpepsi.com/"
-      ]
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "Rules as quoted by listing sites (50 US + DC, 18+, one entry a day); Pepsi's own rules not read and the exact end time is unknown.",
+        "evidence": [
+          "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes",
+          "https://www.freestufftimes.com/contests/30/take-flight-with-pepsi-sweepstakes/"
+        ],
+        "missing": [
+          "deadline_time",
+          "entry_limit_day_definition"
+        ]
+      }
     },
     {
       "id": "pcmag-rc-audio",
@@ -599,7 +922,21 @@
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://au.pcmag.com/speakers/107961/readers-choice-sweeps-5",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://au.pcmag.com/speakers/107961/readers-choice-sweeps-5"
+        ]
+      }
     },
     {
       "id": "finish-grocery-giveaway",
@@ -620,7 +957,21 @@
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.finishdishwashing.com/policies/cobranded-giveaway/",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.finishdishwashing.com/policies/cobranded-giveaway/"
+        ]
+      }
     },
     {
       "id": "pcmag-rc-phones",
@@ -641,7 +992,21 @@
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules"
+        ]
+      }
     }
   ]
 }

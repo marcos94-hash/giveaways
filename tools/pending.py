@@ -1,40 +1,21 @@
 #!/usr/bin/env python3
-"""List candidates the Mac mini found that haven't been reviewed yet, best first."""
-import argparse, json
-from common import load, norm_url, now_et
+"""Preview what the next review batch would contain, without claiming anything."""
+import argparse
+import json
 
-ap = argparse.ArgumentParser(); ap.add_argument("-n", type=int, default=25); ap.add_argument("--json", action="store_true")
+import reviewlib as R
+
+ap = argparse.ArgumentParser()
+ap.add_argument("-n", type=int, default=25)
 a = ap.parse_args()
-cands = load("candidates.json", {"candidates": {}})["candidates"]
-log = load("review_log.json", {"reviewed": {}})["reviewed"]
-listed = set()
-prefixes = []
-for g in load("giveaways.json", {"giveaways": []})["giveaways"]:
-    listed.add(norm_url(g["entry_url"]))
-    if g.get("rules_url"):
-        listed.add(norm_url(g["rules_url"]))
-    prefixes += [m.lower() for m in g.get("match", []) if "/" in m]
-
-def already_listed(k):
-    if k in listed:
-        return True
-    bare = k.split("://", 1)[-1]
-    return any(bare.startswith(p) for p in prefixes)
-today = now_et().date().isoformat()
-
-def score(c):
-    cat = {"cash": 0, "gift_card": 1, "electronics": 2, "trip": 3}.get(c.get("category_guess"), 4)
-    freq = 0 if str(c.get("frequency_guess", "")).startswith("daily") else 1
-    soon = c.get("ends_guess") or "9999"
-    return (cat, freq, -(c.get("value_guess") or 0), soon)
-
-todo = [c for k, c in cands.items() if k not in log and not already_listed(k)
-        and not (c.get("ends_guess") and c["ends_guess"] <= today)]
-todo.sort(key=score)
-print(f"{len(todo)} unreviewed candidates ({len(cands)} total found, {len(log)} already reviewed)\n")
-for c in todo[: a.n]:
-    if a.json:
-        print(json.dumps({k: c.get(k) for k in ("key", "title", "entry_url", "rules_url", "source_url", "ends_guess", "frequency_guess", "min_age_guess", "value_guess", "category_guess")}))
-    else:
-        print(f"- {c.get('title')}\n  entry: {c.get('entry_url')}\n  rules: {c.get('rules_url')}\n  listing: {c.get('source_url')}\n"
-              f"  guesses: ends {c.get('ends_guess')}, {c.get('frequency_guess')}, age {c.get('min_age_guess')}, ${c.get('value_guess')}, {c.get('category_guess')}\n  key: {c.get('key')}")
+log = R.load_log()
+data = R.load("giveaways.json", {"giveaways": []})
+cands = R.load("candidates.json", {"candidates": {}})["candidates"]
+t = R.now()
+R.release_expired(log, t)
+picked, info = R.plan(log, cands, data, a.n, t)
+print(json.dumps({**R.counts(log, data, cands, t), **info}, indent=2))
+for k in picked:
+    c = cands.get(k, {})
+    prev = log["items"].get(k, {})
+    print(f"- {c.get('title')}  [{prev.get('status', 'new')}]\n  entry: {c.get('entry_url')}\n  key: {k}")

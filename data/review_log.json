@@ -1,208 +1,418 @@
 {
-  "reviewed": {
-    "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes": {
-      "verdict": "accepted",
-      "name": "Real Good Foods Meatball Sweepstakes",
-      "date": "2026-11-03"
-    },
-    "https://valpak.com/holiday": {
-      "verdict": "accepted",
-      "name": "Valpak $5,000 Holiday Haul",
-      "date": "2026-11-03"
-    },
-    "https://livenation.com/jerseymikes": {
-      "verdict": "accepted",
-      "name": "Jersey Mike's My Way Sweepstakes",
-      "date": "2026-11-03"
-    },
-    "https://ramseysolutions.com/giveaway/ramsey-cash-giveaway": {
-      "verdict": "accepted",
-      "name": "Ramsey Cash Giveaway",
-      "date": "2026-11-03"
-    },
-    "https://verymerrygiveaway.hallmarkchannel.com/": {
-      "verdict": "accepted",
-      "name": "Hallmark Very Merry Giveaway",
-      "date": "2026-11-03"
-    },
-    "https://coronausa.com/pages/holiday": {
-      "verdict": "accepted",
-      "name": "Corona Holiday Sweepstakes",
-      "date": "2026-11-03"
-    },
-    "https://coca-cola.com/us/en/offerings/holiday-sweeps": {
-      "verdict": "accepted",
-      "name": "Coca-Cola Holiday Instant Win",
-      "date": "2026-11-03"
-    },
-    "https://hgtv.com/sweepstakes/home-for-the-holidays": {
-      "verdict": "accepted",
-      "name": "HGTV Home for the Holidays",
-      "date": "2026-11-03"
-    },
-    "https://foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays": {
-      "verdict": "accepted",
-      "name": "Food Network Home for the Holidays",
-      "date": "2026-11-03"
-    },
-    "https://ign.com/rewards/win-a-dualsense-ps5-wireless-controller": {
-      "verdict": "accepted",
-      "name": "IGN x Best Buy #7: DualSense controller",
-      "date": "2026-11-03"
-    },
-    "https://ign.com/rewards": {
-      "verdict": "accepted",
-      "name": "IGN x Best Buy daily giveaway",
-      "date": "2026-11-03"
-    },
-    "https://bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes/pcmcat1789139942121.c?id=pcmcat1789139942121": {
-      "verdict": "accepted",
-      "name": "Best Buy Store Speedrun Sweepstakes",
-      "date": "2026-11-03"
-    },
-    "https://upgradedpoints.com/news/universal-giveaway-2026": {
-      "verdict": "accepted",
-      "name": "Upgraded Points Universal Orlando Trip",
-      "date": "2026-11-03"
-    },
-    "https://bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes": {
-      "verdict": "accepted",
-      "name": "Bravo Insider Vanderpump Vegas Sweepstakes",
-      "date": "2026-11-03"
-    },
-    "https://au.pcmag.com/speakers/107961/readers-choice-sweeps-5": {
-      "verdict": "accepted",
-      "name": "PCMag Readers' Choice: Headphones & Speakers survey",
-      "date": "2026-11-03"
+  "version": 2,
+  "items": {
+    "https://amoe.t-mobiletuesdays.com/": {
+      "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "t-mobile-tuesdays-week-544-sweepstakes-free-entry-page",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
     },
     "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules": {
-      "verdict": "accepted",
       "name": "PCMag Readers' Choice: Phones & Carriers survey",
-      "date": "2026-11-03"
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "pcmag-rc-phones",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
     },
-    "https://finishdishwashing.com/": {
-      "verdict": "accepted",
-      "name": "Finish Grocery Gift Card Giveaway",
-      "date": "2026-11-03"
+    "https://au.pcmag.com/speakers/107961/readers-choice-sweeps-5": {
+      "name": "PCMag Readers' Choice: Headphones & Speakers survey",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "pcmag-rc-audio",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
     },
-    "https://kohls.com/": {
-      "verdict": "rejected",
-      "name": "Kohl's Black Friday $10k",
-      "reason": "not open until Nov 27",
-      "date": "2026-11-03"
+    "https://bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes/pcmcat1789139942121.c?id=pcmcat1789139942121": {
+      "name": "Best Buy Store Speedrun Sweepstakes",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "bestbuy-store-speedrun",
+      "reason_code": "needs_rules_check",
+      "reason": "Details come from listing sites. Best Buy's official rules PDF was found by the Mac mini but not read yet.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
-    "https://paninigroup.com/": {
-      "verdict": "rejected",
-      "name": "Panini",
-      "reason": "purchase or mailed envelope only",
-      "date": "2026-11-03"
-    },
-    "https://theknot.com/aisle-ready": {
-      "verdict": "rejected",
-      "name": "The Knot Get Aisle Ready Sweepstakes",
-      "reason": "needs a 2027 wedding date and a The Knot account; ends Nov 3, 2026",
-      "date": "2026-11-03"
-    },
-    "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf": {
-      "verdict": "rejected",
-      "name": "Best Buy Store Speedrun (rules PDF)",
-      "reason": "duplicate of bestbuy-store-speedrun",
-      "date": "2026-11-03"
-    },
-    "https://snackwatchandwin.com/Home/Landing": {
-      "verdict": "accepted",
-      "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
-      "date": "2026-11-04"
-    },
-    "https://snackwatchandwin.com/": {
-      "verdict": "accepted",
-      "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
-      "date": "2026-11-04"
-    },
-    "https://takeflightwithpepsi.com/": {
-      "verdict": "accepted",
-      "name": "Take Flight with Pepsi Sweepstakes",
-      "date": "2026-11-04"
-    },
-    "https://perdue.com/holiday-drop": {
-      "verdict": "accepted",
-      "name": "Perdue Holiday Drop Sweepstakes",
-      "date": "2026-11-04"
-    },
-    "https://amoe.t-mobiletuesdays.com/": {
-      "verdict": "accepted",
-      "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
-      "date": "2026-11-04"
-    },
-    "https://news.iheart.com/promotions": {
-      "verdict": "accepted",
-      "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
-      "date": "2026-11-04"
-    },
-    "https://news.iheart.com/rules": {
-      "verdict": "accepted",
-      "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
-      "date": "2026-11-04"
+    "https://bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes": {
+      "name": "Bravo Insider Vanderpump Vegas Sweepstakes",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "bravo-vanderpump-vegas",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
     },
     "https://campaign.aptivada.com/terms/1923861": {
-      "verdict": "accepted",
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
-      "date": "2026-11-04"
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
+      "reason_code": "needs_rules_check",
+      "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
-    "https://kiisfm.iheart.com/promotions": {
-      "verdict": "accepted",
-      "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
-      "date": "2026-11-04"
-    },
-    "https://snickersnfl26.com/home": {
-      "verdict": "rejected",
-      "name": "2026 Snickers NFL and Circle K Sweepstakes",
-      "reason": "ended Nov 3, 2026",
-      "date": "2026-11-04"
-    },
-    "https://web.witcontests.com/nickthegreek/giveaway/spin/demigod-experience-260929": {
-      "verdict": "rejected",
-      "name": "Nick The Greek Demigod Experience",
-      "reason": "only open to AZ, CA, KS, MO, NV, TN, TX, UT",
-      "date": "2026-11-04"
-    },
-    "https://ulta.com/company/terms-and-conditions/scan-to-win-sweepstakes": {
-      "verdict": "rejected",
-      "name": "Ulta Beauty Scan to Win #2",
-      "reason": "ended Oct 31, 2026; free entry is email-only",
-      "date": "2026-11-04"
-    },
-    "https://tablotv.com/contest": {
-      "verdict": "rejected",
-      "name": "Tablo Race Weekend Sweepstakes",
-      "reason": "sponsor page says no contest is running",
-      "date": "2026-11-04"
-    },
-    "https://tablotv.com/wp-content/uploads/2026/10/Miami-RulesRevised-1.pdf": {
-      "verdict": "rejected",
-      "name": "Tablo Race Weekend (rules PDF)",
-      "reason": "sponsor page says no contest is running",
-      "date": "2026-11-04"
-    },
-    "https://uncapstars.starbucks.com/landing": {
-      "verdict": "accepted",
-      "name": "Starbucks Uncap, Scan & Win (free daily play)",
-      "date": "2026-11-04"
-    },
-    "https://uncapstars.starbucks.com/": {
-      "verdict": "accepted",
-      "name": "Starbucks Uncap, Scan & Win (free daily play)",
-      "date": "2026-11-04"
-    },
-    "https://qr.health-ade.com/c/Y3WM": {
-      "verdict": "accepted",
-      "name": "Health-Ade Free Groceries for a Year Giveaway",
-      "date": "2026-11-04"
+    "https://coca-cola.com/us/en/offerings/holiday-sweeps": {
+      "name": "Coca-Cola Holiday Instant Win",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "coca-cola-holiday",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
     },
     "https://coppolaholidayoffer.com/en": {
-      "verdict": "accepted",
       "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
-      "date": "2026-11-04"
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "coppola-diamond-collection-holiday-party-sweepstakes",
+      "reason_code": "needs_rules_check",
+      "reason": "From listing sites (21+, US + DC except Utah, one entry); Coppola's rules weren't read.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://coronausa.com/pages/holiday": {
+      "name": "Corona Holiday Sweepstakes",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "corona-holiday",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
+    },
+    "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf": {
+      "name": "Best Buy Store Speedrun (rules PDF)",
+      "status": "rejected",
+      "reason_code": "duplicate",
+      "reason": "duplicate of bestbuy-store-speedrun",
+      "decided_at": "2026-11-03",
+      "attempts": 0
+    },
+    "https://finishdishwashing.com/": {
+      "name": "Finish Grocery Gift Card Giveaway",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "finish-grocery-giveaway",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
+    },
+    "https://foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays": {
+      "name": "Food Network Home for the Holidays",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "foodnetwork-home-for-holidays",
+      "reason_code": "needs_rules_check",
+      "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "Gleam page didn't load for review; the listing site gives no eligibility.",
+      "last_attempt_at": "2026-11-04T00:05:00-05:00",
+      "next_retry_at": "2026-11-05T00:05:00-05:00"
+    },
+    "https://goldbelly.com/spotlight/thanksgiving-sweepstakes": {
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "no_rules_found",
+      "reason": "Entry page shows an email box but no official rules.",
+      "last_attempt_at": "2026-11-04T00:05:00-05:00",
+      "next_retry_at": "2026-11-05T00:05:00-05:00"
+    },
+    "https://hgtv.com/sweepstakes/home-for-the-holidays": {
+      "name": "HGTV Home for the Holidays",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "hgtv-home-for-holidays",
+      "reason_code": "needs_rules_check",
+      "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://ign.com/rewards": {
+      "name": "IGN x Best Buy daily giveaway",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "ign-bestbuy-daily",
+      "reason_code": "needs_rules_check",
+      "reason": "Each weekday giveaway has its own rules: read that day's Terms & Conditions. Giveaways #4, #5 and #7 allowed NJ with one entry each.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://ign.com/rewards/win-a-dualsense-ps5-wireless-controller": {
+      "name": "IGN x Best Buy #7: DualSense controller",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "ign-bestbuy-7-dualsense",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
+    },
+    "https://kiisfm.iheart.com/promotions": {
+      "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
+      "reason_code": "needs_rules_check",
+      "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://kohls.com/": {
+      "name": "Kohl's Black Friday $10k",
+      "status": "needs_review",
+      "reason_code": "other",
+      "reason": "opens Nov 27, 2026",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "next_retry_at": "2026-11-27T00:00:00-05:00"
+    },
+    "https://livenation.com/jerseymikes": {
+      "name": "Jersey Mike's My Way Sweepstakes",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "jersey-mikes-my-way",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
+    },
+    "https://news.iheart.com/promotions": {
+      "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
+      "reason_code": "needs_rules_check",
+      "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://news.iheart.com/rules": {
+      "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
+      "reason_code": "needs_rules_check",
+      "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://paninigroup.com/": {
+      "name": "Panini",
+      "status": "rejected",
+      "reason_code": "purchase_required",
+      "reason": "purchase or mailed envelope only",
+      "decided_at": "2026-11-03",
+      "attempts": 0
+    },
+    "https://perdue.com/holiday-drop": {
+      "name": "Perdue Holiday Drop Sweepstakes",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "perdue-holiday-drop-sweepstakes",
+      "reason_code": "needs_rules_check",
+      "reason": "Rules as quoted by listing sites (48 states + DC, 18+, one website entry a day, ET days); Perdue's own rules not read.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://qr.health-ade.com/c/Y3WM": {
+      "name": "Health-Ade Free Groceries for a Year Giveaway",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "health-ade-free-groceries-for-a-year-giveaway",
+      "reason_code": "needs_rules_check",
+      "reason": "From one listing site only (50 US + DC except RI, one entry); the entry page blocks automated reading and Health-Ade's rules weren't read.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://ramseysolutions.com/giveaway/ramsey-cash-giveaway": {
+      "name": "Ramsey Cash Giveaway",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "ramsey-cash",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
+    },
+    "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes": {
+      "name": "Real Good Foods Meatball Sweepstakes",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "real-good-foods-meatball",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
+    },
+    "https://snackwatchandwin.com/": {
+      "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "snack-watch-and-win-sweepstakes-orville-redenbacher-x-hallma",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
+    },
+    "https://snackwatchandwin.com/Home/Landing": {
+      "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "snack-watch-and-win-sweepstakes-orville-redenbacher-x-hallma",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
+    },
+    "https://snickersnfl26.com/home": {
+      "name": "2026 Snickers NFL and Circle K Sweepstakes",
+      "status": "rejected",
+      "reason_code": "ended",
+      "reason": "ended Nov 3, 2026",
+      "decided_at": "2026-11-04",
+      "attempts": 0
+    },
+    "https://sweepwidget.com/c/103274-vozqwf42": {
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "incomplete_info",
+      "reason": "No dates or eligibility on the page; the entry form is linked from an Instagram bio.",
+      "last_attempt_at": "2026-11-04T00:05:00-05:00",
+      "next_retry_at": "2026-11-05T00:05:00-05:00"
+    },
+    "https://sweepwidget.com/c/103277-vtmslewf": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "SweepWidget page only showed 'Loading Giveaway'.",
+      "last_attempt_at": "2026-11-04T00:05:00-05:00",
+      "next_retry_at": "2026-11-05T00:05:00-05:00"
+    },
+    "https://tablotv.com/contest": {
+      "name": "Tablo Race Weekend Sweepstakes",
+      "status": "rejected",
+      "reason_code": "not_running",
+      "reason": "sponsor page says no contest is running",
+      "decided_at": "2026-11-04",
+      "attempts": 0
+    },
+    "https://tablotv.com/wp-content/uploads/2026/10/Miami-RulesRevised-1.pdf": {
+      "name": "Tablo Race Weekend (rules PDF)",
+      "status": "rejected",
+      "reason_code": "not_running",
+      "reason": "sponsor page says no contest is running",
+      "decided_at": "2026-11-04",
+      "attempts": 0
+    },
+    "https://takeflightwithpepsi.com/": {
+      "name": "Take Flight with Pepsi Sweepstakes",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "take-flight-with-pepsi-sweepstakes",
+      "reason_code": "needs_rules_check",
+      "reason": "Rules as quoted by listing sites (50 US + DC, 18+, one entry a day); Pepsi's own rules not read and the exact end time is unknown.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://theknot.com/aisle-ready": {
+      "name": "The Knot Get Aisle Ready Sweepstakes",
+      "status": "rejected",
+      "reason_code": "restricted_group",
+      "reason": "needs a 2027 wedding date and a The Knot account; ends Nov 3, 2026",
+      "decided_at": "2026-11-03",
+      "attempts": 0
+    },
+    "https://ul.ink/185EMB-TQM8S6": {
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "possible_membership",
+      "reason": "Run through a radio-show members' page; rules not found, may need membership.",
+      "last_attempt_at": "2026-11-04T00:05:00-05:00",
+      "next_retry_at": "2026-11-05T00:05:00-05:00"
+    },
+    "https://ulta.com/company/terms-and-conditions/scan-to-win-sweepstakes": {
+      "name": "Ulta Beauty Scan to Win #2",
+      "status": "rejected",
+      "reason_code": "ended",
+      "reason": "ended Oct 31, 2026; free entry is email-only",
+      "decided_at": "2026-11-04",
+      "attempts": 0
+    },
+    "https://uncapstars.starbucks.com/": {
+      "name": "Starbucks Uncap, Scan & Win (free daily play)",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "starbucks-uncap-scan-win-free-daily-play",
+      "reason_code": "needs_rules_check",
+      "reason": "Rules as quoted by listing sites (free daily play with Starbucks Rewards); the official rules on starbucks.promo.eprize.com weren't read and the day boundary is assumed Pacific.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://uncapstars.starbucks.com/landing": {
+      "name": "Starbucks Uncap, Scan & Win (free daily play)",
+      "status": "listed",
+      "decided_at": "2026-11-04",
+      "attempts": 0,
+      "listing_id": "starbucks-uncap-scan-win-free-daily-play",
+      "reason_code": "needs_rules_check",
+      "reason": "Rules as quoted by listing sites (free daily play with Starbucks Rewards); the official rules on starbucks.promo.eprize.com weren't read and the day boundary is assumed Pacific.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://upgradedpoints.com/news/universal-giveaway-2026": {
+      "name": "Upgraded Points Universal Orlando Trip",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "upgraded-points-universal",
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null
+    },
+    "https://valpak.com/holiday": {
+      "name": "Valpak $5,000 Holiday Haul",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "valpak-holiday-haul",
+      "reason_code": "needs_rules_check",
+      "reason": "Valpak's rules page blocks automated reading. Dates and 18+ come from Valpak's entry page; the end time and daily limit come from listing sites.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://verymerrygiveaway.hallmarkchannel.com/": {
+      "name": "Hallmark Very Merry Giveaway",
+      "status": "listed",
+      "decided_at": "2026-11-03",
+      "attempts": 0,
+      "listing_id": "hallmark-very-merry",
+      "reason_code": "needs_rules_check",
+      "reason": "The Official Rules document wasn't read. Hallmark's own prize page states 21+, the 50 states/DC/PR, no purchase and Oct 16 to Dec 25 ET; the daily limit is from Hallmark's FAQ and listing sites.",
+      "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://web.witcontests.com/nickthegreek/giveaway/spin/demigod-experience-260929": {
+      "name": "Nick The Greek Demigod Experience",
+      "status": "rejected",
+      "reason_code": "not_open_to_nj",
+      "reason": "only open to AZ, CA, KS, MO, NV, TN, TX, UT",
+      "decided_at": "2026-11-04",
+      "attempts": 0
     }
   }
 }

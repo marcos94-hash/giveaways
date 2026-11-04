@@ -176,43 +176,57 @@ END_LABEL = (r"(?:last day to enter|ends?|ending|end date|deadline(?: date)?|exp
              r"entry deadline|closes|giveaway ends|sweepstakes ends|ends on)")
 
 
-def parse_date(s, today):
+YEARLESS_AHEAD_DAYS = 120  # a yearless date that already passed only rolls into next year if it's this close
+
+
+def parse_date_info(s, today):
+    """Returns (date or None, how): how is 'explicit', 'inferred' (year guessed) or 'uncertain'."""
     s = s.strip().lower().replace(".", "")
     s = re.sub(r"^(mon|tue|wed|thu|fri|sat|sun)[a-z]*,?\s+", "", s)
     s = re.sub(r"(\d)(st|nd|rd|th)", r"\1", s)
     m = re.match(r"(\d{4})-(\d{2})-(\d{2})", s)
-    if m:
-        y, mo, d = map(int, m.groups())
-    else:
+    try:
+        if m:
+            y, mo, d = map(int, m.groups())
+            return dt.date(y, mo, d), "explicit"
         m = re.match(r"(\d{1,2})[/-](\d{1,2})[/-](\d{2,4})", s)
         if m:
             mo, d, y = map(int, m.groups())
-            y += 2000 if y < 100 else 0
-        else:
-            m = re.match(r"([a-z]{3,9})\s+(\d{1,2}),?\s*(\d{4})?", s)
-            if not m or m.group(1)[:3] not in MONTHS:
-                return None
-            mo, d = MONTHS[m.group(1)[:3]], int(m.group(2))
-            y = int(m.group(3)) if m.group(3) else None
-            if y is None:  # no year shown: next occurrence
-                y = today.year
-                try:
-                    if dt.date(y, mo, d) < today - dt.timedelta(days=1):
-                        y += 1
-                except ValueError:
-                    return None
-    try:
-        return dt.date(y, mo, d)
+            return dt.date(y + (2000 if y < 100 else 0), mo, d), "explicit"
+        m = re.match(r"([a-z]{3,9})\s+(\d{1,2}),?\s*(\d{4})?", s)
+        if not m or m.group(1)[:3] not in MONTHS:
+            return None, "uncertain"
+        mo, d = MONTHS[m.group(1)[:3]], int(m.group(2))
+        if m.group(3):
+            return dt.date(int(m.group(3)), mo, d), "explicit"
+        this_year = dt.date(today.year, mo, d)
     except ValueError:
-        return None
+        return None, "uncertain"
+    if this_year >= today - dt.timedelta(days=1):
+        return this_year, "inferred"
+    try:
+        next_year = dt.date(today.year + 1, mo, d)
+    except ValueError:
+        return None, "uncertain"
+    if (next_year - today).days <= YEARLESS_AHEAD_DAYS:
+        return next_year, "inferred"   # e.g. "Jan 6" seen in November
+    return None, "uncertain"           # e.g. "October 1" seen in November: probably an old post
+
+
+def parse_date(s, today):
+    return parse_date_info(s, today)[0]
 
 
 def find_end(text, today):
+    """Returns (date or None, matched text, how). An uncertain date keeps its text for review."""
+    fallback = (None, None, None)
     for m in re.finditer(END_LABEL + r"\s*[:\-–—]?\s*(?:on\s+)?(" + DATE_RX + r")", text, re.I):
-        d = parse_date(m.group(1), today)
-        if d and today - dt.timedelta(days=2) <= d <= today + dt.timedelta(days=400):
-            return d, m.group(0)[:80]
-    return None, None
+        d, how = parse_date_info(m.group(1), today)
+        if d and today - dt.timedelta(days=400) <= d <= today + dt.timedelta(days=400):
+            return d, m.group(0)[:80], how
+        if not d and fallback[1] is None:
+            fallback = (None, m.group(0)[:80], how)
+    return fallback
 
 
 def find_frequency(text):
@@ -313,7 +327,7 @@ def extract(url, body, source_host, today):
     title = html.unescape(p.meta.get("og:title") or p.h1 or p.meta.get("title") or "").strip()
     title = re.sub(r"\s*[|\-–]\s*[^|\-–]{2,40}$", "", title) or title
     enter, rules = pick_links(p, source_host)
-    end, end_raw = find_end(text, today)
+    end, end_raw, end_how = find_end(text, today)
     return {
         "title": title[:160],
         "source_url": url,
@@ -321,6 +335,7 @@ def extract(url, body, source_host, today):
         "rules_url": rules,
         "ends_guess": end.isoformat() if end else None,
         "ends_text": end_raw,
+        "ends_how": end_how,  # explicit | inferred (year guessed) | uncertain | None
         "frequency_guess": find_frequency(text),
         "min_age_guess": find_age(text),
         "value_guess": money(text[:6000]),
@@ -328,6 +343,37 @@ def extract(url, body, source_host, today):
         "flags": flags_for(text[:8000], enter),
         "snippet": text[:700],
     }
+
+
+# ---------------------------------------------------------------- seen-page bookkeeping
+RETRY_DELAY_DAYS = 1      # a page that failed (no entry link yet, fetch error) is tried again after this
+RETRY_MAX_TRIES = 3       # ...up to this many times, then left alone like a parsed page
+FORGET_AFTER_DAYS = 45
+
+
+def mark_seen(prev, today, decision):
+    tries = (prev or {}).get("tries", 0) if isinstance(prev, dict) else 0
+    if decision == "retry":
+        tries += 1
+        if tries < RETRY_MAX_TRIES:
+            return {"at": today.isoformat(), "status": "retry", "tries": tries,
+                    "retry_after": (today + dt.timedelta(days=RETRY_DELAY_DAYS)).isoformat()}
+        return {"at": today.isoformat(), "status": "gave_up", "tries": tries}
+    return {"at": today.isoformat(), "status": "done", "tries": tries}
+
+
+def due_for_fetch(entry, today):
+    if entry is None:
+        return True
+    if isinstance(entry, str):          # old format: date parsed
+        return False
+    if entry.get("status") == "retry":
+        return entry.get("retry_after", "") <= today.isoformat()
+    return False
+
+
+def seen_date(entry):
+    return entry if isinstance(entry, str) else (entry or {}).get("at", "")
 
 
 # ---------------------------------------------------------------- main
@@ -347,22 +393,23 @@ def save(path, data):
 
 
 def keep(c, today):
+    """Returns (decision, reason): 'keep', 'drop' (established) or 'retry' (page may be temporary).
+
+    Only facts we can establish here drop a candidate: an entry link that is a social-media
+    post, or an end date with an explicit year that has passed. Text-based guesses (local-only,
+    NJ excluded, purchase required, non-US) are kept as flags for the eligibility review.
+    """
     f = c["flags"]
     if not c.get("entry_url"):
-        return False, "no entry link found"
-    if c.get("ends_guess") and c["ends_guess"] < today.isoformat():
-        return False, "ended"
-    if f["foreign_only"]:
-        return False, "not open to US"
-    if f["nj_excluded"]:
-        return False, "excludes New Jersey"
+        return "retry", "no entry link found"
     if f["social_entry"]:
-        return False, "social-media-only entry"
-    if f["purchase_required"]:
-        return False, "purchase required"
-    if f["local_only"]:
-        return False, "local residents only"
-    return True, ""
+        return "drop", "social-media-only entry"
+    if c.get("ends_guess") and c.get("ends_how") == "explicit" and c["ends_guess"] < today.isoformat():
+        return "drop", "ended"
+    c["review_flags"] = [k for k in ("foreign_only", "nj_excluded", "purchase_required", "local_only") if f.get(k)]
+    if c.get("ends_how") in ("inferred", "uncertain"):
+        c["review_flags"].append(f"end_date_{c['ends_how']}")
+    return "keep", ""
 
 
 def main():
@@ -418,7 +465,7 @@ def main():
         for du in details:
             if budget <= 0 or src_budget <= 0:
                 break
-            if du in seen:
+            if not due_for_fetch(seen.get(du), today):
                 continue
             if not allowed(du):
                 r["errors"].append(f"robots.txt disallows {du}")
@@ -427,16 +474,21 @@ def main():
                 final, body = fetch(du)
             except Exception as e:
                 r["errors"].append(f"{du}: {e}")
+                seen[du] = mark_seen(seen.get(du), today, "retry")
                 continue
             budget -= 1
             src_budget -= 1
-            seen[du] = today.isoformat()
             c = extract(final, body, host(final), today)
             r["parsed"] += 1
             if len(r["samples"]) < 2:
                 r["samples"].append({k: c[k] for k in ("title", "entry_url", "rules_url", "ends_guess", "ends_text", "frequency_guess", "min_age_guess", "snippet")})
-            ok, why = keep(c, today)
-            if not ok:
+            decision, why = keep(c, today)
+            seen[du] = mark_seen(seen.get(du), today, decision)
+            if decision == "retry":
+                r.setdefault("retry_later", {})
+                r["retry_later"][why] = r["retry_later"].get(why, 0) + 1
+                continue
+            if decision == "drop":
                 r["dropped"][why] = r["dropped"].get(why, 0) + 1
                 continue
             key = norm_url(c["entry_url"])
@@ -449,9 +501,10 @@ def main():
             r["kept"] += 1
 
     # drop ended candidates; forget detail pages older than 45 days
-    cutoff = (today - dt.timedelta(days=45)).isoformat()
+    cutoff = (today - dt.timedelta(days=FORGET_AFTER_DAYS)).isoformat()
+    # a dated end (explicit, or this year's occurrence of a yearless date) that has passed
     cands = {k: v for k, v in cands.items() if not (v.get("ends_guess") and v["ends_guess"] < today.isoformat())}
-    seen = {k: v for k, v in seen.items() if v >= cutoff}
+    seen = {k: v for k, v in seen.items() if seen_date(v) >= cutoff}
     for v in cands.values():
         v.pop("snippet", None)
 

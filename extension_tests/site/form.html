@@ -1,0 +1,50 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Test giveaway</title></head><body>
+<h1>Win $5,000</h1>
+<form id="entry" action="/submitted.html" method="get">
+  <label for="fn">First Name</label><input id="fn" name="fname">
+  <input name="lastName" placeholder="Last name">
+  <label>Email Address <input type="email" name="email"></label>
+  <label>Confirm Email <input type="email" name="email_confirm"></label>
+  <label>Mobile phone <input type="tel" name="phone" placeholder="(555) 555-5555"></label>
+  <label>Street Address <input name="addr"></label>
+  <label>City <input name="city"></label>
+  <label>State <select name="state"><option value="">Select</option><option value="NY">New York</option><option value="NJ">New Jersey</option></select></label>
+  <label>ZIP Code <input name="zip"></label>
+  <fieldset><legend>Date of Birth</legend>
+    <select name="birth_month" aria-label="Birth month"><option value="">Month</option>
+      <option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option>
+      <option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option>
+      <option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+    <select name="birth_day" aria-label="Birth day"><option value="">Day</option></select>
+    <select name="birth_year" aria-label="Birth year"><option value="">Year</option></select>
+  </fieldset>
+  <label><input type="checkbox" name="rules" id="rules"> I agree to the Official Rules</label>
+  <label><input type="checkbox" name="optin" id="optin"> Send me marketing emails</label>
+  <label>Website <input name="website" id="hp1" style="position:absolute;left:-9999px"></label>
+  <input name="hp_field" id="hp2" style="display:none">
+  <label>Password <input type="password" name="pw" id="pw"></label>
+  <label>Social Security Number <input name="ssn" id="ssn"></label>
+  <label>Your friend's email <input name="friend_email" id="friend"></label>
+  <input type="search" name="q" id="search" placeholder="Search">
+  <button id="submit" type="submit">Enter</button>
+</form>
+<!-- React-style controlled input: value tracker swallows events unless the native setter is used -->
+<form id="react"><label>First name (react) <input id="rfn" name="react_first_name"></label></form>
+<div id="state-first"></div>
+<script>
+  const d = document.querySelector('[name=birth_day]'), y = document.querySelector('[name=birth_year]');
+  for (let i=1;i<=31;i++) d.add(new Option(String(i), String(i)));
+  for (let i=2008;i>=1920;i--) y.add(new Option(String(i), String(i)));
+  // mimic React's inputValueTracking
+  const el = document.getElementById('rfn');
+  const proto = Object.getOwnPropertyDescriptor(HTMLInputElement.prototype, 'value');
+  let tracked = '';
+  Object.defineProperty(el, 'value', { configurable: true,
+    get(){ return proto.get.call(this); },
+    set(v){ tracked = String(v); proto.set.call(this, v); } });
+  el.addEventListener('input', () => {
+    const actual = proto.get.call(el);
+    if (actual !== tracked) { tracked = actual; document.getElementById('state-first').textContent = 'state=' + actual; }
+  });
+</script>
+</body></html>

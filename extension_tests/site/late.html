@@ -1,0 +1,6 @@
+<!doctype html><html><body><h1>Late form</h1><button id="go">Enter Now</button><div id="slot"></div>
+<script>
+document.getElementById('go').addEventListener('click', () => setTimeout(() => {
+  document.getElementById('slot').innerHTML = '<form><label>Email <input type="email" id="lemail"></label><label>First name <input id="lfirst"></label><button type="submit">Submit</button></form>';
+}, 800));
+</script></body></html>

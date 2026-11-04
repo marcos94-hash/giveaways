@@ -1,0 +1,1012 @@
+{
+  "version": 1,
+  "updated": "2026-11-04",
+  "source": "Found by the Mac mini finder and Perplexity/web search, checked against official rules by Claude.",
+  "giveaways": [
+    {
+      "id": "ign-bestbuy-7-dualsense",
+      "name": "IGN x Best Buy #7: DualSense controller",
+      "prize": "DualSense PS5 controller ($74.99) + entry into the week's grand prize bundle",
+      "category": "electronics",
+      "entry_url": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
+      "rules_url": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
+      "rules_note": "Terms & Conditions section of the page.",
+      "match": [
+        "ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
+      ],
+      "ends": "2026-11-04T12:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "flags": {
+        "account": "Free IGN account"
+      },
+      "notes": "Rules say it ends 10 AM PDT, but daylight time ended, so noon ET is the safe cutoff. One prize max across the whole promotion. AK, HI, NY, FL excluded; NJ is fine.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
+        ],
+        "note": "Rules give the end as 10:00 AM PDT; listed as noon ET to be safe."
+      }
+    },
+    {
+      "name": "Perdue Holiday Drop Sweepstakes",
+      "prize": "5 NYC trips for 2 to a Food Network Kitchen dinner + $2,750 in Visa prepaid cards each (ARV $6,850)",
+      "category": "trip",
+      "entry_url": "https://www.perdue.com/holiday-drop",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "ends": "2026-11-06T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "rules_checked": "partial",
+      "flags": {},
+      "notes": "48 contiguous states + DC (NJ is in). Website form asks for name, email and phone. A second daily entry is possible by commenting on a Perdue Instagram/TikTok post (not tracked here). Event date Dec 2, 2026.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "perdue-holiday-drop-sweepstakes",
+      "match": [
+        "perdue.com/holiday-drop"
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "Rules as quoted by listing sites (48 states + DC, 18+, one website entry a day, ET days); Perdue's own rules not read.",
+        "evidence": [
+          "https://www.sweepstakestoday.com/sweeps/details/118286/perdue-foods-holiday-drop-sweepstakes",
+          "https://livesweepstakes.uk/perdue-x-food-network-holiday-dinner-drop-sweepstakes/"
+        ],
+        "missing": [
+          "deadline_time"
+        ]
+      }
+    },
+    {
+      "id": "real-good-foods-meatball",
+      "name": "Real Good Foods Meatball Sweepstakes",
+      "prize": "5 x $1,000 Walmart gift cards",
+      "category": "gift_card",
+      "entry_url": "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes",
+      "rules_url": "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules",
+      "match": [
+        "realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes"
+      ],
+      "ends": "2026-11-09T00:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Chicago",
+        "reset_hour": 0
+      },
+      "flags": {},
+      "notes": "Use the free entry form, not the purchase path. Rules say the free form is worth 10 entries a day. Asks for name, email, phone and date of birth.",
+      "day_note": "Day boundary inferred from the 11:59 PM CT deadline.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules"
+        ]
+      }
+    },
+    {
+      "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
+      "prize": "25 winners: $200 prepaid gift card + $200 Atom movie credit",
+      "category": "gift_card",
+      "entry_url": "https://amoe.t-mobiletuesdays.com/",
+      "rules_url": "https://amoe.t-mobiletuesdays.com/page/rules",
+      "match": [
+        "amoe.t-mobiletuesdays.com"
+      ],
+      "ends": "2026-11-10T04:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "rules_checked": "full",
+      "flags": {},
+      "notes": "No T-Mobile account needed on this free entry page. Asks for name, email, phone and street address (no PO boxes). One entry per person for the week; a new weekly sweepstakes starts each Tuesday.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "t-mobile-tuesdays-week-544-sweepstakes-free-entry-page",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://amoe.t-mobiletuesdays.com/page/rules",
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://amoe.t-mobiletuesdays.com/page/rules"
+        ]
+      }
+    },
+    {
+      "id": "ign-bestbuy-daily",
+      "name": "IGN x Best Buy daily giveaway",
+      "prize": "A new Best Buy tech prize each weekday + weekly grand prize bundle",
+      "category": "electronics",
+      "entry_url": "https://www.ign.com/rewards",
+      "rules_url": null,
+      "rules_note": "Terms & Conditions on each giveaway's own page.",
+      "match": [
+        "ign.com/rewards"
+      ],
+      "starts": "2026-11-04T13:00:00-05:00",
+      "ends": "2026-11-14T12:00:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 13,
+        "weekdays_only": true
+      },
+      "flags": {
+        "account": "Free IGN account"
+      },
+      "notes": "Pick the current Best Buy 'Biggest OOO Ever' giveaway on IGN Rewards. Each one has its own page and allows one entry. Runs through Nov 13.",
+      "day_note": "New giveaways open around 10 AM Pacific (1 PM ET) on weekdays.",
+      "rules_checked": "partial",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "Each weekday giveaway has its own rules: read that day's Terms & Conditions. Giveaways #4, #5 and #7 allowed NJ with one entry each.",
+        "evidence": [
+          "https://www.ign.com/rewards/win-govee-dreamview-tv-light-strips",
+          "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
+        ],
+        "missing": [
+          "deadline",
+          "entry_limit"
+        ]
+      }
+    },
+    {
+      "id": "upgraded-points-universal",
+      "name": "Upgraded Points Universal Orlando Trip",
+      "prize": "Universal Orlando trip for 4 (about $5,510)",
+      "category": "trip",
+      "entry_url": "https://upgradedpoints.com/news/universal-giveaway-2026/",
+      "rules_url": "https://upgradedpoints.com/news/universal-giveaway-2026/",
+      "match": [
+        "upgradedpoints.com/news/universal-giveaway-2026"
+      ],
+      "ends": "2026-11-27T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "flags": {},
+      "notes": "18+. One entry per person.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://upgradedpoints.com/news/universal-giveaway-2026/",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://upgradedpoints.com/news/universal-giveaway-2026/"
+        ]
+      }
+    },
+    {
+      "id": "bravo-vanderpump-vegas",
+      "name": "Bravo Insider Vanderpump Vegas Sweepstakes",
+      "prize": "Vegas trip + $500 cash",
+      "category": "trip",
+      "entry_url": "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes",
+      "rules_url": "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes",
+      "match": [
+        "bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes"
+      ],
+      "ends": "2026-11-30T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "flags": {
+        "account": "Free Bravo Insider account (likely)"
+      },
+      "notes": "Opens on the rules page, which links to the Bravo Insider entry.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes"
+        ]
+      }
+    },
+    {
+      "id": "bestbuy-store-speedrun",
+      "name": "Best Buy Store Speedrun Sweepstakes",
+      "prize": "$20k tech run, 20 HP OMEN laptops, 100 x $50 certificates",
+      "category": "electronics",
+      "entry_url": "https://www.bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes/pcmcat1789139942121.c?id=pcmcat1789139942121",
+      "rules_url": null,
+      "rules_note": "On the entry page.",
+      "match": [
+        "bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes"
+      ],
+      "ends": "2026-12-01T00:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Chicago",
+        "reset_hour": 0
+      },
+      "flags": {
+        "account": "Free My Best Buy account (paid tiers get 4 a day; not needed)"
+      },
+      "notes": "Mail-in entry also allowed.",
+      "day_note": "Day boundary inferred from the 11:59 PM CT deadline.",
+      "rules_checked": "partial",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "Details come from listing sites. Best Buy's official rules PDF was found by the Mac mini but not read yet.",
+        "evidence": [
+          "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      }
+    },
+    {
+      "id": "valpak-holiday-haul",
+      "name": "Valpak $5,000 Holiday Haul",
+      "prize": "$5,000",
+      "category": "cash",
+      "entry_url": "https://www.valpak.com/holiday",
+      "rules_url": "https://www.valpak.com/holiday?rules=true",
+      "match": [
+        "valpak.com/holiday"
+      ],
+      "ends": "2026-12-04T08:00:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "flags": {},
+      "notes": "18+. No signup found.",
+      "day_note": "The rules didn't say when a day starts, so this waits a full 24 hours between entries to stay under the limit.",
+      "rules_checked": "partial",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "Valpak's rules page blocks automated reading. Dates and 18+ come from Valpak's entry page; the end time and daily limit come from listing sites.",
+        "evidence": [
+          "https://www.valpak.com/holiday"
+        ],
+        "missing": [
+          "entry_limit",
+          "deadline_time"
+        ]
+      }
+    },
+    {
+      "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
+      "prize": "Trip for 2 to Japan in 2027 (ARV $12,000 to $15,000)",
+      "category": "trip",
+      "entry_url": "https://kiisfm.iheart.com/promotions/",
+      "rules_url": "https://campaign.aptivada.com/terms/1923861",
+      "ends": "2026-12-05T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "rules_checked": "partial",
+      "flags": {
+        "age21": true
+      },
+      "notes": "On the promotions page, open 'The Kewpie Japan Experience Sweepstakes'. 50 US + DC, 21+, one entry per person/email/household per day. Bonus entries for visiting iHeartMayo.com and following @kewpieusa.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "kewpie-japan-experience-sweepstakes-iheart",
+      "match": [
+        "kiisfm.iheart.com/promotions"
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
+        "evidence": [
+          "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes",
+          "https://www.sweepsadvantage.com/japan-sweepstakes"
+        ],
+        "missing": [
+          "entry_limit_day_definition"
+        ]
+      }
+    },
+    {
+      "name": "Health-Ade Free Groceries for a Year Giveaway",
+      "prize": "$4,200 in American Express gift cards + a year of Health-Ade (ARV $4,820)",
+      "category": "gift_card",
+      "entry_url": "https://qr.health-ade.com/c/Y3WM",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "ends": "2026-12-07T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "rules_checked": "partial",
+      "flags": {},
+      "notes": "50 US + DC except Rhode Island. One entry per person; the form asks for contact info and a short survey. Ends 11:59 PM Pacific on Dec 6.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "health-ade-free-groceries-for-a-year-giveaway",
+      "match": [
+        "qr.health-ade.com/c/Y3WM"
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "From one listing site only (50 US + DC except RI, one entry); the entry page blocks automated reading and Health-Ade's rules weren't read.",
+        "evidence": [
+          "https://www.sweepsadvantage.com/one-entry-sweepstakes.html"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      }
+    },
+    {
+      "id": "jersey-mikes-my-way",
+      "name": "Jersey Mike's My Way Sweepstakes",
+      "prize": "$3,000 Jersey Mike's + $2,000 Ticketmaster gift cards",
+      "category": "gift_card",
+      "entry_url": "https://www.livenation.com/jerseymikes",
+      "rules_url": "https://www.jerseymikes.com/news/official-rules-of-the-jersey-mikes-my-way-sweepstakes",
+      "match": [
+        "livenation.com/jerseymikes"
+      ],
+      "ends": "2026-12-14T02:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Los_Angeles",
+        "reset_hour": 0
+      },
+      "flags": {
+        "marketing": "3 bonus entries for opting in to email (48 entries max). The extension never ticks that box, so it's your call."
+      },
+      "notes": "Rules mention an SSN or tax ID. Check whether it's needed to enter or only if you win. The extension never fills SSN or tax ID fields.",
+      "day_note": "Day boundary inferred from the 11:59 PM PT deadline.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.jerseymikes.com/news/official-rules-of-the-jersey-mikes-my-way-sweepstakes",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.jerseymikes.com/news/official-rules-of-the-jersey-mikes-my-way-sweepstakes"
+        ]
+      }
+    },
+    {
+      "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
+      "prize": "JCPenney gift cards ($250 to $1,000), a Jingle Ball NYC trip for 2, signed merch (27 winners)",
+      "category": "gift_card",
+      "entry_url": "https://news.iheart.com/promotions/",
+      "rules_url": null,
+      "rules_note": "On iHeart's contest rules page.",
+      "ends": "2026-12-20T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "rules_checked": "partial",
+      "flags": {
+        "account": "JCPenney Rewards or Aeropostale Rewards membership (free)"
+      },
+      "notes": "On the promotions page, open 'iHeartRadio Jingle Ball x JCPenney Sweepstakes'. One entry per person/email/household per day. Four entry periods, so entering early covers more drawings.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
+      "match": [
+        "news.iheart.com/promotions"
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
+        "evidence": [
+          "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
+          "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
+        ],
+        "missing": [
+          "eligibility",
+          "entry_limit_day_definition"
+        ]
+      }
+    },
+    {
+      "id": "ramsey-cash",
+      "name": "Ramsey Cash Giveaway",
+      "prize": "$10,000 grand prize + eight weekly $500 prizes",
+      "category": "cash",
+      "entry_url": "https://www.ramseysolutions.com/giveaway/ramsey-cash-giveaway",
+      "rules_url": "https://www.ramseysolutions.com/company/policies/ramsey-cash-giveaway-official-rules",
+      "match": [
+        "ramseysolutions.com/giveaway/ramsey-cash-giveaway",
+        "daveramsey.com/giveaway"
+      ],
+      "ends": "2026-12-21T00:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Chicago",
+        "reset_hour": 0
+      },
+      "flags": {
+        "marketing": "Clicking Enter Now agrees to marketing emails, calls and texts, including automated ones. Section 21 of the rules has a free email entry instead."
+      },
+      "notes": "Weekly $500 drawings, so entering every day covers more of them.",
+      "day_note": "Rules run on Central time.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.ramseysolutions.com/company/policies/ramsey-cash-giveaway-official-rules",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.ramseysolutions.com/company/policies/ramsey-cash-giveaway-official-rules"
+        ]
+      }
+    },
+    {
+      "id": "hallmark-very-merry",
+      "name": "Hallmark Very Merry Giveaway",
+      "prize": "103 daily prizes (incl. $1,000 and $500 prepaid cards, $100 IKEA cards) + Europe tour and $1,000 check",
+      "category": "mixed",
+      "entry_url": "https://verymerrygiveaway.hallmarkchannel.com/",
+      "rules_url": null,
+      "rules_note": "Linked as Official Rules on the entry page.",
+      "match": [
+        "verymerrygiveaway.hallmarkchannel.com"
+      ],
+      "ends": "2026-12-25T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "flags": {
+        "age21": true,
+        "account": "Registration form on your first entry"
+      },
+      "notes": "Each day's prize stays open until Dec 25. The $1,000 prepaid card prize opens about Nov 8.",
+      "day_note": "Entry periods start at 12:00 AM ET.",
+      "rules_checked": "partial",
+      "min_age": 21,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "The Official Rules document wasn't read. Hallmark's own prize page states 21+, the 50 states/DC/PR, no purchase and Oct 16 to Dec 25 ET; the daily limit is from Hallmark's FAQ and listing sites.",
+        "evidence": [
+          "https://verymerrygiveaway.hallmarkchannel.com/all-prizes/OCT29-NOV09",
+          "https://www.hallmarkchannel.com/christmas/about-the-hallmark-channel-very-merry-giveaway-sweepstakes"
+        ],
+        "missing": [
+          "entry_limit"
+        ]
+      }
+    },
+    {
+      "id": "corona-holiday",
+      "name": "Corona Holiday Sweepstakes",
+      "prize": "50 x $200 gift cards",
+      "category": "gift_card",
+      "entry_url": "https://www.coronausa.com/pages/holiday",
+      "rules_url": "https://www.coronausa.com/pages/h-or-2026",
+      "match": [
+        "coronausa.com/pages/holiday"
+      ],
+      "ends": "2026-12-31T23:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "flags": {
+        "age21": true
+      },
+      "notes": "Email must be confirmed before entries count. One extra entry a day comes from Corona's Facebook/Instagram ads (not tracked here). Weekly drawings, so enter early.",
+      "rules_checked": "full",
+      "min_age": 21,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.coronausa.com/pages/h-or-2026",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.coronausa.com/pages/h-or-2026"
+        ]
+      }
+    },
+    {
+      "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
+      "prize": "20 x $500 Visa/Mastercard/Amex e-gift cards",
+      "category": "gift_card",
+      "entry_url": "https://coppolaholidayoffer.com/en/",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "ends": "2026-12-31T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "rules_checked": "partial",
+      "flags": {
+        "age21": true
+      },
+      "notes": "Winery promotion: 21+, US + DC except Utah, one entry per person/email. Five winners per region.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "coppola-diamond-collection-holiday-party-sweepstakes",
+      "match": [
+        "coppolaholidayoffer.com/en"
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "From listing sites (21+, US + DC except Utah, one entry); Coppola's rules weren't read.",
+        "evidence": [
+          "https://www.sweepsadvantage.com/holiday-sweepstakes"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      }
+    },
+    {
+      "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
+      "prize": "$5,000 check + a year of popcorn; 25 popcorn-year prizes; 275 weekly blanket packs",
+      "category": "cash",
+      "entry_url": "https://www.snackwatchandwin.com/",
+      "rules_url": "https://www.snackwatchandwin.com/Info/OfficialRules/",
+      "match": [
+        "snackwatchandwin.com"
+      ],
+      "ends": "2027-01-01T00:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Chicago",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "rules_checked": "full",
+      "flags": {},
+      "notes": "Open to the 50 US + DC (age of majority). Weekly drawings every Friday and entries carry forward, so entering early covers more drawings. Rules run on Central time.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "snack-watch-and-win-sweepstakes-orville-redenbacher-x-hallma",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.snackwatchandwin.com/Info/OfficialRules/",
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.snackwatchandwin.com/Info/OfficialRules/"
+        ]
+      }
+    },
+    {
+      "name": "Starbucks Uncap, Scan & Win (free daily play)",
+      "prize": "4 x Starbucks for a Year ($3,935 each) + 300,500 instant prizes (Stars, drink and bakery coupons)",
+      "category": "gift_card",
+      "entry_url": "https://uncapstars.starbucks.com/",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "match": [
+        "uncapstars.starbucks.com"
+      ],
+      "ends": "2027-01-01T02:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Los_Angeles",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "rules_checked": "partial",
+      "flags": {
+        "account": "Starbucks Rewards account (free)"
+      },
+      "notes": "No purchase needed: sign in at the site and play once a day. Losing plays become grand prize entries. Ends 11:59 PM Pacific on Dec 31. Day boundary assumed Pacific time.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "starbucks-uncap-scan-win-free-daily-play",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "Rules as quoted by listing sites (free daily play with Starbucks Rewards); the official rules on starbucks.promo.eprize.com weren't read and the day boundary is assumed Pacific.",
+        "evidence": [
+          "https://www.sweepstakesbible.com/giveaways/starbucks-uncap-scan-win-2026-sweepstakes",
+          "https://perksensei.com/latest/starbucks-uncap-scan-win-2026-11"
+        ],
+        "missing": [
+          "entry_limit_day_definition"
+        ]
+      }
+    },
+    {
+      "id": "coca-cola-holiday",
+      "name": "Coca-Cola Holiday Instant Win",
+      "prize": "Instant $20 Disney gift cards and Coke Store cards; Alaska trip grand prize",
+      "category": "gift_card",
+      "entry_url": "https://www.coca-cola.com/us/en/offerings/holiday-sweeps",
+      "rules_url": "https://www.coca-cola.com/us/en/legal/coca-cola-holiday-sweepstakes",
+      "match": [
+        "coca-cola.com/us/en/offerings/holiday-sweeps"
+      ],
+      "ends": "2027-01-03T23:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "flags": {
+        "account": "Coca-Cola account. Log in yourself; the extension never fills passwords."
+      },
+      "notes": "",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.coca-cola.com/us/en/legal/coca-cola-holiday-sweepstakes",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.coca-cola.com/us/en/legal/coca-cola-holiday-sweepstakes"
+        ]
+      }
+    },
+    {
+      "id": "hgtv-home-for-holidays",
+      "name": "HGTV Home for the Holidays",
+      "prize": "$5,000 check",
+      "category": "cash",
+      "entry_url": "https://www.hgtv.com/sweepstakes/home-for-the-holidays",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "match": [
+        "hgtv.com/sweepstakes/home-for-the-holidays"
+      ],
+      "ends": "2027-01-06T08:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 9
+      },
+      "flags": {
+        "age21": true
+      },
+      "notes": "Same drawing as the Food Network entry. You get one entry on each site per day.",
+      "day_note": "Day assumed to run 9 AM to 8:59 AM ET, matching the 8:59 AM end time.",
+      "rules_checked": "partial",
+      "min_age": 21,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
+        "evidence": [
+          "https://www.hgtv.com/sweepstakes/home-for-the-holidays"
+        ],
+        "missing": [
+          "eligibility"
+        ]
+      },
+      "frames": [
+        "xd.wayin.com"
+      ]
+    },
+    {
+      "id": "foodnetwork-home-for-holidays",
+      "name": "Food Network Home for the Holidays",
+      "prize": "$5,000 check (same drawing as HGTV)",
+      "category": "cash",
+      "entry_url": "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "match": [
+        "foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays"
+      ],
+      "ends": "2027-01-06T08:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 9
+      },
+      "flags": {
+        "age21": true
+      },
+      "notes": "Second daily entry into the HGTV drawing.",
+      "day_note": "Day assumed to run 9 AM to 8:59 AM ET, matching the 8:59 AM end time.",
+      "rules_checked": "partial",
+      "min_age": 21,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-03",
+        "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
+        "evidence": [
+          "https://www.hgtv.com/sweepstakes/home-for-the-holidays"
+        ],
+        "missing": [
+          "eligibility"
+        ]
+      },
+      "frames": [
+        "xd.wayin.com"
+      ]
+    },
+    {
+      "name": "Take Flight with Pepsi Sweepstakes",
+      "prize": "Super Bowl LXI trip for 2 + $500 check (ARV up to $11,400); weekly $200 NFLShop gift cards and JetBlue flight pairs",
+      "category": "trip",
+      "entry_url": "https://takeflightwithpepsi.com/",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "ends": "2027-01-10T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "rules_checked": "partial",
+      "flags": {},
+      "notes": "Rules (as quoted by listing sites): 50 US + DC, 18+, one daily entry per person per day. Weekly prizes, so start early. Check the exact end time in the rules.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "take-flight-with-pepsi-sweepstakes",
+      "match": [
+        "takeflightwithpepsi.com/"
+      ],
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-04T00:05:00-05:00",
+        "reason": "Rules as quoted by listing sites (50 US + DC, 18+, one entry a day); Pepsi's own rules not read and the exact end time is unknown.",
+        "evidence": [
+          "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes",
+          "https://www.freestufftimes.com/contests/30/take-flight-with-pepsi-sweepstakes/"
+        ],
+        "missing": [
+          "deadline_time",
+          "entry_limit_day_definition"
+        ]
+      }
+    },
+    {
+      "id": "pcmag-rc-audio",
+      "name": "PCMag Readers' Choice: Headphones & Speakers survey",
+      "prize": "$250 Amazon code",
+      "category": "gift_card",
+      "entry_url": "https://au.pcmag.com/speakers/107961/readers-choice-sweeps-5",
+      "rules_url": "https://au.pcmag.com/speakers/107961/readers-choice-sweeps-5",
+      "match": [
+        "au.pcmag.com/speakers/107961/readers-choice-sweeps-5"
+      ],
+      "ends": "2027-01-17T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "flags": {},
+      "notes": "Click through to the survey from this page. Costs survey time. Winners may need a notarized form.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://au.pcmag.com/speakers/107961/readers-choice-sweeps-5",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://au.pcmag.com/speakers/107961/readers-choice-sweeps-5"
+        ]
+      }
+    },
+    {
+      "id": "finish-grocery-giveaway",
+      "name": "Finish Grocery Gift Card Giveaway",
+      "prize": "4 x $2,500 Visa gift cards",
+      "category": "gift_card",
+      "entry_url": "https://www.finishdishwashing.com",
+      "rules_url": "https://www.finishdishwashing.com/policies/cobranded-giveaway/",
+      "match": [
+        "finishdishwashing.com/policies/cobranded-giveaway"
+      ],
+      "ends": "2027-01-20T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "flags": {},
+      "notes": "One entry total.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.finishdishwashing.com/policies/cobranded-giveaway/",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.finishdishwashing.com/policies/cobranded-giveaway/"
+        ]
+      }
+    },
+    {
+      "id": "pcmag-rc-phones",
+      "name": "PCMag Readers' Choice: Phones & Carriers survey",
+      "prize": "$250 Amazon code",
+      "category": "gift_card",
+      "entry_url": "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules",
+      "rules_url": "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules",
+      "match": [
+        "au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules"
+      ],
+      "ends": "2027-01-31T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "flags": {},
+      "notes": "Click through to the survey from this page. Separate drawing from the audio survey.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules",
+        "checked_at": "2026-11-03",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules"
+        ]
+      }
+    }
+  ]
+}

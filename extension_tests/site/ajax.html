@@ -1,0 +1,8 @@
+<!doctype html><html><body><h1>AJAX entry</h1>
+<form id="entry"><label>Email <input type="email" id="xemail"></label><label>First name <input id="xfirst"></label><label>Last name <input id="xlast"></label>
+<button id="xsubmit" type="submit">Enter</button></form><div id="err"></div>
+<form id="news"><label>Newsletter email <input type="email" id="nemail" name="newsletter"></label><button id="nsubmit" type="submit">Sign up</button></form>
+<form id="login"><label>Email <input type="email" id="lgemail"></label><label>Password <input type="password" id="lgpw"></label><button id="lgsubmit" type="submit">Log in</button></form>
+<script>
+for (const f of document.forms) f.addEventListener('submit', (e) => { e.preventDefault(); if (f.id === 'entry') document.getElementById('err').textContent = 'Error: captcha required'; });
+</script></body></html>

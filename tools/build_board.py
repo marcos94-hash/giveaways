@@ -1,20 +1,24 @@
 #!/usr/bin/env python3
 """Build data/board.html (the Giveaway Board artifact) from data/giveaways.json."""
-import html, json, os
-from common import load, DATA, now_et
+import json
+import os
 
-data = load("giveaways.json", {"giveaways": []})
-log = load("review_log.json", {"reviewed": {}})["reviewed"]
-cands = load("candidates.json", {"candidates": {}})
+import reviewlib as R
+
+data = R.load("giveaways.json", {"giveaways": []})
+log = R.load_log()
+cands = R.load("candidates.json", {"candidates": {}})
 gs = data["giveaways"]
-rejected = sum(1 for v in log.values() if v.get("verdict") == "rejected")
+counts = R.counts(log, data, cands.get("candidates", {}))
+rl = counts["review_log"]
 payload = {
     "giveaways": [{k: g.get(k) for k in ("id", "name", "prize", "category", "entry_url", "rules_url", "rules_note", "ends",
-                                         "starts", "limit", "min_age", "flags", "notes", "added", "rules_checked")} for g in gs],
+                                         "starts", "limit", "min_age", "flags", "notes", "added", "verification")} for g in gs],
     "updated": data.get("updated"),
-    "built": now_et().strftime("%b %-d, %-I:%M %p ET"),
+    "built": R.now().strftime("%b %-d, %-I:%M %p ET"),
     "found": cands.get("count", 0),
-    "rejected": rejected,
+    "rejected": rl.get("rejected", 0),
+    "waiting": counts["new_waiting"] + rl.get("blocked", 0) + rl.get("needs_review", 0),
 }
 
 PAGE = r"""<!DOCTYPE html>
@@ -83,6 +87,11 @@ h1 { font: 700 30px/1.1 var(--display); margin: 0; text-wrap: balance; letter-sp
 .links a { color: var(--accent); font-weight: 600; text-decoration: none; }
 .links a:hover { text-decoration: underline; }
 .empty { color: var(--muted); padding: 20px 0; }
+.sec { font: 700 18px/1.2 var(--display); margin: 8px 0 0; }
+.sec span { color: var(--muted); font-weight: 600; }
+.secnote { color: var(--muted); font-size: 13px; margin: -10px 0 0; max-width: 70ch; }
+.row.check { border-left-color: var(--warn); border-left-style: dashed; }
+.why { grid-column: 1 / -1; font-size: 13px; color: var(--warn); max-width: 70ch; }
 footer { color: var(--muted); font-size: 12px; max-width: 70ch; }
 @media (max-width: 560px) { .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); } .row { grid-template-columns: 1fr; } .when { text-align: left; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
@@ -103,7 +112,12 @@ footer { color: var(--muted); font-size: 12px; max-width: 70ch; }
     <button type="button" data-cat="other" aria-pressed="false" id="f-other">Everything else</button>
     <label for="daily"><input type="checkbox" id="daily"> Daily entries only</label>
   </section>
-  <section class="list" id="list" aria-label="Giveaways"></section>
+  <h2 class="sec">Ready to enter <span id="readyCount"></span></h2>
+  <p class="secnote">Checked against the sponsor's own official rules: eligibility, free entry, deadline and entry limit.</p>
+  <section class="list" id="list" aria-label="Ready to enter"></section>
+  <h2 class="sec">Needs a rules check <span id="checkCount"></span></h2>
+  <p class="secnote">Found and partly checked, but not yet confirmed against the sponsor's own rules. Read the rules before entering; the extension won't fill these on its own.</p>
+  <section class="list" id="checklist" aria-label="Needs a rules check"></section>
   <footer id="foot"></footer>
 </main>
 <script>
@@ -129,12 +143,10 @@ function left(ms) {
   return `${Math.round(ms / DAY)} days left`;
 }
 const isDaily = (g) => g.limit && g.limit.type !== "once";
+const isReady = (g) => !!(g.verification && g.verification.status === "verified");
 const group = (g) => ["cash", "gift_card", "electronics"].includes(g.category) ? g.category : "other";
 
-function render() {
-  const daily = document.getElementById("daily").checked;
-  const rows = live.filter((g) => (cat === "all" || group(g) === cat) && (!daily || isDaily(g)));
-  document.getElementById("list").innerHTML = rows.map((g) => {
+function card(g) {
     const ms = Date.parse(g.ends) - now;
     const band = ms < 2 * DAY ? "soon" : ms < 7 * DAY ? "week" : "later";
     const chips = [];
@@ -143,25 +155,39 @@ function render() {
     if ((g.min_age || 18) > 18) chips.push(`<span class="chip warn">${g.min_age}+</span>`);
     if (g.flags && g.flags.account) chips.push(`<span class="chip" title="${esc(g.flags.account)}">Account needed</span>`);
     if (g.flags && g.flags.marketing) chips.push(`<span class="chip warn" title="${esc(g.flags.marketing)}">Marketing opt-in</span>`);
-    if (g.rules_checked === "partial") chips.push('<span class="chip warn" title="Read the official rules before entering">Check rules</span>');
-    const rules = g.rules_url ? `<a href="${esc(g.rules_url)}" target="_blank" rel="noopener">Official rules</a>` : (g.rules_note ? `<span class="name">${esc(g.rules_note)}</span>` : "");
-    return `<article class="row ${band}">
+    const v = g.verification || {};
+    if (isReady(g)) chips.push(`<span class="chip new">Rules verified ${esc((v.checked_at || "").slice(0, 10))}</span>`);
+    else chips.push(`<span class="chip warn">Needs rules check</span>`);
+    const href = v.rules_source || g.rules_url;
+    const rules = href ? `<a href="${esc(href)}" target="_blank" rel="noopener">Official rules</a>` : (g.rules_note ? `<span class="name">${esc(g.rules_note)}</span>` : "");
+    const why = !isReady(g) && v.reason ? `<div class="why">Why not verified: ${esc(v.reason)}</div>` : "";
+    return `<article class="row ${isReady(g) ? band : "check"}">
       <div><div class="prize">${esc(g.prize)}</div><div class="name">${esc(g.name)}</div></div>
       <div class="when">${esc(fmt.format(new Date(g.ends)))} ET<span class="left">${left(ms)}</span></div>
       <div class="chips">${chips.join("")}</div>
+      ${why}
       ${g.notes ? `<div class="notes">${esc(g.notes)}</div>` : ""}
       <div class="links"><a href="${esc(g.entry_url)}" target="_blank" rel="noopener">Entry page</a>${rules}</div>
     </article>`;
-  }).join("") || '<div class="empty">Nothing in this filter right now.</div>';
 }
 
-document.getElementById("sub").textContent = `Free giveaways open to an adult New Jersey resident, checked against each sponsor's official rules. Updated ${DATA.built}.`;
+function render() {
+  const daily = document.getElementById("daily").checked;
+  const rows = live.filter((g) => (cat === "all" || group(g) === cat) && (!daily || isDaily(g)));
+  const ready = rows.filter(isReady), check = rows.filter((g) => !isReady(g));
+  document.getElementById("list").innerHTML = ready.map(card).join("") || '<div class="empty">Nothing ready in this filter right now.</div>';
+  document.getElementById("checklist").innerHTML = check.map(card).join("") || '<div class="empty">Nothing waiting on a rules check in this filter.</div>';
+  document.getElementById("readyCount").textContent = `(${ready.length})`;
+  document.getElementById("checkCount").textContent = `(${check.length})`;
+}
+
+document.getElementById("sub").textContent = `Free giveaways for an adult New Jersey resident. Ready ones are checked against the sponsor's own official rules. Updated ${DATA.built}.`;
 const weekCount = live.filter((g) => Date.parse(g.ends) - now < 7 * DAY).length;
 document.getElementById("stats").innerHTML = [
-  [live.length, "open giveaways"], [live.filter(isDaily).length, "allow repeat entries"],
-  [weekCount, "end within 7 days"], [DATA.found, "found by the Mac mini"],
+  [live.filter(isReady).length, "ready to enter"], [live.filter((g) => !isReady(g)).length, "need a rules check"],
+  [weekCount, "end within 7 days"], [DATA.waiting, "still in the review queue"],
 ].map(([n, l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
-document.getElementById("foot").textContent = `The Mac mini scans listing sites twice a day. Claude reads each new giveaway's official rules and keeps only the free ones you can enter (${DATA.rejected} turned down so far). Enter with the Giveaway Filler extension: it fills the forms, you submit. 21+ giveaways are hidden in the extension if your birth date says you're under 21.`;
+document.getElementById("foot").textContent = `The Mac mini scans listing sites twice a day (${DATA.found} found). Claude reads each new giveaway's official rules: ${DATA.rejected} turned down so far, ${DATA.waiting} still waiting or being retried. Enter with the Giveaway Filler extension: it fills ready giveaways, you submit. 21+ giveaways are hidden in the extension if your birth date says you're under 21.`;
 document.querySelectorAll("[data-cat]").forEach((b) => b.addEventListener("click", () => {
   cat = b.dataset.cat;
   document.querySelectorAll("[data-cat]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
@@ -175,7 +201,7 @@ render();
 """
 
 out = PAGE.replace("__DATA__", json.dumps(payload).replace("</", "<\\/"))
-path = os.path.join(DATA, "board.html")
+path = os.path.join(R.DATA, "board.html")
 with open(path, "w") as f:
     f.write(out)
 print(path, f"{len(gs)} giveaways")
