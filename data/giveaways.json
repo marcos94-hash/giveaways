@@ -2390,6 +2390,116 @@
         "dixxon.com/pages/free-flannels-for-year-giveaway"
       ],
       "rules_checked": "full"
+    },
+    {
+      "name": "Mighty Swell Solo Stove Sweepstakes",
+      "prize": "Custom Solo Stove (per listing site)",
+      "category": "other",
+      "entry_url": "https://sweepstakes.roundisnow.com/mightyswellsolostove2026",
+      "rules_url": null,
+      "ends": "2026-12-31T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Spiked-seltzer brand; 21+. Prize per listing: a custom Solo Stove.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://sweepstakes.roundisnow.com/mightyswellsolostove2026",
+        "checked_at": "2026-11-04T12:11-05:00",
+        "evidence": [
+          "https://sweepstakes.roundisnow.com/mightyswellsolostove2026"
+        ],
+        "reason": "Entry page (read Nov 4 12:12 ET) says no purchase necessary, US and DC residents 21+, but its Official Rules link is empty, so dates, entry limit and prize details aren't confirmed. End date is the listing site's guess.",
+        "missing": [
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "mighty-swell-solo-stove-sweepstakes",
+      "match": [
+        "sweepstakes.roundisnow.com/mightyswellsolostove2026"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Tatcha Advent Calendar Giveaway",
+      "prize": "Tatcha 12 Ways to Love Your Skin advent calendar for you and a friend (5 winners per listing site)",
+      "category": "other",
+      "entry_url": "https://refer.tatcha.com/october2026sweepstakes",
+      "rules_url": null,
+      "ends": "2026-11-19T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Email entry; referring friends adds entries.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640",
+        "checked_at": "2026-11-04T12:12-05:00",
+        "evidence": [
+          "https://refer.tatcha.com/october2026sweepstakes",
+          "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
+        ],
+        "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "match": [
+        "refer.tatcha.com/october2026sweepstakes"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "tatcha-advent-calendar-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Santa Margherita Uncork Extraordinary Moments Holiday Sweepstakes",
+      "prize": "725 winners: set of 5 Santa Margherita scented candles ($77 each), no alcohol",
+      "category": "other",
+      "entry_url": "https://www.santamargheritawines.com/holidaygiveaway",
+      "rules_url": "https://www.santamargheritawines.com/holidaygiveawayrules",
+      "ends": "2026-12-31T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Winery sponsor, but the prize is candles. 21+; only listed states are eligible and New Jersey is one of them. Enter your birth date at the age gate, then fill in the entry form. One entry per person.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.santamargheritawines.com/holidaygiveawayrules",
+        "checked_at": "2026-11-04T12:12-05:00",
+        "evidence": [
+          "https://www.santamargheritawines.com/holidaygiveawayrules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "santamargheritawines.com/holidaygiveaway"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "santa-margherita-uncork-extraordinary-moments-holiday-sweeps",
+      "rules_checked": "full"
     }
   ]
 }

@@ -1244,14 +1244,33 @@
       "decided_at": "2026-11-04T01:24:40-05:00",
       "name": "Win a $1000 Walmart Gift Card and More from Real Good Foods!"
     },
+    "https://refer.tatcha.com/october2026sweepstakes": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
+      "last_attempt_at": "2026-11-04T12:12:22-05:00",
+      "evidence": [
+        "https://refer.tatcha.com/october2026sweepstakes",
+        "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
+      ],
+      "listing_id": "tatcha-advent-calendar-giveaway",
+      "decided_at": "2026-11-04T12:12:22-05:00",
+      "next_retry_at": "2026-11-07T12:12:22-05:00"
+    },
     "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
+      "last_attempt_at": "2026-11-04T12:12:22-05:00",
+      "evidence": [
+        "https://refer.tatcha.com/october2026sweepstakes",
+        "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
+      ],
+      "listing_id": "tatcha-advent-calendar-giveaway",
+      "decided_at": "2026-11-04T12:12:22-05:00",
+      "next_retry_at": "2026-11-07T12:12:22-05:00"
     },
     "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf": {
       "attempts": 0,
@@ -1266,14 +1285,31 @@
       "decided_at": "2026-11-04T11:52:19-05:00",
       "next_retry_at": null
     },
+    "https://santamargheritawines.com/holidaygiveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:12:35-05:00",
+      "evidence": [
+        "https://www.santamargheritawines.com/holidaygiveawayrules"
+      ],
+      "listing_id": "santa-margherita-uncork-extraordinary-moments-holiday-sweeps",
+      "decided_at": "2026-11-04T12:12:35-05:00",
+      "next_retry_at": null
+    },
     "https://santamargheritawines.com/holidaygiveawayrules": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:12:35-05:00",
+      "evidence": [
+        "https://www.santamargheritawines.com/holidaygiveawayrules"
+      ],
+      "listing_id": "santa-margherita-uncork-extraordinary-moments-holiday-sweeps",
+      "decided_at": "2026-11-04T12:12:35-05:00",
+      "next_retry_at": null
     },
     "https://shoplowes.me/3WZLa2y": {
       "attempts": 1,
@@ -1390,12 +1426,17 @@
     },
     "https://sweepstakes.roundisnow.com/mightyswellsolostove2026": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Page read needs an access approval that timed out (Nov 4 ~12:10 ET); rules not found on mightyswell.com by search",
-      "last_attempt_at": "2026-11-04T12:11:24-05:00",
-      "next_retry_at": "2026-11-05T12:11:24-05:00",
-      "name": "Win a Custom Solo Stove in the Mighty Swell Solo Stove Sweepstakes!"
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Entry page (read Nov 4 12:12 ET) says no purchase necessary, US and DC residents 21+, but its Official Rules link is empty, so dates, entry limit and prize details aren't confirmed. End date is the listing site's guess.",
+      "last_attempt_at": "2026-11-04T12:11:51-05:00",
+      "next_retry_at": "2026-11-07T12:11:51-05:00",
+      "name": "Win a Custom Solo Stove in the Mighty Swell Solo Stove Sweepstakes!",
+      "evidence": [
+        "https://sweepstakes.roundisnow.com/mightyswellsolostove2026"
+      ],
+      "listing_id": "mighty-swell-solo-stove-sweepstakes",
+      "decided_at": "2026-11-04T12:11:51-05:00"
     },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
       "attempts": 2,
