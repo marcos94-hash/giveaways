@@ -2500,6 +2500,86 @@
       "source": "Claude review 2026-11-04",
       "id": "sony-x-seattle-seahawks-wh-1000xm6-headphones-sweepstakes",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Skrewball College Tailgate Tour Sweepstakes",
+      "prize": "Grand prize: trip for two to Las Vegas with event tickets (ARV $6,000; Sponsor may swap the ticket portion for a $3,000 gift card). Instant win: 20 Skrewball hats ($15 each). No alcohol in any prize.",
+      "category": "trip",
+      "entry_url": "https://www.skrewballwhiskey.com/en/collegetailgatetour",
+      "rules_url": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/collegetailgatetour_OfficialRules.html",
+      "match": [
+        "skrewballwhiskey.com/en/collegetailgatetour"
+      ],
+      "ends": "2027-01-10T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 21,
+      "flags": {
+        "marketing": "Entering signs you up for Skrewball marketing emails (reply REMOVE to opt out).",
+        "age21": true
+      },
+      "notes": "Whiskey sponsor (Pernod Ricard USA), but the rules say no alcohol is part of any prize. 50 states and DC, 21+. Register once per person and email for the whole promotion; that registration is your one grand prize entry (drawing about Jan 11). After that, log in with the same email to play the instant win game once per day (day runs midnight to 11:59:59 PM ET). Entering signs you up for marketing emails. Whether the form is embedded from another site was not checked.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/collegetailgatetour_OfficialRules.html",
+        "checked_at": "2026-11-04T17:54-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.mdmgames.com/MDMAdmin/RulesPolicies/collegetailgatetour_OfficialRules.html"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "skrewball-college-tailgate-tour-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Schaeffer Season 2026 Instant Win and Sweeps",
+      "prize": "Grand prize: Schaeffer's Outdoor Gear Pack (ARV $3,049; includes a VISA gift card, Weber grill, YETI items and Nikon binoculars). Instant win: 838 merch prizes (hoodies, t-shirts, camping chairs, pullovers, trucker hats).",
+      "category": "other",
+      "entry_url": "https://www.schaefferseason.com/direct/schaeffer-seasons-2026-entry",
+      "rules_url": "https://secure.cataboom.com/remote/schaeffer-seasons-2026-entry/assets/docs/rules.pdf",
+      "match": [
+        "schaefferseason.com/direct/schaeffer-seasons-2026-entry"
+      ],
+      "ends": "2026-11-28T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Sponsor is Schaeffer Manufacturing (lubricants). US residents 18+. Register with name and email, then play the instant win game once per day per person and email; a day starts at 12:00:01 AM ET. Grand prize drawing about Dec 1. The entry page also offers extra entries for sharing a referral link, which the rules don't mention. Whether the game loads in a frame from secure.cataboom.com was not checked.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://secure.cataboom.com/remote/schaeffer-seasons-2026-entry/assets/docs/rules.pdf",
+        "checked_at": "2026-11-04T18:04-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://secure.cataboom.com/remote/schaeffer-seasons-2026-entry/assets/docs/rules.pdf",
+          "https://www.schaefferseason.com/direct/schaeffer-seasons-2026-entry"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "schaeffer-season-2026-instant-win-and-sweeps",
+      "rules_checked": "full"
     }
   ]
 }

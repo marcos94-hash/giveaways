@@ -1314,13 +1314,16 @@
       "name": "Win A Trip for Two to Peru!"
     },
     "https://promorules.com/MK263472": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Miller Lite official rules page https://www.promorules.com/MK263472 returned a client error to the page reader, so nothing of the rules was read",
+      "last_attempt_at": "2026-11-04T17:54:49-05:00",
+      "evidence": [
+        "https://www.promorules.com/MK263472"
+      ],
+      "next_retry_at": "2026-11-05T17:54:49-05:00",
+      "name": "Win a Gameday Lounge Bundle From Miller Lite!"
     },
     "https://purina.com/s/fancy-feast-little-gem-microbag-sweepstakes": {
       "attempts": 0,
@@ -1482,12 +1485,16 @@
     },
     "https://roadrangerusa.com/BigGameSweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "no_free_online_entry",
+      "reason": "The official rules on the sponsor page require being physically inside a participating Illinois Road Ranger location to enter (QR code scan there), so there is no online entry from home",
+      "last_attempt_at": "2026-11-04T18:04:20-05:00",
+      "evidence": [
+        "https://www.roadrangerusa.com/BigGameSweepstakes"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T18:04:20-05:00",
+      "name": "Win a Trip in The Big Game Ultimate Fan Sweepstakes!"
     },
     "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf": {
       "attempts": 0,
@@ -1530,12 +1537,17 @@
     },
     "https://schaefferseason.com/direct/schaeffer-seasons-2026-entry": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T18:04:20-05:00",
+      "evidence": [
+        "https://secure.cataboom.com/remote/schaeffer-seasons-2026-entry/assets/docs/rules.pdf",
+        "https://www.schaefferseason.com/direct/schaeffer-seasons-2026-entry"
+      ],
+      "listing_id": "schaeffer-season-2026-instant-win-and-sweeps",
+      "decided_at": "2026-11-04T18:04:20-05:00",
+      "next_retry_at": null
     },
     "https://shoplowes.me/3WZLa2y": {
       "attempts": 1,
@@ -1593,12 +1605,16 @@
     },
     "https://skrewballwhiskey.com/en/collegetailgatetour": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T17:54:49-05:00",
+      "evidence": [
+        "https://www.mdmgames.com/MDMAdmin/RulesPolicies/collegetailgatetour_OfficialRules.html"
+      ],
+      "listing_id": "skrewball-college-tailgate-tour-sweepstakes",
+      "decided_at": "2026-11-04T17:54:49-05:00",
+      "next_retry_at": null
     },
     "https://snackwatchandwin.com/": {
       "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
@@ -1952,13 +1968,18 @@
       "decided_at": "2026-11-04T17:39:43-05:00"
     },
     "https://whiteclaw.com/sweepstakes/surgetailgate": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the official rules and entry page https://www.whiteclaw.com/sweepstakes/surgetailgate and nobody answered it in this unattended run; listing sites quoting the rules say 50 states and DC, 21+, one entry per day, ends Dec 31, 2026 11:59:59 PM ET, prize a midsize hybrid pickup (ARV up to $72,150)",
+      "last_attempt_at": "2026-11-04T18:04:20-05:00",
+      "evidence": [
+        "https://slickdeals.net/f/19993293-white-claw-hard-seltzer-surge-ultimate-tailgate-pickup-truck-sweepstakes-12-31-2026",
+        "https://www.moneysmylife.com/white-claw-surge-ultimate-tailgate-sweepstakes/",
+        "https://www.whiteclaw.com/sweepstakes/surgetailgate"
+      ],
+      "next_retry_at": "2026-11-05T18:04:20-05:00",
+      "name": "Ultimate Tailgate Pickup Truck Sweepstakes"
     },
     "https://wonka.com/us/en/xp/golden-ticket": {
       "attempts": 0,
