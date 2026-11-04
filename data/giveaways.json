@@ -1846,6 +1846,78 @@
         "kraftnaturalcheese.com/parmsgiving"
       ],
       "rules_checked": "full"
+    },
+    {
+      "name": "Madison Creek Outfitters + Greeley Hat Works $4,000 Giveaway",
+      "prize": "1 winner: $2,000 Madison Creek + $2,000 Greeley Hat Works gift certificates ($4,000)",
+      "category": "gift_card",
+      "entry_url": "https://madisoncreekoutfitters.com/pages/giveaway",
+      "rules_url": "https://madisoncreekoutfitters.com/pages/giveaway",
+      "ends": "2026-11-30T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "The FAQ says entering means agreeing to marketing email (the rules call opt-in optional)"
+      },
+      "notes": "One entry per person/email. US residents 18+. No purchase or social action required.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://madisoncreekoutfitters.com/pages/giveaway",
+        "checked_at": "2026-11-04T11:54-05:00",
+        "evidence": [
+          "https://madisoncreekoutfitters.com/pages/giveaway"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "madison-creek-outfitters-greeley-hat-works-4-000-giveaway",
+      "match": [
+        "madisoncreekoutfitters.com/pages/giveaway"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Lucky Golf Four Sets of Golf Clubs Giveaway",
+      "prize": "4 full sets of Lucky Golf clubs: one for the winner and three for guests the winner picks (ARV $927 each, $3,708 total)",
+      "category": "other",
+      "entry_url": "https://luckygolf.com/pages/giveaway",
+      "rules_url": "https://www.luckygolf.com/pages/giveaway",
+      "ends": "2026-11-17T01:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends 11:59 PM Mountain Nov 16. One email entry per person; an optional public Instagram/TikTok video of your clubs adds 10 bonus entries. 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.luckygolf.com/pages/giveaway",
+        "checked_at": "2026-11-04T11:55-05:00",
+        "evidence": [
+          "https://www.luckygolf.com/pages/giveaway"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "luckygolf.com/pages/giveaway"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "lucky-golf-four-sets-of-golf-clubs-giveaway",
+      "rules_checked": "full"
     }
   ]
 }

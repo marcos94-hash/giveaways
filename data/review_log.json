@@ -586,13 +586,13 @@
       "name": "win a golden Logitech G ASTRO Headset"
     },
     "https://gleam.io/dpZFp/anker-solix-s5000-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam returns a client error to the page reader; terms and eligibility can't be read here",
+      "last_attempt_at": "2026-11-04T11:55:48-05:00",
+      "next_retry_at": "2026-11-05T11:55:48-05:00",
+      "name": "Win an Anker SOLIX S5000 Portable Power Station Valued at $3600!"
     },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 1,
@@ -849,12 +849,16 @@
     },
     "https://luckygolf.com/pages/giveaway": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:55:48-05:00",
+      "evidence": [
+        "https://www.luckygolf.com/pages/giveaway"
+      ],
+      "listing_id": "lucky-golf-four-sets-of-golf-clubs-giveaway",
+      "decided_at": "2026-11-04T11:55:48-05:00",
+      "next_retry_at": null
     },
     "https://m.cmpgn.page/RRBmd5": {
       "attempts": 1,
@@ -870,12 +874,16 @@
     },
     "https://madisoncreekoutfitters.com/pages/giveaway": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:54:33-05:00",
+      "evidence": [
+        "https://madisoncreekoutfitters.com/pages/giveaway"
+      ],
+      "listing_id": "madison-creek-outfitters-greeley-hat-works-4-000-giveaway",
+      "decided_at": "2026-11-04T11:54:33-05:00",
+      "next_retry_at": null
     },
     "https://michelobultra.com/rules": {
       "attempts": 0,
