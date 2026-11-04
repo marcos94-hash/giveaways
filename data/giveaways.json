@@ -1522,6 +1522,42 @@
       "source": "Claude review 2026-11-04",
       "id": "epsom-salt-council-stress-less-express-giveaway",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Universal Forgotten Island Sweepstakes",
+      "prize": "Signed Forgotten Island concept art (ERV $100 each)",
+      "category": "other",
+      "entry_url": "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form",
+      "rules_url": "https://www.universalpicturesathome.com/forgotten-island-sweepstakes",
+      "ends": "2026-11-20T21:00:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Entries must be received by 6:00 PM PT Nov 20 (the period runs to Nov 27 but later entries don't count). One entry per person per day, up to 31; the rules don't define the day, so this waits 24 hours. Form asks for email, name and birth date. 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.universalpicturesathome.com/forgotten-island-sweepstakes",
+        "checked_at": "2026-11-04T11:43-05:00",
+        "evidence": [
+          "https://www.universalpicturesathome.com/forgotten-island-sweepstakes",
+          "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "universal-forgotten-island-sweepstakes",
+      "match": [
+        "cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form"
+      ],
+      "rules_checked": "full"
     }
   ]
 }

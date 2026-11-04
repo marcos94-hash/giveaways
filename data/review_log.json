@@ -24,13 +24,13 @@
       "next_retry_at": null
     },
     "https://apfco.com/Secured/WB1811/S9936/Home/OfficialRules": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "robots_blocked",
+      "reason": "Official rules page disallows automated readers (robots.txt)",
+      "last_attempt_at": "2026-11-04T11:41:09-05:00",
+      "next_retry_at": "2026-11-05T11:41:09-05:00",
+      "name": "Win $500 in The Season of Giving Cash Giveaway!"
     },
     "https://app.viralsweep.com/sweeps/full/07d64b-239905?framed=1": {
       "attempts": 1,
@@ -190,12 +190,17 @@
     },
     "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:43:41-05:00",
+      "evidence": [
+        "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form",
+        "https://www.universalpicturesathome.com/forgotten-island-sweepstakes"
+      ],
+      "listing_id": "universal-forgotten-island-sweepstakes",
+      "decided_at": "2026-11-04T11:43:41-05:00",
+      "next_retry_at": null
     },
     "https://coca-cola.com/us/en/offerings/holiday-sweeps": {
       "name": "Coca-Cola Holiday Instant Win",
@@ -267,13 +272,16 @@
       "next_retry_at": null
     },
     "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "incomplete_info",
+      "reason": "Sponsor rules: sweepstakes entries online come from receipt uploads, the free method is mail-in; there is also one Instant Win Reveal play per day for free Dunkin' At Home Extra members, but it's unclear from the rules read whether that play needs a purchase. Ends Nov 13 noon ET; 50 states + DC, 18+.",
+      "last_attempt_at": "2026-11-04T11:41:49-05:00",
+      "evidence": [
+        "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf"
+      ],
+      "next_retry_at": "2026-11-05T11:41:49-05:00",
+      "name": "80,000+ Prizes in the Dunkin' At Home EXTRAvaganza Arcade Instant Win Game!"
     },
     "https://ebacamoe.com/official-rules": {
       "attempts": 0,
@@ -406,13 +414,16 @@
       "name": "Goldbelly Thanksgiving Sweepstakes"
     },
     "https://happyholi-lays.com/rules": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "robots_blocked",
+      "reason": "Rules page disallows automated readers (robots.txt). PepsiCo press release (Oct 19, 2026) says entry is by scanning bag codes or visiting HappyHoli-Lays.com from Oct 26, but eligibility, dates and limits weren't readable.",
+      "last_attempt_at": "2026-11-04T11:42:16-05:00",
+      "evidence": [
+        "https://www.pepsico.com/newsroom/press-releases/2026/lays-brings-the-holi-lays-with-five-new-limited-time-flavors-inspired-by-holiday-dishes"
+      ],
+      "next_retry_at": "2026-11-05T11:42:16-05:00",
+      "name": "1,279 Will Win Lay's Merch + More in the Happy Holi"
     },
     "https://help.doordash.com/en-us/consumers/article/doordash-fall-football-streaks-rewards-sweepstakes": {
       "attempts": 0,
@@ -847,13 +858,13 @@
       "attempts": 0
     },
     "https://southernliving.com/sweepstakes/entry?sweepId=slv-flash-headstart-1026-eo": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page-reading tool blocks southernliving.com, so the sweepstakes page and rules can't be read here; check it in a browser",
+      "last_attempt_at": "2026-11-04T11:42:45-05:00",
+      "next_retry_at": "2026-11-05T11:42:45-05:00",
+      "name": "28 Will Win a $100 Amazon GC in The Head Start on Holidays Giveaway!"
     },
     "https://survey.walmart.com/": {
       "attempts": 0,
