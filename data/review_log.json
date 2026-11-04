@@ -108,6 +108,101 @@
       "name": "Best Buy Store Speedrun (rules PDF)",
       "reason": "duplicate of bestbuy-store-speedrun",
       "date": "2026-11-03"
+    },
+    "https://snackwatchandwin.com/Home/Landing": {
+      "verdict": "accepted",
+      "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
+      "date": "2026-11-04"
+    },
+    "https://snackwatchandwin.com/": {
+      "verdict": "accepted",
+      "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
+      "date": "2026-11-04"
+    },
+    "https://takeflightwithpepsi.com/": {
+      "verdict": "accepted",
+      "name": "Take Flight with Pepsi Sweepstakes",
+      "date": "2026-11-04"
+    },
+    "https://perdue.com/holiday-drop": {
+      "verdict": "accepted",
+      "name": "Perdue Holiday Drop Sweepstakes",
+      "date": "2026-11-04"
+    },
+    "https://amoe.t-mobiletuesdays.com/": {
+      "verdict": "accepted",
+      "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
+      "date": "2026-11-04"
+    },
+    "https://news.iheart.com/promotions": {
+      "verdict": "accepted",
+      "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
+      "date": "2026-11-04"
+    },
+    "https://news.iheart.com/rules": {
+      "verdict": "accepted",
+      "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
+      "date": "2026-11-04"
+    },
+    "https://campaign.aptivada.com/terms/1923861": {
+      "verdict": "accepted",
+      "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
+      "date": "2026-11-04"
+    },
+    "https://kiisfm.iheart.com/promotions": {
+      "verdict": "accepted",
+      "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
+      "date": "2026-11-04"
+    },
+    "https://snickersnfl26.com/home": {
+      "verdict": "rejected",
+      "name": "2026 Snickers NFL and Circle K Sweepstakes",
+      "reason": "ended Nov 3, 2026",
+      "date": "2026-11-04"
+    },
+    "https://web.witcontests.com/nickthegreek/giveaway/spin/demigod-experience-260929": {
+      "verdict": "rejected",
+      "name": "Nick The Greek Demigod Experience",
+      "reason": "only open to AZ, CA, KS, MO, NV, TN, TX, UT",
+      "date": "2026-11-04"
+    },
+    "https://ulta.com/company/terms-and-conditions/scan-to-win-sweepstakes": {
+      "verdict": "rejected",
+      "name": "Ulta Beauty Scan to Win #2",
+      "reason": "ended Oct 31, 2026; free entry is email-only",
+      "date": "2026-11-04"
+    },
+    "https://tablotv.com/contest": {
+      "verdict": "rejected",
+      "name": "Tablo Race Weekend Sweepstakes",
+      "reason": "sponsor page says no contest is running",
+      "date": "2026-11-04"
+    },
+    "https://tablotv.com/wp-content/uploads/2026/10/Miami-RulesRevised-1.pdf": {
+      "verdict": "rejected",
+      "name": "Tablo Race Weekend (rules PDF)",
+      "reason": "sponsor page says no contest is running",
+      "date": "2026-11-04"
+    },
+    "https://uncapstars.starbucks.com/landing": {
+      "verdict": "accepted",
+      "name": "Starbucks Uncap, Scan & Win (free daily play)",
+      "date": "2026-11-04"
+    },
+    "https://uncapstars.starbucks.com/": {
+      "verdict": "accepted",
+      "name": "Starbucks Uncap, Scan & Win (free daily play)",
+      "date": "2026-11-04"
+    },
+    "https://qr.health-ade.com/c/Y3WM": {
+      "verdict": "accepted",
+      "name": "Health-Ade Free Groceries for a Year Giveaway",
+      "date": "2026-11-04"
+    },
+    "https://coppolaholidayoffer.com/en": {
+      "verdict": "accepted",
+      "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
+      "date": "2026-11-04"
     }
   }
 }

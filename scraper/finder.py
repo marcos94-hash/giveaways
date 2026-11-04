@@ -290,7 +290,7 @@ def money(text):
 
 def category(text):
     t = text.lower()
-    if re.search(r"\bcash\b|\bcheck\b|venmo|paypal|\$\d[\d,]* (?:cash|prize)", t):
+    if re.search(r"\bcash\b(?! ?&)|in the form of a check|venmo|paypal|\$\d[\d,]* (?:cash|check)", t):
         return "cash"
     if re.search(r"gift card|giftcard|e-gift|visa prepaid|prepaid card|gift certificate", t):
         return "gift_card"
@@ -299,6 +299,12 @@ def category(text):
     if re.search(r"\btrip\b|vacation|cruise|getaway|travel|flight", t):
         return "trip"
     return "other"
+
+
+def body_after_title(text, title):
+    """Text that follows the post title, so site navigation (e.g. 'Cash & gift cards' menus) doesn't skew guesses."""
+    i = text.find(title[:40]) if title else -1
+    return text[i + len(title):i + len(title) + 2500] if i >= 0 else text[-2500:]
 
 
 def extract(url, body, source_host, today):
@@ -318,7 +324,7 @@ def extract(url, body, source_host, today):
         "frequency_guess": find_frequency(text),
         "min_age_guess": find_age(text),
         "value_guess": money(text[:6000]),
-        "category_guess": category(title + " " + text[:3000]),
+        "category_guess": category(title + " " + body_after_title(text, title)),
         "flags": flags_for(text[:8000], enter),
         "snippet": text[:700],
     }

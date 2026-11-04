@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "source": "Found by the Mac mini finder and Perplexity/web search, checked against official rules by Claude.",
   "giveaways": [
     {
@@ -28,6 +28,31 @@
       "source": "Claude review 2026-11-03"
     },
     {
+      "name": "Perdue Holiday Drop Sweepstakes",
+      "prize": "5 NYC trips for 2 to a Food Network Kitchen dinner + $2,750 in Visa prepaid cards each (ARV $6,850)",
+      "category": "trip",
+      "entry_url": "https://www.perdue.com/holiday-drop",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "ends": "2026-11-06T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "rules_checked": "partial",
+      "flags": {},
+      "notes": "48 contiguous states + DC (NJ is in). Website form asks for name, email and phone. A second daily entry is possible by commenting on a Perdue Instagram/TikTok post (not tracked here). Event date Dec 2, 2026.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "perdue-holiday-drop-sweepstakes",
+      "match": [
+        "perdue.com/holiday-drop"
+      ]
+    },
+    {
       "id": "real-good-foods-meatball",
       "name": "Real Good Foods Meatball Sweepstakes",
       "prize": "5 x $1,000 Walmart gift cards",
@@ -51,6 +76,27 @@
       "min_age": 18,
       "added": "2026-11-03",
       "source": "Claude review 2026-11-03"
+    },
+    {
+      "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
+      "prize": "25 winners: $200 prepaid gift card + $200 Atom movie credit",
+      "category": "gift_card",
+      "entry_url": "https://amoe.t-mobiletuesdays.com/",
+      "rules_url": "https://amoe.t-mobiletuesdays.com/page/rules",
+      "match": [
+        "amoe.t-mobiletuesdays.com"
+      ],
+      "ends": "2026-11-10T04:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "rules_checked": "full",
+      "flags": {},
+      "notes": "No T-Mobile account needed on this free entry page. Asks for name, email, phone and street address (no PO boxes). One entry per person for the week; a new weekly sweepstakes starts each Tuesday.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "t-mobile-tuesdays-week-544-sweepstakes-free-entry-page"
     },
     {
       "id": "ign-bestbuy-daily",
@@ -177,6 +223,51 @@
       "source": "Claude review 2026-11-03"
     },
     {
+      "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
+      "prize": "Trip for 2 to Japan in 2027 (ARV $12,000 to $15,000)",
+      "category": "trip",
+      "entry_url": "https://kiisfm.iheart.com/promotions/",
+      "rules_url": "https://campaign.aptivada.com/terms/1923861",
+      "ends": "2026-12-05T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "rules_checked": "partial",
+      "flags": {
+        "age21": true
+      },
+      "notes": "On the promotions page, open 'The Kewpie Japan Experience Sweepstakes'. 50 US + DC, 21+, one entry per person/email/household per day. Bonus entries for visiting iHeartMayo.com and following @kewpieusa.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "kewpie-japan-experience-sweepstakes-iheart",
+      "match": [
+        "kiisfm.iheart.com/promotions"
+      ]
+    },
+    {
+      "name": "Health-Ade Free Groceries for a Year Giveaway",
+      "prize": "$4,200 in American Express gift cards + a year of Health-Ade (ARV $4,820)",
+      "category": "gift_card",
+      "entry_url": "https://qr.health-ade.com/c/Y3WM",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "ends": "2026-12-07T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "rules_checked": "partial",
+      "flags": {},
+      "notes": "50 US + DC except Rhode Island. One entry per person; the form asks for contact info and a short survey. Ends 11:59 PM Pacific on Dec 6.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "health-ade-free-groceries-for-a-year-giveaway",
+      "match": [
+        "qr.health-ade.com/c/Y3WM"
+      ]
+    },
+    {
       "id": "jersey-mikes-my-way",
       "name": "Jersey Mike's My Way Sweepstakes",
       "prize": "$3,000 Jersey Mike's + $2,000 Ticketmaster gift cards",
@@ -202,6 +293,30 @@
       "min_age": 18,
       "added": "2026-11-03",
       "source": "Claude review 2026-11-03"
+    },
+    {
+      "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
+      "prize": "JCPenney gift cards ($250 to $1,000), a Jingle Ball NYC trip for 2, signed merch (27 winners)",
+      "category": "gift_card",
+      "entry_url": "https://news.iheart.com/promotions/",
+      "rules_url": null,
+      "rules_note": "On iHeart's contest rules page.",
+      "ends": "2026-12-20T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "rules_checked": "partial",
+      "flags": {
+        "account": "JCPenney Rewards or Aeropostale Rewards membership (free)"
+      },
+      "notes": "On the promotions page, open 'iHeartRadio Jingle Ball x JCPenney Sweepstakes'. One entry per person/email/household per day. Four entry periods, so entering early covers more drawings.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
+      "match": [
+        "news.iheart.com/promotions"
+      ]
     },
     {
       "id": "ramsey-cash",
@@ -287,6 +402,81 @@
       "source": "Claude review 2026-11-03"
     },
     {
+      "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
+      "prize": "20 x $500 Visa/Mastercard/Amex e-gift cards",
+      "category": "gift_card",
+      "entry_url": "https://coppolaholidayoffer.com/en/",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "ends": "2026-12-31T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "rules_checked": "partial",
+      "flags": {
+        "age21": true
+      },
+      "notes": "Winery promotion: 21+, US + DC except Utah, one entry per person/email. Five winners per region.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "coppola-diamond-collection-holiday-party-sweepstakes",
+      "match": [
+        "coppolaholidayoffer.com/en"
+      ]
+    },
+    {
+      "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
+      "prize": "$5,000 check + a year of popcorn; 25 popcorn-year prizes; 275 weekly blanket packs",
+      "category": "cash",
+      "entry_url": "https://www.snackwatchandwin.com/",
+      "rules_url": "https://www.snackwatchandwin.com/Info/OfficialRules/",
+      "match": [
+        "snackwatchandwin.com"
+      ],
+      "ends": "2027-01-01T00:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Chicago",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "rules_checked": "full",
+      "flags": {},
+      "notes": "Open to the 50 US + DC (age of majority). Weekly drawings every Friday and entries carry forward, so entering early covers more drawings. Rules run on Central time.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "snack-watch-and-win-sweepstakes-orville-redenbacher-x-hallma"
+    },
+    {
+      "name": "Starbucks Uncap, Scan & Win (free daily play)",
+      "prize": "4 x Starbucks for a Year ($3,935 each) + 300,500 instant prizes (Stars, drink and bakery coupons)",
+      "category": "gift_card",
+      "entry_url": "https://uncapstars.starbucks.com/",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "match": [
+        "uncapstars.starbucks.com"
+      ],
+      "ends": "2027-01-01T02:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Los_Angeles",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "rules_checked": "partial",
+      "flags": {
+        "account": "Starbucks Rewards account (free)"
+      },
+      "notes": "No purchase needed: sign in at the site and play once a day. Losing plays become grand prize entries. Ends 11:59 PM Pacific on Dec 31. Day boundary assumed Pacific time.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "starbucks-uncap-scan-win-free-daily-play"
+    },
+    {
       "id": "coca-cola-holiday",
       "name": "Coca-Cola Holiday Instant Win",
       "prize": "Instant $20 Disney gift cards and Coke Store cards; Alaska trip grand prize",
@@ -367,6 +557,28 @@
       "min_age": 21,
       "added": "2026-11-03",
       "source": "Claude review 2026-11-03"
+    },
+    {
+      "name": "Take Flight with Pepsi Sweepstakes",
+      "prize": "Super Bowl LXI trip for 2 + $500 check (ARV up to $11,400); weekly $200 NFLShop gift cards and JetBlue flight pairs",
+      "category": "trip",
+      "entry_url": "https://takeflightwithpepsi.com/",
+      "rules_url": null,
+      "rules_note": "Linked on the entry page.",
+      "ends": "2027-01-10T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "rules_checked": "partial",
+      "flags": {},
+      "notes": "Rules (as quoted by listing sites): 50 US + DC, 18+, one daily entry per person per day. Weekly prizes, so start early. Check the exact end time in the rules.",
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "take-flight-with-pepsi-sweepstakes",
+      "match": [
+        "takeflightwithpepsi.com/"
+      ]
     },
     {
       "id": "pcmag-rc-audio",
