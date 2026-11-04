@@ -1558,6 +1558,86 @@
         "cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form"
       ],
       "rules_checked": "full"
+    },
+    {
+      "name": "Ferrero Rocher Raise A Rocher Sweepstakes (free entry)",
+      "prize": "3 grand prizes: 4-day/3-night NYC New Year's Eve trip for 2 (ARV $25,000); 55 secondary prizes per phase ($6-$72)",
+      "category": "trip",
+      "entry_url": "https://www.ferrerorocher.com/us/en/xp/raise-a-rocher/lead/register/amoe",
+      "rules_url": "https://www.ferrerorocher.com/us/en/xp/raise-a-rocher/terms-and-conditions",
+      "ends": "2026-12-31T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Grand prize (NYC trip) entries close 11:59:59 PM ET Dec 6; secondary prizes run to Dec 31. Free form asks for birth month/year, name, email, phone and ZIP. One entry per person per day by any method (ET day). 50 states and DC, 21+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.ferrerorocher.com/us/en/xp/raise-a-rocher/terms-and-conditions",
+        "checked_at": "2026-11-04T11:46-05:00",
+        "evidence": [
+          "https://www.ferrerorocher.com/us/en/xp/raise-a-rocher/terms-and-conditions"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "ferrerorocher.com/us/en/xp/raise-a-rocher/lead/register/amoe"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "ferrero-rocher-raise-a-rocher-sweepstakes-free-entry",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Wonka Golden Ticket Sweepstakes & Instant Win",
+      "prize": "5 Golden Ticket Las Vegas trips for 4 with Netflix House VIP admission (ARV $9,000); 1,440 Wonka Factory Bundles (ARV $55)",
+      "category": "trip",
+      "entry_url": "https://www.wonka.com/us/en/xp/golden-ticket/lead/register",
+      "rules_url": "https://www.wonka.com/us/en/xp/golden-ticket/terms-and-conditions",
+      "ends": "2027-07-31T23:59:59-04:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Instant win: each daily entry reveals right away whether you won, and you must claim in the same session. One entry per person per day (ET). Name and email only. 50 states and DC, 21+. Runs until July 31, 2027.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.wonka.com/us/en/xp/golden-ticket/terms-and-conditions",
+        "checked_at": "2026-11-04T11:47-05:00",
+        "evidence": [
+          "https://www.wonka.com/us/en/xp/golden-ticket/terms-and-conditions"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "wonka.com/us/en/xp/golden-ticket"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "wonka-golden-ticket-sweepstakes-instant-win",
+      "rules_checked": "full"
     }
   ]
 }
