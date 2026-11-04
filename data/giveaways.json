@@ -1638,6 +1638,40 @@
       "source": "Claude review 2026-11-04",
       "id": "wonka-golden-ticket-sweepstakes-instant-win",
       "rules_checked": "full"
+    },
+    {
+      "name": "Chewy Claus 2026 (pet holiday letter sweepstakes)",
+      "prize": "About 14,000 winners get a Chewy goody box surprise for their pet (per listing site)",
+      "category": "other",
+      "entry_url": "https://www.chewy.com/education/chewy-claus",
+      "rules_url": null,
+      "ends": "2026-12-24T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Write a holiday letter for your pet on Chewy's page. Free, no account needed per Chewy's FAQ.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.chewy.com/education/chewy-claus",
+        "checked_at": "2026-11-04T11:49-05:00",
+        "evidence": [
+          "https://be.chewy.com/chewy-claus-terms-conditions",
+          "https://www.chewy.com/education/chewy-claus"
+        ],
+        "reason": "The listing's short link blocks automated readers; it matches Chewy Claus (ends Dec 24). Chewy's FAQ says Nov 2 to Dec 24 11:59 PM, free with no Chewy account, 18+ in the 48 contiguous states and DC, but the official rules (entry limit, prize count) weren't readable.",
+        "missing": [
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "chewy-claus-2026-pet-holiday-letter-sweepstakes",
+      "match": [
+        "chewy.com/education/chewy-claus"
+      ],
+      "rules_checked": "partial"
     }
   ]
 }

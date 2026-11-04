@@ -178,6 +178,20 @@
       "next_retry_at": null,
       "decided_at": "2026-11-04T00:52:12-05:00"
     },
+    "https://chewy.com/education/chewy-claus": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The listing's short link blocks automated readers; it matches Chewy Claus (ends Dec 24). Chewy's FAQ says Nov 2 to Dec 24 11:59 PM, free with no Chewy account, 18+ in the 48 contiguous states and DC, but the official rules (entry limit, prize count) weren't readable.",
+      "last_attempt_at": "2026-11-04T11:49:12-05:00",
+      "evidence": [
+        "https://be.chewy.com/chewy-claus-terms-conditions",
+        "https://www.chewy.com/education/chewy-claus"
+      ],
+      "listing_id": "chewy-claus-2026-pet-holiday-letter-sweepstakes",
+      "decided_at": "2026-11-04T11:49:12-05:00",
+      "next_retry_at": "2026-11-07T11:49:12-05:00"
+    },
     "https://chipotle.com/giveaway": {
       "attempts": 0,
       "status": "listed",
@@ -404,12 +418,17 @@
     },
     "https://go.magik.ly/ml/4hyl7": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The listing's short link blocks automated readers; it matches Chewy Claus (ends Dec 24). Chewy's FAQ says Nov 2 to Dec 24 11:59 PM, free with no Chewy account, 18+ in the 48 contiguous states and DC, but the official rules (entry limit, prize count) weren't readable.",
+      "last_attempt_at": "2026-11-04T11:49:12-05:00",
+      "evidence": [
+        "https://be.chewy.com/chewy-claus-terms-conditions",
+        "https://www.chewy.com/education/chewy-claus"
+      ],
+      "listing_id": "chewy-claus-2026-pet-holiday-letter-sweepstakes",
+      "decided_at": "2026-11-04T11:49:12-05:00",
+      "next_retry_at": "2026-11-07T11:49:12-05:00"
     },
     "https://goldbelly.com/spotlight/thanksgiving-sweepstakes": {
       "attempts": 1,
@@ -434,12 +453,16 @@
     },
     "https://help.doordash.com/en-us/consumers/article/doordash-fall-football-streaks-rewards-sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "no_free_online_entry",
+      "reason": "Sponsor rules: online entries come from placing 4-5 DoorDash orders of $20+ in a month; the only free method is a mailed 3x5 card",
+      "last_attempt_at": "2026-11-04T11:47:59-05:00",
+      "evidence": [
+        "https://help.doordash.com/en-us/consumers/article/doordash-fall-football-streaks-rewards-sweepstakes"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T11:47:59-05:00",
+      "name": "Win $757,500 Cash Toward a House + More From Doordash!"
     },
     "https://hgtv.com/sweepstakes/home-for-the-holidays": {
       "name": "HGTV Home for the Holidays",
@@ -568,12 +591,16 @@
     },
     "https://legendairymilk.com/pages/thankful-for-you-registry-giveaway-terms": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "restricted_group",
+      "reason": "Sponsor terms: entry requires submitting a public baby registry link (Amazon, Target, Babylist, etc.); prize is items from that registry",
+      "last_attempt_at": "2026-11-04T11:49:54-05:00",
+      "evidence": [
+        "https://legendairymilk.com/pages/thankful-for-you-registry-giveaway-terms"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T11:49:54-05:00",
+      "name": "Win $1,750 Worth of Baby Registry Prizes in The Thankful For You Registry Giveaway"
     },
     "https://livenation.com/jerseymikes": {
       "name": "Jersey Mike's My Way Sweepstakes",
@@ -792,13 +819,13 @@
       "name": "Win a $1000 Walmart Gift Card and More from Real Good Foods!"
     },
     "https://shoplowes.me/3WZLa2y": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "robots_blocked",
+      "reason": "Lowe's short link disallows automated readers (robots.txt) and the rules weren't found on lowes.com by search; destination page and rules unknown",
+      "last_attempt_at": "2026-11-04T11:48:14-05:00",
+      "next_retry_at": "2026-11-05T11:48:14-05:00",
+      "name": "Win a House in Lowe's A Home for the Holidays Sweepstakes!"
     },
     "https://sigsauer.com/decked-sweepstakes": {
       "attempts": 0,
