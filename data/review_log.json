@@ -339,13 +339,16 @@
       "next_retry_at": null
     },
     "https://cloroxhomeappliances.com/giveaways": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://cloroxhomeappliances.com/giveaways and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T17:51:05-05:00",
+      "evidence": [
+        "https://cloroxhomeappliances.com/giveaways"
+      ],
+      "next_retry_at": "2026-11-05T17:51:05-05:00",
+      "name": "Win a Turbo True HEPA Air Purifier from Clorox!"
     },
     "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones": {
       "attempts": 0,
@@ -742,13 +745,16 @@
       "name": "win a golden Logitech G ASTRO Headset"
     },
     "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T17:51:05-05:00",
+      "evidence": [
+        "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway"
+      ],
+      "next_retry_at": "2026-11-05T17:51:05-05:00",
+      "name": "A Bookshop for Christmas Blog Tour Giveaway"
     },
     "https://gleam.io/dpZFp/anker-solix-s5000-giveaway": {
       "attempts": 1,
@@ -760,13 +766,16 @@
       "name": "Win an Anker SOLIX S5000 Portable Power Station Valued at $3600!"
     },
     "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026 and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T17:51:05-05:00",
+      "evidence": [
+        "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026"
+      ],
+      "next_retry_at": "2026-11-05T17:51:05-05:00",
+      "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026"
     },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 1,
@@ -1145,13 +1154,17 @@
       "next_retry_at": null
     },
     "https://mygrizzly.com/secure.html": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://www.mygrizzly.com/promotions/the-camo-life/official-rules.html and https://www.mygrizzly.com/secure.html and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T17:51:05-05:00",
+      "evidence": [
+        "https://www.mygrizzly.com/promotions/the-camo-life/official-rules.html",
+        "https://www.mygrizzly.com/secure.html"
+      ],
+      "next_retry_at": "2026-11-05T17:51:05-05:00",
+      "name": "892 Will Instantly Win a $250 Gift Card in The Grizzly Camo Life IWG!"
     },
     "https://na.nokiantyres.com/gtg": {
       "attempts": 0,
@@ -1763,13 +1776,16 @@
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
     "https://thechasefordpromo.nascar.com/": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://thechasefordpromo.nascar.com/ and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T17:51:05-05:00",
+      "evidence": [
+        "https://thechasefordpromo.nascar.com/"
+      ],
+      "next_retry_at": "2026-11-05T17:51:05-05:00",
+      "name": "2026 NASCAR Cup Series Chase Sweepstakes"
     },
     "https://theknot.com/aisle-ready": {
       "name": "The Knot Get Aisle Ready Sweepstakes",
