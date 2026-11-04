@@ -1992,6 +1992,84 @@
       "source": "Claude review 2026-11-04",
       "id": "allegiant-double-down-flyaway-sweepstakes-luke-bryan-jason-a",
       "rules_checked": "full"
+    },
+    {
+      "name": "Delta Faucet $2,100 Hair Care Giveaway",
+      "prize": "1 winner: hair care package (ARV $2,100)",
+      "category": "other",
+      "entry_url": "https://www.deltafaucet.com/giveaways",
+      "rules_url": "https://www.deltafaucet.com/giveaways",
+      "ends": "2026-11-16T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "The rules say a social media account is required to enter (Gleam form)"
+      },
+      "notes": "Ends 11:59 PM PT Nov 15. Embedded Gleam form asks for name and email. One entry per person. 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.deltafaucet.com/giveaways",
+        "checked_at": "2026-11-04T11:59-05:00",
+        "evidence": [
+          "https://www.deltafaucet.com/giveaways"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "deltafaucet.com/giveaways"
+      ],
+      "frames": [
+        "gleam.io/*"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "delta-faucet-2-100-hair-care-giveaway",
+      "rules_checked": "full"
+    },
+    {
+      "name": "LEGO Win Your Wish List Sweepstakes",
+      "prize": "2 US winners: their LEGO.com wish list, up to $1,000 each",
+      "category": "other",
+      "entry_url": "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist",
+      "rules_url": "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist",
+      "ends": "2026-11-22T10:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Free LEGO Insiders membership; you enter from your own wish list while logged in"
+      },
+      "notes": "Make a wish list on LEGO.com, then click Enter Sweepstake on your wish list page (you accept the terms there yourself). Ends 15:59 UTC Nov 22 (10:59 AM ET). One entry per person, 18+. You can edit the list until the end.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist",
+        "checked_at": "2026-11-04T11:59-05:00",
+        "evidence": [
+          "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "lego.com/en-us/holiday-gifts/win-your-wishlist",
+        "lego.com/en-us/member/wishlist"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "lego-win-your-wish-list-sweepstakes",
+      "rules_checked": "full"
     }
   ]
 }

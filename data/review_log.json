@@ -201,12 +201,16 @@
     },
     "https://brandcycle.shop/snwlu": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:59:57-05:00",
+      "evidence": [
+        "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist"
+      ],
+      "listing_id": "lego-win-your-wish-list-sweepstakes",
+      "decided_at": "2026-11-04T11:59:57-05:00",
+      "next_retry_at": null
     },
     "https://bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes": {
       "name": "Bravo Insider Vanderpump Vegas Sweepstakes",
@@ -423,12 +427,16 @@
     },
     "https://deltafaucet.com/giveaways": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:59:08-05:00",
+      "evidence": [
+        "https://www.deltafaucet.com/giveaways"
+      ],
+      "listing_id": "delta-faucet-2-100-hair-care-giveaway",
+      "decided_at": "2026-11-04T11:59:08-05:00",
+      "next_retry_at": null
     },
     "https://destinedforadventuresweepstakes.entertowinprizes.com/": {
       "attempts": 0,
@@ -870,6 +878,19 @@
       "next_retry_at": null,
       "decided_at": "2026-11-04T11:49:54-05:00",
       "name": "Win $1,750 Worth of Baby Registry Prizes in The Thankful For You Registry Giveaway"
+    },
+    "https://lego.com/en-us/holiday-gifts/win-your-wishlist": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:59:57-05:00",
+      "evidence": [
+        "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist"
+      ],
+      "listing_id": "lego-win-your-wish-list-sweepstakes",
+      "decided_at": "2026-11-04T11:59:57-05:00",
+      "next_retry_at": null
     },
     "https://livenation.com/jerseymikes": {
       "name": "Jersey Mike's My Way Sweepstakes",
