@@ -1019,16 +1019,13 @@
       ],
       "ends": "2026-11-11T02:59:00-05:00",
       "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/Los_Angeles",
-        "reset_hour": 0
+        "type": "rolling24"
       },
       "min_age": 18,
       "flags": {
         "account": "Chipotle Rewards membership (free); create it yourself"
       },
-      "notes": "Free entry form requires a Chipotle Rewards membership (free; create it yourself). Form asks for name, email and month/year of birth. One entry per person per day by any method; the rules don't define the day, and the sponsor's database clock is the timekeeper, so PT midnight is assumed. Four weekly drawings, so entering early gives more chances. Purchase route (Family Meal) not needed.",
+      "notes": "Free entry form requires a Chipotle Rewards membership (free; create it yourself). Form asks for name, email and month/year of birth. Open to the 50 states and DC. One entry per person per day by any method; the rules don't define the day (the sponsor's database clock is the timekeeper), so this waits 24 hours between entries. Four weekly drawings, so entering early gives more chances. The purchase route (Family Meal) isn't needed.",
       "verification": {
         "status": "verified",
         "rules_source": "https://www.chipotle.com/giveaway",
@@ -1063,6 +1060,7 @@
       },
       "min_age": 18,
       "flags": {
+        "account": "Instagram account needed: the rules require following Murf and all four participating brands, still following when the winner is picked",
         "follow": "Must follow Murf and all four participating brands on Instagram, still following when the winner is picked",
         "marketing": "Entering signs you up for Murf's and the participating brands' marketing emails"
       },
