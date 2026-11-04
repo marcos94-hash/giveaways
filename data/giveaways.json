@@ -1486,6 +1486,42 @@
       "source": "Claude review 2026-11-04",
       "id": "vato-tuned-honda-obd1-pnp-standalone-ecu-giveaway",
       "rules_checked": "full"
+    },
+    {
+      "name": "Epsom Salt Council Stress Less Express Giveaway",
+      "prize": "1 winner: $250 Hooga Health, $100 Primally Pure and $100 Cozy Earth gift cards, $50 Target gift card, 4 lbs Epsom salt (ARV up to $500)",
+      "category": "gift_card",
+      "entry_url": "https://kingsumo.com/g/19w8xpm/epsom-salt-council-stress-less-express-giveaway/xw28qzn",
+      "rules_url": null,
+      "ends": "2026-12-16T00:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "21+. The entry page asks you to like the Epsom Salt Council Facebook page after the form; the rules don't require it. Other actions are optional bonus entries.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://kingsumo.com/giveaways/19w8xpm/rules",
+        "checked_at": "2026-11-04T11:39-05:00",
+        "evidence": [
+          "https://kingsumo.com/giveaways/19w8xpm/rules"
+        ],
+        "reason": "Sponsor's rules confirm free entry, 21+ and no US state exclusions, but give only a date (entries by Dec 15, 2026) with no time, and state no per-person entry limit. The page says the deadline is Central time.",
+        "missing": [
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "match": [
+        "kingsumo.com/g/19w8xpm"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "epsom-salt-council-stress-less-express-giveaway",
+      "rules_checked": "partial"
     }
   ]
 }

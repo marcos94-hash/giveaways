@@ -528,15 +528,16 @@
     },
     "https://kingsumo.com/g/19w8xpm/epsom-salt-council-stress-less-express-giveaway/xw28qzn": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "interrupted"
-        }
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor's rules confirm free entry, 21+ and no US state exclusions, but give only a date (entries by Dec 15, 2026) with no time, and state no per-person entry limit. The page says the deadline is Central time.",
+      "last_attempt_at": "2026-11-04T11:39:07-05:00",
+      "evidence": [
+        "https://kingsumo.com/giveaways/19w8xpm/rules"
+      ],
+      "listing_id": "epsom-salt-council-stress-less-express-giveaway",
+      "decided_at": "2026-11-04T11:39:07-05:00",
+      "next_retry_at": "2026-11-07T11:39:07-05:00"
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -567,16 +568,16 @@
       "next_retry_at": null
     },
     "https://m.cmpgn.page/RRBmd5": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "interrupted"
-        }
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "Campaign page returns only its title ('A Year of Concerts Presented by Truliant Federal Credit Union Sweepstakes'); rules and eligibility load by script and weren't found by search. Truliant is a regional credit union, so it may be local.",
+      "last_attempt_at": "2026-11-04T11:39:41-05:00",
+      "evidence": [
+        "https://m.cmpgn.page/RRBmd5"
+      ],
+      "next_retry_at": "2026-11-05T11:39:41-05:00",
+      "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!"
     },
     "https://murfelectricbikes.com/pages/ultimate-beach-haul-giveaway": {
       "attempts": 0,
@@ -647,16 +648,13 @@
       }
     },
     "https://ojbirthday.com/login": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "interrupted"
-        }
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Entry page (a login page) returns a client error to the page reader; rules not found on orangejulius.com or dairyqueen.com by search",
+      "last_attempt_at": "2026-11-04T11:39:59-05:00",
+      "next_retry_at": "2026-11-05T11:39:59-05:00",
+      "name": "Orange Julius Smoothie Smash"
     },
     "https://paninigroup.com/": {
       "name": "Panini",
@@ -883,16 +881,16 @@
       ]
     },
     "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "interrupted"
-        }
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "incomplete_info",
+      "reason": "SweepWidget page description says to enter by following @delkin.devices on Instagram and liking/sharing the post (prize: five Delkin memory cards); the widget, end time and rules load by script, so it's unclear whether there's a non-social free entry",
+      "last_attempt_at": "2026-11-04T11:40:12-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232"
+      ],
+      "next_retry_at": "2026-11-05T11:40:12-05:00",
+      "name": "Delkin Devices Toys for Tots Holiday Giveaway"
     },
     "https://sweepwidget.com/c/103243-54m70kqo": {
       "attempts": 0,
@@ -1044,15 +1042,16 @@
     },
     "https://web.witcontests.com/49ers/sweepstakes/win/cache-creek-261001": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "interrupted"
-        }
-      }
+      "status": "rejected",
+      "reason_code": "ended",
+      "reason": "Sponsor's entry page says 'This activation has ended'",
+      "last_attempt_at": "2026-11-04T11:40:41-05:00",
+      "evidence": [
+        "https://web.witcontests.com/49ers/sweepstakes/win/cache-creek-261001"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T11:40:41-05:00",
+      "name": "San Francisco 49ers Cache Creek Casino Resort Cache In Sweepstakes"
     },
     "https://web.witcontests.com/nickthegreek/giveaway/spin/demigod-experience-260929": {
       "name": "Nick The Greek Demigod Experience",
