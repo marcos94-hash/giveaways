@@ -1191,6 +1191,113 @@
         "coldstonecreamery.com/sweepstakes"
       ],
       "rules_checked": "full"
+    },
+    {
+      "name": "Nokian Tyres Virtual Green Tire Giveaway",
+      "prize": "Weekly: set of Nokian tires (closest map guess) or 2 lift-ticket vouchers (second closest); grand prize 3-night mountain getaway (random drawing)",
+      "category": "trip",
+      "entry_url": "https://na.nokiantyres.com/gtg/",
+      "rules_url": null,
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Place a pin on the map once a day; a new resort location each week. Daily clues are posted on Nokian's and the resorts' social channels.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://na.nokiantyres.com/gtg/rules/",
+        "checked_at": "2026-11-04T01:27-05:00",
+        "evidence": [
+          "https://na.nokiantyres.com/gtg/"
+        ],
+        "reason": "Sponsor's giveaway page gives the dates (ends Nov 22 11:59 PM ET) and one entry per day, but the official rules page blocks the page reader (robots.txt), so eligibility, free entry and age weren't confirmed. Weekly prizes go to the closest guess, not a random draw.",
+        "missing": [
+          "eligibility",
+          "free_entry"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "nokian-tyres-virtual-green-tire-giveaway",
+      "match": [
+        "na.nokiantyres.com/gtg"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "INSP Grateful Gathering Sweepstakes",
+      "prize": "1 winner: prize pack with $250 Visa gift card, digital photo frame, board games set and John Wayne items (ARV $571)",
+      "category": "gift_card",
+      "entry_url": "https://www.insp.com/sweepstakes/grateful-gathering-sweepstakes/",
+      "rules_url": "https://www.insp.com/sweepstakes-rules/",
+      "ends": "2026-11-30T09:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Online form only (no mail entries). One entry per person per day; the rules don't define the day, so this waits 24 hours. Open to the 50 states and DC, 18+ on the start date. Ends 9:59 AM ET Nov 30.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.insp.com/sweepstakes-rules/",
+        "checked_at": "2026-11-04T01:28-05:00",
+        "evidence": [
+          "https://www.insp.com/sweepstakes-rules/",
+          "https://www.insp.com/sweepstakes/"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "insp.com/sweepstakes"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "insp-grateful-gathering-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Continental Tire 2026 CRM Sweepstakes",
+      "prize": "1 winner: set of 4 Continental tires (ARV $1,200)",
+      "category": "other",
+      "entry_url": "https://continentaltire.com/newsletter-signup",
+      "rules_url": "https://continentaltire.com/monthly-sweepstakes-rules",
+      "ends": "2026-12-31T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering is a newsletter signup: you agree to Continental marketing emails"
+      },
+      "notes": "Newsletter signup doubles as the entry. One entry per email address for the whole year; drawing Jan 10, 2027. Open to US and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://continentaltire.com/monthly-sweepstakes-rules",
+        "checked_at": "2026-11-04T01:28-05:00",
+        "evidence": [
+          "https://continentaltire.com/monthly-sweepstakes-rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "continental-tire-2026-crm-sweepstakes",
+      "match": [
+        "continentaltire.com/newsletter-signup"
+      ],
+      "rules_checked": "full"
     }
   ]
 }

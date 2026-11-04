@@ -186,12 +186,16 @@
     },
     "https://continentaltire.com/newsletter-signup": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T01:28:39-05:00",
+      "evidence": [
+        "https://continentaltire.com/monthly-sweepstakes-rules"
+      ],
+      "listing_id": "continental-tire-2026-crm-sweepstakes",
+      "decided_at": "2026-11-04T01:28:39-05:00",
+      "next_retry_at": null
     },
     "https://coppolaholidayoffer.com/en": {
       "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
@@ -376,12 +380,17 @@
     },
     "https://insp.com/sweepstakes/grateful-gathering-sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T01:28:20-05:00",
+      "evidence": [
+        "https://www.insp.com/sweepstakes-rules/",
+        "https://www.insp.com/sweepstakes/"
+      ],
+      "listing_id": "insp-grateful-gathering-sweepstakes",
+      "decided_at": "2026-11-04T01:28:20-05:00",
+      "next_retry_at": null
     },
     "https://kensingtonbooks.com/HolidayLuxeBundle": {
       "attempts": 0,
@@ -476,12 +485,16 @@
     },
     "https://na.nokiantyres.com/gtg": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor's giveaway page gives the dates (ends Nov 22 11:59 PM ET) and one entry per day, but the official rules page blocks the page reader (robots.txt), so eligibility, free entry and age weren't confirmed. Weekly prizes go to the closest guess, not a random draw.",
+      "last_attempt_at": "2026-11-04T01:27:32-05:00",
+      "evidence": [
+        "https://na.nokiantyres.com/gtg/"
+      ],
+      "listing_id": "nokian-tyres-virtual-green-tire-giveaway",
+      "decided_at": "2026-11-04T01:27:32-05:00",
+      "next_retry_at": "2026-11-07T01:27:32-05:00"
     },
     "https://news.iheart.com/promotions": {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
