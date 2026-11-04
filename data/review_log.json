@@ -1,6 +1,18 @@
 {
   "version": 2,
   "items": {
+    "https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "Sponsor page loads but has only a 'last week to enter' banner: no rules, dates, eligibility or entry form text; no rules link found by search",
+      "last_attempt_at": "2026-11-04T01:02:01-05:00",
+      "evidence": [
+        "https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes"
+      ],
+      "next_retry_at": "2026-11-05T01:02:01-05:00",
+      "name": "Win the Ultimate AC Barbeque Game Day Prize Pack!"
+    },
     "https://amoe.t-mobiletuesdays.com/": {
       "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
       "status": "listed",
@@ -10,6 +22,43 @@
       "reason_code": "verified",
       "reason": "",
       "next_retry_at": null
+    },
+    "https://app.viralsweep.com/sweeps/full/07d64b-239905?framed=1": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "ViralSweep page returned a client error to the page reader; rules not found by search",
+      "last_attempt_at": "2026-11-04T01:02:01-05:00",
+      "next_retry_at": "2026-11-05T01:02:01-05:00",
+      "name": "The Cozy Gut Health Giveaway"
+    },
+    "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "ViralSweep page needs a page-access approval that wasn't answered; rules not found by search",
+      "last_attempt_at": "2026-11-04T01:02:01-05:00",
+      "next_retry_at": "2026-11-05T01:02:01-05:00",
+      "name": "GOWOOD sunglasses Giveaway"
+    },
+    "https://app.viralsweep.com/sweeps/full/f5c8a8-238992?framed=1": {
+      "attempts": 0,
+      "status": "rejected",
+      "reason_code": "excluded_prize",
+      "reason": "Prize is a firearm; excluded prize category under owner policy. Entry process not researched.",
+      "last_attempt_at": "2026-11-04T00:59:07-05:00",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T00:59:07-05:00",
+      "name": "Win this $22,000 Noveske 12.5\" 6.5 Creedmoor"
+    },
+    "https://app.wyng.com/Mineragua365": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Wyng entry page needs a page-access approval that wasn't answered; current rules not found by search",
+      "last_attempt_at": "2026-11-04T01:02:01-05:00",
+      "next_retry_at": "2026-11-05T01:02:01-05:00",
+      "name": "1 Winner in The Free Mineagua for 375 Days Sweepstakes!"
     },
     "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules": {
       "name": "PCMag Readers' Choice: Phones & Carriers survey",
@@ -41,6 +90,19 @@
       "reason": "Details come from listing sites. Best Buy's official rules PDF was found by the Mac mini but not read yet.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
+    "https://bigasschipotlebag.com/alternative-method-of-entry": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T00:59:07-05:00",
+      "evidence": [
+        "https://www.chipotle.com/giveaway"
+      ],
+      "listing_id": "chipotle-bag-sweepstakes",
+      "decided_at": "2026-11-04T00:59:07-05:00",
+      "next_retry_at": null
+    },
     "https://bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes": {
       "name": "Bravo Insider Vanderpump Vegas Sweepstakes",
       "status": "listed",
@@ -60,6 +122,28 @@
       "reason_code": "needs_rules_check",
       "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://charlottefootballclub.com/ally-savings-bucket-sweepstakes": {
+      "attempts": 0,
+      "name": "Live in North or South Carolina? You Could Win $5,000 + Charlotte FC Season Tickets!",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T00:52:12-05:00"
+    },
+    "https://chipotle.com/giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T00:59:07-05:00",
+      "evidence": [
+        "https://www.chipotle.com/giveaway"
+      ],
+      "listing_id": "chipotle-bag-sweepstakes",
+      "decided_at": "2026-11-04T00:59:07-05:00",
+      "next_retry_at": null
     },
     "https://coca-cola.com/us/en/offerings/holiday-sweeps": {
       "name": "Coca-Cola Holiday Instant Win",
@@ -119,6 +203,19 @@
       "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
+    "https://gearpatrol.com/style/aer-travel-pack-sweepstakes-2026": {
+      "attempts": 0,
+      "status": "rejected",
+      "reason_code": "ended",
+      "reason": "Sponsor page (Gear Patrol) states the entry period is Oct 21 - Nov 4, 2026 and says 'Enter before Wednesday, November 4'; closed as of this review on Nov 4, 2026",
+      "last_attempt_at": "2026-11-04T00:56:42-05:00",
+      "evidence": [
+        "https://www.gearpatrol.com/?p=1046605"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T00:56:42-05:00",
+      "name": "Win an Aer Travel Gear Bundle in the Aer x Gear Patrol Travel Pack Sweepstakes!"
+    },
     "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
       "attempts": 1,
       "status": "blocked",
@@ -167,6 +264,15 @@
       "reason": "",
       "next_retry_at": null
     },
+    "https://image.mail.theknot.com/lib/fe9812747761077d76/m/1/Get+Aisle+Ready+Sweepstakes+2026+Official+Rules.pdf?_gl=1%2Amxz9to%2A_gcl_au%2ANzc4MDM5MjQyLjE3OTE3NTcyOTIuMzg3NTYwNi4xNzkzMjA4NjQzLjE3OTMyMDg2NDIuMTI3NzQ0ODA5Ny4xNzkzMjA4NjI4LjE3OTMyMDg2NDI.%2A_ga%2AMTA5MjIwMTk4Ni4xNzkxNzU3Mjky%2A_ga_6XZLY5HEQX%2AczE3OTMyMDg2MjgkbzIkZzEkdDE3OTMyMDg2NDIkajQ2JGwwJGgw": {
+      "attempts": 0,
+      "name": "Win Up to $20,000 Toward Your Wedding!",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T00:52:12-05:00"
+    },
     "https://kiisfm.iheart.com/promotions": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
       "status": "listed",
@@ -194,6 +300,32 @@
       "listing_id": "jersey-mikes-my-way",
       "reason_code": "verified",
       "reason": "",
+      "next_retry_at": null
+    },
+    "https://murfelectricbikes.com/pages/ultimate-beach-haul-giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T01:02:01-05:00",
+      "evidence": [
+        "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules"
+      ],
+      "listing_id": "murf-ultimate-beach-haul-giveaway",
+      "decided_at": "2026-11-04T01:02:01-05:00",
+      "next_retry_at": null
+    },
+    "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T01:02:01-05:00",
+      "evidence": [
+        "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules"
+      ],
+      "listing_id": "murf-ultimate-beach-haul-giveaway",
+      "decided_at": "2026-11-04T01:02:01-05:00",
       "next_retry_at": null
     },
     "https://news.iheart.com/promotions": {
@@ -291,6 +423,24 @@
       "reason": "ended Nov 3, 2026",
       "decided_at": "2026-11-04",
       "attempts": 0
+    },
+    "https://sweepwidget.com/c/103203-zj5pi0v7": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page needs a page-access approval that wasn't answered; current rules not found by search",
+      "last_attempt_at": "2026-11-04T01:02:01-05:00",
+      "next_retry_at": "2026-11-05T01:02:01-05:00",
+      "name": "Samantha Brown Holiday Collection Giveaway"
+    },
+    "https://sweepwidget.com/c/103243-54m70kqo": {
+      "attempts": 0,
+      "name": "isno - Athens Bar Show Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T00:52:12-05:00"
     },
     "https://sweepwidget.com/c/103274-vozqwf42": {
       "attempts": 1,
@@ -418,6 +568,18 @@
       "reason": "only open to AZ, CA, KS, MO, NV, TN, TX, UT",
       "decided_at": "2026-11-04",
       "attempts": 0
+    },
+    "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "Organic Valley's own giveaway page shows the 2024 edition with no rules; the 2026 Woorise page needs a page-access approval that wasn't answered; 2026 rules not found by search",
+      "last_attempt_at": "2026-11-04T01:02:01-05:00",
+      "evidence": [
+        "https://organicvalley.coop/promotions/giveaway"
+      ],
+      "next_retry_at": "2026-11-05T01:02:01-05:00",
+      "name": "Win a $400 Prize Pack in The Organic Valley 2026 Thanksgiving Giveaway!"
     }
   }
 }

@@ -392,6 +392,17 @@ def save(path, data):
     os.replace(tmp, path)
 
 
+# Prize categories the owner excludes (firearms, ammunition, explosives, alcohol, tobacco,
+# cannabis, wagering). Title-only, so sidebar text can't trip it. A hint for the reviewer, not
+# a drop: the reviewer rejects with excluded_prize after a glance at the prize.
+EXCLUDED_PRIZE_RX = re.compile(
+    r"\b(?:firearms?|rifles?|pistols?|handguns?|shotguns?|guns?|ammo|ammunition|creedmoor|"
+    r"\d+(?:\.\d+)?\s?mm\b|caliber|ar-?15|suppressors?|hunts?|hunting|explosives?|fireworks?|"
+    r"beers?|wines?|winery|vodka|whiske?y|bourbon|tequila|liquor|spirits|brewery|"
+    r"tobacco|cigars?|cigarettes?|vapes?|vaping|nicotine|cannabis|marijuana|thc|cbd|"
+    r"casino|sportsbook|betting|wager)\b", re.I)
+
+
 def keep(c, today):
     """Returns (decision, reason): 'keep', 'drop' (established) or 'retry' (page may be temporary).
 
@@ -409,6 +420,8 @@ def keep(c, today):
     c["review_flags"] = [k for k in ("foreign_only", "nj_excluded", "purchase_required", "local_only") if f.get(k)]
     if c.get("ends_how") in ("inferred", "uncertain"):
         c["review_flags"].append(f"end_date_{c['ends_how']}")
+    if EXCLUDED_PRIZE_RX.search(c.get("title") or ""):
+        c["review_flags"].append("excluded_prize_hint")
     return "keep", ""
 
 

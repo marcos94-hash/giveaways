@@ -1007,6 +1007,84 @@
           "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules"
         ]
       }
+    },
+    {
+      "name": "Chipotle Bag Sweepstakes",
+      "prize": "8,000 oversized Chipotle bags (ARV $30 each), 2,000 per weekly drawing",
+      "category": "other",
+      "entry_url": "https://www.bigasschipotlebag.com/alternative-method-of-entry",
+      "rules_url": "https://www.chipotle.com/giveaway",
+      "match": [
+        "bigasschipotlebag.com/alternative-method-of-entry"
+      ],
+      "ends": "2026-11-11T02:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Los_Angeles",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Chipotle Rewards membership (free); create it yourself"
+      },
+      "notes": "Free entry form requires a Chipotle Rewards membership (free; create it yourself). Form asks for name, email and month/year of birth. One entry per person per day by any method; the rules don't define the day, and the sponsor's database clock is the timekeeper, so PT midnight is assumed. Four weekly drawings, so entering early gives more chances. Purchase route (Family Meal) not needed.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.chipotle.com/giveaway",
+        "checked_at": "2026-11-04T01:00:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.chipotle.com/giveaway"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "chipotle-bag-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Murf Ultimate Beach Haul Giveaway",
+      "prize": "1 winner: Murf Alpha ST e-bike, basket and surf rack, PARKIT chair, $1,000 Salty Crew gift card, Lost surfboard, Turtlebox speaker (total ARV $5,120)",
+      "category": "electronics",
+      "entry_url": "https://www.murfelectricbikes.com/pages/ultimate-beach-haul-giveaway",
+      "rules_url": "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules",
+      "match": [
+        "murfelectricbikes.com/pages/ultimate-beach-haul-giveaway"
+      ],
+      "ends": "2026-11-07T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "Must follow Murf and all four participating brands on Instagram, still following when the winner is picked",
+        "marketing": "Entering signs you up for Murf's and the participating brands' marketing emails"
+      },
+      "notes": "IMPORTANT: the rules require following Murf and all four participating brands on Instagram (still following when the winner is picked), and entering signs you up for Murf's and the brands' marketing emails. Do the follows yourself if you want this one; nothing here follows accounts for you. Form asks for name and email. Open to the 48 contiguous states, DC and Hawaii (Alaska excluded), 18+. One entry per person and email.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules",
+        "checked_at": "2026-11-04T01:00:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "murf-ultimate-beach-haul-giveaway",
+      "rules_checked": "full"
     }
   ]
 }

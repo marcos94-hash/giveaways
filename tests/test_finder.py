@@ -59,6 +59,15 @@ def test_heuristic_flags_go_to_review_not_dropped():
     c3 = finder.extract("https://x.com/p", "<h1>Old</h1><p>Ends: October 1, 2026</p><a href='https://gleam.io/x/y'>Enter</a>", "freestufftimes.com", TODAY)
     assert finder.keep(c3, TODAY) == ("drop", "ended")
 
+def test_excluded_prize_hint_from_title_only():
+    for title, hint in [('Win this $22,000 Noveske 12.5" 6.5 Creedmoor', True), ("Thermal Gear and Hog Hunt Sweepstakes", True),
+                        ("Win a Year of Wine", True), ("Win 1 of 6 Gift Cards from Yankee Candle!", False),
+                        ("GOWOOD sunglasses Giveaway", False), ("Win an Electric Bike + More", False)]:
+        html_ = f"<h1>{title}</h1><p>Ends: December 20, 2026. Beer and wine sidebar ad.</p><a href='https://gleam.io/x/y'>Enter</a>"
+        c = finder.extract("https://www.freestufftimes.com/contests/03/x/", html_, "freestufftimes.com", TODAY)
+        assert finder.keep(c, TODAY)[0] == "keep"
+        assert ("excluded_prize_hint" in c["review_flags"]) == hint, (title, c["review_flags"])
+
 def test_missing_entry_link_is_retried_then_given_up():
     d0 = dt.date(2026, 11, 4)
     e1 = finder.mark_seen(None, d0, "retry")

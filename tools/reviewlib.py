@@ -30,7 +30,11 @@ CATS = {"cash", "gift_card", "electronics", "trip", "mixed", "other"}
 VSTATUS = {"verified", "needs_rules_check"}
 CONFIRM_KEYS = ("eligibility", "free_entry", "deadline", "entry_limit")
 REJECT_CODES = {"ended", "not_open_to_nj", "restricted_group", "purchase_required", "no_free_online_entry",
-                "social_only", "duplicate", "not_running", "invalid_link", "under_age_for_everyone", "other"}
+                "social_only", "duplicate", "not_running", "invalid_link", "under_age_for_everyone",
+                "excluded_prize", "other"}
+# excluded_prize: owner policy, not a rules finding. Firearms, ammunition, explosives, alcohol,
+# tobacco or cannabis products, paid wagering, or a paid entry fee. Record it from the candidate's
+# prize description; don't research the entry process.
 RETRY_CODES = {"unreadable_page", "robots_blocked", "js_only", "no_rules_found", "incomplete_info",
                "conflicting_info", "possible_membership", "other"}
 STATUSES = {"listed", "rejected", "ended", "blocked", "needs_review", "parked", "in_progress", "interrupted"}

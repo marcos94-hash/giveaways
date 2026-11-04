@@ -154,6 +154,7 @@ function card(g) {
     chips.push(`<span class="chip">${esc(limitText(g.limit))}</span>`);
     if ((g.min_age || 18) > 18) chips.push(`<span class="chip warn">${g.min_age}+</span>`);
     if (g.flags && g.flags.account) chips.push(`<span class="chip" title="${esc(g.flags.account)}">Account needed</span>`);
+    if (g.flags && g.flags.follow) chips.push(`<span class="chip warn" title="${esc(g.flags.follow)}">Social follows required</span>`);
     if (g.flags && g.flags.marketing) chips.push(`<span class="chip warn" title="${esc(g.flags.marketing)}">Marketing opt-in</span>`);
     const v = g.verification || {};
     if (isReady(g)) chips.push(`<span class="chip new">Rules verified ${esc((v.checked_at || "").slice(0, 10))}</span>`);
