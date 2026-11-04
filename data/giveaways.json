@@ -2140,6 +2140,81 @@
       "source": "Claude review 2026-11-04",
       "id": "jackson-perkins-weekly-holiday-giveaway-2026",
       "rules_checked": "full"
+    },
+    {
+      "name": "Peppermayo PM Insider Giveaway (Van Cleef & Arpels necklace)",
+      "prize": "Van Cleef & Arpels Vintage Alhambra pendant necklace (ARV AUD 5,050); weekly AUD 1,000 Peppermayo vouchers",
+      "category": "other",
+      "entry_url": "https://us.peppermayo.com/pages/pm-insider-2026",
+      "rules_url": "https://us.peppermayo.com/pages/pm-insider-2026",
+      "ends": "2026-12-02T07:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Instagram and TikTok accounts required",
+        "follow": "Must follow Peppermayo on Instagram and TikTok before submitting the form"
+      },
+      "notes": "IMPORTANT: the terms require following Peppermayo on Instagram and TikTok, then submitting the form; do the follows yourself if you want this one. Australian sponsor, open internationally, 18+. Closes 11:59 PM AEDT Dec 2 (7:59 AM ET). One form entry; liking/tagging posts adds optional bonus entries.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://us.peppermayo.com/pages/pm-insider-2026",
+        "checked_at": "2026-11-04T12:04-05:00",
+        "evidence": [
+          "https://us.peppermayo.com/pages/pm-insider-2026"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "peppermayo-pm-insider-giveaway-van-cleef-arpels-necklace",
+      "match": [
+        "us.peppermayo.com/pages/pm-insider-2026"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "BuzzBallz Sip & Send Holiday Sweepstakes",
+      "prize": "BuzzBallz-branded merch: tent (ARV $999.99), ornaments and earmuffs; about 600 prizes, no alcohol",
+      "category": "other",
+      "entry_url": "https://buzzballzholiday.com/",
+      "rules_url": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/buzzballzholiday_OfficialRules.html",
+      "ends": "2027-01-01T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Alcohol-brand sponsor (Sazerac), but the prizes are branded merchandise, no alcohol. 21+ with a valid ID; the site has an age gate. One entry per person. 50 states and DC.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/buzzballzholiday_OfficialRules.html",
+        "checked_at": "2026-11-04T12:06-05:00",
+        "evidence": [
+          "https://www.mdmgames.com/MDMAdmin/RulesPolicies/buzzballzholiday_OfficialRules.html"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "buzzballzholiday.com"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "buzzballz-sip-send-holiday-sweepstakes",
+      "rules_checked": "full"
     }
   ]
 }

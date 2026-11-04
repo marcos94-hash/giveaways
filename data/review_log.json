@@ -233,12 +233,16 @@
     },
     "https://buzzballzholiday.com/": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:06:17-05:00",
+      "evidence": [
+        "https://www.mdmgames.com/MDMAdmin/RulesPolicies/buzzballzholiday_OfficialRules.html"
+      ],
+      "listing_id": "buzzballz-sip-send-holiday-sweepstakes",
+      "decided_at": "2026-11-04T12:06:17-05:00",
+      "next_retry_at": null
     },
     "https://calisqueeze.com/win-a-cali-squeeze-yeti-cooler": {
       "attempts": 0,
@@ -945,13 +949,13 @@
       "next_retry_at": null
     },
     "https://michelobultra.com/rules": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "robots_blocked",
+      "reason": "Michelob Ultra rules page disallows automated readers (robots.txt)",
+      "last_attempt_at": "2026-11-04T12:06:48-05:00",
+      "next_retry_at": "2026-11-05T12:06:48-05:00",
+      "name": "Win a Fanatics Gift Card in The Michelob Ultra Rinkside ’26"
     },
     "https://murfelectricbikes.com/pages/ultimate-beach-haul-giveaway": {
       "attempts": 0,
@@ -1478,12 +1482,16 @@
     },
     "https://us.peppermayo.com/pages/pm-insider-2026": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:04:19-05:00",
+      "evidence": [
+        "https://us.peppermayo.com/pages/pm-insider-2026"
+      ],
+      "listing_id": "peppermayo-pm-insider-giveaway-van-cleef-arpels-necklace",
+      "decided_at": "2026-11-04T12:04:19-05:00",
+      "next_retry_at": null
     },
     "https://valpak.com/holiday": {
       "name": "Valpak $5,000 Holiday Haul",
