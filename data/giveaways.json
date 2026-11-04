@@ -1969,11 +1969,11 @@
       "flags": {
         "account": "The rules say a social media account is required to enter (Gleam form)"
       },
-      "notes": "Ends 11:59 PM PT Nov 15. Embedded Gleam form asks for name and email. One entry per person. 50 states and DC, 18+.",
+      "notes": "Ends 11:59 PM PT Nov 15. One entry per person. 50 states and DC, 18+. The entry form is an embedded Gleam widget whose exact address isn't known yet, so no embedded form on the page gets your details, even with Fill anyway.",
       "verification": {
-        "status": "verified",
+        "status": "needs_rules_check",
         "rules_source": "https://www.deltafaucet.com/giveaways",
-        "checked_at": "2026-11-04T11:59-05:00",
+        "checked_at": "2026-11-04T12:20-05:00",
         "evidence": [
           "https://www.deltafaucet.com/giveaways"
         ],
@@ -1982,13 +1982,12 @@
           "free_entry": true,
           "deadline": true,
           "entry_limit": true
-        }
+        },
+        "reason": "Sponsor rules (read Nov 4) confirm eligibility (50 states and DC, 18+), free entry, the deadline (11:59 PM PT Nov 15, 2026) and one entry per person, but the entry target still needs checking: the form is an embedded Gleam widget and its exact URL hasn't been identified.",
+        "missing": []
       },
       "match": [
         "deltafaucet.com/giveaways"
-      ],
-      "frames": [
-        "gleam.io/*"
       ],
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",

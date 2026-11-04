@@ -480,14 +480,14 @@
     "https://deltafaucet.com/giveaways": {
       "attempts": 0,
       "status": "listed",
-      "reason_code": "verified",
-      "reason": "",
-      "last_attempt_at": "2026-11-04T11:59:08-05:00",
+      "reason_code": "needs_rules_check",
+      "reason": "Rules facts verified, but the embedded Gleam entry form URL hasn't been identified; frame allowance removed.",
+      "last_attempt_at": "2026-11-04T12:20:00-05:00",
       "evidence": [
         "https://www.deltafaucet.com/giveaways"
       ],
       "listing_id": "delta-faucet-2-100-hair-care-giveaway",
-      "decided_at": "2026-11-04T11:59:08-05:00",
+      "decided_at": "2026-11-04T12:20:00-05:00",
       "next_retry_at": null
     },
     "https://destinedforadventuresweepstakes.entertowinprizes.com/": {
