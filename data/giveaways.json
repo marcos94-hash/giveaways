@@ -1918,6 +1918,80 @@
       "source": "Claude review 2026-11-04",
       "id": "lucky-golf-four-sets-of-golf-clubs-giveaway",
       "rules_checked": "full"
+    },
+    {
+      "name": "David's Bridal NBC Newlyweds Taping Trip Sweepstakes",
+      "prize": "1 winner: trip for 2 to Los Angeles (airfare, 2 hotel nights, transfers) + 2 tickets to a Dec 11 taping of NBC's Newlyweds (ARV $3,500)",
+      "category": "trip",
+      "entry_url": "https://davidsbridal.attn.tv/p/Vyh/",
+      "rules_url": "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules",
+      "ends": "2026-11-13T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entry form is a David's Bridal text-message signup page (asks for mobile number); expect marketing texts"
+      },
+      "notes": "One entry per person. Form asks for name, email, mobile number and ZIP. 48 contiguous states and DC, 18+. You don't need to be engaged or married.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules",
+        "checked_at": "2026-11-04T11:56-05:00",
+        "evidence": [
+          "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "davidsbridal.attn.tv/p/Vyh"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "david-s-bridal-nbc-newlyweds-taping-trip-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Allegiant Double Down Flyaway Sweepstakes (Luke Bryan & Jason Aldean)",
+      "prize": "1 winner: 2 tickets to the Double Down Tour (Dec 11, Allegiant Stadium, Las Vegas) + round-trip flights and hotel (ARV $2,258)",
+      "category": "trip",
+      "entry_url": "https://www.allegiantair.com/DoubleDownFlyawaySweepstakes",
+      "rules_url": "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules",
+      "ends": "2026-11-21T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Ends 11:59 PM PT Nov 20. One entry per email address. 50 states and DC, 21+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules",
+        "checked_at": "2026-11-04T11:58-05:00",
+        "evidence": [
+          "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "allegiantair.com/DoubleDownFlyawaySweepstakes"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "allegiant-double-down-flyaway-sweepstakes-luke-bryan-jason-a",
+      "rules_checked": "full"
     }
   ]
 }

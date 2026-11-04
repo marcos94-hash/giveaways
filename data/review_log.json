@@ -22,14 +22,31 @@
         "prev": null
       }
     },
+    "https://allegiantair.com/DoubleDownFlyawaySweepstakes": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:58:07-05:00",
+      "evidence": [
+        "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules"
+      ],
+      "listing_id": "allegiant-double-down-flyaway-sweepstakes-luke-bryan-jason-a",
+      "decided_at": "2026-11-04T11:58:07-05:00",
+      "next_retry_at": null
+    },
     "https://allegiantair.com/DoubleDownFlyawaySweepstakesRules": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:58:07-05:00",
+      "evidence": [
+        "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules"
+      ],
+      "listing_id": "allegiant-double-down-flyaway-sweepstakes-luke-bryan-jason-a",
+      "decided_at": "2026-11-04T11:58:07-05:00",
+      "next_retry_at": null
     },
     "https://alwaysdiscreetsweepstakes.com/": {
       "attempts": 1,
@@ -287,13 +304,13 @@
       "next_retry_at": null
     },
     "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page-reading tool blocks this Sony site, so the rules can't be read here (Seahawks promotion may be regional)",
+      "last_attempt_at": "2026-11-04T11:57:15-05:00",
+      "next_retry_at": "2026-11-05T11:57:15-05:00",
+      "name": "Win Sony x Seattle Seahawks Headphones!"
     },
     "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form": {
       "attempts": 0,
@@ -378,14 +395,31 @@
       "decided_at": "2026-11-04T11:37:16-05:00",
       "next_retry_at": null
     },
+    "https://davidsbridal.attn.tv/p/Vyh": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:56:33-05:00",
+      "evidence": [
+        "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules"
+      ],
+      "listing_id": "david-s-bridal-nbc-newlyweds-taping-trip-sweepstakes",
+      "decided_at": "2026-11-04T11:56:33-05:00",
+      "next_retry_at": null
+    },
     "https://davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:56:33-05:00",
+      "evidence": [
+        "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules"
+      ],
+      "listing_id": "david-s-bridal-nbc-newlyweds-taping-trip-sweepstakes",
+      "decided_at": "2026-11-04T11:56:33-05:00",
+      "next_retry_at": null
     },
     "https://deltafaucet.com/giveaways": {
       "attempts": 0,
