@@ -2580,6 +2580,43 @@
       "source": "Claude review 2026-11-04",
       "id": "schaeffer-season-2026-instant-win-and-sweeps",
       "rules_checked": "full"
+    },
+    {
+      "name": "Macerich Shopping Center Holiday Sweepstakes",
+      "prize": "Grand prize: $100,000 by check (1 winner, drawn Dec 30, 2026). Also 5 Nespresso coffee machines (ARV $229 each) per participating center.",
+      "category": "cash",
+      "entry_url": "https://shoppingcentersweepstakes.com/",
+      "rules_url": "https://www.macerich.com/sweepstakes",
+      "match": [
+        "shoppingcentersweepstakes.com"
+      ],
+      "ends": "2026-12-25T02:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering consents to marketing use of your personal information."
+      },
+      "notes": "US residents 18+ who live within 100 miles of a participating center. New Jersey has two listed centers (Freehold Raceway Mall and Deptford Mall), and all of NJ is within 100 miles of one of them. Ends 11:59 PM PT Dec 24. One entry per person per day; the rules don't define the day. You pick a center when you enter (the Nespresso prizes are per center). Optional extras: one bonus entry a day for clicking a buying-guide link, and bonus entries when someone enters with your referral link. Mail-in entry is also allowed. The entry form page itself was not read in this run (page reader approval unanswered).",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.macerich.com/sweepstakes",
+        "checked_at": "2026-11-04T18:04-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.macerich.com/sweepstakes"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "macerich-shopping-center-holiday-sweepstakes",
+      "rules_checked": "full"
     }
   ]
 }

@@ -554,13 +554,17 @@
       "next_retry_at": null
     },
     "https://dollargeneral.com/ch/brand-page/mattel": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the official rules https://ram.hotwheelssweepstakes.com/rules.aspx and nobody answered it in this unattended run; Mattel's entry page https://ram.hotwheelssweepstakes.com/ says 50 states and DC, 18+ licensed drivers, no purchase necessary, 9/14/26 to 12/14/26 11:59 PM PT, prize a 2026 Ram 1500, but the entry limit is unread; same promotion as candidate https://ram.hotwheelssweepstakes.com/",
+      "last_attempt_at": "2026-11-04T18:04:36-05:00",
+      "evidence": [
+        "https://ram.hotwheelssweepstakes.com/",
+        "https://ram.hotwheelssweepstakes.com/rules.aspx"
+      ],
+      "next_retry_at": "2026-11-05T18:04:36-05:00",
+      "name": "Win a 2026 Ram Truck!"
     },
     "https://dostuffmedia.com/giveaways/craig-morgan-nashville-2026": {
       "attempts": 1,
@@ -1002,13 +1006,16 @@
       "next_retry_at": "2026-11-07T11:39:07-05:00"
     },
     "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11 and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T18:04:36-05:00",
+      "evidence": [
+        "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11"
+      ],
+      "next_retry_at": "2026-11-05T18:04:36-05:00",
+      "name": "Art Bundles for Good #11 Giveaway"
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -1475,13 +1482,17 @@
       "next_retry_at": "2026-11-07T12:12:22-05:00"
     },
     "https://ritualtoremember.terryschocolate.com/login": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://ritualtoremember.terryschocolate.com/ and nobody answered it in this unattended run; the Terry's USA terms page that did load covers a different promotion (an Instagram prize draw), so the Ritual to Remember rules were not read",
+      "last_attempt_at": "2026-11-04T18:04:36-05:00",
+      "evidence": [
+        "https://ritualtoremember.terryschocolate.com/",
+        "https://www.terryschocolate.com/terrys-usa-terms-conditions/"
+      ],
+      "next_retry_at": "2026-11-05T18:04:36-05:00",
+      "name": "terry's Chocolate Ritual to Remember Sweepstakes"
     },
     "https://roadrangerusa.com/BigGameSweepstakes": {
       "attempts": 0,
@@ -1560,12 +1571,16 @@
     },
     "https://shoppingcentersweepstakes.com/": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T18:04:36-05:00",
+      "evidence": [
+        "https://www.macerich.com/sweepstakes"
+      ],
+      "listing_id": "macerich-shopping-center-holiday-sweepstakes",
+      "decided_at": "2026-11-04T18:04:36-05:00",
+      "next_retry_at": null
     },
     "https://sigsauer.com/decked-sweepstakes": {
       "attempts": 0,
@@ -2024,12 +2039,16 @@
     },
     "https://youtheory.com/pages/sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "no_free_online_entry",
+      "reason": "Official rules: the online entry needs a receipt for a qualifying youtheory purchase at Costco and the only no-purchase entry is by mail; Instagram and TikTok follows only add bonus entries",
+      "last_attempt_at": "2026-11-04T18:04:36-05:00",
+      "evidence": [
+        "https://sweepstakes.youtheory.com/fbsweeps/rules/TheyoutheoryWellnessRewardsSweepstakes"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T18:04:36-05:00",
+      "name": "39 Win Costco Gift Cards in The You Theory Rewards Sweepstakes!"
     }
   }
 }
