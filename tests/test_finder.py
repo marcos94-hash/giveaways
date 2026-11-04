@@ -32,6 +32,14 @@ def test_extract_labeled():
     assert c["category_guess"] == "electronics"
     assert not c["flags"]["nj_excluded"]
 
+def test_rules_link_not_entry():
+    html_ = """<html><body><h1>Win $400</h1><p>ENDING – November 6, 2026</p>
+    <p>OFFICIAL RULES – <a href="https://www.tablotv.com/wp-content/uploads/2026/10/Rules.pdf">Click Here</a></p>
+    <p><a href="https://www.tablotv.com/race-weekend">Click here to enter</a></p></body></html>"""
+    c = finder.extract("https://thefreebieguy.com/sweepstakes/x/", html_, "thefreebieguy.com", TODAY)
+    assert c["entry_url"] == "https://www.tablotv.com/race-weekend", c["entry_url"]
+    assert c["rules_url"].endswith("Rules.pdf")
+
 def test_filters():
     c = finder.extract("https://x.com/c", (FX / "fst_canada.html").read_text(), "freestufftimes.com", TODAY)
     assert finder.keep(c, TODAY) == (False, "not open to US")

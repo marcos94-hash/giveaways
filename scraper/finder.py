@@ -34,12 +34,6 @@ SOURCES = [
         "detail_re": r"^https://www\.freestufftimes\.com/contests/\d+/[a-z0-9-]+/?$",
     },
     {
-        "name": "sweepstakesfanatics",
-        "listing": ["https://sweepstakesfanatics.com/", "https://sweepstakesfanatics.com/page/2/",
-                    "https://sweepstakesfanatics.com/page/3/"],
-        "detail_re": r"^https://sweepstakesfanatics\.com/(?!page/|category/|tag/|author/|about|contact|privacy|terms|wp-)[a-z0-9-]+/?$",
-    },
-    {
         "name": "thefreebieguy",
         "listing": ["https://thefreebieguy.com/sweepstakes/", "https://thefreebieguy.com/sweepstakes/page/2/"],
         "detail_re": r"^https://thefreebieguy\.com/sweepstakes/[a-z0-9-]+/?$",
@@ -267,14 +261,19 @@ def pick_links(page, source_host):
             continue
         outbound.append((href, txt))
         tl = txt.lower()
-        if rules is None and "rule" in tl:
-            rules = href
+        path = urllib.parse.urlsplit(href).path.lower()
+        looks_rules = "rule" in tl or re.search(r"rules|terms|\.pdf$", path)
+        if looks_rules:
+            if rules is None:
+                rules = href
+            continue
         elif enter is None and re.search(r"\benter\b|click here|go to (?:the )?(?:giveaway|sweepstakes)|entry form", tl):
             enter = href
     if enter is None:  # fallback: first outbound link to something that looks like a promotion
         for href, txt in outbound:
             h, path = host(href), urllib.parse.urlsplit(href).path.lower()
-            if not h.endswith(SOCIAL) and any(k in h or k in path for k in PLATFORMS) and "rule" not in txt.lower():
+            if (not h.endswith(SOCIAL) and any(k in h or k in path for k in PLATFORMS) and "rule" not in txt.lower()
+                    and not re.search(r"rules|terms|\.pdf$", path)):
                 enter = href
                 break
     return enter, rules
@@ -365,7 +364,8 @@ def main():
     ap.add_argument("--out", default="data/candidates.json")
     ap.add_argument("--report", default="data/scrape_report.json")
     ap.add_argument("--state", default=os.path.expanduser("~/.cache/giveaway-finder/seen.json"))
-    ap.add_argument("--max-details", type=int, default=120)
+    ap.add_argument("--max-details", type=int, default=150)
+    ap.add_argument("--per-source", type=int, default=60)
     ap.add_argument("--only", help="run one source by name (testing)")
     args = ap.parse_args()
 
@@ -407,9 +407,10 @@ def main():
                 if h not in details and h.rstrip("/") != final.rstrip("/"):
                     details.append(h)
         r["detail_links"] = len(details)
+        src_budget = args.per_source
 
         for du in details:
-            if budget <= 0:
+            if budget <= 0 or src_budget <= 0:
                 break
             if du in seen:
                 continue
@@ -422,6 +423,7 @@ def main():
                 r["errors"].append(f"{du}: {e}")
                 continue
             budget -= 1
+            src_budget -= 1
             seen[du] = today.isoformat()
             c = extract(final, body, host(final), today)
             r["parsed"] += 1

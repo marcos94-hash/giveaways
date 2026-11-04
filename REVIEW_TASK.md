@@ -66,6 +66,7 @@ Record what you find:
   - Instant-win games with one play a day count as daily.
   - Bonus entries from referrals or social posts go in `notes` only.
 - **Entry URL.** The sponsor's own entry page, or the giveaway platform's (Gleam, ViralSweep, SweepWidget and so on). Never the listing site.
+  - If a candidate's `entry_url` is really a rules PDF or rules page, find the actual entry page from the rules or from its `source_url` listing.
 - **`rules_checked`.**
   - `"full"` if you read the official rules.
   - `"partial"` only if the rules wouldn't load but the sponsor's own entry page clearly states eligibility, dates and the limit.
