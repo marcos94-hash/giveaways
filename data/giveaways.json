@@ -1,8 +1,32 @@
 {
   "version": 1,
   "updated": "2026-11-03",
-  "source": "Checked against official rules by Claude.",
+  "source": "Found by the Mac mini finder and Perplexity/web search, checked against official rules by Claude.",
   "giveaways": [
+    {
+      "id": "ign-bestbuy-7-dualsense",
+      "name": "IGN x Best Buy #7: DualSense controller",
+      "prize": "DualSense PS5 controller ($74.99) + entry into the week's grand prize bundle",
+      "category": "electronics",
+      "entry_url": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
+      "rules_url": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
+      "rules_note": "Terms & Conditions section of the page.",
+      "match": [
+        "ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
+      ],
+      "ends": "2026-11-04T12:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "flags": {
+        "account": "Free IGN account"
+      },
+      "notes": "Rules say it ends 10 AM PDT, but daylight time ended, so noon ET is the safe cutoff. One prize max across the whole promotion. AK, HI, NY, FL excluded; NJ is fine.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03"
+    },
     {
       "id": "real-good-foods-meatball",
       "name": "Real Good Foods Meatball Sweepstakes",
@@ -24,6 +48,108 @@
       "notes": "Use the free entry form, not the purchase path. Rules say the free form is worth 10 entries a day. Asks for name, email, phone and date of birth.",
       "day_note": "Day boundary inferred from the 11:59 PM CT deadline.",
       "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03"
+    },
+    {
+      "id": "ign-bestbuy-daily",
+      "name": "IGN x Best Buy daily giveaway",
+      "prize": "A new Best Buy tech prize each weekday + weekly grand prize bundle",
+      "category": "electronics",
+      "entry_url": "https://www.ign.com/rewards",
+      "rules_url": null,
+      "rules_note": "Terms & Conditions on each giveaway's own page.",
+      "match": [
+        "ign.com/rewards"
+      ],
+      "starts": "2026-11-04T13:00:00-05:00",
+      "ends": "2026-11-14T12:00:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 13,
+        "weekdays_only": true
+      },
+      "flags": {
+        "account": "Free IGN account"
+      },
+      "notes": "Pick the current Best Buy 'Biggest OOO Ever' giveaway on IGN Rewards. Each one has its own page and allows one entry. Runs through Nov 13.",
+      "day_note": "New giveaways open around 10 AM Pacific (1 PM ET) on weekdays.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03"
+    },
+    {
+      "id": "upgraded-points-universal",
+      "name": "Upgraded Points Universal Orlando Trip",
+      "prize": "Universal Orlando trip for 4 (about $5,510)",
+      "category": "trip",
+      "entry_url": "https://upgradedpoints.com/news/universal-giveaway-2026/",
+      "rules_url": "https://upgradedpoints.com/news/universal-giveaway-2026/",
+      "match": [
+        "upgradedpoints.com/news/universal-giveaway-2026"
+      ],
+      "ends": "2026-11-27T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "flags": {},
+      "notes": "18+. One entry per person.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03"
+    },
+    {
+      "id": "bravo-vanderpump-vegas",
+      "name": "Bravo Insider Vanderpump Vegas Sweepstakes",
+      "prize": "Vegas trip + $500 cash",
+      "category": "trip",
+      "entry_url": "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes",
+      "rules_url": "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes",
+      "match": [
+        "bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes"
+      ],
+      "ends": "2026-11-30T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "flags": {
+        "account": "Free Bravo Insider account (likely)"
+      },
+      "notes": "Opens on the rules page, which links to the Bravo Insider entry.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03"
+    },
+    {
+      "id": "bestbuy-store-speedrun",
+      "name": "Best Buy Store Speedrun Sweepstakes",
+      "prize": "$20k tech run, 20 HP OMEN laptops, 100 x $50 certificates",
+      "category": "electronics",
+      "entry_url": "https://www.bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes/pcmcat1789139942121.c?id=pcmcat1789139942121",
+      "rules_url": null,
+      "rules_note": "On the entry page.",
+      "match": [
+        "bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes"
+      ],
+      "ends": "2026-12-01T00:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Chicago",
+        "reset_hour": 0
+      },
+      "flags": {
+        "account": "Free My Best Buy account (paid tiers get 4 a day; not needed)"
+      },
+      "notes": "Mail-in entry also allowed.",
+      "day_note": "Day boundary inferred from the 11:59 PM CT deadline.",
+      "rules_checked": "partial",
       "min_age": 18,
       "added": "2026-11-03",
       "source": "Claude review 2026-11-03"
@@ -243,132 +369,6 @@
       "source": "Claude review 2026-11-03"
     },
     {
-      "id": "ign-bestbuy-7-dualsense",
-      "name": "IGN x Best Buy #7: DualSense controller",
-      "prize": "DualSense PS5 controller ($74.99) + entry into the week's grand prize bundle",
-      "category": "electronics",
-      "entry_url": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
-      "rules_url": "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
-      "rules_note": "Terms & Conditions section of the page.",
-      "match": [
-        "ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
-      ],
-      "ends": "2026-11-04T12:00:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "flags": {
-        "account": "Free IGN account"
-      },
-      "notes": "Rules say it ends 10 AM PDT, but daylight time ended, so noon ET is the safe cutoff. One prize max across the whole promotion. AK, HI, NY, FL excluded; NJ is fine.",
-      "rules_checked": "full",
-      "min_age": 18,
-      "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
-    },
-    {
-      "id": "ign-bestbuy-daily",
-      "name": "IGN x Best Buy daily giveaway",
-      "prize": "A new Best Buy tech prize each weekday + weekly grand prize bundle",
-      "category": "electronics",
-      "entry_url": "https://www.ign.com/rewards",
-      "rules_url": null,
-      "rules_note": "Terms & Conditions on each giveaway's own page.",
-      "match": [
-        "ign.com/rewards"
-      ],
-      "starts": "2026-11-04T13:00:00-05:00",
-      "ends": "2026-11-14T12:00:00-05:00",
-      "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/New_York",
-        "reset_hour": 13,
-        "weekdays_only": true
-      },
-      "flags": {
-        "account": "Free IGN account"
-      },
-      "notes": "Pick the current Best Buy 'Biggest OOO Ever' giveaway on IGN Rewards. Each one has its own page and allows one entry. Runs through Nov 13.",
-      "day_note": "New giveaways open around 10 AM Pacific (1 PM ET) on weekdays.",
-      "rules_checked": "full",
-      "min_age": 18,
-      "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
-    },
-    {
-      "id": "bestbuy-store-speedrun",
-      "name": "Best Buy Store Speedrun Sweepstakes",
-      "prize": "$20k tech run, 20 HP OMEN laptops, 100 x $50 certificates",
-      "category": "electronics",
-      "entry_url": "https://www.bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes/pcmcat1789139942121.c?id=pcmcat1789139942121",
-      "rules_url": null,
-      "rules_note": "On the entry page.",
-      "match": [
-        "bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes"
-      ],
-      "ends": "2026-12-01T00:59:00-05:00",
-      "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/Chicago",
-        "reset_hour": 0
-      },
-      "flags": {
-        "account": "Free My Best Buy account (paid tiers get 4 a day; not needed)"
-      },
-      "notes": "Mail-in entry also allowed.",
-      "day_note": "Day boundary inferred from the 11:59 PM CT deadline.",
-      "rules_checked": "partial",
-      "min_age": 18,
-      "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
-    },
-    {
-      "id": "upgraded-points-universal",
-      "name": "Upgraded Points Universal Orlando Trip",
-      "prize": "Universal Orlando trip for 4 (about $5,510)",
-      "category": "trip",
-      "entry_url": "https://upgradedpoints.com/news/universal-giveaway-2026/",
-      "rules_url": "https://upgradedpoints.com/news/universal-giveaway-2026/",
-      "match": [
-        "upgradedpoints.com/news/universal-giveaway-2026"
-      ],
-      "ends": "2026-11-27T23:59:59-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "flags": {},
-      "notes": "18+. One entry per person.",
-      "rules_checked": "full",
-      "min_age": 18,
-      "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
-    },
-    {
-      "id": "bravo-vanderpump-vegas",
-      "name": "Bravo Insider Vanderpump Vegas Sweepstakes",
-      "prize": "Vegas trip + $500 cash",
-      "category": "trip",
-      "entry_url": "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes",
-      "rules_url": "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes",
-      "match": [
-        "bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes"
-      ],
-      "ends": "2026-11-30T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "flags": {
-        "account": "Free Bravo Insider account (likely)"
-      },
-      "notes": "Opens on the rules page, which links to the Bravo Insider entry.",
-      "rules_checked": "full",
-      "min_age": 18,
-      "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
-    },
-    {
       "id": "pcmag-rc-audio",
       "name": "PCMag Readers' Choice: Headphones & Speakers survey",
       "prize": "$250 Amazon code",
@@ -390,27 +390,6 @@
       "source": "Claude review 2026-11-03"
     },
     {
-      "id": "pcmag-rc-phones",
-      "name": "PCMag Readers' Choice: Phones & Carriers survey",
-      "prize": "$250 Amazon code",
-      "category": "gift_card",
-      "entry_url": "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules",
-      "rules_url": "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules",
-      "match": [
-        "au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules"
-      ],
-      "ends": "2027-01-31T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "flags": {},
-      "notes": "Click through to the survey from this page. Separate drawing from the audio survey.",
-      "rules_checked": "full",
-      "min_age": 18,
-      "added": "2026-11-03",
-      "source": "Claude review 2026-11-03"
-    },
-    {
       "id": "finish-grocery-giveaway",
       "name": "Finish Grocery Gift Card Giveaway",
       "prize": "4 x $2,500 Visa gift cards",
@@ -426,6 +405,27 @@
       },
       "flags": {},
       "notes": "One entry total.",
+      "rules_checked": "full",
+      "min_age": 18,
+      "added": "2026-11-03",
+      "source": "Claude review 2026-11-03"
+    },
+    {
+      "id": "pcmag-rc-phones",
+      "name": "PCMag Readers' Choice: Phones & Carriers survey",
+      "prize": "$250 Amazon code",
+      "category": "gift_card",
+      "entry_url": "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules",
+      "rules_url": "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules",
+      "match": [
+        "au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules"
+      ],
+      "ends": "2027-01-31T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "flags": {},
+      "notes": "Click through to the survey from this page. Separate drawing from the audio survey.",
       "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",

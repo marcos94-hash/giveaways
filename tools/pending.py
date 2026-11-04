@@ -7,7 +7,19 @@ ap = argparse.ArgumentParser(); ap.add_argument("-n", type=int, default=25); ap.
 a = ap.parse_args()
 cands = load("candidates.json", {"candidates": {}})["candidates"]
 log = load("review_log.json", {"reviewed": {}})["reviewed"]
-listed = {norm_url(g["entry_url"]) for g in load("giveaways.json", {"giveaways": []})["giveaways"]}
+listed = set()
+prefixes = []
+for g in load("giveaways.json", {"giveaways": []})["giveaways"]:
+    listed.add(norm_url(g["entry_url"]))
+    if g.get("rules_url"):
+        listed.add(norm_url(g["rules_url"]))
+    prefixes += [m.lower() for m in g.get("match", []) if "/" in m]
+
+def already_listed(k):
+    if k in listed:
+        return True
+    bare = k.split("://", 1)[-1]
+    return any(bare.startswith(p) for p in prefixes)
 today = now_et().date().isoformat()
 
 def score(c):
@@ -16,7 +28,7 @@ def score(c):
     soon = c.get("ends_guess") or "9999"
     return (cat, freq, -(c.get("value_guess") or 0), soon)
 
-todo = [c for k, c in cands.items() if k not in log and k not in listed
+todo = [c for k, c in cands.items() if k not in log and not already_listed(k)
         and not (c.get("ends_guess") and c["ends_guess"] <= today)]
 todo.sort(key=score)
 print(f"{len(todo)} unreviewed candidates ({len(cands)} total found, {len(log)} already reviewed)\n")

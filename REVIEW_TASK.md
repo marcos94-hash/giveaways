@@ -49,6 +49,8 @@ Accept only if all of these hold:
   - Reject if limited to certain states, metro areas or a station's listening/viewing area that doesn't include NJ.
   - Reject if limited to a group he isn't in (employees, teachers, nurses, members, a specific school other than NJIT).
 - **Open now.** The entry period hasn't ended. If it starts later, set `starts`.
+- **Not a duplicate.** If it's the same promotion as one already in `data/giveaways.json` (the listing may link its rules instead of its entry page), reject it as "duplicate of <id>".
+- **Restricted prizes.** For firearms, alcohol or similar prizes, accept only if the rules allow New Jersey winners, and say any extra requirement (age 21, permits, transfer through a dealer) in `notes`.
 
 Record what you find:
 

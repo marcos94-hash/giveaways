@@ -96,6 +96,18 @@
       "name": "Panini",
       "reason": "purchase or mailed envelope only",
       "date": "2026-11-03"
+    },
+    "https://theknot.com/aisle-ready": {
+      "verdict": "rejected",
+      "name": "The Knot Get Aisle Ready Sweepstakes",
+      "reason": "needs a 2027 wedding date and a The Knot account; ends Nov 3, 2026",
+      "date": "2026-11-03"
+    },
+    "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf": {
+      "verdict": "rejected",
+      "name": "Best Buy Store Speedrun (rules PDF)",
+      "reason": "duplicate of bestbuy-store-speedrun",
+      "date": "2026-11-03"
     }
   }
 }
