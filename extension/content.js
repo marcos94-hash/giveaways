@@ -361,6 +361,14 @@
     if (ctx.status && ctx.status.state === "done") {
       return show(`<span class="w">Already entered ${ctx.status.permanent ? "(one entry allowed)" : "for this entry day"}. Entering again would go over the limit, so nothing was filled.</span>`);
     }
+    if (ctx.notOpen) {
+      const when = ctx.status && ctx.status.nextAt
+        ? new Date(ctx.status.nextAt).toLocaleString("en-US", { timeZone: "America/New_York", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) + " ET"
+        : "later";
+      return show(ctx.status && ctx.status.state === "not_started"
+        ? `<span class="w">Not open yet.</span> Entries open ${esc(when)}. Nothing was filled.`
+        : `<span class="w">No entry allowed right now.</span> The next entry opens ${esc(when)}. Nothing was filled.`);
+    }
     if (ctx.needsProfile) return show(`<span class="w">Add your details in the extension's Settings first.</span>`);
     if (ctx.needsCheck) {
       return show(`<span class="w">Rules not verified yet.</span> ${esc(ctx.reason)} Read the official rules before you enter. Nothing was filled.`,
@@ -379,6 +387,12 @@
 
   async function logEntry() {
     const r = await chrome.runtime.sendMessage({ type: "markEntered", source: "confirmed" }).catch(() => null);
+    if (r && r.status && ctx) {
+      // Once this entry period is used up, stop filling on this page, including forms
+      // that re-render after confirmation. Frames get the same update from the background.
+      ctx.status = r.status;
+      if (r.status.state !== "due") ctx.fill = false;
+    }
     if (r && r.ok) show("Logged. Nice.");
     else if (r && r.already) show(`<span class="w">Already logged for this entry day.</span>`);
     else show(`<span class="w">Couldn't log it. Tick it in the extension popup instead.</span>`);
@@ -392,6 +406,7 @@
     if (msg.type === "childFilled" && IS_TOP) { childCount = Math.max(childCount, msg.count || 0); showState(); }
     if (msg.type === "submitAttempt" && IS_TOP) askConfirm();
     if (msg.type === "refill") start();
+    if (msg.type === "recheck" && !IS_TOP) start(); // after an entry was logged: frames re-ask before filling again
   });
 
   // ---------- start ----------

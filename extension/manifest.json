@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Giveaway Filler",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Fills in giveaway entry forms with your details and tracks daily limits. Never submits: you review and click submit.",
   "permissions": ["storage", "tabs", "alarms", "notifications"],
   "host_permissions": ["<all_urls>"],

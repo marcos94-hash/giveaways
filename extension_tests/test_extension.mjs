@@ -35,6 +35,10 @@ const testList = { version: 1, updated: "test", giveaways: [
   { id: "t-contest", name: "Contest boundary", prize: "$1", entry_url: `${SITE}/contest`, match: ["localhost:8123/contest"], ends: far, limit: daily, flags: {}, verification: VER },
   { id: "t-unverified", name: "Unverified", prize: "$1", entry_url: `${SITE}/unverified.html`, ends: far, limit: daily, flags: {},
     verification: { status: "needs_rules_check", checked_at: "2026-11-04", reason: "Only listing sites checked." } },
+  { id: "t-future", name: "Future", prize: "$1", entry_url: `${SITE}/future.html`, starts: "2049-01-01T00:00:00Z", ends: "2049-06-01T00:00:00Z", limit: daily, flags: {}, verification: VER },
+  { id: "t-future-unv", name: "Future unverified", prize: "$1", entry_url: `${SITE}/futureunv.html`, starts: "2049-01-01T00:00:00Z", ends: "2049-06-01T00:00:00Z", limit: daily, flags: {},
+    verification: { status: "needs_rules_check", checked_at: "2026-11-04", reason: "Only listing sites checked." } },
+  { id: "t-weekday", name: "Weekday only", prize: "$1", entry_url: `${SITE}/weekday.html`, ends: far, limit: { ...daily, weekdays_only: true }, flags: {}, verification: VER },
   { id: "t-21", name: "Twenty-one plus", prize: "$1", entry_url: `${SITE}/form21.html`, ends: far, limit: daily, min_age: 21, flags: {}, verification: VER },
 ]};
 fs.writeFileSync(path.join(EXT, "giveaways.json"), JSON.stringify(testList, null, 2));
@@ -97,6 +101,9 @@ check("rejected AJAX submit asks instead of logging", /Did your entry go through
 await bannerClick(aj, "not-yet");
 await sleep(300);
 check("'Not yet' logs nothing", !((await getLog())["t-ajax"] || []).length);
+const remount = (p, sel) => p.evaluate((sel) => { const f = document.querySelector(sel); f.innerHTML = f.innerHTML; }, sel);
+await remount(aj, "#entry"); await sleep(1200);
+check("unconfirmed attempt stays retryable: a re-rendered form is filled again", (await aj.$eval("#xemail", (e) => e.value)) === "giveaways@example.com");
 await aj.click("#nsubmit"); await sleep(300);
 check("newsletter form submit: no prompt", !/Did your entry go through/.test(await bannerText(aj)));
 await aj.click("#lgsubmit"); await sleep(300);
@@ -104,6 +111,9 @@ check("login form submit: no prompt, password untouched", !/Did your entry go th
 await aj.click("#xsubmit"); await sleep(300);
 await bannerClick(aj, "log"); await sleep(500);
 check("explicit confirmation logs exactly one entry", ((await getLog())["t-ajax"] || []).length === 1 && /Logged/.test(await bannerText(aj)));
+await aj.evaluate(() => { const f = document.querySelector("#entry"); f.innerHTML = f.innerHTML.replace(/value="[^"]*"/g, ""); f.querySelectorAll("input").forEach((i) => (i.value = "")); });
+await sleep(1500);
+check("after confirming, a re-rendered form on the same page is not filled again", (await aj.$eval("#xemail", (e) => e.value)) === "");
 await bannerClick(aj, "log"); await sleep(400);
 check("a second confirm the same day is refused (daily limit)", ((await getLog())["t-ajax"] || []).length === 1);
 await aj.reload(); await sleep(1300);
@@ -155,6 +165,41 @@ await p21.goto(`${SITE}/form21.html`);
 await sleep(1300);
 check("21+ giveaway not filled when under 21", (await p21.$eval("#e21", (e) => e.value)) === "" && /under 21/.test(await bannerText(p21)));
 
+// ---- 8b. not open yet / waiting: no details released, clear message ----
+const fut = await ctx.newPage();
+await fut.goto(`${SITE}/future.html`);
+await sleep(1300);
+const futMsg = await bannerText(fut);
+check("not-started giveaway: nothing filled, 'Not open yet' shown", (await fut.$eval("#femail", (e) => e.value)) === "" && /Not open yet/.test(futMsg) && !/Waiting for the entry form/.test(futMsg), futMsg.slice(0, 120));
+const fu = await ctx.newPage();
+await fu.goto(`${SITE}/futureunv.html`);
+await sleep(1300);
+check("not-started + unverified: no Fill anyway offered", !(await fu.evaluate(() => !!document.getElementById("giveaway-filler-banner")?.shadowRoot?.querySelector('[data-id="fill-anyway"]'))) && /Not open yet/.test(await bannerText(fu)));
+// force a "Fill anyway" override for that tab directly in the background, then ask the page to re-check
+await sw.evaluate(async () => {
+  const [tab] = await chrome.tabs.query({ url: "http://localhost:8123/futureunv.html" });
+  const { overrides = {} } = await chrome.storage.session.get("overrides");
+  overrides[tab.id] = { id: "t-future-unv", url: tab.url };
+  await chrome.storage.session.set({ overrides });
+  await chrome.tabs.sendMessage(tab.id, { type: "refill" });
+});
+await sleep(1200);
+check("Fill anyway request on a not-started page still fills nothing", (await fu.$eval("#fuemail", (e) => e.value)) === "");
+// waiting: freeze the background clock on a Saturday so the weekday-only giveaway is between entry days
+await sw.evaluate(() => { self.__realNow = Date.now; const sat = Date.parse("2026-11-07T15:00:00-05:00"); Date.now = () => sat; });
+const wk = await ctx.newPage();
+await wk.goto(`${SITE}/weekday.html`);
+await sleep(1300);
+const wkMsg = await bannerText(wk);
+check("waiting (weekday-only on a Saturday): nothing filled, next entry time shown", (await wk.$eval("#wemail", (e) => e.value)) === "" && /No entry allowed right now/.test(wkMsg) && /Nov 9/.test(wkMsg), wkMsg.slice(0, 140));
+await sw.evaluate(() => { Date.now = self.__realNow; });
+const wk2 = await ctx.newPage();
+await wk2.goto(`${SITE}/weekday.html`);
+await sleep(1300);
+const dowNow = new Date().toLocaleString("en-US", { timeZone: "America/New_York", weekday: "short" });
+const shouldFill = !["Sat", "Sun"].includes(dowNow) || false;
+check("same weekday-only giveaway fills on a real entry day", (await wk2.$eval("#wemail", (e) => e.value)) === (shouldFill ? "giveaways@example.com" : "") || /No entry allowed/.test(await bannerText(wk2)), dowNow);
+
 // ---- 9. popup: only verified count as ready; unverified listed separately ----
 await popup.reload(); await sleep(900);
 const summary = await popup.textContent("#summary");
@@ -168,6 +213,13 @@ check("badge counts only ready giveaways", badge === String(dueReady), `badge=${
 // ---- 10. once limit after confirming ----
 await ifr.evaluate(() => document.getElementById("giveaway-filler-banner").shadowRoot.querySelector('[data-id="log"]').click());
 await sleep(500);
+await sleep(800);
+{
+  const fr = ifr.frames().find((f) => f.url().includes("inner.html"));
+  await fr.evaluate(() => { const f = document.querySelector("form"); f.innerHTML = f.innerHTML; f.querySelectorAll("input").forEach((i) => (i.value = "")); });
+  await sleep(1500);
+  check("after confirming, a re-rendered form inside a frame is not filled again", (await fr.$eval("#iemail", (e) => e.value)) === "");
+}
 await ifr.reload(); await sleep(1800);
 const inner2 = ifr.frames().find((f) => f.url().includes("inner.html"));
 check("one-entry giveaway: after logging, nothing fills again", (await inner2.$eval("#iemail", (e) => e.value)) === "" && /one entry allowed/.test(await bannerText(ifr)));

@@ -226,7 +226,9 @@ async function decide(sender) {
   const base = { giveaway: { id: g.id, name: g.name }, showBanner: settings.showBanner, ready: isReady(g) };
   if (!isEligible(g, profile)) return { ...base, fill: false, ineligible: true, minAge: minAge(g) };
   const status = giveawayStatus(g, log[g.id]);
+  // Details are released only while an entry is actually allowed right now.
   if (status.state === "done") return { ...base, fill: false, status };
+  if (status.state !== "due") return { ...base, fill: false, notOpen: true, status };
   if (!profileComplete(profile)) return { ...base, fill: false, needsProfile: true, status };
   if (!base.ready) {
     const { overrides } = await getSession();
@@ -274,7 +276,9 @@ chrome.runtime.onMessage.addListener((msg, sender, reply) => {
           const topUrl = sender.frameId === 0 ? sender.url : sender.tab.url;
           id = (await giveawayForPage(sender.tab.id, topUrl))?.id;
         }
-        return reply(id ? await markEntered(id, msg.source || "manual") : { ok: false });
+        const r = id ? await markEntered(id, msg.source || "manual") : { ok: false };
+        if (r.ok && sender.tab) chrome.tabs.sendMessage(sender.tab.id, { type: "recheck" }).catch(() => {});
+        return reply(r);
       }
       case "undoEntered": return reply(await undoEntered(msg.id));
       case "skip": case "unskip": {

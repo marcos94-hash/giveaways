@@ -2,12 +2,13 @@
 
 A Chrome extension that opens your giveaway entry pages, fills in your details, and tracks each giveaway's entry limit. It never clicks submit. You check the form, tick any boxes you want, do any captcha, and submit yourself.
 
-Version 1.1.0 changes:
+Version 1.1.x changes:
 
 - Only giveaways whose sponsor rules were verified count as ready, and only those are opened by Open all.
 - The others sit under "Needs a rules check" and won't fill until you click Fill anyway on that page.
 - Your details only go to the giveaway's listed entry pages and listed embedded frames.
-- An entry is logged only when you confirm it went through.
+- An entry is logged only when you confirm it went through. After that, the page won't fill again for that entry period.
+- Nothing fills before a giveaway opens or between its entry days (for example weekends on weekday-only giveaways). The page says when the next entry opens.
 
 ## Install (2 minutes)
 
