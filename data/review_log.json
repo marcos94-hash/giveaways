@@ -44,6 +44,16 @@
         "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1"
       ]
     },
+    "https://app.viralsweep.com/sweeps/full/4b1c4c-240297?framed=1": {
+      "attempts": 0,
+      "status": "rejected",
+      "reason_code": "excluded_prize",
+      "reason": "Prize includes a hog hunt with thermal gear (hunting/firearms); excluded by owner policy. Not researched.",
+      "last_attempt_at": "2026-11-04T01:22:59-05:00",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:22:59-05:00",
+      "name": "THERMAL GEAR AND HOG HUNT SWEEPSTAKES"
+    },
     "https://app.viralsweep.com/sweeps/full/f5c8a8-238992?framed=1": {
       "attempts": 0,
       "status": "rejected",
@@ -161,6 +171,24 @@
       "reason": "",
       "next_retry_at": null
     },
+    "https://coldstonecreamery.com/sweepstakes": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
+    "https://continentaltire.com/newsletter-signup": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
     "https://coppolaholidayoffer.com/en": {
       "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
       "status": "listed",
@@ -180,6 +208,24 @@
       "reason_code": "verified",
       "reason": "",
       "next_retry_at": null
+    },
+    "https://countdownadventure.hallmarkchannel.com/": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
+    "https://ebacamoe.com/official-rules": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
     },
     "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf": {
       "name": "Best Buy Store Speedrun (rules PDF)",
@@ -222,6 +268,33 @@
       "decided_at": "2026-11-04T00:56:42-05:00",
       "name": "Win an Aer Travel Gear Bundle in the Aer x Gear Patrol Travel Pack Sweepstakes!"
     },
+    "https://gigaparts.com/eufymake-sweepstakes": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
+    "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
+    "https://gleam.io/EEb9t/giveaway-elfie-the-owl-bundle": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
       "attempts": 1,
       "status": "blocked",
@@ -230,6 +303,15 @@
       "last_attempt_at": "2026-11-04T00:05:00-05:00",
       "next_retry_at": "2026-11-05T00:05:00-05:00",
       "name": "win a golden Logitech G ASTRO Headset"
+    },
+    "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
     },
     "https://goldbelly.com/spotlight/thanksgiving-sweepstakes": {
       "attempts": 1,
@@ -249,6 +331,15 @@
       "reason_code": "needs_rules_check",
       "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://hinttreatyourselfsweeps.com/rules": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
     },
     "https://ign.com/rewards": {
       "name": "IGN x Best Buy daily giveaway",
@@ -279,6 +370,24 @@
       "next_retry_at": null,
       "decided_at": "2026-11-04T00:52:12-05:00"
     },
+    "https://insp.com/sweepstakes/grateful-gathering-sweepstakes": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
+    "https://kensingtonbooks.com/HolidayLuxeBundle": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
     "https://kiisfm.iheart.com/promotions": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
       "status": "listed",
@@ -288,6 +397,24 @@
       "reason_code": "needs_rules_check",
       "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://kingsumo.com/g/107jyv3/win-a-vato-tuned-honda-obd1-pnp-standalone-ecu": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
+    "https://kingsumo.com/g/19w8xpm/epsom-salt-council-stress-less-express-giveaway/xw28qzn": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -307,6 +434,15 @@
       "reason_code": "verified",
       "reason": "",
       "next_retry_at": null
+    },
+    "https://m.cmpgn.page/RRBmd5": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
     },
     "https://murfelectricbikes.com/pages/ultimate-beach-haul-giveaway": {
       "attempts": 0,
@@ -334,6 +470,15 @@
       "decided_at": "2026-11-04T01:02:01-05:00",
       "next_retry_at": null
     },
+    "https://na.nokiantyres.com/gtg": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
     "https://news.iheart.com/promotions": {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
       "status": "listed",
@@ -354,6 +499,15 @@
       "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
+    "https://ojbirthday.com/login": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
     "https://paninigroup.com/": {
       "name": "Panini",
       "status": "rejected",
@@ -361,6 +515,15 @@
       "reason": "purchase or mailed envelope only",
       "decided_at": "2026-11-03",
       "attempts": 0
+    },
+    "https://pepsipromos.com/knicks/knicks_rules": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
     },
     "https://perdue.com/holiday-drop": {
       "name": "Perdue Holiday Drop Sweepstakes",
@@ -382,6 +545,26 @@
       "reason": "From one listing site only (50 US + DC except RI, one entry); the entry page blocks automated reading and Health-Ade's rules weren't read.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
+    "https://qr.health-ade.com/c/Y3WM/custom": {
+      "attempts": 0,
+      "status": "rejected",
+      "reason_code": "duplicate",
+      "reason": "Same promotion as listing health-ade-free-groceries-for-a-year-giveaway",
+      "last_attempt_at": "2026-11-04T01:24:40-05:00",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:24:40-05:00",
+      "name": "Win $4200 For Groceries and More!"
+    },
+    "https://ramseysolutions.com/company/policies/ramsey-cash-giveaway-official-rules": {
+      "attempts": 0,
+      "status": "rejected",
+      "reason_code": "duplicate",
+      "reason": "Same promotion as listing ramsey-cash (verified)",
+      "last_attempt_at": "2026-11-04T01:24:40-05:00",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:24:40-05:00",
+      "name": "9 Winners Get $500 Cash or More in the Ramsey Cash Giveaway!!"
+    },
     "https://ramseysolutions.com/giveaway/ramsey-cash-giveaway": {
       "name": "Ramsey Cash Giveaway",
       "status": "listed",
@@ -392,6 +575,15 @@
       "reason": "",
       "next_retry_at": null
     },
+    "https://rangersperks.com/": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
     "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes": {
       "name": "Real Good Foods Meatball Sweepstakes",
       "status": "listed",
@@ -401,6 +593,35 @@
       "reason_code": "verified",
       "reason": "",
       "next_retry_at": null
+    },
+    "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules": {
+      "attempts": 0,
+      "status": "rejected",
+      "reason_code": "duplicate",
+      "reason": "Same promotion as listing real-good-foods-meatball (verified)",
+      "last_attempt_at": "2026-11-04T01:24:40-05:00",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:24:40-05:00",
+      "name": "Win a $1000 Walmart Gift Card and More from Real Good Foods!"
+    },
+    "https://sigsauer.com/decked-sweepstakes": {
+      "attempts": 0,
+      "status": "rejected",
+      "reason_code": "excluded_prize",
+      "reason": "SIG SAUER (firearms maker) promotion; firearm-related prize category excluded by owner policy. Entry process not researched.",
+      "last_attempt_at": "2026-11-04T01:22:58-05:00",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:22:58-05:00",
+      "name": "SIG SAUER X Decked Sweepstakes"
+    },
+    "https://sites.prh.com/fallintocozysweeps/rules": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
     },
     "https://snackwatchandwin.com/": {
       "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
@@ -430,6 +651,15 @@
       "decided_at": "2026-11-04",
       "attempts": 0
     },
+    "https://survey.walmart.com/": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
+    },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
       "attempts": 2,
       "status": "blocked",
@@ -441,6 +671,15 @@
       "evidence": [
         "https://sweepwidget.com/c/103203-zj5pi0v7"
       ]
+    },
+    "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
     },
     "https://sweepwidget.com/c/103243-54m70kqo": {
       "attempts": 0,
@@ -560,6 +799,16 @@
       "reason": "Valpak's rules page blocks automated reading. Dates and 18+ come from Valpak's entry page; the end time and daily limit come from listing sites.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
+    "https://valpak.com/holiday?rules=true": {
+      "attempts": 0,
+      "status": "rejected",
+      "reason_code": "duplicate",
+      "reason": "Same promotion as listing valpak-holiday-haul",
+      "last_attempt_at": "2026-11-04T01:24:40-05:00",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:24:40-05:00",
+      "name": "The Valpak $5,000 Holiday Haul Sweepstakes!"
+    },
     "https://verymerrygiveaway.hallmarkchannel.com/": {
       "name": "Hallmark Very Merry Giveaway",
       "status": "listed",
@@ -569,6 +818,25 @@
       "reason_code": "needs_rules_check",
       "reason": "The Official Rules document wasn't read. Hallmark's own prize page states 21+, the 50 states/DC/PR, no purchase and Oct 16 to Dec 25 ET; the daily limit is from Hallmark's FAQ and listing sites.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://weatherby.com/diehard-waterfowl-giveaway": {
+      "attempts": 0,
+      "status": "rejected",
+      "reason_code": "excluded_prize",
+      "reason": "Prize is a custom Weatherby SORIX shotgun plus waterfowl hunting kit; firearm prize excluded by owner policy. Not researched.",
+      "last_attempt_at": "2026-11-04T01:22:59-05:00",
+      "next_retry_at": null,
+      "decided_at": "2026-11-04T01:22:59-05:00",
+      "name": "Win a custom SORIX and a full waterfowl kit"
+    },
+    "https://web.witcontests.com/49ers/sweepstakes/win/cache-creek-261001": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b1",
+        "expires_at": "2026-11-04T04:22:47-05:00",
+        "prev": null
+      }
     },
     "https://web.witcontests.com/nickthegreek/giveaway/spin/demigod-experience-260929": {
       "name": "Nick The Greek Demigod Experience",
