@@ -560,13 +560,16 @@
       }
     },
     "https://dostuffmedia.com/giveaways/craig-morgan-nashville-2026": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://dostuffmedia.com/giveaways/craig-morgan-nashville-2026 and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T17:51:02-05:00",
+      "evidence": [
+        "https://dostuffmedia.com/giveaways/craig-morgan-nashville-2026"
+      ],
+      "next_retry_at": "2026-11-05T17:51:02-05:00",
+      "name": "Craig Morgan Nashville Experience Giveaway"
     },
     "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf": {
       "attempts": 1,
@@ -718,13 +721,16 @@
       "name": "Elfie the Owl Bundle Giveaway"
     },
     "https://gleam.io/VvauK/weekly-tempspike-pro-giveaway-nov-28": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/VvauK/weekly-tempspike-pro-giveaway-nov-28 and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T17:51:03-05:00",
+      "evidence": [
+        "https://gleam.io/VvauK/weekly-tempspike-pro-giveaway-nov-28"
+      ],
+      "next_retry_at": "2026-11-05T17:51:03-05:00",
+      "name": "TempPro TempSpike Pro Wi-Fi Dual-Probe Meat Thermometer Giveaway"
     },
     "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
       "attempts": 1,
@@ -820,13 +826,16 @@
       "name": "Win $757,500 Cash Toward a House + More From Doordash!"
     },
     "https://hgtv.com/shows/house-shock/giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://www.hgtv.com/shows/house-shock/giveaway and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T17:51:02-05:00",
+      "evidence": [
+        "https://www.hgtv.com/shows/house-shock/giveaway"
+      ],
+      "next_retry_at": "2026-11-05T17:51:02-05:00",
+      "name": "Win $5,000 CASH in The HGTV Shock Your Home Giveaway!"
     },
     "https://hgtv.com/sweepstakes/home-for-the-holidays": {
       "name": "HGTV Home for the Holidays",
@@ -1266,13 +1275,17 @@
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
     "https://perofamilyfarms.com/score-big": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://www.perofamilyfarms.com/contest-rules-score-big/ and https://www.perofamilyfarms.com/score-big/ and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T17:51:03-05:00",
+      "evidence": [
+        "https://www.perofamilyfarms.com/contest-rules-score-big/",
+        "https://www.perofamilyfarms.com/score-big/"
+      ],
+      "next_retry_at": "2026-11-05T17:51:03-05:00",
+      "name": "Win a Prize Pack or Free Products in The Score Big Sweepstakes!"
     },
     "https://peru.travel/thegreatescape": {
       "attempts": 1,
@@ -1352,13 +1365,17 @@
       "name": "30 Will Win in the Sapporo x Onimusha Bottle Opener Giveaway!"
     },
     "https://racewithcraftsman.craftsman.com/": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-pm",
-        "expires_at": "2026-11-04T20:41:06-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://racewithcraftsman.craftsman.com/official-rules and https://racewithcraftsman.craftsman.com/ and nobody answered it in this unattended run, so the rules were not read",
+      "last_attempt_at": "2026-11-04T17:51:03-05:00",
+      "evidence": [
+        "https://racewithcraftsman.craftsman.com/",
+        "https://racewithcraftsman.craftsman.com/official-rules"
+      ],
+      "next_retry_at": "2026-11-05T17:51:03-05:00",
+      "name": "Race with Craftsman Sweepstakes! Win a Trip Package or CRAFTSMAN Tool Packages!"
     },
     "https://ramseysolutions.com/company/policies/ramsey-cash-giveaway-official-rules": {
       "attempts": 0,
