@@ -1121,6 +1121,76 @@
       "source": "Claude review 2026-11-04",
       "id": "organic-valley-2026-thanksgiving-giveaway",
       "rules_checked": "full"
+    },
+    {
+      "name": "Fall Into Cozy Sweepstakes (Penguin Random House)",
+      "prize": "1 winner: 7-item cozy prize pack with books and a pillow (ARV $356)",
+      "category": "other",
+      "entry_url": "https://sites.prh.com/fallintocozysweeps",
+      "rules_url": "https://sites.prh.com/fallintocozysweeps/rules",
+      "ends": "2026-11-06T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Open to the 50 states and DC, 18+. One entry per person. Online form only.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://sites.prh.com/fallintocozysweeps/rules",
+        "checked_at": "2026-11-04T01:25-05:00",
+        "evidence": [
+          "https://sites.prh.com/fallintocozysweeps/rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "fall-into-cozy-sweepstakes-penguin-random-house",
+      "match": [
+        "sites.prh.com/fallintocozysweeps"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Cold Stone Creamery The Cat in the Hat Sweepstakes",
+      "prize": "1 winner: private screening of The Cat in the Hat for up to 51 people + $100 Cold Stone gift card (ARV $1,600)",
+      "category": "other",
+      "entry_url": "https://www.coldstonecreamery.com/sweepstakes/",
+      "rules_url": "https://www.coldstonecreamery.com/sweepstakes/Sweepstakes-Rules.pdf",
+      "ends": "2026-11-08T01:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends 11:59 PM Arizona time Nov 7. Open to the 50 states and DC, 18+. The web form gives one entry; the free email entry (cscsweepstakes@kahalamgmt.com, subject 'Cold Stone Creamery The Cat in the Hat Sweepstakes Entry', with name, email, mailing address and day/evening phone) can be sent up to 4 times, max 4 entries total by any method. Web entry may involve the My Cold Stone Club rewards program; the email route avoids it.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.coldstonecreamery.com/sweepstakes/Sweepstakes-Rules.pdf",
+        "checked_at": "2026-11-04T01:26-05:00",
+        "evidence": [
+          "https://www.coldstonecreamery.com/sweepstakes/Sweepstakes-Rules.pdf"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "cold-stone-creamery-the-cat-in-the-hat-sweepstakes",
+      "match": [
+        "coldstonecreamery.com/sweepstakes"
+      ],
+      "rules_checked": "full"
     }
   ]
 }

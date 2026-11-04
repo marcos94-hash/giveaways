@@ -173,12 +173,16 @@
     },
     "https://coldstonecreamery.com/sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T01:26:53-05:00",
+      "evidence": [
+        "https://www.coldstonecreamery.com/sweepstakes/Sweepstakes-Rules.pdf"
+      ],
+      "listing_id": "cold-stone-creamery-the-cat-in-the-hat-sweepstakes",
+      "decided_at": "2026-11-04T01:26:53-05:00",
+      "next_retry_at": null
     },
     "https://continentaltire.com/newsletter-signup": {
       "attempts": 0,
@@ -614,14 +618,31 @@
       "decided_at": "2026-11-04T01:22:58-05:00",
       "name": "SIG SAUER X Decked Sweepstakes"
     },
+    "https://sites.prh.com/fallintocozysweeps": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T01:25:26-05:00",
+      "evidence": [
+        "https://sites.prh.com/fallintocozysweeps/rules"
+      ],
+      "listing_id": "fall-into-cozy-sweepstakes-penguin-random-house",
+      "decided_at": "2026-11-04T01:25:26-05:00",
+      "next_retry_at": null
+    },
     "https://sites.prh.com/fallintocozysweeps/rules": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T01:25:26-05:00",
+      "evidence": [
+        "https://sites.prh.com/fallintocozysweeps/rules"
+      ],
+      "listing_id": "fall-into-cozy-sweepstakes-penguin-random-house",
+      "decided_at": "2026-11-04T01:25:26-05:00",
+      "next_retry_at": null
     },
     "https://snackwatchandwin.com/": {
       "name": "Snack Watch and Win Sweepstakes (Orville Redenbacher x Hallmark)",
