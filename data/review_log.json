@@ -139,13 +139,13 @@
       "next_retry_at": null
     },
     "https://budlight.com/UpgradeYourGamedayRules": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Bud Light rules page returns a client error to the page reader (age-gated site); prizes and free entry not confirmed",
+      "last_attempt_at": "2026-11-04T11:44:17-05:00",
+      "next_retry_at": "2026-11-05T11:44:17-05:00",
+      "name": "11K+ Will Win in the Bud Light x NFL Game Day Sweeps & IWG"
     },
     "https://campaign.aptivada.com/terms/1923861": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
@@ -158,13 +158,16 @@
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
     "https://campaign.aptivada.com/terms/1927140": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "Aptivada terms page and the iHeart promotion page (news.iheart.com/promotions/clean-up-at-iheartradio-jingle-ball-1927140) load their rules by script; dates, eligibility and limits not readable",
+      "last_attempt_at": "2026-11-04T11:45:36-05:00",
+      "evidence": [
+        "https://news.iheart.com/promotions/clean-up-at-iheartradio-jingle-ball-1927140/"
+      ],
+      "next_retry_at": "2026-11-05T11:45:36-05:00",
+      "name": "Win a Trip to The Jingle Ball in The Arm & Hammer Flyaway Sweepstakes"
     },
     "https://charlottefootballclub.com/ally-savings-bucket-sweepstakes": {
       "attempts": 0,
@@ -650,13 +653,13 @@
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
     "https://offseasonpepsisweeps.com/": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b2",
-        "expires_at": "2026-11-04T14:36:19-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "Sweepstakes site returns only its title (Off Season Pepsi Sweeps); content and rules load by script",
+      "last_attempt_at": "2026-11-04T11:44:44-05:00",
+      "next_retry_at": "2026-11-05T11:44:44-05:00",
+      "name": "14,000 Win a Mini Can Jacket in The Pepsi x Off Season Can Jacket Sweeps!"
     },
     "https://ojbirthday.com/login": {
       "attempts": 1,
