@@ -2215,6 +2215,111 @@
       "source": "Claude review 2026-11-04",
       "id": "buzzballz-sip-send-holiday-sweepstakes",
       "rules_checked": "full"
+    },
+    {
+      "name": "ENGL Ravager IR Amplifier Sweepstakes",
+      "prize": "1 winner: ENGL Ravager IR tube amplifier head ($699)",
+      "category": "electronics",
+      "entry_url": "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes",
+      "rules_url": "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes",
+      "ends": "2026-12-01T01:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Free ESP All Access account required for non-members"
+      },
+      "notes": "Closes 11:59 PM Pacific Nov 30. One entry per person. US, Canada and Mexico, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes",
+        "checked_at": "2026-11-04T12:07-05:00",
+        "evidence": [
+          "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "engl-ravager-ir-amplifier-sweepstakes",
+      "match": [
+        "engl-usa.com/pages/engl-ravager-ir-sweepstakes"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "AVON Beauty & Cheer Sweepstakes",
+      "prize": "Avon beauty prize pack (listing sites say $500+)",
+      "category": "other",
+      "entry_url": "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes",
+      "rules_url": null,
+      "ends": "2026-11-17T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Form asks for name, email and address.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes",
+        "checked_at": "2026-11-04T12:08-05:00",
+        "evidence": [
+          "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes"
+        ],
+        "reason": "Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the linked official rules weren't readable, so the entry limit and prize value aren't confirmed.",
+        "missing": [
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "avon-beauty-cheer-sweepstakes",
+      "match": [
+        "avon.com/sweepstakes/beauty--cheer-sweepstakes"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Big Sky Brands Far Out Flavors Contest",
+      "prize": "23 prizes: grand (CAD $682), second (CAD $354), third (CAD $118) and 20 swag boxes (about CAD $68)",
+      "category": "other",
+      "entry_url": "https://bigskybrands.com/pages/far-out-flavors",
+      "rules_url": "https://bigskybrands.com/pages/contest-rules",
+      "ends": "2026-11-16T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Random draw; winners must answer a math skill-testing question. Submit your email on the contest page; Instagram comments on the pinned post also count, up to 10 unique entries per person for the contest period. US and Canada, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://bigskybrands.com/pages/contest-rules",
+        "checked_at": "2026-11-04T12:09-05:00",
+        "evidence": [
+          "https://bigskybrands.com/pages/contest-rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "bigskybrands.com/pages/far-out-flavors"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "big-sky-brands-far-out-flavors-contest",
+      "rules_checked": "full"
     }
   ]
 }

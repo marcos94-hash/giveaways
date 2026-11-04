@@ -160,12 +160,16 @@
     },
     "https://avon.com/sweepstakes/beauty--cheer-sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the linked official rules weren't readable, so the entry limit and prize value aren't confirmed.",
+      "last_attempt_at": "2026-11-04T12:08:28-05:00",
+      "evidence": [
+        "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes"
+      ],
+      "listing_id": "avon-beauty-cheer-sweepstakes",
+      "decided_at": "2026-11-04T12:08:28-05:00",
+      "next_retry_at": "2026-11-07T12:08:28-05:00"
     },
     "https://bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes/pcmcat1789139942121.c?id=pcmcat1789139942121": {
       "name": "Best Buy Store Speedrun Sweepstakes",
@@ -192,12 +196,29 @@
     },
     "https://bigskybrands.com/pages/contest-rules": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:09:19-05:00",
+      "evidence": [
+        "https://bigskybrands.com/pages/contest-rules"
+      ],
+      "listing_id": "big-sky-brands-far-out-flavors-contest",
+      "decided_at": "2026-11-04T12:09:19-05:00",
+      "next_retry_at": null
+    },
+    "https://bigskybrands.com/pages/far-out-flavors": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:09:19-05:00",
+      "evidence": [
+        "https://bigskybrands.com/pages/contest-rules"
+      ],
+      "listing_id": "big-sky-brands-far-out-flavors-contest",
+      "decided_at": "2026-11-04T12:09:19-05:00",
+      "next_retry_at": null
     },
     "https://brandcycle.shop/snwlu": {
       "attempts": 0,
@@ -504,12 +525,16 @@
     },
     "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b3",
-        "expires_at": "2026-11-04T14:50:07-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T12:07:41-05:00",
+      "evidence": [
+        "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes"
+      ],
+      "listing_id": "engl-ravager-ir-amplifier-sweepstakes",
+      "decided_at": "2026-11-04T12:07:41-05:00",
+      "next_retry_at": null
     },
     "https://exmark.com/America250": {
       "attempts": 0,
