@@ -23,6 +23,15 @@
       "reason": "",
       "next_retry_at": null
     },
+    "https://apfco.com/Secured/WB1811/S9936/Home/OfficialRules": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
+    },
     "https://app.viralsweep.com/sweeps/full/07d64b-239905?framed=1": {
       "attempts": 1,
       "status": "blocked",
@@ -129,6 +138,15 @@
       "reason": "",
       "next_retry_at": null
     },
+    "https://budlight.com/UpgradeYourGamedayRules": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
+    },
     "https://campaign.aptivada.com/terms/1923861": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
       "status": "listed",
@@ -138,6 +156,15 @@
       "reason_code": "needs_rules_check",
       "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
+    },
+    "https://campaign.aptivada.com/terms/1927140": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
     },
     "https://charlottefootballclub.com/ally-savings-bucket-sweepstakes": {
       "attempts": 0,
@@ -160,6 +187,15 @@
       "listing_id": "chipotle-bag-sweepstakes",
       "decided_at": "2026-11-04T00:59:07-05:00",
       "next_retry_at": null
+    },
+    "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
     },
     "https://coca-cola.com/us/en/offerings/holiday-sweeps": {
       "name": "Coca-Cola Holiday Instant Win",
@@ -219,10 +255,23 @@
     },
     "https://countdownadventure.hallmarkchannel.com/": {
       "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:37:16-05:00",
+      "evidence": [
+        "https://countdownadventure.hallmarkchannel.com/rules"
+      ],
+      "listing_id": "hallmark-christmas-countdown-adventure-game-michaels",
+      "decided_at": "2026-11-04T11:37:16-05:00",
+      "next_retry_at": null
+    },
+    "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf": {
+      "attempts": 0,
       "status": "in_progress",
       "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
         "prev": null
       }
     },
@@ -238,6 +287,15 @@
       "next_retry_at": null,
       "decided_at": "2026-11-04T01:30:06-05:00",
       "name": "The Eddie Bauer Red Rocks and Roam Giveaway! 65 Winners get Gift Cards!"
+    },
+    "https://ferrerorocher.com/us/en/xp/raise-a-rocher/lead/register/amoe": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
     },
     "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf": {
       "name": "Best Buy Store Speedrun (rules PDF)",
@@ -294,22 +352,22 @@
       "name": "GigaParts x Anker eufyMake E1 Sweepstakes"
     },
     "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam returns a client error to the page reader (tried Nov 4 11:40 ET on two Gleam pages); terms and eligibility can't be read here",
+      "last_attempt_at": "2026-11-04T11:37:39-05:00",
+      "next_retry_at": "2026-11-05T11:37:39-05:00",
+      "name": "Win a Clarifion DSTx 2.0 Air Purifier 6-Pack"
     },
     "https://gleam.io/EEb9t/giveaway-elfie-the-owl-bundle": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam returns a client error to the page reader (tried Nov 4 11:40 ET on two Gleam pages); terms and eligibility can't be read here",
+      "last_attempt_at": "2026-11-04T11:37:39-05:00",
+      "next_retry_at": "2026-11-05T11:37:39-05:00",
+      "name": "Elfie the Owl Bundle Giveaway"
     },
     "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
       "attempts": 1,
@@ -321,11 +379,20 @@
       "name": "win a golden Logitech G ASTRO Headset"
     },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam returns a client error to the page reader (tried Nov 4 11:40 ET on two Gleam pages); terms and eligibility can't be read here",
+      "last_attempt_at": "2026-11-04T11:37:39-05:00",
+      "next_retry_at": "2026-11-05T11:37:39-05:00",
+      "name": "Annke Black Friday Mystery Box Giveaway"
+    },
+    "https://go.magik.ly/ml/4hyl7": {
       "attempts": 0,
       "status": "in_progress",
       "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
         "prev": null
       }
     },
@@ -337,6 +404,24 @@
       "last_attempt_at": "2026-11-04T00:05:00-05:00",
       "next_retry_at": "2026-11-05T00:05:00-05:00",
       "name": "Goldbelly Thanksgiving Sweepstakes"
+    },
+    "https://happyholi-lays.com/rules": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
+    },
+    "https://help.doordash.com/en-us/consumers/article/doordash-fall-football-streaks-rewards-sweepstakes": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
     },
     "https://hgtv.com/sweepstakes/home-for-the-holidays": {
       "name": "HGTV Home for the Holidays",
@@ -406,12 +491,17 @@
     },
     "https://kensingtonbooks.com/HolidayLuxeBundle": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Kensington's giveaways page lists it as running Oct 30 to Nov 30, and its general sweepstakes terms use Eastern time, but the entry page returns an error to the page reader, so eligibility, entry method and limit weren't confirmed. Other Kensington giveaways are US-only (not Rhode Island), 18+, via newsletter signup.",
+      "last_attempt_at": "2026-11-04T11:37:59-05:00",
+      "evidence": [
+        "https://www.kensingtonbooks.com/between-the-chapters/giveaways/",
+        "https://www.kensingtonbooks.com/pages/termsconditions/"
+      ],
+      "listing_id": "kensington-holiday-luxe-bundle-giveaway",
+      "decided_at": "2026-11-04T11:37:59-05:00",
+      "next_retry_at": "2026-11-07T11:37:59-05:00"
     },
     "https://kiisfm.iheart.com/promotions": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
@@ -425,20 +515,27 @@
     },
     "https://kingsumo.com/g/107jyv3/win-a-vato-tuned-honda-obd1-pnp-standalone-ecu": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-04T11:38:29-05:00",
+      "evidence": [
+        "https://kingsumo.com/giveaways/107jyv3/rules"
+      ],
+      "listing_id": "vato-tuned-honda-obd1-pnp-standalone-ecu-giveaway",
+      "decided_at": "2026-11-04T11:38:29-05:00",
+      "next_retry_at": null
     },
     "https://kingsumo.com/g/19w8xpm/epsom-salt-council-stress-less-express-giveaway/xw28qzn": {
       "attempts": 0,
       "status": "in_progress",
       "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "interrupted"
+        }
       }
     },
     "https://kohls.com/": {
@@ -449,6 +546,15 @@
       "decided_at": "2026-11-03",
       "attempts": 0,
       "next_retry_at": "2026-11-27T00:00:00-05:00"
+    },
+    "https://legendairymilk.com/pages/thankful-for-you-registry-giveaway-terms": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
     },
     "https://livenation.com/jerseymikes": {
       "name": "Jersey Mike's My Way Sweepstakes",
@@ -464,9 +570,12 @@
       "attempts": 0,
       "status": "in_progress",
       "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "interrupted"
+        }
       }
     },
     "https://murfelectricbikes.com/pages/ultimate-beach-haul-giveaway": {
@@ -528,13 +637,25 @@
       "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
+    "https://offseasonpepsisweeps.com/": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
+    },
     "https://ojbirthday.com/login": {
       "attempts": 0,
       "status": "in_progress",
       "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "interrupted"
+        }
       }
     },
     "https://paninigroup.com/": {
@@ -654,6 +775,15 @@
       "decided_at": "2026-11-04T01:24:40-05:00",
       "name": "Win a $1000 Walmart Gift Card and More from Real Good Foods!"
     },
+    "https://shoplowes.me/3WZLa2y": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
+    },
     "https://sigsauer.com/decked-sweepstakes": {
       "attempts": 0,
       "status": "rejected",
@@ -718,6 +848,15 @@
       "decided_at": "2026-11-04",
       "attempts": 0
     },
+    "https://southernliving.com/sweepstakes/entry?sweepId=slv-flash-headstart-1026-eo": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
+    },
     "https://survey.walmart.com/": {
       "attempts": 0,
       "status": "rejected",
@@ -747,9 +886,12 @@
       "attempts": 0,
       "status": "in_progress",
       "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "interrupted"
+        }
       }
     },
     "https://sweepwidget.com/c/103243-54m70kqo": {
@@ -904,9 +1046,12 @@
       "attempts": 0,
       "status": "in_progress",
       "claim": {
-        "run": "review-2026-11-04-b1",
-        "expires_at": "2026-11-04T04:22:47-05:00",
-        "prev": null
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "interrupted"
+        }
       }
     },
     "https://web.witcontests.com/nickthegreek/giveaway/spin/demigod-experience-260929": {
@@ -916,6 +1061,15 @@
       "reason": "only open to AZ, CA, KS, MO, NV, TN, TX, UT",
       "decided_at": "2026-11-04",
       "attempts": 0
+    },
+    "https://wonka.com/us/en/xp/golden-ticket": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-04-b2",
+        "expires_at": "2026-11-04T14:36:19-05:00",
+        "prev": null
+      }
     },
     "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes": {
       "attempts": 1,

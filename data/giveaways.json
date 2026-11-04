@@ -1374,6 +1374,118 @@
         "rangersperks.com/"
       ],
       "rules_checked": "partial"
+    },
+    {
+      "name": "Hallmark Christmas Countdown Adventure Game (Michaels)",
+      "prize": "Grand prize $1,500 Michaels gift card; 200 Michaels digital gift cards ($25/$10) plus movie and cocoa prizes (total ARV $5,560)",
+      "category": "gift_card",
+      "entry_url": "https://countdownadventure.hallmarkchannel.com/",
+      "rules_url": "https://countdownadventure.hallmarkchannel.com/rules",
+      "ends": "2026-11-23T23:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Free HallmarkChannel.com account; log in yourself"
+      },
+      "notes": "Open a door each day (32 daily entry periods, midnight to 11:59 PM ET); one door entry plus one jigsaw or spin-the-wheel play per day. Open to the 50 states and DC, 18+.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://countdownadventure.hallmarkchannel.com/rules",
+        "checked_at": "2026-11-04T11:37-05:00",
+        "evidence": [
+          "https://countdownadventure.hallmarkchannel.com/rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "hallmark-christmas-countdown-adventure-game-michaels",
+      "match": [
+        "countdownadventure.hallmarkchannel.com/"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Kensington Holiday Luxe Bundle Giveaway",
+      "prize": "Deluxe limited editions of Kate Stewart's holiday books, A Season of Secrets by Fern Michaels, and a Comfrt Dreamer blanket",
+      "category": "other",
+      "entry_url": "https://www.kensingtonbooks.com/HolidayLuxeBundle/",
+      "rules_url": null,
+      "ends": "2026-11-30T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Likely a newsletter signup. Check the entry page's rules before entering.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.kensingtonbooks.com/pages/termsconditions/",
+        "checked_at": "2026-11-04T11:37-05:00",
+        "evidence": [
+          "https://www.kensingtonbooks.com/between-the-chapters/giveaways/",
+          "https://www.kensingtonbooks.com/pages/termsconditions/"
+        ],
+        "reason": "Kensington's giveaways page lists it as running Oct 30 to Nov 30, and its general sweepstakes terms use Eastern time, but the entry page returns an error to the page reader, so eligibility, entry method and limit weren't confirmed. Other Kensington giveaways are US-only (not Rhode Island), 18+, via newsletter signup.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "kensington-holiday-luxe-bundle-giveaway",
+      "match": [
+        "kensingtonbooks.com/HolidayLuxeBundle"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Vato Tuned Honda OBD1 PnP Standalone ECU Giveaway",
+      "prize": "1 winner: Vato Tuned Honda OBD1 plug-and-play standalone ECU (ARV $599)",
+      "category": "electronics",
+      "entry_url": "https://kingsumo.com/g/107jyv3/win-a-vato-tuned-honda-obd1-pnp-standalone-ecu",
+      "rules_url": "https://kingsumo.com/giveaways/107jyv3/rules",
+      "ends": "2026-11-30T00:45:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Car part (fits OBD1 Hondas). Ends 11:45 PM CT Nov 29. 18+. One entry per person by email; optional bonus entries for Instagram/Facebook/YouTube follows and referrals aren't needed.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://kingsumo.com/giveaways/107jyv3/rules",
+        "checked_at": "2026-11-04T11:38-05:00",
+        "evidence": [
+          "https://kingsumo.com/giveaways/107jyv3/rules"
+        ],
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        }
+      },
+      "match": [
+        "kingsumo.com/g/107jyv3"
+      ],
+      "added": "2026-11-04",
+      "source": "Claude review 2026-11-04",
+      "id": "vato-tuned-honda-obd1-pnp-standalone-ecu-giveaway",
+      "rules_checked": "full"
     }
   ]
 }
