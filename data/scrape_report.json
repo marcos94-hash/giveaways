@@ -1,86 +1,85 @@
 {
- "run_at": "2026-11-04T21:17:02+00:00",
+ "run_at": "2026-11-05T11:17:01+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 41,
-   "parsed": 41,
-   "kept": 41,
-   "dropped": {},
+   "parsed": 27,
+   "kept": 26,
+   "dropped": {
+    "social-media-only entry": 1
+   },
    "errors": [],
    "samples": [
     {
-     "title": "Art Bundles for Good #11 Giveaway",
-     "entry_url": "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11",
+     "title": "La Crosse Rotary Lights Getaway Sweepstakes 2026",
+     "entry_url": "https://explorelacrosse.com/blog/rotary-lights-getaway-sweepstake-2026/",
      "rules_url": null,
-     "ends_guess": null,
-     "ends_text": null,
+     "ends_guess": "2026-11-19",
+     "ends_text": "Last day to enter: Thu, Nov 19",
      "frequency_guess": "daily",
      "min_age_guess": null,
-     "snippet": "Art Bundles for Good #11 Giveaway - Free Stuff Times Contests\n Skip to the contests\n Free Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests"
+     "snippet": "La Crosse Rotary Lights Getaway Sweepstakes 2026 - Free Stuff Times Contests\n Skip to the contests\n Free Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card B"
     },
     {
-     "title": "Ally Savings Bucket Sweepstakes",
-     "entry_url": "https://www.charlottefootballclub.com/ally-savings-bucket-sweepstakes",
+     "title": "Holiday Trip to Music City Giveaway",
+     "entry_url": "https://www.visitmusiccity.com/holiday-trip-musiccity-giveaway",
      "rules_url": null,
-     "ends_guess": null,
-     "ends_text": null,
+     "ends_guess": "2026-12-03",
+     "ends_text": "Last day to enter: Thu, Dec 3",
      "frequency_guess": "daily",
      "min_age_guess": null,
-     "snippet": "Ally Savings Bucket Sweepstakes - Free Stuff Times Contests\n Skip to the contests\n Free Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nO"
+     "snippet": "Holiday Trip to Music City Giveaway - Free Stuff Times Contests\n Skip to the contests\n Free Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContes"
     }
    ]
   },
   "thefreebieguy": {
    "listing_pages": 2,
-   "detail_links": 268,
+   "detail_links": 267,
    "parsed": 60,
-   "kept": 53,
-   "dropped": {
-    "social-media-only entry": 2,
-    "ended": 5
-   },
+   "kept": 60,
+   "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Win $10,000 Cash or a Stella Rosa Instant Camera!",
-     "entry_url": "https://www.stellarosamoments.com/registration",
-     "rules_url": null,
-     "ends_guess": "2026-12-31",
-     "ends_text": "ENDING – \nDecember 31, 2026",
+     "title": "Win a $5,000 Trip for 2 to Greece or Thousands of Instant Prizes!",
+     "entry_url": "https://web.witcontests.com/nickthegreek/giveaway/spin/demigod-experience-260929",
+     "rules_url": "https://www.nickthegreek.com/official-sweepstakes-rules/",
+     "ends_guess": "2027-01-03",
+     "ends_text": "ENDING – \nJanuary 3, 2027",
      "frequency_guess": "once",
-     "min_age_guess": 21,
-     "snippet": "Win $10,000 Cash or a Stella Rosa Instant Camera! - The Freebie Guy®\nHome\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Perso"
+     "min_age_guess": 18,
+     "snippet": "Win a $5,000 Trip for 2 to Greece or Thousands of Instant Prizes! - The Freebie Guy®\nHome\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deal"
     },
     {
-     "title": "Win an ANNKE Security Camera Mystery Box!",
-     "entry_url": "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more",
-     "rules_url": null,
-     "ends_guess": "2026-12-01",
-     "ends_text": "ENDING – \nDecember 1, 2026",
-     "frequency_guess": "daily",
+     "title": "Win a VIP Race Experience in the Mobil 1 O’Reily Race to Win Sweepstakes!",
+     "entry_url": "https://promotions.mobil.com/offers/23XIracetowin",
+     "rules_url": "https://promotions.mobil.com/offers/23XIracetowin/Info/OfficialRules",
+     "ends_guess": "2026-11-15",
+     "ends_text": "ENDING – \nNovember 15, 2026",
+     "frequency_guess": "once",
      "min_age_guess": 18,
-     "snippet": "Win an ANNKE Security Camera Mystery Box! - The Freebie Guy®\nHome\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care"
+     "snippet": "Win a VIP Race Experience in the Mobil 1 O’Reily Race to Win Sweepstakes! - The Freebie Guy®\nHome\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To Sch"
     }
    ]
   },
   "winprizesonline": {
    "listing_pages": 2,
    "detail_links": 18,
-   "parsed": 18,
-   "kept": 9,
+   "parsed": 12,
+   "kept": 2,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Mattel Hot Wheels Sweepstakes",
-     "entry_url": "https://ram.hotwheelssweepstakes.com/",
+     "title": "Valpak Free Ride Sweepstakes",
+     "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-12-14",
-     "ends_text": "Expires\n 12-14-2026",
+     "ends_guess": "2026-11-06",
+     "ends_text": "Expires\n 11-06-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nMattel Hot Wheels Sweepstakes - Win $70,000 | WinPrizesOnline\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n"
+     "snippet": "﻿\nValpak Free Ride Sweepstakes - Win $40,625 | WinPrizesOnline\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n "
     },
     {
      "title": "Big Sipz 16k Giveaway",
@@ -94,10 +93,10 @@
     }
    ],
    "retry_later": {
-    "no entry link found": 9
+    "no entry link found": 10
    }
   }
  },
- "total_candidates": 210,
- "details_budget_left": 31
+ "total_candidates": 290,
+ "details_budget_left": 51
 }
