@@ -518,13 +518,16 @@
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
     "https://cornbreadhemp.com/pages/holiday-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the sponsor page https://www.cornbreadhemp.com/pages/holiday-giveaway; prize not read. If the prize includes hemp, THC or CBD products, reject as excluded_prize",
+      "last_attempt_at": "2026-11-05T17:53:26-05:00",
+      "evidence": [
+        "https://www.cornbreadhemp.com/pages/holiday-giveaway"
+      ],
+      "next_retry_at": "2026-11-06T17:53:26-05:00",
+      "name": "Cornbread Spritz Holiday Sweepstakes"
     },
     "https://coronausa.com/pages/f-or-2026": {
       "attempts": 1,
@@ -967,26 +970,16 @@
       "next_retry_at": "2026-11-07T11:49:12-05:00"
     },
     "https://goldbelly.com/spotlight/thanksgiving-sweepstakes": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "no_rules_found",
-      "reason": "Entry page shows an email box but no official rules.",
-      "last_attempt_at": "2026-11-04T00:05:00-05:00",
-      "next_retry_at": "2026-11-05T00:05:00-05:00",
+      "attempts": 2,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the entry page https://www.goldbelly.com/spotlight/thanksgiving-sweepstakes; rules still not found",
+      "last_attempt_at": "2026-11-05T17:53:27-05:00",
+      "next_retry_at": "2026-11-07T17:53:27-05:00",
       "name": "Goldbelly Thanksgiving Sweepstakes",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "needs_review",
-          "reason_code": "no_rules_found",
-          "reason": "Entry page shows an email box but no official rules.",
-          "last_attempt_at": "2026-11-04T00:05:00-05:00",
-          "next_retry_at": "2026-11-05T00:05:00-05:00",
-          "name": "Goldbelly Thanksgiving Sweepstakes"
-        }
-      }
+      "evidence": [
+        "https://www.goldbelly.com/spotlight/thanksgiving-sweepstakes"
+      ]
     },
     "https://happyholi-lays.com/rules": {
       "attempts": 1,
@@ -1556,13 +1549,16 @@
       "name": "The Polar Joe \"Ultimate Smoothie Machine Power Pack\" Sweepstakes"
     },
     "https://promorules.com/MK262790": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the official rules https://www.promorules.com/MK262790; rules not read. The finder's excluded-prize hint is from the word Hunt (a scavenger hunt); title prizes are swag and arcade machines, 21+",
+      "last_attempt_at": "2026-11-05T17:53:27-05:00",
+      "evidence": [
+        "https://www.promorules.com/MK262790"
+      ],
+      "next_retry_at": "2026-11-06T17:53:27-05:00",
+      "name": "516 Win Swag, Arcade Machines and More in The Keystone Light Hunt Sweeps & IWG!"
     },
     "https://promorules.com/MK263472": {
       "attempts": 1,
@@ -2054,26 +2050,16 @@
       "decided_at": "2026-11-05T17:39:30-05:00"
     },
     "https://sweepwidget.com/c/103277-vtmslewf": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "js_only",
-      "reason": "SweepWidget page only showed 'Loading Giveaway'.",
-      "last_attempt_at": "2026-11-04T00:05:00-05:00",
-      "next_retry_at": "2026-11-05T00:05:00-05:00",
+      "attempts": 2,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the SweepWidget page; terms and prize not read",
+      "last_attempt_at": "2026-11-05T17:53:27-05:00",
+      "next_retry_at": "2026-11-07T17:53:27-05:00",
       "name": "Keystone It’s All in the Can Sweepstakes",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "js_only",
-          "reason": "SweepWidget page only showed 'Loading Giveaway'.",
-          "last_attempt_at": "2026-11-04T00:05:00-05:00",
-          "next_retry_at": "2026-11-05T00:05:00-05:00",
-          "name": "Keystone It’s All in the Can Sweepstakes"
-        }
-      }
+      "evidence": [
+        "https://sweepwidget.com/c/103277-vtmslewf"
+      ]
     },
     "https://tablotv.com/contest": {
       "name": "Tablo Race Weekend Sweepstakes",
@@ -2122,26 +2108,16 @@
       "attempts": 0
     },
     "https://ul.ink/185EMB-TQM8S6": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "possible_membership",
-      "reason": "Run through a radio-show members' page; rules not found, may need membership.",
-      "last_attempt_at": "2026-11-04T00:05:00-05:00",
-      "next_retry_at": "2026-11-05T00:05:00-05:00",
+      "attempts": 2,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the short link https://ul.ink/185EMB-TQM8S6; redirect target, rules and membership question not settled",
+      "last_attempt_at": "2026-11-05T17:53:27-05:00",
+      "next_retry_at": "2026-11-07T17:53:27-05:00",
       "name": "The Christmas Mortgage Miracle Sweepstakes",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "needs_review",
-          "reason_code": "possible_membership",
-          "reason": "Run through a radio-show members' page; rules not found, may need membership.",
-          "last_attempt_at": "2026-11-04T00:05:00-05:00",
-          "next_retry_at": "2026-11-05T00:05:00-05:00",
-          "name": "The Christmas Mortgage Miracle Sweepstakes"
-        }
-      }
+      "evidence": [
+        "https://ul.ink/185EMB-TQM8S6"
+      ]
     },
     "https://ulta.com/company/terms-and-conditions/scan-to-win-sweepstakes": {
       "name": "Ulta Beauty Scan to Win #2",
