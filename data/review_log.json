@@ -470,13 +470,16 @@
       "next_retry_at": null
     },
     "https://coffeematesweeps.snipp.us/": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the official rules PDF on snippdocs.blob.core.windows.net; rules not read",
+      "last_attempt_at": "2026-11-05T17:53:17-05:00",
+      "evidence": [
+        "https://snippdocs.blob.core.windows.net/docs/Nestle/Coffee-Mate-Sweeps/sweeps-rules.pdf"
+      ],
+      "next_retry_at": "2026-11-06T17:53:17-05:00",
+      "name": "100 Instantly Win Coffee Mate + $200 in The Coffee mate Year of Flavor Sweeps & IWG!"
     },
     "https://coldstonecreamery.com/sweepstakes": {
       "attempts": 0,
@@ -524,13 +527,16 @@
       }
     },
     "https://coronausa.com/pages/f-or-2026": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the entry page https://www.coronausa.com/pages/f-or-2026; rules and prize bundle contents not read (21+ beer sponsor, prize not established as alcohol)",
+      "last_attempt_at": "2026-11-05T17:53:17-05:00",
+      "evidence": [
+        "https://www.coronausa.com/pages/f-or-2026"
+      ],
+      "next_retry_at": "2026-11-06T17:53:17-05:00",
+      "name": "100 Winners get a $630 Prize Bundle in The Corona Football 2026 Sweeps!"
     },
     "https://coronausa.com/pages/holiday": {
       "name": "Corona Holiday Sweepstakes",
@@ -913,13 +919,16 @@
       "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026"
     },
     "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the Gleam page; terms not read",
+      "last_attempt_at": "2026-11-05T17:53:17-05:00",
+      "evidence": [
+        "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes"
+      ],
+      "next_retry_at": "2026-11-06T17:53:17-05:00",
+      "name": "Win a New Boat in The 2026 MLF Bass Pro Shops Z19 Sweepstakes!!"
     },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 1,
@@ -1278,13 +1287,16 @@
       "next_retry_at": null
     },
     "https://lnpromos.com/alerus": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the promo page https://lnpromos.com/alerus; rules and any local area limit not read",
+      "last_attempt_at": "2026-11-05T17:53:17-05:00",
+      "evidence": [
+        "https://lnpromos.com/alerus"
+      ],
+      "next_retry_at": "2026-11-06T17:53:17-05:00",
+      "name": "The Alerus Ultimate Concert Summer Sweepstakes"
     },
     "https://luckygolf.com/pages/giveaway": {
       "attempts": 0,
@@ -1633,13 +1645,16 @@
       "name": "Race with Craftsman Sweepstakes! Win a Trip Package or CRAFTSMAN Tool Packages!"
     },
     "https://ram.hotwheelssweepstakes.com/": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the official rules https://ram.hotwheelssweepstakes.com/rules.aspx; rules not read. Same promotion as the Dollar General Mattel 'Win a 2026 Ram Truck!' candidate",
+      "last_attempt_at": "2026-11-05T17:53:17-05:00",
+      "evidence": [
+        "https://ram.hotwheelssweepstakes.com/rules.aspx"
+      ],
+      "next_retry_at": "2026-11-06T17:53:17-05:00",
+      "name": "HOT WHEELS 2026 Ram Truck Sweepstakes!"
     },
     "https://ramseysolutions.com/company/policies/ramsey-cash-giveaway-official-rules": {
       "attempts": 0,
