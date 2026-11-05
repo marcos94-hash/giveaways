@@ -332,22 +332,28 @@
       "name": "Win a Trip to The Jingle Ball in The Arm & Hammer Flyaway Sweepstakes"
     },
     "https://capncrunchmystery.com/": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the entry page https://www.capncrunchmystery.com/; official rules link not found yet",
+      "last_attempt_at": "2026-11-05T17:52:55-05:00",
+      "evidence": [
+        "https://www.capncrunchmystery.com/"
+      ],
+      "next_retry_at": "2026-11-06T17:52:55-05:00",
+      "name": "Cap'n Crunch Find The Cap'n Sweepstakes"
     },
     "https://celebritycruises.com/games/reflection-spot-the-difference": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the terms PDF https://www.celebritycruises.com/content/dam/celebrity/pdf/reflection-gamification-terms-and-conditions.pdf; rules not read",
+      "last_attempt_at": "2026-11-05T17:52:55-05:00",
+      "evidence": [
+        "https://www.celebritycruises.com/content/dam/celebrity/pdf/reflection-gamification-terms-and-conditions.pdf"
+      ],
+      "next_retry_at": "2026-11-06T17:52:55-05:00",
+      "name": "216 Win Cruises or Swag in the Celebrity Reflection Daily Win Game!"
     },
     "https://charlottefootballclub.com/ally-savings-bucket-sweepstakes": {
       "attempts": 0,
@@ -1160,13 +1166,16 @@
       "next_retry_at": "2026-11-07T11:39:07-05:00"
     },
     "https://kingsumo.com/g/36qgr41/carolina-pottery-cardinal-christmas-theme-giveaway/jxrg8ye": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the KingSumo page; terms not read",
+      "last_attempt_at": "2026-11-05T17:52:55-05:00",
+      "evidence": [
+        "https://kingsumo.com/g/36qgr41/carolina-pottery-cardinal-christmas-theme-giveaway/jxrg8ye"
+      ],
+      "next_retry_at": "2026-11-06T17:52:55-05:00",
+      "name": "Carolina Pottery Cardinal Christmas Theme Giveaway"
     },
     "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11": {
       "attempts": 1,
@@ -1181,13 +1190,16 @@
       "name": "Art Bundles for Good #11 Giveaway"
     },
     "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the KingSumo page; terms not read",
+      "last_attempt_at": "2026-11-05T17:52:55-05:00",
+      "evidence": [
+        "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway"
+      ],
+      "next_retry_at": "2026-11-06T17:52:55-05:00",
+      "name": "VeRUS Pet Foods Dog Gift Basket Giveaway"
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -1908,13 +1920,17 @@
       "name": "1.2K Win a GC in The Starbucks Customer Experience Sweeps!"
     },
     "https://straighttalkracingtour.com/mustang-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the official rules https://straighttalkracingtour.com/mustang-giveaway-official-rules and the entry page; rules not read",
+      "last_attempt_at": "2026-11-05T17:52:55-05:00",
+      "evidence": [
+        "https://straighttalkracingtour.com/mustang-giveaway",
+        "https://straighttalkracingtour.com/mustang-giveaway-official-rules"
+      ],
+      "next_retry_at": "2026-11-06T17:52:55-05:00",
+      "name": "Straight Talk “Ford Mustang” 2026 Giveaway"
     },
     "https://survey.walmart.com/": {
       "attempts": 0,
