@@ -92,7 +92,7 @@ def fetch(url):
 # ---------------------------------------------------------------- parsing
 BLOCK = {"p", "div", "br", "li", "ul", "ol", "h1", "h2", "h3", "h4", "h5", "h6", "tr", "td", "th",
          "section", "article", "header", "footer", "table", "dt", "dd", "blockquote", "hr", "strong"}
-SKIP = {"script", "style", "noscript", "svg", "template", "iframe"}
+SKIP = {"script", "style", "noscript", "svg", "template", "iframe", "title"}  # <title> text would put site menus "after the title"
 
 
 class Page(HTMLParser):

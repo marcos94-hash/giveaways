@@ -86,6 +86,17 @@ def test_rules_link_not_entry():
     assert c["entry_url"] == "https://www.tablotv.com/race-weekend", c["entry_url"]
     assert c["rules_url"].endswith("Rules.pdf")
 
+def test_category_ignores_menu_after_head_title():
+    # The <title> repeats the post title before the site menu ("Best Cash Back Apps"); the guess must use the post body.
+    html_ = """<html><head><title>Win a New Boat in The Bass Sweepstakes! - The Freebie Guy</title></head>
+    <body><nav><a href="/">Home</a><a href="/c">Best Cash Back Apps</a><a href="/g">Gift Card Deals</a></nav>
+    <article><h1>Win a New Boat in The Bass Sweepstakes!</h1><p>One winner gets a bass boat. Ends: December 20, 2026</p>
+    <a href="https://gleam.io/x/bass">Enter here</a></article></body></html>"""
+    c = finder.extract("https://thefreebieguy.com/sweepstakes/bass/", html_, "thefreebieguy.com", TODAY)
+    assert c["title"] == "Win a New Boat in The Bass Sweepstakes!", c["title"]
+    assert c["category_guess"] == "other", c["category_guess"]
+    assert c["entry_url"] == "https://gleam.io/x/bass"
+
 def test_filters():
     c = finder.extract("https://x.com/c", (FX / "fst_canada.html").read_text(), "freestufftimes.com", TODAY)
     assert finder.keep(c, TODAY)[0] == "keep" and "foreign_only" in c["review_flags"]
