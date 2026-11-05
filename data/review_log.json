@@ -2,32 +2,16 @@
   "version": 2,
   "items": {
     "https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "no_rules_found",
-      "reason": "Sponsor page loads but has only a 'last week to enter' banner: no rules, dates, eligibility or entry form text; no rules link found by search",
-      "last_attempt_at": "2026-11-04T01:02:01-05:00",
+      "attempts": 2,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the sponsor page https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes; rules still not found",
+      "last_attempt_at": "2026-11-05T17:53:37-05:00",
       "evidence": [
         "https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes"
       ],
-      "next_retry_at": "2026-11-05T01:02:01-05:00",
-      "name": "Win the Ultimate AC Barbeque Game Day Prize Pack!",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "no_rules_found",
-          "reason": "Sponsor page loads but has only a 'last week to enter' banner: no rules, dates, eligibility or entry form text; no rules link found by search",
-          "last_attempt_at": "2026-11-04T01:02:01-05:00",
-          "evidence": [
-            "https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes"
-          ],
-          "next_retry_at": "2026-11-05T01:02:01-05:00",
-          "name": "Win the Ultimate AC Barbeque Game Day Prize Pack!"
-        }
-      }
+      "next_retry_at": "2026-11-07T17:53:37-05:00",
+      "name": "Win the Ultimate AC Barbeque Game Day Prize Pack!"
     },
     "https://ahxlegoland.com/en/gate": {
       "attempts": 1,
@@ -96,26 +80,16 @@
       "name": "Win $500 in The Season of Giving Cash Giveaway!"
     },
     "https://app.viralsweep.com/sweeps/full/07d64b-239905?framed=1": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "ViralSweep page returned a client error to the page reader; rules not found by search",
-      "last_attempt_at": "2026-11-04T01:02:01-05:00",
-      "next_retry_at": "2026-11-05T01:02:01-05:00",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the ViralSweep page https://app.viralsweep.com/sweeps/full/07d64b-239905; terms not read",
+      "last_attempt_at": "2026-11-05T17:53:37-05:00",
+      "next_retry_at": "2026-11-07T17:53:37-05:00",
       "name": "The Cozy Gut Health Giveaway",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "ViralSweep page returned a client error to the page reader; rules not found by search",
-          "last_attempt_at": "2026-11-04T01:02:01-05:00",
-          "next_retry_at": "2026-11-05T01:02:01-05:00",
-          "name": "The Cozy Gut Health Giveaway"
-        }
-      }
+      "evidence": [
+        "https://app.viralsweep.com/sweeps/full/07d64b-239905"
+      ]
     },
     "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1": {
       "attempts": 2,
@@ -823,48 +797,28 @@
       "name": "Southern Crafted's Thanksgiving Giveaway"
     },
     "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "Gleam returns a client error to the page reader (tried Nov 4 11:40 ET on two Gleam pages); terms and eligibility can't be read here",
-      "last_attempt_at": "2026-11-04T11:37:39-05:00",
-      "next_retry_at": "2026-11-05T11:37:39-05:00",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the Gleam page; terms not read",
+      "last_attempt_at": "2026-11-05T17:53:37-05:00",
+      "next_retry_at": "2026-11-07T17:53:37-05:00",
       "name": "Win a Clarifion DSTx 2.0 Air Purifier 6-Pack",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Gleam returns a client error to the page reader (tried Nov 4 11:40 ET on two Gleam pages); terms and eligibility can't be read here",
-          "last_attempt_at": "2026-11-04T11:37:39-05:00",
-          "next_retry_at": "2026-11-05T11:37:39-05:00",
-          "name": "Win a Clarifion DSTx 2.0 Air Purifier 6-Pack"
-        }
-      }
+      "evidence": [
+        "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-"
+      ]
     },
     "https://gleam.io/EEb9t/giveaway-elfie-the-owl-bundle": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "Gleam returns a client error to the page reader (tried Nov 4 11:40 ET on two Gleam pages); terms and eligibility can't be read here",
-      "last_attempt_at": "2026-11-04T11:37:39-05:00",
-      "next_retry_at": "2026-11-05T11:37:39-05:00",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the Gleam page; terms not read",
+      "last_attempt_at": "2026-11-05T17:53:37-05:00",
+      "next_retry_at": "2026-11-07T17:53:37-05:00",
       "name": "Elfie the Owl Bundle Giveaway",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Gleam returns a client error to the page reader (tried Nov 4 11:40 ET on two Gleam pages); terms and eligibility can't be read here",
-          "last_attempt_at": "2026-11-04T11:37:39-05:00",
-          "next_retry_at": "2026-11-05T11:37:39-05:00",
-          "name": "Elfie the Owl Bundle Giveaway"
-        }
-      }
+      "evidence": [
+        "https://gleam.io/EEb9t/giveaway-elfie-the-owl-bundle"
+      ]
     },
     "https://gleam.io/VvauK/weekly-tempspike-pro-giveaway-nov-28": {
       "attempts": 1,
@@ -934,26 +888,16 @@
       "name": "Win a New Boat in The 2026 MLF Bass Pro Shops Z19 Sweepstakes!!"
     },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "Gleam returns a client error to the page reader (tried Nov 4 11:40 ET on two Gleam pages); terms and eligibility can't be read here",
-      "last_attempt_at": "2026-11-04T11:37:39-05:00",
-      "next_retry_at": "2026-11-05T11:37:39-05:00",
+      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the Gleam page; terms not read",
+      "last_attempt_at": "2026-11-05T17:53:37-05:00",
+      "next_retry_at": "2026-11-07T17:53:37-05:00",
       "name": "Annke Black Friday Mystery Box Giveaway",
-      "claim": {
-        "run": "review-2026-11-05",
-        "expires_at": "2026-11-05T20:42:02-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Gleam returns a client error to the page reader (tried Nov 4 11:40 ET on two Gleam pages); terms and eligibility can't be read here",
-          "last_attempt_at": "2026-11-04T11:37:39-05:00",
-          "next_retry_at": "2026-11-05T11:37:39-05:00",
-          "name": "Annke Black Friday Mystery Box Giveaway"
-        }
-      }
+      "evidence": [
+        "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more"
+      ]
     },
     "https://go.magik.ly/ml/4hyl7": {
       "attempts": 0,
