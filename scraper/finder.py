@@ -325,7 +325,8 @@ def extract(url, body, source_host, today):
     p = parse(url, body)
     text = p.plain()
     title = html.unescape(p.meta.get("og:title") or p.h1 or p.meta.get("title") or "").strip()
-    title = re.sub(r"\s*[|\-–]\s*[^|\-–]{2,40}$", "", title) or title
+    # Drop a " | Site" or " - Site" suffix. A hyphen inside a word (Ski-Doo, Coca-Cola) is not a separator.
+    title = re.sub(r"(?:\s*\|\s*|\s+[-–]\s+)[^|\-–]{2,40}$", "", title) or title
     enter, rules = pick_links(p, source_host)
     end, end_raw, end_how = find_end(text, today)
     return {

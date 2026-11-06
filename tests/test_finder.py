@@ -97,6 +97,17 @@ def test_category_ignores_menu_after_head_title():
     assert c["category_guess"] == "other", c["category_guess"]
     assert c["entry_url"] == "https://gleam.io/x/bass"
 
+def test_title_keeps_hyphenated_words():
+    # winprizesonline og:titles have no site suffix; "Ski-Doo" and "Coca-Cola" were cut to "Ski" and "Coca".
+    for og, want in [("2027 Ski-Doo Summit Sweepstakes", "2027 Ski-Doo Summit Sweepstakes"),
+                     ("Audio-Technica Giveaway", "Audio-Technica Giveaway"),
+                     ("Coca-Cola Holiday Sweeps - WinPrizesOnline", "Coca-Cola Holiday Sweeps"),
+                     ("Win $500 | Free Stuff Times", "Win $500")]:
+        html_ = (f"<html><head><meta property='og:title' content='{og}'></head><body><h1>x</h1>"
+                 "<p>Ends: December 20, 2026</p><a href='https://gleam.io/x/y'>Enter</a></body></html>")
+        c = finder.extract("https://www.winprizesonline.com/x-Sweepstakes/", html_, "winprizesonline.com", TODAY)
+        assert c["title"] == want, (og, c["title"])
+
 def test_filters():
     c = finder.extract("https://x.com/c", (FX / "fst_canada.html").read_text(), "freestufftimes.com", TODAY)
     assert finder.keep(c, TODAY)[0] == "keep" and "foreign_only" in c["review_flags"]
