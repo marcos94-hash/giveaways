@@ -2617,6 +2617,88 @@
       "source": "Claude review 2026-11-04",
       "id": "macerich-shopping-center-holiday-sweepstakes",
       "rules_checked": "full"
+    },
+    {
+      "name": "Gunnison Copper GUNN 25 Challenge Sweepstakes",
+      "prize": "$25,000 cash (1 grand prize, paid by wire or check)",
+      "category": "cash",
+      "entry_url": "https://contest.gunnisoncopper.com/",
+      "rules_url": "https://contest.gunnisoncopper.com/rules",
+      "match": [
+        "contest.gunnisoncopper.com"
+      ],
+      "starts": "2026-11-05T12:00:00-05:00",
+      "ends": "2026-12-13T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Open to the 50 US states and DC except NY, FL and RI, 18+ (NJ is in); winner must be able to give an IRS W-9. Free entry is the form on the contest page (name, email, state, date of birth). One entry per person per day by any method; days run 12:00 AM to 11:59:59 PM ET. The other method, a public 25-rep video tagged #Gunnison25Contest on Instagram, X or TikTok, is optional and has the same odds. The investor news checkbox is optional. Drawing about Dec 16.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://contest.gunnisoncopper.com/rules",
+        "checked_at": "2026-11-06T18:00:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://contest.gunnisoncopper.com/rules",
+          "https://contest.gunnisoncopper.com/"
+        ]
+      },
+      "added": "2026-11-06",
+      "source": "Claude review 2026-11-06",
+      "id": "gunnison-copper-gunn-25-challenge-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "NÜTRL College Football Final Sweepstakes",
+      "prize": "Instant win: tailgate packs (cooler, hat, chair, power bank, 6 can coolers; ARV $203), one per weekly period, 18 in all. Grand prize: $9,000 prepaid card toward a Las Vegas tailgate experience for 2",
+      "category": "mixed",
+      "entry_url": "https://airbaton.net/l/nutrlcollegefootballsweeps",
+      "rules_url": "https://c.airbaton.net/campaigns/vjKOvo4TmVrf1DQL27Rq/assets/NUTRL_COLLEGE_FOOTBALL_FINAL_SWEEPSTAKES.pdf",
+      "match": [
+        "airbaton.net/l/nutrlcollegefootballsweeps"
+      ],
+      "starts": "2026-08-01T00:00:00-04:00",
+      "ends": "2026-12-04T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 21,
+      "flags": {
+        "account": "A free account on the airbaton.net promo site is needed to enter.",
+        "age21": true
+      },
+      "notes": "Sponsor Anheuser-Busch. Open to the 50 US states and DC, 21+ (NJ is in). No purchase: create a free account on the promo site, then one entry and one instant-win play per day; days run midnight to 11:59:59 PM Eastern. Limit one instant-win prize per person. Grand prize drawn about Dec 5. Alcohol is not part of any prize. The entry page didn't load in the page reader this run; the rules PDF was read.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://c.airbaton.net/campaigns/vjKOvo4TmVrf1DQL27Rq/assets/NUTRL_COLLEGE_FOOTBALL_FINAL_SWEEPSTAKES.pdf",
+        "checked_at": "2026-11-06T18:00:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://c.airbaton.net/campaigns/vjKOvo4TmVrf1DQL27Rq/assets/NUTRL_COLLEGE_FOOTBALL_FINAL_SWEEPSTAKES.pdf"
+        ]
+      },
+      "added": "2026-11-06",
+      "source": "Claude review 2026-11-06",
+      "id": "n-trl-college-football-final-sweepstakes",
+      "rules_checked": "full"
     }
   ]
 }

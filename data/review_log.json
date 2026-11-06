@@ -36,12 +36,16 @@
     },
     "https://airbaton.net/l/nutrlcollegefootballsweeps": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-06T18:00:22-05:00",
+      "evidence": [
+        "https://c.airbaton.net/campaigns/vjKOvo4TmVrf1DQL27Rq/assets/NUTRL_COLLEGE_FOOTBALL_FINAL_SWEEPSTAKES.pdf"
+      ],
+      "listing_id": "n-trl-college-football-final-sweepstakes",
+      "decided_at": "2026-11-06T18:00:22-05:00",
+      "next_retry_at": null
     },
     "https://allegiantair.com/DoubleDownFlyawaySweepstakes": {
       "attempts": 0,
@@ -543,12 +547,17 @@
     },
     "https://contest.gunnisoncopper.com/": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-06T18:00:22-05:00",
+      "evidence": [
+        "https://contest.gunnisoncopper.com/",
+        "https://contest.gunnisoncopper.com/rules"
+      ],
+      "listing_id": "gunnison-copper-gunn-25-challenge-sweepstakes",
+      "decided_at": "2026-11-06T18:00:22-05:00",
+      "next_retry_at": null
     },
     "https://continentaltire.com/newsletter-signup": {
       "attempts": 0,
@@ -725,12 +734,16 @@
     },
     "https://drpeppersweeps.com/holiday": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "not_open_to_nj",
+      "reason": "Sponsor rules (Dr Pepper/Seven Up): open only to residents of AZ, CA, CO, GA, IL, IN, KY, MI, OH, TX and WI, 18+",
+      "last_attempt_at": "2026-11-06T18:00:22-05:00",
+      "evidence": [
+        "https://www.drpeppersweeps.com/holiday/Rules"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-06T18:00:22-05:00",
+      "name": "The 2026 Dr Pepper Kroger Holiday Giveaway"
     },
     "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf": {
       "attempts": 1,
@@ -1413,13 +1426,13 @@
       "next_retry_at": null
     },
     "https://letstalkfaith.com/members/member-contests-and-sweepstakes/2026-christmas-mortgage-miracle-sweepstakes": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "letstalkfaith.com returns a client error to the page reader and the 2026 page didn't come up in search; it sits under /members/, so check whether an account is needed",
+      "last_attempt_at": "2026-11-06T18:00:22-05:00",
+      "next_retry_at": "2026-11-07T18:00:22-05:00",
+      "name": "Christmas Mortgage Miracle Sweepstakes"
     },
     "https://livenation.com/jerseymikes": {
       "name": "Jersey Mike's My Way Sweepstakes",
@@ -2135,13 +2148,13 @@
       "name": "120 Winners get Merch Prizes in The Tastemakers Sweepstakes!"
     },
     "https://southern-crafted.com/pages/thanksgiving-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Southern Crafted giveaway page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; the store homepage doesn't mention a giveaway",
+      "last_attempt_at": "2026-11-06T18:00:22-05:00",
+      "next_retry_at": "2026-11-07T18:00:22-05:00",
+      "name": "Southern Crafted Thanksgiving Giveaway"
     },
     "https://southernliving.com/sweepstakes/entry?sweepId=slv-flash-headstart-1026-eo": {
       "attempts": 1,
