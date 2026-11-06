@@ -1,104 +1,105 @@
 {
- "run_at": "2026-11-06T11:17:01+00:00",
+ "run_at": "2026-11-06T21:17:02+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 41,
-   "parsed": 33,
-   "kept": 32,
+   "parsed": 23,
+   "kept": 20,
    "dropped": {
-    "social-media-only entry": 1
+    "social-media-only entry": 2
    },
    "errors": [],
    "samples": [
     {
-     "title": "WIN A COCONU INTIMACY & SELF-CARE BUNDLE",
-     "entry_url": "https://gleam.io/RGXwO/-win-a-coconu-intimacy-selfcare-bundle-",
+     "title": "Valpak Free Ride Sweepstakes",
+     "entry_url": "https://valpak.com/freeride",
      "rules_url": null,
-     "ends_guess": "2026-12-05",
-     "ends_text": "Last day to enter: Sat, Dec 5",
+     "ends_guess": "2026-11-06",
+     "ends_text": "Last day to enter: Fri, Nov 6",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonth"
     },
     {
-     "title": "A Christmas Romance Giveaway",
-     "entry_url": "https://kingsumo.com/g/1xqx5nm/a-christmas-romance-giveaway",
+     "title": "THE GREAT ESCAPE Sweepstakes",
+     "entry_url": "https://www.peru.travel/thegreatescape",
      "rules_url": null,
-     "ends_guess": "2026-11-09",
-     "ends_text": "Last day to enter: Mon, Nov 9",
+     "ends_guess": "2026-11-06",
+     "ends_text": "Last day to enter: Fri, Nov 6",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonth"
     }
-   ]
+   ],
+   "retry_later": {
+    "no entry link found": 1
+   }
   },
   "thefreebieguy": {
    "listing_pages": 2,
    "detail_links": 270,
-   "parsed": 16,
-   "kept": 15,
-   "dropped": {
-    "ended": 1
-   },
+   "parsed": 2,
+   "kept": 2,
+   "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Win a $500 Bra Wardrobe & More From Bare Necessities!",
-     "entry_url": "https://www.barenecessities.com/pages/bare-necessities-28th-birthday-sweepstakes",
-     "rules_url": null,
-     "ends_guess": "2026-11-23",
-     "ends_text": "ENDING – \nNovember 23, 2026",
+     "title": "30 Win a $1K Grocery GC in The Little Holiday Happiness Sweeps",
+     "entry_url": "https://www.littlepotatoes.com/holiday-happiness",
+     "rules_url": "https://www.littlepotatoes.com/holiday-happiness/official-rules/",
+     "ends_guess": "2027-01-06",
+     "ends_text": "ENDING – \nJanuary 6, 2027",
      "frequency_guess": "once",
      "min_age_guess": 18,
      "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
     },
     {
-     "title": "Win a $4,936 Custom Titleist Golf Club & Gear Package!",
-     "entry_url": "https://www.titleist.com/tt-upgrade-your-game-sweepstakes",
-     "rules_url": "https://www.titleist.com/sweepstakes/rules?id=x0rWYeYtxDY=",
-     "ends_guess": "2026-12-31",
-     "ends_text": "ENDING – \nDecember 31, 2026",
+     "title": "Win $1,300+ in Beauty Prizes in The Sigma Beauty Sweepstakes!",
+     "entry_url": "https://sigmabeauty.com/pages/giveaway",
+     "rules_url": null,
+     "ends_guess": "2026-12-28",
+     "ends_text": "ENDING – \nDecember 28, 2026",
      "frequency_guess": "once",
-     "min_age_guess": 18,
+     "min_age_guess": null,
      "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
     }
    ]
   },
   "winprizesonline": {
    "listing_pages": 2,
-   "detail_links": 20,
-   "parsed": 14,
-   "kept": 5,
+   "detail_links": 18,
+   "parsed": 8,
+   "kept": 3,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Big Sipz 16k Giveaway",
-     "entry_url": null,
+     "title": "2027 Ski",
+     "entry_url": "https://news.iheart.com/promotions/win-a-2027-ski-doo-summit-1931388/",
      "rules_url": null,
      "ends_guess": "2026-12-31",
      "ends_text": "Expires\n 12-31-2026",
      "frequency_guess": "daily",
      "min_age_guess": 21,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Big Sipz"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n 2027 Ski"
     },
     {
-     "title": "Valpak Holiday Haul Sweepstakes",
+     "title": "House of Minky Thanksgiving Giveaway",
      "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-12-04",
-     "ends_text": "Expires\n 12-04-2026",
+     "ends_guess": "2026-11-10",
+     "ends_text": "Expires\n 11-10-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Valpak H"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n House of"
     }
    ],
    "retry_later": {
-    "no entry link found": 9
+    "no entry link found": 5
    }
   }
  },
- "total_candidates": 404,
- "details_budget_left": 87
+ "total_candidates": 423,
+ "details_budget_left": 117
 }
