@@ -3,12 +3,17 @@
   "items": {
     "https://2026bigsipz16k.com/home": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a listing site and the sponsor's 2025 press release; the 2026 giveaway site and its rules PDF return a client error to the page reader, so state exclusions, the free entry and the daily limit weren't confirmed",
+      "last_attempt_at": "2026-11-06T18:04:15-05:00",
+      "evidence": [
+        "https://thefreebieguy.com/sweepstakes/big-sipz-16k-giveaway-12-winners-get-cash/",
+        "https://www.sweepsatlas.com/sweeps/215314"
+      ],
+      "listing_id": "big-sipz-16k-giveaway",
+      "decided_at": "2026-11-06T18:04:15-05:00",
+      "next_retry_at": "2026-11-09T18:04:15-05:00"
     },
     "https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes": {
       "attempts": 2,
@@ -291,26 +296,13 @@
       "next_retry_at": null
     },
     "https://budlight.com/UpgradeYourGamedayRules": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "Bud Light rules page returns a client error to the page reader (age-gated site); prizes and free entry not confirmed",
-      "last_attempt_at": "2026-11-04T11:44:17-05:00",
-      "next_retry_at": "2026-11-05T11:44:17-05:00",
-      "name": "11K+ Will Win in the Bud Light x NFL Game Day Sweeps & IWG",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Bud Light rules page returns a client error to the page reader (age-gated site); prizes and free entry not confirmed",
-          "last_attempt_at": "2026-11-04T11:44:17-05:00",
-          "next_retry_at": "2026-11-05T11:44:17-05:00",
-          "name": "11K+ Will Win in the Bud Light x NFL Game Day Sweeps & IWG"
-        }
-      }
+      "attempts": 2,
+      "status": "needs_review",
+      "reason_code": "incomplete_info",
+      "reason": "A listing site quotes the rules: 50 states and DC, 21+, July 20 to Nov 30, 2026 at 11:59:59 PM ET, prizes include NFL tickets and $100 Fanatics gift cards. It says entry is by Instagram or Messenger chat, and the sponsor's rules page isn't readable, so it's unsettled whether there's a free web entry",
+      "last_attempt_at": "2026-11-06T18:04:15-05:00",
+      "next_retry_at": "2026-11-08T18:04:15-05:00",
+      "name": "11K+ Will Win in the Bud Light x NFL Game Day Sweeps & IWG"
     },
     "https://buzzballzholiday.com/": {
       "attempts": 0,
@@ -860,12 +852,17 @@
     },
     "https://foodnetwork.com/shows/holiday-baking-championship/giveaway": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Food Network's own giveaway page and sweepstakes list confirm the promotion and prize, but no official rules were found or readable, so eligibility, deadline and entry limit are unconfirmed",
+      "last_attempt_at": "2026-11-06T18:04:15-05:00",
+      "evidence": [
+        "https://www.foodnetwork.com/shows/holiday-baking-championship/giveaway",
+        "https://www.foodnetwork.com/sweepstakes"
+      ],
+      "listing_id": "food-network-season-of-sweetness-sweepstakes",
+      "decided_at": "2026-11-06T18:04:15-05:00",
+      "next_retry_at": "2026-11-09T18:04:15-05:00"
     },
     "https://foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays": {
       "name": "Food Network Home for the Holidays",
@@ -1487,12 +1484,16 @@
     },
     "https://mikeshard.com/sweepstakes/hardergaming26": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Only the sponsor's age-gated landing page and a listing site were readable; no official rules were found, so eligible states, free entry, end time and entry limit are unconfirmed",
+      "last_attempt_at": "2026-11-06T18:04:15-05:00",
+      "evidence": [
+        "https://www.mikeshard.com/sweepstakes/hardergaming26"
+      ],
+      "listing_id": "mike-s-harder-gaming-system-sweepstakes",
+      "decided_at": "2026-11-06T18:04:15-05:00",
+      "next_retry_at": "2026-11-09T18:04:15-05:00"
     },
     "https://murfelectricbikes.com/pages/ultimate-beach-haul-giveaway": {
       "attempts": 0,
@@ -1902,12 +1903,17 @@
     },
     "https://rewards.bing.com/sweeps/promotion": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Microsoft's promotion and entry pages show a free entry form and the prizes, but the official rules link (aka.ms) disallows automated readers, so eligibility, the end date and the entry limit weren't read; the Jan 15, 2027 end date is from a listing site",
+      "last_attempt_at": "2026-11-06T18:04:15-05:00",
+      "evidence": [
+        "https://rewards.bing.com/sweeps/promotion",
+        "https://rewards.bing.com/sweeps/signup"
+      ],
+      "listing_id": "microsoft-rewards-prize-drop-sweepstakes",
+      "decided_at": "2026-11-06T18:04:15-05:00",
+      "next_retry_at": "2026-11-09T18:04:15-05:00"
     },
     "https://ritualtoremember.terryschocolate.com/login": {
       "attempts": 1,

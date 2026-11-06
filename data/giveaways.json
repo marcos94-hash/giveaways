@@ -2776,6 +2776,155 @@
       "source": "Claude review 2026-11-06",
       "id": "dunkin-at-home-extravaganza-arcade-instant-win-game",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Microsoft Rewards Prize Drop Sweepstakes",
+      "prize": "$1,000,000 cash grand prize, Mercedes-Benz cars and thousands of instant prizes (Xbox Ally, Dyson vacuum, Oura ring, Sonos speaker, Windows PCs, Game Pass); $2,000,000 total",
+      "category": "cash",
+      "entry_url": "https://rewards.bing.com/sweeps/promotion",
+      "rules_url": "https://aka.ms/win-Sweeps-Rules",
+      "match": [
+        "rewards.bing.com/sweeps"
+      ],
+      "ends": "2027-01-15T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "The promo page says to sign in to claim the free entry, so a free Microsoft account may be needed.",
+        "marketing": "Entering signs you up for Microsoft Rewards emails, including partner offers."
+      },
+      "notes": "Free entry form on rewards.bing.com (legal name, email, phone, country, age of majority checkbox); the United States is in the country list. Extra entries come from redeeming Rewards points and installing the Rewards app, browser extension or Bing Wallpaper, plus a daily instant win for searching Bing. The free entry looks like a single entry. Check eligibility, the end date and the entry limit in the official rules.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-06T18:04:00-05:00",
+        "reason": "Microsoft's promotion and entry pages show a free entry form and the prizes, but the official rules link (aka.ms) disallows automated readers, so eligibility, the end date and the entry limit weren't read; the Jan 15, 2027 end date is from a listing site",
+        "evidence": [
+          "https://rewards.bing.com/sweeps/promotion",
+          "https://rewards.bing.com/sweeps/signup"
+        ],
+        "missing": [
+          "eligibility",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-06",
+      "source": "Claude review 2026-11-06",
+      "id": "microsoft-rewards-prize-drop-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Big Sipz $16K Giveaway",
+      "prize": "$16,000 check each month, 12 winners in 2026 (limit one prize per household)",
+      "category": "cash",
+      "entry_url": "https://www.2026bigsipz16k.com/home",
+      "rules_url": "https://www.2026bigsipz16k.com/pdf/en-US/officialRules.pdf",
+      "match": [
+        "2026bigsipz16k.com"
+      ],
+      "ends": "2026-12-31T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Per a listing site: US residents 21+, one online entry per person per day with an email, a $16,000 winner each month, ends Dec 31, 2026 at 11:59 PM ET. The sponsor (Patco Brands, maker of Big Sipz drinks) said last year's version needed no purchase and entries didn't roll over between months. State exclusions weren't checked.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-06T18:04:00-05:00",
+        "reason": "Facts come from a listing site and the sponsor's 2025 press release; the 2026 giveaway site and its rules PDF return a client error to the page reader, so state exclusions, the free entry and the daily limit weren't confirmed",
+        "evidence": [
+          "https://www.sweepsatlas.com/sweeps/215314",
+          "https://thefreebieguy.com/sweepstakes/big-sipz-16k-giveaway-12-winners-get-cash/"
+        ],
+        "missing": [
+          "eligibility_states",
+          "free_entry",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-06",
+      "source": "Claude review 2026-11-06",
+      "id": "big-sipz-16k-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Food Network Season of Sweetness Sweepstakes",
+      "prize": "$10,000 and VIP tickets to the Museum of Ice Cream",
+      "category": "cash",
+      "entry_url": "https://www.foodnetwork.com/shows/holiday-baking-championship/giveaway",
+      "match": [
+        "foodnetwork.com/shows/holiday-baking-championship/giveaway"
+      ],
+      "ends": "2026-12-21T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Food Network lists it under current sweepstakes. The page reader didn't show a rules link or the entry form, so eligibility, minimum age, the end date (Dec 21 is from a listing site) and how often you can enter weren't confirmed.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-06T18:04:00-05:00",
+        "reason": "Food Network's own giveaway page and sweepstakes list confirm the promotion and prize, but no official rules were found or readable, so eligibility, deadline and entry limit are unconfirmed",
+        "evidence": [
+          "https://www.foodnetwork.com/shows/holiday-baking-championship/giveaway",
+          "https://www.foodnetwork.com/sweepstakes"
+        ],
+        "missing": [
+          "eligibility",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-06",
+      "source": "Claude review 2026-11-06",
+      "id": "food-network-season-of-sweetness-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Mike's HARDER Gaming System Sweepstakes",
+      "prize": "10 gaming setups (console, controllers, storage, TV dock, monitor and gaming chair), about $1,800 each per a listing site",
+      "category": "electronics",
+      "entry_url": "https://www.mikeshard.com/sweepstakes/hardergaming26",
+      "match": [
+        "mikeshard.com/sweepstakes/hardergaming26"
+      ],
+      "ends": "2026-12-31T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "The sponsor page sits behind a 21+ age gate and says 'Enter for a chance to win an epic gaming set-up', but showed no rules link to the page reader. A listing site says 21+ and ends Dec 31, 2026. Eligible states, the free entry and how often you can enter weren't confirmed. Prizes aren't alcohol.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-06T18:04:00-05:00",
+        "reason": "Only the sponsor's age-gated landing page and a listing site were readable; no official rules were found, so eligible states, free entry, end time and entry limit are unconfirmed",
+        "evidence": [
+          "https://www.mikeshard.com/sweepstakes/hardergaming26"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline_time",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-06",
+      "source": "Claude review 2026-11-06",
+      "id": "mike-s-harder-gaming-system-sweepstakes",
+      "rules_checked": "partial"
     }
   ]
 }
