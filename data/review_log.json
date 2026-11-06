@@ -1,6 +1,15 @@
 {
   "version": 2,
   "items": {
+    "https://2026bigsipz16k.com/home": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
+    },
     "https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes": {
       "attempts": 2,
       "status": "blocked",
@@ -24,6 +33,15 @@
       ],
       "next_retry_at": "2026-11-05T12:16:47-05:00",
       "name": "Win a Trip for Four to Legoland!"
+    },
+    "https://airbaton.net/l/nutrlcollegefootballsweeps": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
     },
     "https://allegiantair.com/DoubleDownFlyawaySweepstakes": {
       "attempts": 0,
@@ -72,12 +90,25 @@
     },
     "https://apfco.com/Secured/WB1811/S9936/Home/OfficialRules": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "robots_blocked",
       "reason": "Official rules page disallows automated readers (robots.txt)",
       "last_attempt_at": "2026-11-04T11:41:09-05:00",
       "next_retry_at": "2026-11-05T11:41:09-05:00",
-      "name": "Win $500 in The Season of Giving Cash Giveaway!"
+      "name": "Win $500 in The Season of Giving Cash Giveaway!",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "robots_blocked",
+          "reason": "Official rules page disallows automated readers (robots.txt)",
+          "last_attempt_at": "2026-11-04T11:41:09-05:00",
+          "next_retry_at": "2026-11-05T11:41:09-05:00",
+          "name": "Win $500 in The Season of Giving Cash Giveaway!"
+        }
+      }
     },
     "https://app.viralsweep.com/sweeps/full/07d64b-239905?framed=1": {
       "attempts": 2,
@@ -113,6 +144,15 @@
       "decided_at": "2026-11-04T01:22:59-05:00",
       "name": "THERMAL GEAR AND HOG HUNT SWEEPSTAKES"
     },
+    "https://app.viralsweep.com/sweeps/full/66d2aa-240505?framed=1": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "ViralSweep page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer",
+      "last_attempt_at": "2026-11-06T17:59:00-05:00",
+      "next_retry_at": "2026-11-07T17:59:00-05:00",
+      "name": "Bleuet Holiday Wishlist Giveaway"
+    },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
       "attempts": 1,
       "status": "blocked",
@@ -134,15 +174,16 @@
     },
     "https://app.wyng.com/Mineragua365": {
       "attempts": 2,
-      "status": "blocked",
-      "reason_code": "js_only",
-      "reason": "Access approved Nov 4 01:12 ET, but the Wyng page returns only metadata (title 'WINoneYEARsupply'); the form and rules load by script, so sponsor, dates, eligibility and limit can't be read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-04T01:12:40-05:00",
-      "next_retry_at": "2026-11-06T01:12:40-05:00",
+      "next_retry_at": null,
       "name": "1 Winner in The Free Mineagua for 375 Days Sweepstakes!",
       "evidence": [
         "https://app.wyng.com/Mineragua365"
-      ]
+      ],
+      "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules": {
       "name": "PCMag Readers' Choice: Phones & Carriers survey",
@@ -176,6 +217,15 @@
       "listing_id": "avon-beauty-cheer-sweepstakes",
       "decided_at": "2026-11-04T12:08:28-05:00",
       "next_retry_at": "2026-11-07T12:08:28-05:00"
+    },
+    "https://ballarddesigns.attn.tv/p/Kn3/landing-page": {
+      "attempts": 0,
+      "name": "Ballard Designs Cozy Up For Fall Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes/pcmcat1789139942121.c?id=pcmcat1789139942121": {
       "name": "Best Buy Store Speedrun Sweepstakes",
@@ -251,12 +301,25 @@
     },
     "https://budlight.com/UpgradeYourGamedayRules": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "unreadable_page",
       "reason": "Bud Light rules page returns a client error to the page reader (age-gated site); prizes and free entry not confirmed",
       "last_attempt_at": "2026-11-04T11:44:17-05:00",
       "next_retry_at": "2026-11-05T11:44:17-05:00",
-      "name": "11K+ Will Win in the Bud Light x NFL Game Day Sweeps & IWG"
+      "name": "11K+ Will Win in the Bud Light x NFL Game Day Sweeps & IWG",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "unreadable_page",
+          "reason": "Bud Light rules page returns a client error to the page reader (age-gated site); prizes and free entry not confirmed",
+          "last_attempt_at": "2026-11-04T11:44:17-05:00",
+          "next_retry_at": "2026-11-05T11:44:17-05:00",
+          "name": "11K+ Will Win in the Bud Light x NFL Game Day Sweeps & IWG"
+        }
+      }
     },
     "https://buzzballzholiday.com/": {
       "attempts": 0,
@@ -282,6 +345,15 @@
       ],
       "next_retry_at": "2026-11-05T12:11:24-05:00",
       "name": "Win a Custom Cali Squeeze YETI Cooler!"
+    },
+    "https://camel.com/?resource=%2Fsecure%2Fpromotions%2Fouttheregiveaway.html": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
     },
     "https://campaign.aptivada.com/terms/1923861": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
@@ -423,15 +495,16 @@
     },
     "https://coca-cola.com/us/en/legal/fanta-alebrije-sweepstakes": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://www.coca-cola.com/us/en/legal/fanta-alebrije-sweepstakes and nobody answered it in this unattended run, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-04T17:50:42-05:00",
       "evidence": [
         "https://www.coca-cola.com/us/en/legal/fanta-alebrije-sweepstakes"
       ],
-      "next_retry_at": "2026-11-05T17:50:42-05:00",
-      "name": "100 Win a Prize Box in The Fanta Build your Alebrije Sweeps and IWG!"
+      "next_retry_at": null,
+      "name": "100 Win a Prize Box in The Fanta Build your Alebrije Sweeps and IWG!",
+      "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://coca-cola.com/us/en/offerings/holiday-sweeps": {
       "name": "Coca-Cola Holiday Instant Win",
@@ -467,6 +540,15 @@
       "listing_id": "cold-stone-creamery-the-cat-in-the-hat-sweepstakes",
       "decided_at": "2026-11-04T01:26:53-05:00",
       "next_retry_at": null
+    },
+    "https://contest.gunnisoncopper.com/": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
     },
     "https://continentaltire.com/newsletter-signup": {
       "attempts": 0,
@@ -641,9 +723,18 @@
       "next_retry_at": "2026-11-05T17:51:02-05:00",
       "name": "Craig Morgan Nashville Experience Giveaway"
     },
+    "https://drpeppersweeps.com/holiday": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
+    },
     "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf": {
       "attempts": 1,
-      "status": "needs_review",
+      "status": "in_progress",
       "reason_code": "incomplete_info",
       "reason": "Sponsor rules: sweepstakes entries online come from receipt uploads, the free method is mail-in; there is also one Instant Win Reveal play per day for free Dunkin' At Home Extra members, but it's unclear from the rules read whether that play needs a purchase. Ends Nov 13 noon ET; 50 states + DC, 18+.",
       "last_attempt_at": "2026-11-04T11:41:49-05:00",
@@ -651,7 +742,23 @@
         "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf"
       ],
       "next_retry_at": "2026-11-05T11:41:49-05:00",
-      "name": "80,000+ Prizes in the Dunkin' At Home EXTRAvaganza Arcade Instant Win Game!"
+      "name": "80,000+ Prizes in the Dunkin' At Home EXTRAvaganza Arcade Instant Win Game!",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "needs_review",
+          "reason_code": "incomplete_info",
+          "reason": "Sponsor rules: sweepstakes entries online come from receipt uploads, the free method is mail-in; there is also one Instant Win Reveal play per day for free Dunkin' At Home Extra members, but it's unclear from the rules read whether that play needs a purchase. Ends Nov 13 noon ET; 50 states + DC, 18+.",
+          "last_attempt_at": "2026-11-04T11:41:49-05:00",
+          "evidence": [
+            "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf"
+          ],
+          "next_retry_at": "2026-11-05T11:41:49-05:00",
+          "name": "80,000+ Prizes in the Dunkin' At Home EXTRAvaganza Arcade Instant Win Game!"
+        }
+      }
     },
     "https://ebacamoe.com/official-rules": {
       "attempts": 0,
@@ -748,6 +855,15 @@
       "next_retry_at": "2026-11-06T17:53:07-05:00",
       "name": "Win a $3K Gas Gift Card in Advance Auto Parts Fix-a"
     },
+    "https://foodnetwork.com/shows/holiday-baking-championship/giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
+    },
     "https://foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays": {
       "name": "Food Network Home for the Holidays",
       "status": "listed",
@@ -795,6 +911,18 @@
       ],
       "next_retry_at": "2026-11-06T17:53:07-05:00",
       "name": "Southern Crafted's Thanksgiving Giveaway"
+    },
+    "https://gleam.io/5ZgiH/prebf-giveaway-2026": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam page (gleam.io/5ZgiH/pre-bf-giveaway-2026, linked from SSD Nodes' Black Friday page) returns a client error to the page reader; SSD Nodes' own page shows no prize, dates or rules",
+      "last_attempt_at": "2026-11-06T17:58:59-05:00",
+      "evidence": [
+        "https://www.ssdnodes.com/black-friday/"
+      ],
+      "next_retry_at": "2026-11-07T17:58:59-05:00",
+      "name": "SSD Nodes Black Friday Giveaway"
     },
     "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-": {
       "attempts": 2,
@@ -863,6 +991,15 @@
       "next_retry_at": "2026-11-05T11:55:48-05:00",
       "name": "Win an Anker SOLIX S5000 Portable Power Station Valued at $3600!"
     },
+    "https://gleam.io/gTGES/mitra9s-gear-up-get-moving-giveaway": {
+      "attempts": 0,
+      "name": "Mitra9's Gear Up & Get Moving Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-06T17:40:02-05:00"
+    },
     "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026": {
       "attempts": 1,
       "status": "blocked",
@@ -925,9 +1062,18 @@
         "https://www.goldbelly.com/spotlight/thanksgiving-sweepstakes"
       ]
     },
-    "https://happyholi-lays.com/rules": {
+    "https://greenpan.us/pages/stakt-giveaway": {
       "attempts": 1,
       "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "GreenPan giveaway page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; greenpan.us partnerships page doesn't mention it",
+      "last_attempt_at": "2026-11-06T17:58:59-05:00",
+      "next_retry_at": "2026-11-07T17:58:59-05:00",
+      "name": "Greenpan Stakt Giveaway"
+    },
+    "https://happyholi-lays.com/rules": {
+      "attempts": 1,
+      "status": "in_progress",
       "reason_code": "robots_blocked",
       "reason": "Rules page disallows automated readers (robots.txt). PepsiCo press release (Oct 19, 2026) says entry is by scanning bag codes or visiting HappyHoli-Lays.com from Oct 26, but eligibility, dates and limits weren't readable.",
       "last_attempt_at": "2026-11-04T11:42:16-05:00",
@@ -935,7 +1081,32 @@
         "https://www.pepsico.com/newsroom/press-releases/2026/lays-brings-the-holi-lays-with-five-new-limited-time-flavors-inspired-by-holiday-dishes"
       ],
       "next_retry_at": "2026-11-05T11:42:16-05:00",
-      "name": "1,279 Will Win Lay's Merch + More in the Happy Holi"
+      "name": "1,279 Will Win Lay's Merch + More in the Happy Holi",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "robots_blocked",
+          "reason": "Rules page disallows automated readers (robots.txt). PepsiCo press release (Oct 19, 2026) says entry is by scanning bag codes or visiting HappyHoli-Lays.com from Oct 26, but eligibility, dates and limits weren't readable.",
+          "last_attempt_at": "2026-11-04T11:42:16-05:00",
+          "evidence": [
+            "https://www.pepsico.com/newsroom/press-releases/2026/lays-brings-the-holi-lays-with-five-new-limited-time-flavors-inspired-by-holiday-dishes"
+          ],
+          "next_retry_at": "2026-11-05T11:42:16-05:00",
+          "name": "1,279 Will Win Lay's Merch + More in the Happy Holi"
+        }
+      }
+    },
+    "https://heineken.com/us/en/promos/fallfootball": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
     },
     "https://help.doordash.com/en-us/consumers/article/doordash-fall-football-streaks-rewards-sweepstakes": {
       "attempts": 0,
@@ -952,15 +1123,16 @@
     },
     "https://hgtv.com/shows/house-shock/giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://www.hgtv.com/shows/house-shock/giveaway and nobody answered it in this unattended run, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-04T17:51:02-05:00",
       "evidence": [
         "https://www.hgtv.com/shows/house-shock/giveaway"
       ],
-      "next_retry_at": "2026-11-05T17:51:02-05:00",
-      "name": "Win $5,000 CASH in The HGTV Shock Your Home Giveaway!"
+      "next_retry_at": null,
+      "name": "Win $5,000 CASH in The HGTV Shock Your Home Giveaway!",
+      "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://hgtv.com/sweepstakes/home-for-the-holidays": {
       "name": "HGTV Home for the Holidays",
@@ -1067,6 +1239,15 @@
       "decided_at": "2026-11-04T12:01:23-05:00",
       "next_retry_at": null
     },
+    "https://jordans.com/winter-wishes": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
+    },
     "https://kensingtonbooks.com/HolidayLuxeBundle": {
       "attempts": 0,
       "status": "listed",
@@ -1116,6 +1297,15 @@
       "listing_id": "epsom-salt-council-stress-less-express-giveaway",
       "decided_at": "2026-11-04T11:39:07-05:00",
       "next_retry_at": "2026-11-07T11:39:07-05:00"
+    },
+    "https://kingsumo.com/g/1xqx5nm/a-christmas-romance-giveaway": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "KingSumo giveaway page not readable: the page reader asks for an approval (PROVENANCE_REQUIRED) on scraped links that this unattended run can't answer, and the page didn't come up in search",
+      "last_attempt_at": "2026-11-06T17:58:59-05:00",
+      "next_retry_at": "2026-11-07T17:58:59-05:00",
+      "name": "A Christmas Romance Giveaway"
     },
     "https://kingsumo.com/g/36qgr41/carolina-pottery-cardinal-christmas-theme-giveaway/jxrg8ye": {
       "attempts": 1,
@@ -1175,6 +1365,15 @@
       "decided_at": "2026-11-04T11:53:30-05:00",
       "next_retry_at": null
     },
+    "https://krogerhighschoolfootball.com/": {
+      "attempts": 0,
+      "name": "KROGER HSFB x VISIT MYRTLE BEACH SWEEPSTAKES",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-06T17:40:02-05:00"
+    },
     "https://larryscoffee.com/pages/moccamaster-giveaway": {
       "attempts": 1,
       "status": "blocked",
@@ -1213,6 +1412,15 @@
       "decided_at": "2026-11-04T11:59:57-05:00",
       "next_retry_at": null
     },
+    "https://letstalkfaith.com/members/member-contests-and-sweepstakes/2026-christmas-mortgage-miracle-sweepstakes": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
+    },
     "https://livenation.com/jerseymikes": {
       "name": "Jersey Mike's My Way Sweepstakes",
       "status": "listed",
@@ -1250,7 +1458,7 @@
     },
     "https://m.cmpgn.page/RRBmd5": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "js_only",
       "reason": "Campaign page returns only its title ('A Year of Concerts Presented by Truliant Federal Credit Union Sweepstakes'); rules and eligibility load by script and weren't found by search. Truliant is a regional credit union, so it may be local.",
       "last_attempt_at": "2026-11-04T11:39:41-05:00",
@@ -1258,7 +1466,23 @@
         "https://m.cmpgn.page/RRBmd5"
       ],
       "next_retry_at": "2026-11-05T11:39:41-05:00",
-      "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!"
+      "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "js_only",
+          "reason": "Campaign page returns only its title ('A Year of Concerts Presented by Truliant Federal Credit Union Sweepstakes'); rules and eligibility load by script and weren't found by search. Truliant is a regional credit union, so it may be local.",
+          "last_attempt_at": "2026-11-04T11:39:41-05:00",
+          "evidence": [
+            "https://m.cmpgn.page/RRBmd5"
+          ],
+          "next_retry_at": "2026-11-05T11:39:41-05:00",
+          "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!"
+        }
+      }
     },
     "https://madisoncreekoutfitters.com/pages/giveaway": {
       "attempts": 0,
@@ -1281,6 +1505,15 @@
       "last_attempt_at": "2026-11-04T12:06:48-05:00",
       "next_retry_at": "2026-11-05T12:06:48-05:00",
       "name": "Win a Fanatics Gift Card in The Michelob Ultra Rinkside ’26"
+    },
+    "https://mikeshard.com/sweepstakes/hardergaming26": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
     },
     "https://murfelectricbikes.com/pages/ultimate-beach-haul-giveaway": {
       "attempts": 0,
@@ -1365,12 +1598,25 @@
     },
     "https://ojbirthday.com/login": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "unreadable_page",
       "reason": "Entry page (a login page) returns a client error to the page reader; rules not found on orangejulius.com or dairyqueen.com by search",
       "last_attempt_at": "2026-11-04T11:39:59-05:00",
       "next_retry_at": "2026-11-05T11:39:59-05:00",
-      "name": "Orange Julius Smoothie Smash"
+      "name": "Orange Julius Smoothie Smash",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "unreadable_page",
+          "reason": "Entry page (a login page) returns a client error to the page reader; rules not found on orangejulius.com or dairyqueen.com by search",
+          "last_attempt_at": "2026-11-04T11:39:59-05:00",
+          "next_retry_at": "2026-11-05T11:39:59-05:00",
+          "name": "Orange Julius Smoothie Smash"
+        }
+      }
     },
     "https://outback.com/best-steaks-ever": {
       "attempts": 0,
@@ -1469,28 +1715,39 @@
     },
     "https://peru.travel/thegreatescape": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the rules PDF and https://peru.travel/thegreatescape and nobody answered it in this unattended run, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-04T17:50:42-05:00",
       "evidence": [
         "https://peru.travel/thegreatescape",
         "https://www.peru.travel/thegreatescape/documents/The-Great-Escape_Peru-Sweepstakes_Working-Draft_FINAL_09.23.26.pdf"
       ],
-      "next_retry_at": "2026-11-05T17:50:42-05:00",
-      "name": "Win A Trip for Two to Peru!"
+      "next_retry_at": null,
+      "name": "THE GREAT ESCAPE Sweepstakes",
+      "decided_at": "2026-11-06T17:40:02-05:00"
     },
-    "https://polarjoe.com/pages/ultimate-smoothie-machine-power-pack": {
+    "https://piedmontpennies.com/pages/for-the-giver-giveaway": {
       "attempts": 1,
       "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the sponsor page https://polarjoe.com/pages/ultimate-smoothie-machine-power-pack; rules not read",
+      "reason": "Piedmont Pennies giveaway page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; their gifts page and blog don't mention it",
+      "last_attempt_at": "2026-11-06T17:59:00-05:00",
+      "next_retry_at": "2026-11-07T17:59:00-05:00",
+      "name": "Piedmont Pennies For the Giver Giveaway"
+    },
+    "https://polarjoe.com/pages/ultimate-smoothie-machine-power-pack": {
+      "attempts": 1,
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-05T17:53:07-05:00",
       "evidence": [
         "https://polarjoe.com/pages/ultimate-smoothie-machine-power-pack"
       ],
-      "next_retry_at": "2026-11-06T17:53:07-05:00",
-      "name": "The Polar Joe \"Ultimate Smoothie Machine Power Pack\" Sweepstakes"
+      "next_retry_at": null,
+      "name": "The Polar Joe \"Ultimate Smoothie Machine Power Pack\" Sweepstakes",
+      "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://promorules.com/MK262790": {
       "attempts": 1,
@@ -1676,6 +1933,15 @@
       "listing_id": "tatcha-advent-calendar-giveaway",
       "decided_at": "2026-11-04T12:12:22-05:00",
       "next_retry_at": "2026-11-07T12:12:22-05:00"
+    },
+    "https://rewards.bing.com/sweeps/promotion": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
     },
     "https://ritualtoremember.terryschocolate.com/login": {
       "attempts": 1,
@@ -1868,14 +2134,36 @@
       "decided_at": "2026-11-04T12:15:54-05:00",
       "name": "120 Winners get Merch Prizes in The Tastemakers Sweepstakes!"
     },
+    "https://southern-crafted.com/pages/thanksgiving-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": null
+      }
+    },
     "https://southernliving.com/sweepstakes/entry?sweepId=slv-flash-headstart-1026-eo": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "unreadable_page",
       "reason": "The page-reading tool blocks southernliving.com, so the sweepstakes page and rules can't be read here; check it in a browser",
       "last_attempt_at": "2026-11-04T11:42:45-05:00",
       "next_retry_at": "2026-11-05T11:42:45-05:00",
-      "name": "28 Will Win a $100 Amazon GC in The Head Start on Holidays Giveaway!"
+      "name": "28 Will Win a $100 Amazon GC in The Head Start on Holidays Giveaway!",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "unreadable_page",
+          "reason": "The page-reading tool blocks southernliving.com, so the sweepstakes page and rules can't be read here; check it in a browser",
+          "last_attempt_at": "2026-11-04T11:42:45-05:00",
+          "next_retry_at": "2026-11-05T11:42:45-05:00",
+          "name": "28 Will Win a $100 Amazon GC in The Head Start on Holidays Giveaway!"
+        }
+      }
     },
     "https://starbucks.promo.eprize.com/survey/public/COMPILED/en/fulfillment/rules_2021.ae83bf2ad04b5fa42cfdec81f0c8479d.pdf": {
       "attempts": 1,
@@ -1928,15 +2216,16 @@
     },
     "https://sweepwidget.com/c/103061-maqov7nw": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://sweepwidget.com/c/103061-maqov7nw and nobody answered it in this unattended run, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-04T17:50:42-05:00",
       "evidence": [
         "https://sweepwidget.com/c/103061-maqov7nw"
       ],
-      "next_retry_at": "2026-11-05T17:50:42-05:00",
-      "name": "Win a Battery Tender Charge N Start 4120"
+      "next_retry_at": null,
+      "name": "Win a Battery Tender Charge N Start 4120",
+      "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
       "attempts": 2,
@@ -1952,7 +2241,7 @@
     },
     "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232": {
       "attempts": 1,
-      "status": "needs_review",
+      "status": "in_progress",
       "reason_code": "incomplete_info",
       "reason": "SweepWidget page description says to enter by following @delkin.devices on Instagram and liking/sharing the post (prize: five Delkin memory cards); the widget, end time and rules load by script, so it's unclear whether there's a non-social free entry",
       "last_attempt_at": "2026-11-04T11:40:12-05:00",
@@ -1960,7 +2249,23 @@
         "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232"
       ],
       "next_retry_at": "2026-11-05T11:40:12-05:00",
-      "name": "Delkin Devices Toys for Tots Holiday Giveaway"
+      "name": "Delkin Devices Toys for Tots Holiday Giveaway",
+      "claim": {
+        "run": "review-2026-11-06",
+        "expires_at": "2026-11-06T20:41:29-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "needs_review",
+          "reason_code": "incomplete_info",
+          "reason": "SweepWidget page description says to enter by following @delkin.devices on Instagram and liking/sharing the post (prize: five Delkin memory cards); the widget, end time and rules load by script, so it's unclear whether there's a non-social free entry",
+          "last_attempt_at": "2026-11-04T11:40:12-05:00",
+          "evidence": [
+            "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232"
+          ],
+          "next_retry_at": "2026-11-05T11:40:12-05:00",
+          "name": "Delkin Devices Toys for Tots Holiday Giveaway"
+        }
+      }
     },
     "https://sweepwidget.com/c/103243-54m70kqo": {
       "attempts": 0,
@@ -2114,18 +2419,28 @@
       "decided_at": "2026-11-04T12:04:19-05:00",
       "next_retry_at": null
     },
+    "https://valpak.com/freeride": {
+      "attempts": 0,
+      "name": "Valpak Free Ride Sweepstakes",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-06T17:40:02-05:00"
+    },
     "https://valpak.com/freeride?rules=true": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://valpak.com/freeride?rules=true and https://www.valpak.com/freeride and nobody answered it in this unattended run, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-04T17:50:42-05:00",
       "evidence": [
         "https://valpak.com/freeride?rules=true",
         "https://www.valpak.com/freeride"
       ],
-      "next_retry_at": "2026-11-05T17:50:42-05:00",
-      "name": "One Will Win a 2026 Jeep Wrangler in the Valpak Free Ride Sweepstakes!"
+      "next_retry_at": null,
+      "name": "One Will Win a 2026 Jeep Wrangler in the Valpak Free Ride Sweepstakes!",
+      "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://valpak.com/holiday": {
       "name": "Valpak $5,000 Holiday Haul",
