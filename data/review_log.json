@@ -352,12 +352,16 @@
     },
     "https://camel.com/?resource=%2Fsecure%2Fpromotions%2Fouttheregiveaway.html": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "restricted_group",
+      "reason": "Sponsor rules (R.J. Reynolds, Camel 'Out There' Giveaway): only for tobacco consumers 21+ with a sponsor-registered username, MA and MI excluded; prizes are $25 prepaid cards",
+      "last_attempt_at": "2026-11-06T18:00:37-05:00",
+      "evidence": [
+        "https://www.camel.com/promotions/outtheregiveaway/official-rules.html"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-06T18:00:37-05:00",
+      "name": "Camel “Out There” Instant Win Game"
     },
     "https://campaign.aptivada.com/terms/1923861": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
@@ -1253,13 +1257,16 @@
       "next_retry_at": null
     },
     "https://jordans.com/winter-wishes": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "jordans.com entry page and promotion terms page return a client error to the page reader; listing sites title it 'Limited States', so NJ may not be eligible",
+      "last_attempt_at": "2026-11-06T18:00:37-05:00",
+      "evidence": [
+        "https://www.jordans.com/winter-wishes"
+      ],
+      "next_retry_at": "2026-11-07T18:00:37-05:00",
+      "name": "Jordan’s Furniture “Winter Wishes Giveaway” Sweepstakes"
     },
     "https://kensingtonbooks.com/HolidayLuxeBundle": {
       "attempts": 0,
@@ -1470,32 +1477,16 @@
       "next_retry_at": null
     },
     "https://m.cmpgn.page/RRBmd5": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "js_only",
-      "reason": "Campaign page returns only its title ('A Year of Concerts Presented by Truliant Federal Credit Union Sweepstakes'); rules and eligibility load by script and weren't found by search. Truliant is a regional credit union, so it may be local.",
-      "last_attempt_at": "2026-11-04T11:39:41-05:00",
+      "attempts": 2,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Campaign page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; sponsor is Truliant Federal Credit Union, a regional credit union, so it may be members-only or local",
+      "last_attempt_at": "2026-11-06T18:00:37-05:00",
       "evidence": [
         "https://m.cmpgn.page/RRBmd5"
       ],
-      "next_retry_at": "2026-11-05T11:39:41-05:00",
-      "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "js_only",
-          "reason": "Campaign page returns only its title ('A Year of Concerts Presented by Truliant Federal Credit Union Sweepstakes'); rules and eligibility load by script and weren't found by search. Truliant is a regional credit union, so it may be local.",
-          "last_attempt_at": "2026-11-04T11:39:41-05:00",
-          "evidence": [
-            "https://m.cmpgn.page/RRBmd5"
-          ],
-          "next_retry_at": "2026-11-05T11:39:41-05:00",
-          "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!"
-        }
-      }
+      "next_retry_at": "2026-11-08T18:00:37-05:00",
+      "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!"
     },
     "https://madisoncreekoutfitters.com/pages/giveaway": {
       "attempts": 0,
@@ -1610,26 +1601,13 @@
       "name": "14,000 Win a Mini Can Jacket in The Pepsi x Off Season Can Jacket Sweeps!"
     },
     "https://ojbirthday.com/login": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "Entry page (a login page) returns a client error to the page reader; rules not found on orangejulius.com or dairyqueen.com by search",
-      "last_attempt_at": "2026-11-04T11:39:59-05:00",
-      "next_retry_at": "2026-11-05T11:39:59-05:00",
-      "name": "Orange Julius Smoothie Smash",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Entry page (a login page) returns a client error to the page reader; rules not found on orangejulius.com or dairyqueen.com by search",
-          "last_attempt_at": "2026-11-04T11:39:59-05:00",
-          "next_retry_at": "2026-11-05T11:39:59-05:00",
-          "name": "Orange Julius Smoothie Smash"
-        }
-      }
+      "reason": "ojbirthday.com and orangejulius.com return a client error to the page reader; the rules and whether an account is needed weren't read",
+      "last_attempt_at": "2026-11-06T18:00:37-05:00",
+      "next_retry_at": "2026-11-08T18:00:37-05:00",
+      "name": "Orange Julius Smoothie Smash"
     },
     "https://outback.com/best-steaks-ever": {
       "attempts": 0,
@@ -2253,32 +2231,17 @@
       ]
     },
     "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "incomplete_info",
-      "reason": "SweepWidget page description says to enter by following @delkin.devices on Instagram and liking/sharing the post (prize: five Delkin memory cards); the widget, end time and rules load by script, so it's unclear whether there's a non-social free entry",
-      "last_attempt_at": "2026-11-04T11:40:12-05:00",
+      "attempts": 2,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; Delkin's site only shows a Toys for Tots donation drive. An earlier read suggested entry is by Instagram follow, like and share",
+      "last_attempt_at": "2026-11-06T18:00:37-05:00",
       "evidence": [
-        "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232"
+        "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232",
+        "https://www.delkindevices.com/toys-for-tots/"
       ],
-      "next_retry_at": "2026-11-05T11:40:12-05:00",
-      "name": "Delkin Devices Toys for Tots Holiday Giveaway",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "needs_review",
-          "reason_code": "incomplete_info",
-          "reason": "SweepWidget page description says to enter by following @delkin.devices on Instagram and liking/sharing the post (prize: five Delkin memory cards); the widget, end time and rules load by script, so it's unclear whether there's a non-social free entry",
-          "last_attempt_at": "2026-11-04T11:40:12-05:00",
-          "evidence": [
-            "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232"
-          ],
-          "next_retry_at": "2026-11-05T11:40:12-05:00",
-          "name": "Delkin Devices Toys for Tots Holiday Giveaway"
-        }
-      }
+      "next_retry_at": "2026-11-08T18:00:37-05:00",
+      "name": "Delkin Devices Toys for Tots Holiday Giveaway"
     },
     "https://sweepwidget.com/c/103243-54m70kqo": {
       "attempts": 0,
