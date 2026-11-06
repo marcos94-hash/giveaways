@@ -2699,6 +2699,83 @@
       "source": "Claude review 2026-11-06",
       "id": "n-trl-college-football-final-sweepstakes",
       "rules_checked": "full"
+    },
+    {
+      "name": "Heineken Takeoff for Kickoff Sweepstakes",
+      "prize": "Grand prize: trip for 3 to a 2027 regular-season NFL game in Europe with a $500 travel stipend and a $1,500 ticket-service gift card (ARV up to $10,000). 20 first prizes: a $100 e-gift card toward a football viewing subscription",
+      "category": "trip",
+      "entry_url": "https://www.heineken.com/us/en/promos/fallfootball",
+      "rules_url": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/fallfootball_OfficialRules.html",
+      "match": [
+        "heineken.com/us/en/promos/fallfootball"
+      ],
+      "ends": "2027-01-10T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "From rules text quoted on a listing site: open to the 50 US states and DC, 21+ (NJ is in), limit one entry per person per day, ends Jan 10, 2027 (time not given). No alcohol in the prizes. Check the official rules for the end time, how a day is counted and that the web form is the free entry.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-06T18:03:00-05:00",
+        "reason": "Facts come from rules text quoted on a listing site; the sponsor rules page on mdmgames.com needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and the entry page didn't come up in search",
+        "evidence": [
+          "https://www.sweepstakestoday.com/sweeps/details/117487/heineken-usa-takeoff-for-kickoff-sweepstakes",
+          "https://thefreebieguy.com/sweepstakes/20-winners-get-a-100-gift-card-in-the-heineken-takeoff-for-kickoff-sweeps/"
+        ],
+        "missing": [
+          "free_entry",
+          "deadline_time"
+        ]
+      },
+      "added": "2026-11-06",
+      "source": "Claude review 2026-11-06",
+      "id": "heineken-takeoff-for-kickoff-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Dunkin' At Home EXTRAvaganza Arcade Instant Win Game",
+      "prize": "Daily instant win: 1,000 beanies, 500 truck block sets, 1,000 cup sleeves and Dunkin' At Home loyalty points (50 to 350). The grand prize (Keurig brewer, $250 gift card) and the $5 and $10 gift cards are drawn only from receipt or mail-in entries",
+      "category": "other",
+      "entry_url": "https://dunkin.promo.eprize.com/fall26/",
+      "rules_url": "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf",
+      "match": [
+        "dunkin.promo.eprize.com/fall26"
+      ],
+      "starts": "2026-10-01T09:00:00-04:00",
+      "ends": "2026-11-13T12:00:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Free Dunkin' At Home Extra loyalty account needed (log in or join)."
+      },
+      "notes": "Sponsor Dunkin' Brands. Open to Dunkin' At Home Extra members (accounts are free) in the 50 US states and DC, 18+. One free Instant Win Reveal play per day; days run midnight to 11:59 PM ET and the last day ends at noon ET Nov 13. Playing 7 times earns a 25-point bonus. Sweepstakes entries need a receipt upload or a mailed entry, which this list doesn't cover. The entry page address is the promo site the rules PDF sits under; it wasn't opened.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf",
+        "checked_at": "2026-11-06T18:03:00-05:00",
+        "reason": "Sponsor rules were read only in excerpts: they give free Dunkin' At Home Extra members one Instant Win Reveal play a day (50 states and DC, 18+, ends Nov 13 noon ET) and no purchase step appeared for that play, but the full how-to-play text and the entry page address weren't read",
+        "evidence": [
+          "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf"
+        ],
+        "missing": [
+          "entry_page",
+          "free_entry_full_text"
+        ]
+      },
+      "added": "2026-11-06",
+      "source": "Claude review 2026-11-06",
+      "id": "dunkin-at-home-extravaganza-arcade-instant-win-game",
+      "rules_checked": "partial"
     }
   ]
 }

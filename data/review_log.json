@@ -93,26 +93,13 @@
       "next_retry_at": null
     },
     "https://apfco.com/Secured/WB1811/S9936/Home/OfficialRules": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "robots_blocked",
-      "reason": "Official rules page disallows automated readers (robots.txt)",
-      "last_attempt_at": "2026-11-04T11:41:09-05:00",
-      "next_retry_at": "2026-11-05T11:41:09-05:00",
-      "name": "Win $500 in The Season of Giving Cash Giveaway!",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "robots_blocked",
-          "reason": "Official rules page disallows automated readers (robots.txt)",
-          "last_attempt_at": "2026-11-04T11:41:09-05:00",
-          "next_retry_at": "2026-11-05T11:41:09-05:00",
-          "name": "Win $500 in The Season of Giving Cash Giveaway!"
-        }
-      }
+      "reason": "Official rules page on apfco.com disallows automated readers. The sponsor brand is Al Capone (cigarillos); last year's edition was limited to adult tobacco consumers 21+ per a listing site, so this one may be a restricted group",
+      "last_attempt_at": "2026-11-06T18:03:51-05:00",
+      "next_retry_at": "2026-11-08T18:03:51-05:00",
+      "name": "Win $500 in The Season of Giving Cash Giveaway!"
     },
     "https://app.viralsweep.com/sweeps/full/07d64b-239905?framed=1": {
       "attempts": 2,
@@ -749,33 +736,32 @@
       "decided_at": "2026-11-06T18:00:22-05:00",
       "name": "The 2026 Dr Pepper Kroger Holiday Giveaway"
     },
-    "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "incomplete_info",
-      "reason": "Sponsor rules: sweepstakes entries online come from receipt uploads, the free method is mail-in; there is also one Instant Win Reveal play per day for free Dunkin' At Home Extra members, but it's unclear from the rules read whether that play needs a purchase. Ends Nov 13 noon ET; 50 states + DC, 18+.",
-      "last_attempt_at": "2026-11-04T11:41:49-05:00",
+    "https://dunkin.promo.eprize.com/fall26": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor rules were read only in excerpts: they give free Dunkin' At Home Extra members one Instant Win Reveal play a day (50 states and DC, 18+, ends Nov 13 noon ET) and no purchase step appeared for that play, but the full how-to-play text and the entry page address weren't read",
+      "last_attempt_at": "2026-11-06T18:03:51-05:00",
       "evidence": [
         "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf"
       ],
-      "next_retry_at": "2026-11-05T11:41:49-05:00",
+      "listing_id": "dunkin-at-home-extravaganza-arcade-instant-win-game",
+      "decided_at": "2026-11-06T18:03:51-05:00",
+      "next_retry_at": "2026-11-09T18:03:51-05:00"
+    },
+    "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf": {
+      "attempts": 1,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor rules were read only in excerpts: they give free Dunkin' At Home Extra members one Instant Win Reveal play a day (50 states and DC, 18+, ends Nov 13 noon ET) and no purchase step appeared for that play, but the full how-to-play text and the entry page address weren't read",
+      "last_attempt_at": "2026-11-06T18:03:51-05:00",
+      "evidence": [
+        "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf"
+      ],
+      "next_retry_at": "2026-11-09T18:03:51-05:00",
       "name": "80,000+ Prizes in the Dunkin' At Home EXTRAvaganza Arcade Instant Win Game!",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "needs_review",
-          "reason_code": "incomplete_info",
-          "reason": "Sponsor rules: sweepstakes entries online come from receipt uploads, the free method is mail-in; there is also one Instant Win Reveal play per day for free Dunkin' At Home Extra members, but it's unclear from the rules read whether that play needs a purchase. Ends Nov 13 noon ET; 50 states + DC, 18+.",
-          "last_attempt_at": "2026-11-04T11:41:49-05:00",
-          "evidence": [
-            "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf"
-          ],
-          "next_retry_at": "2026-11-05T11:41:49-05:00",
-          "name": "80,000+ Prizes in the Dunkin' At Home EXTRAvaganza Arcade Instant Win Game!"
-        }
-      }
+      "listing_id": "dunkin-at-home-extravaganza-arcade-instant-win-game",
+      "decided_at": "2026-11-06T18:03:51-05:00"
     },
     "https://ebacamoe.com/official-rules": {
       "attempts": 0,
@@ -1089,41 +1075,30 @@
       "name": "Greenpan Stakt Giveaway"
     },
     "https://happyholi-lays.com/rules": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "robots_blocked",
-      "reason": "Rules page disallows automated readers (robots.txt). PepsiCo press release (Oct 19, 2026) says entry is by scanning bag codes or visiting HappyHoli-Lays.com from Oct 26, but eligibility, dates and limits weren't readable.",
-      "last_attempt_at": "2026-11-04T11:42:16-05:00",
+      "reason": "happyholi-lays.com disallows automated readers. PepsiCo's Oct 19 press release says you can scan a bag code or visit HappyHoli-Lays.com to enter from Oct 26, but eligibility, the end date and limits weren't readable",
+      "last_attempt_at": "2026-11-06T18:03:51-05:00",
       "evidence": [
         "https://www.pepsico.com/newsroom/press-releases/2026/lays-brings-the-holi-lays-with-five-new-limited-time-flavors-inspired-by-holiday-dishes"
       ],
-      "next_retry_at": "2026-11-05T11:42:16-05:00",
-      "name": "1,279 Will Win Lay's Merch + More in the Happy Holi",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "robots_blocked",
-          "reason": "Rules page disallows automated readers (robots.txt). PepsiCo press release (Oct 19, 2026) says entry is by scanning bag codes or visiting HappyHoli-Lays.com from Oct 26, but eligibility, dates and limits weren't readable.",
-          "last_attempt_at": "2026-11-04T11:42:16-05:00",
-          "evidence": [
-            "https://www.pepsico.com/newsroom/press-releases/2026/lays-brings-the-holi-lays-with-five-new-limited-time-flavors-inspired-by-holiday-dishes"
-          ],
-          "next_retry_at": "2026-11-05T11:42:16-05:00",
-          "name": "1,279 Will Win Lay's Merch + More in the Happy Holi"
-        }
-      }
+      "next_retry_at": "2026-11-08T18:03:51-05:00",
+      "name": "1,279 Will Win Lay's Merch + More in the Happy Holi"
     },
     "https://heineken.com/us/en/promos/fallfootball": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from rules text quoted on a listing site; the sponsor rules page on mdmgames.com needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and the entry page didn't come up in search",
+      "last_attempt_at": "2026-11-06T18:03:51-05:00",
+      "evidence": [
+        "https://thefreebieguy.com/sweepstakes/20-winners-get-a-100-gift-card-in-the-heineken-takeoff-for-kickoff-sweeps/",
+        "https://www.sweepstakestoday.com/sweeps/details/117487/heineken-usa-takeoff-for-kickoff-sweepstakes"
+      ],
+      "listing_id": "heineken-takeoff-for-kickoff-sweepstakes",
+      "decided_at": "2026-11-06T18:03:51-05:00",
+      "next_retry_at": "2026-11-09T18:03:51-05:00"
     },
     "https://help.doordash.com/en-us/consumers/article/doordash-fall-football-streaks-rewards-sweepstakes": {
       "attempts": 0,
@@ -2135,26 +2110,13 @@
       "name": "Southern Crafted Thanksgiving Giveaway"
     },
     "https://southernliving.com/sweepstakes/entry?sweepId=slv-flash-headstart-1026-eo": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page-reading tool blocks southernliving.com, so the sweepstakes page and rules can't be read here; check it in a browser",
-      "last_attempt_at": "2026-11-04T11:42:45-05:00",
-      "next_retry_at": "2026-11-05T11:42:45-05:00",
-      "name": "28 Will Win a $100 Amazon GC in The Head Start on Holidays Giveaway!",
-      "claim": {
-        "run": "review-2026-11-06",
-        "expires_at": "2026-11-06T20:41:29-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page-reading tool blocks southernliving.com, so the sweepstakes page and rules can't be read here; check it in a browser",
-          "last_attempt_at": "2026-11-04T11:42:45-05:00",
-          "next_retry_at": "2026-11-05T11:42:45-05:00",
-          "name": "28 Will Win a $100 Amazon GC in The Head Start on Holidays Giveaway!"
-        }
-      }
+      "reason": "southernliving.com isn't readable here (scraped links need a page reader approval this unattended run can't answer) and no copy of the rules came up in search",
+      "last_attempt_at": "2026-11-06T18:03:51-05:00",
+      "next_retry_at": "2026-11-08T18:03:51-05:00",
+      "name": "28 Will Win a $100 Amazon GC in The Head Start on Holidays Giveaway!"
     },
     "https://starbucks.promo.eprize.com/survey/public/COMPILED/en/fulfillment/rules_2021.ae83bf2ad04b5fa42cfdec81f0c8479d.pdf": {
       "attempts": 1,
