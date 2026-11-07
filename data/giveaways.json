@@ -4,44 +4,6 @@
   "source": "Found by the Mac mini finder and Perplexity/web search, checked against official rules by Claude.",
   "giveaways": [
     {
-      "name": "Perdue Holiday Drop Sweepstakes",
-      "prize": "5 NYC trips for 2 to a Food Network Kitchen dinner + $2,750 in Visa prepaid cards each (ARV $6,850)",
-      "category": "trip",
-      "entry_url": "https://www.perdue.com/holiday-drop",
-      "rules_url": null,
-      "rules_note": "Linked on the entry page.",
-      "ends": "2026-11-06T23:59:59-05:00",
-      "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/New_York",
-        "reset_hour": 0
-      },
-      "min_age": 18,
-      "rules_checked": "partial",
-      "flags": {},
-      "notes": "48 contiguous states + DC (NJ is in). Website form asks for name, email and phone. A second daily entry is possible by commenting on a Perdue Instagram/TikTok post (not tracked here). Event date Dec 2, 2026.",
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "perdue-holiday-drop-sweepstakes",
-      "match": [
-        "perdue.com/holiday-drop"
-      ],
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-04T00:05:00-05:00",
-        "reason": "Rules as quoted by listing sites (48 states + DC, 18+, one website entry a day, ET days); Perdue's own rules not read.",
-        "evidence": [
-          "https://www.sweepstakestoday.com/sweeps/details/118286/perdue-foods-holiday-drop-sweepstakes",
-          "https://livesweepstakes.uk/perdue-x-food-network-holiday-dinner-drop-sweepstakes/"
-        ],
-        "missing": [
-          "deadline_time"
-        ]
-      }
-    },
-    {
       "id": "real-good-foods-meatball",
       "name": "Real Good Foods Meatball Sweepstakes",
       "prize": "5 x $1,000 Walmart gift cards",
@@ -1008,45 +970,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "Murf Ultimate Beach Haul Giveaway",
-      "prize": "1 winner: Murf Alpha ST e-bike, basket and surf rack, PARKIT chair, $1,000 Salty Crew gift card, Lost surfboard, Turtlebox speaker (total ARV $5,120)",
-      "category": "electronics",
-      "entry_url": "https://www.murfelectricbikes.com/pages/ultimate-beach-haul-giveaway",
-      "rules_url": "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules",
-      "match": [
-        "murfelectricbikes.com/pages/ultimate-beach-haul-giveaway"
-      ],
-      "ends": "2026-11-07T02:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "account": "Instagram account needed: the rules require following Murf and all four participating brands, still following when the winner is picked",
-        "follow": "Must follow Murf and all four participating brands on Instagram, still following when the winner is picked",
-        "marketing": "Entering signs you up for Murf's and the participating brands' marketing emails"
-      },
-      "notes": "IMPORTANT: the rules require following Murf and all four participating brands on Instagram (still following when the winner is picked), and entering signs you up for Murf's and the brands' marketing emails. Do the follows yourself if you want this one; nothing here follows accounts for you. Form asks for name and email. Open to the 48 contiguous states, DC and Hawaii (Alaska excluded), 18+. One entry per person and email.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules",
-        "checked_at": "2026-11-04T01:00:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://murfelectricbikes.com/pages/ultimate-beach-haul-official-rules"
-        ]
-      },
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "murf-ultimate-beach-haul-giveaway",
-      "rules_checked": "full"
-    },
-    {
       "name": "Organic Valley 2026 Thanksgiving Giveaway",
       "prize": "1 winner: 24 Organic Valley free-product coupons ($312) + swag bundle ($100), total ARV $412",
       "category": "other",
@@ -1082,41 +1005,6 @@
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
       "id": "organic-valley-2026-thanksgiving-giveaway",
-      "rules_checked": "full"
-    },
-    {
-      "name": "Fall Into Cozy Sweepstakes (Penguin Random House)",
-      "prize": "1 winner: 7-item cozy prize pack with books and a pillow (ARV $356)",
-      "category": "other",
-      "entry_url": "https://sites.prh.com/fallintocozysweeps",
-      "rules_url": "https://sites.prh.com/fallintocozysweeps/rules",
-      "ends": "2026-11-06T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Open to the 50 states and DC, 18+. One entry per person. Online form only.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://sites.prh.com/fallintocozysweeps/rules",
-        "checked_at": "2026-11-04T01:25-05:00",
-        "evidence": [
-          "https://sites.prh.com/fallintocozysweeps/rules"
-        ],
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        }
-      },
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "fall-into-cozy-sweepstakes-penguin-random-house",
-      "match": [
-        "sites.prh.com/fallintocozysweeps"
-      ],
       "rules_checked": "full"
     },
     {
@@ -2924,6 +2812,81 @@
       "added": "2026-11-06",
       "source": "Claude review 2026-11-06",
       "id": "mike-s-harder-gaming-system-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "LIQUI MOLY USA Foosball Table Giveaway",
+      "prize": "LIQUI MOLY foosball table (ARV $1,499), 1 winner",
+      "category": "other",
+      "entry_url": "https://www.liqui-moly.com/en/us/service/sema-aapex-2026.html",
+      "rules_url": "https://www.liqui-moly.com/en/ca/service/sema-aapex-2026/official-liqui-moly-usa-sweepstakes-rules.html",
+      "match": [
+        "liqui-moly.com/en/us/service/sema-aapex-2026.html"
+      ],
+      "starts": "2026-11-03T03:00:00-05:00",
+      "ends": "2026-11-11T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Sponsor LIQUI MOLY USA Inc. Open to US and DC residents 18+, except Alaska, Hawaii and Rhode Island (NJ is in). No purchase: one online form with name, address, email and a few questions. One entry per person for the whole period, which ends 11:59 PM PT Nov 10. One winner, drawn about Nov 13. The rules page read sits under the site's /en/ca/ path but is the US rules and names the /en/us/ entry page.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.liqui-moly.com/en/ca/service/sema-aapex-2026/official-liqui-moly-usa-sweepstakes-rules.html",
+        "checked_at": "2026-11-07T17:48:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.liqui-moly.com/en/ca/service/sema-aapex-2026/official-liqui-moly-usa-sweepstakes-rules.html",
+          "https://www.liqui-moly.com/en/ca/service/sema-aapex-2026.html"
+        ]
+      },
+      "added": "2026-11-07",
+      "source": "Claude review 2026-11-07",
+      "id": "liqui-moly-usa-foosball-table-giveaway",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Modelo College Football Playoff 2026 Sweepstakes",
+      "prize": "Grand prize: trip for two to the 2028 CFP National Championship (ARV about $7,245). Also 5 bowl trips for two and about 275 fan packs (per a listing site)",
+      "category": "trip",
+      "entry_url": "https://www.modelousa.com/pages/cfp-2026",
+      "rules_url": "https://www.modelousa.com/pages/cfp-or-2026",
+      "match": [
+        "modelousa.com/pages/cfp-2026"
+      ],
+      "starts": "2026-08-03T10:00:00-04:00",
+      "ends": "2027-01-25T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Per a listing site: open to the 50 states and DC, 21+, one online entry per person or email per day, Aug 3, 2026 to Jan 25, 2027 11:59 PM ET. Prizes listed are trips and fan packs. The sponsor's rules weren't read, so treat the free entry, states and limit as unconfirmed.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-07T17:54:00-05:00",
+        "reason": "Facts come from a listing site (moneysmylife). The sponsor's entry and rules pages on modelousa.com needed a page-reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, so eligibility, free entry, the end time and the daily limit are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.moneysmylife.com/modelo-college-football-playoff-2026-sweepstakes/"
+        ]
+      },
+      "added": "2026-11-07",
+      "source": "Claude review 2026-11-07",
+      "id": "modelo-college-football-playoff-2026-sweepstakes",
       "rules_checked": "partial"
     }
   ]
