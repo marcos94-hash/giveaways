@@ -3035,6 +3035,50 @@
       "source": "Claude review 2026-11-07",
       "id": "starbucks-customer-experience-sweepstakes-oct-2026-to-sep-20",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Frito-Lay Gameday Experiences Sweepstakes (Tostitos)",
+      "prize": "NFL game trips for 2 (airfare, 2 hotel nights, 2 tickets, parking pass, $750 check) in each entry period, plus autographed memorabilia and team merchandise; 1 prize per household",
+      "category": "trip",
+      "entry_url": "https://www.us-joy.com/tostitosgamedayexperiences",
+      "rules_url": "https://www.us-joy.com/tostitosgamedayexperiences/rules",
+      "match": [
+        "us-joy.com/tostitosgamedayexperiences",
+        "tostitosgamedayexperiences.com"
+      ],
+      "starts": "2026-08-10T13:00:00-04:00",
+      "ends": "2026-12-07T00:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Chicago",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Free US Joy Rewards account needed (create one or log in on the sweepstakes site); winners need a valid US government photo ID."
+      },
+      "notes": "Sponsor Frito-Lay. Open to the 50 states and DC, 18+ (19 in AL and NE), with a valid US government photo ID. No purchase: request a free AMOE code on the sweepstakes site (name, email, ZIP, birth date, phone, mailing address), get it by email, then enter it in place of a product code. Needs a free US Joy Rewards account. One entry per household per day; days run midnight to 11:59 PM Central. 17 entry periods, and each entry picks an NFL team. Ends 11:59 PM CT Dec 6. One prize per household. The rules text was read through a Perplexity lookup of the sponsor's rules page because the page reader couldn't open it directly.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.us-joy.com/tostitosgamedayexperiences/rules",
+        "checked_at": "2026-11-07T18:02:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.us-joy.com/tostitosgamedayexperiences/rules",
+          "https://www.us-joy.com/tostitosgamedayexperiences/prizes",
+          "https://www.us-joy.com/tostitosgamedayexperiences"
+        ]
+      },
+      "added": "2026-11-07",
+      "source": "Claude review 2026-11-07",
+      "id": "frito-lay-gameday-experiences-sweepstakes-tostitos",
+      "rules_checked": "full"
     }
   ]
 }

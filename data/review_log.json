@@ -811,13 +811,13 @@
       "name": "The Eddie Bauer Red Rocks and Roam Giveaway! 65 Winners get Gift Cards!"
     },
     "https://ehplabs.com/pages/oxyshred-prize-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Sponsor's giveaway page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run; web search and a Perplexity lookup on ehplabs.com found only terms for older EHPlabs competitions, not this one",
+      "last_attempt_at": "2026-11-07T18:02:27-05:00",
+      "next_retry_at": "2026-11-08T18:02:27-05:00",
+      "name": "OxyShred Sweepstakes"
     },
     "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes": {
       "attempts": 0,
@@ -1193,13 +1193,13 @@
       "name": "1,279 Will Win Lay's Merch + More in the Happy Holi"
     },
     "https://heineken.com/us/en/agegateway?returnUrl=%2Fus%2Fen%2Fpromos%2Fholiday": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Heineken's promo page (age gate) needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run; web search found only press coverage of earlier Heineken holiday programs (2017, 2021), so the 2026 prize and rules are unknown",
+      "last_attempt_at": "2026-11-07T18:02:27-05:00",
+      "next_retry_at": "2026-11-08T18:02:27-05:00",
+      "name": "HEINEKEN HOLIDAY PROMOTION"
     },
     "https://heineken.com/us/en/promos/fallfootball": {
       "attempts": 0,
@@ -2573,13 +2573,13 @@
       "attempts": 0
     },
     "https://titosvodka.com/holiday": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Tito's holiday page (age gate) needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run; web search found only press about earlier Tito's holiday promotions, no rules for this sweater drop",
+      "last_attempt_at": "2026-11-07T18:02:27-05:00",
+      "next_retry_at": "2026-11-08T18:02:27-05:00",
+      "name": "Tito’s Holiday Sweater Drop Giveaway"
     },
     "https://ul.ink/185EMB-TQM8S6": {
       "attempts": 2,
@@ -2633,12 +2633,18 @@
     },
     "https://us-joy.com/tostitosgamedayexperiences": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-07T18:02:27-05:00",
+      "evidence": [
+        "https://www.us-joy.com/tostitosgamedayexperiences",
+        "https://www.us-joy.com/tostitosgamedayexperiences/prizes",
+        "https://www.us-joy.com/tostitosgamedayexperiences/rules"
+      ],
+      "listing_id": "frito-lay-gameday-experiences-sweepstakes-tostitos",
+      "decided_at": "2026-11-07T18:02:27-05:00",
+      "next_retry_at": null
     },
     "https://us.peppermayo.com/pages/pm-insider-2026": {
       "attempts": 0,
