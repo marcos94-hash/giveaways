@@ -296,13 +296,13 @@
       "next_retry_at": null
     },
     "https://blisterreview.com/blister-gear-giveaway/win-a-sports-nutrition-package-from-tailwind": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Blister giveaway page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run; web search found other Blister giveaways but not this one or its rules",
+      "last_attempt_at": "2026-11-07T17:58:13-05:00",
+      "next_retry_at": "2026-11-08T17:58:13-05:00",
+      "name": "Win a Sports Nutrition Package from Tailwind"
     },
     "https://bookthrone.com/post/the-cursed-heart-series": {
       "attempts": 0,
@@ -359,32 +359,16 @@
       "next_retry_at": null
     },
     "https://calisqueeze.com/win-a-cali-squeeze-yeti-cooler": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "js_only",
-      "reason": "Sponsor page (Firestone Walker's Cali Squeeze, 21+ age gate) embeds a ViralSweep widget; dates, eligible states and rules load by script. Their other giveaways are limited to certain states (NJ included).",
-      "last_attempt_at": "2026-11-04T12:11:24-05:00",
+      "attempts": 2,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Sponsor page couldn't be opened this run (page-reader approval PROVENANCE_REQUIRED unanswered, and search didn't surface it); last run its ViralSweep widget loaded dates, states and rules only by script",
+      "last_attempt_at": "2026-11-07T17:58:13-05:00",
       "evidence": [
         "https://www.calisqueeze.com/win-a-cali-squeeze-yeti-cooler/"
       ],
-      "next_retry_at": "2026-11-05T12:11:24-05:00",
-      "name": "Win a Custom Cali Squeeze YETI Cooler!",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "js_only",
-          "reason": "Sponsor page (Firestone Walker's Cali Squeeze, 21+ age gate) embeds a ViralSweep widget; dates, eligible states and rules load by script. Their other giveaways are limited to certain states (NJ included).",
-          "last_attempt_at": "2026-11-04T12:11:24-05:00",
-          "evidence": [
-            "https://www.calisqueeze.com/win-a-cali-squeeze-yeti-cooler/"
-          ],
-          "next_retry_at": "2026-11-05T12:11:24-05:00",
-          "name": "Win a Custom Cali Squeeze YETI Cooler!"
-        }
-      }
+      "next_retry_at": "2026-11-09T17:58:13-05:00",
+      "name": "Win a Custom Cali Squeeze YETI Cooler!"
     },
     "https://camel.com/?resource=%2Fsecure%2Fpromotions%2Fouttheregiveaway.html": {
       "attempts": 0,
@@ -410,32 +394,16 @@
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
     "https://campaign.aptivada.com/terms/1927140": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "js_only",
-      "reason": "Aptivada terms page and the iHeart promotion page (news.iheart.com/promotions/clean-up-at-iheartradio-jingle-ball-1927140) load their rules by script; dates, eligibility and limits not readable",
-      "last_attempt_at": "2026-11-04T11:45:36-05:00",
+      "attempts": 2,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Aptivada terms and the iHeart promotion page couldn't be opened this run (page-reader approval PROVENANCE_REQUIRED unanswered, and search didn't surface them); last run both loaded their rules only by script",
+      "last_attempt_at": "2026-11-07T17:58:13-05:00",
       "evidence": [
         "https://news.iheart.com/promotions/clean-up-at-iheartradio-jingle-ball-1927140/"
       ],
-      "next_retry_at": "2026-11-05T11:45:36-05:00",
-      "name": "Win a Trip to The Jingle Ball in The Arm & Hammer Flyaway Sweepstakes",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "js_only",
-          "reason": "Aptivada terms page and the iHeart promotion page (news.iheart.com/promotions/clean-up-at-iheartradio-jingle-ball-1927140) load their rules by script; dates, eligibility and limits not readable",
-          "last_attempt_at": "2026-11-04T11:45:36-05:00",
-          "evidence": [
-            "https://news.iheart.com/promotions/clean-up-at-iheartradio-jingle-ball-1927140/"
-          ],
-          "next_retry_at": "2026-11-05T11:45:36-05:00",
-          "name": "Win a Trip to The Jingle Ball in The Arm & Hammer Flyaway Sweepstakes"
-        }
-      }
+      "next_retry_at": "2026-11-09T17:58:13-05:00",
+      "name": "Win a Trip to The Jingle Ball in The Arm & Hammer Flyaway Sweepstakes"
     },
     "https://capncrunchmystery.com/": {
       "attempts": 1,
@@ -1042,22 +1010,22 @@
       "name": "WWE & Zenni Survivor Series Sweepstakes"
     },
     "https://gleam.io/Pu5DH/denniscw-tesla-wall-connector-giveaway-november-2026": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam entry page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run (the reader only opens links that come from web search), and web search found neither the page nor a copy of its terms",
+      "last_attempt_at": "2026-11-07T17:58:13-05:00",
+      "next_retry_at": "2026-11-08T17:58:13-05:00",
+      "name": "DennisCW Wall Connector Giveaway"
     },
     "https://gleam.io/RVTMH/mambasnake-giveaway-round-83": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam entry page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run (the reader only opens links that come from web search), and web search found neither the page nor a copy of its terms",
+      "last_attempt_at": "2026-11-07T17:58:12-05:00",
+      "next_retry_at": "2026-11-08T17:58:12-05:00",
+      "name": "Mambasnake GIVEAWAY ROUND 83"
     },
     "https://gleam.io/VvauK/weekly-tempspike-pro-giveaway-nov-28": {
       "attempts": 1,
@@ -1103,35 +1071,25 @@
       "decided_at": "2026-11-07T17:40:01-05:00"
     },
     "https://gleam.io/dpZFp/anker-solix-s5000-giveaway": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "Gleam returns a client error to the page reader; terms and eligibility can't be read here",
-      "last_attempt_at": "2026-11-04T11:55:48-05:00",
-      "next_retry_at": "2026-11-05T11:55:48-05:00",
+      "reason": "Gleam entry page still unreadable here (page-reader approval PROVENANCE_REQUIRED unanswered; last run a client error) and search found no copy of its terms; Anker's S5000 launch terms on ankersolix.com cover a purchase promotion, not this giveaway",
+      "last_attempt_at": "2026-11-07T17:58:12-05:00",
+      "next_retry_at": "2026-11-09T17:58:12-05:00",
       "name": "Win an Anker SOLIX S5000 Portable Power Station Valued at $3600!",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Gleam returns a client error to the page reader; terms and eligibility can't be read here",
-          "last_attempt_at": "2026-11-04T11:55:48-05:00",
-          "next_retry_at": "2026-11-05T11:55:48-05:00",
-          "name": "Win an Anker SOLIX S5000 Portable Power Station Valued at $3600!"
-        }
-      }
+      "evidence": [
+        "https://www.ankersolix.com/s5000-launch-promotion-official-terms-and-conditions"
+      ]
     },
     "https://gleam.io/etBs7/pet-art?gsr=etBs7-oIFcxgKiFg": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam entry page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run (the reader only opens links that come from web search), and web search found neither the page nor a copy of its terms",
+      "last_attempt_at": "2026-11-07T17:58:13-05:00",
+      "next_retry_at": "2026-11-08T17:58:13-05:00",
+      "name": "Win 1 of 3 custom pet portraits from Pet Art"
     },
     "https://gleam.io/gTGES/mitra9s-gear-up-get-moving-giveaway": {
       "attempts": 0,
@@ -1179,13 +1137,13 @@
       ]
     },
     "https://gleam.io/woiZw/giveaway-bear-nutriease-stainless-steel-all-stage-baby-food-maker": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam entry page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run (the reader only opens links that come from web search), and web search found neither the page nor a copy of its terms",
+      "last_attempt_at": "2026-11-07T17:58:12-05:00",
+      "next_retry_at": "2026-11-08T17:58:12-05:00",
+      "name": "Bear NutriEase Stainless Steel All Stage Baby Food Maker Giveaway"
     },
     "https://go.magik.ly/ml/4hyl7": {
       "attempts": 0,
@@ -1800,13 +1758,13 @@
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
     "https://northernrosejewelry.com/blogs/articles/giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Sponsor's giveaway blog page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run, and web search found neither the page nor its rules",
+      "last_attempt_at": "2026-11-07T17:58:13-05:00",
+      "next_retry_at": "2026-11-08T17:58:13-05:00",
+      "name": "Northern Rose Amethyst Dangle Earrings Giveaway"
     },
     "https://offseasonpepsisweeps.com/": {
       "attempts": 1,
@@ -2385,12 +2343,16 @@
     },
     "https://sofi.com/studentdebttoallset-sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "restricted_group",
+      "reason": "Sponsor rules (SoFi From Student Debt, To All Set Sweepstakes, up to $100,000 toward student loans): open only to adults who already have a student loan with SoFi or another US lender; online entry means registering and checking a refinance rate (soft credit check), otherwise mail-in only; one entry, ends Jan 15, 2027 11:00 AM PT",
+      "last_attempt_at": "2026-11-07T17:58:12-05:00",
+      "evidence": [
+        "https://www.sofi.com/studentdebttoallset-sweepstakes/"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-07T17:58:12-05:00",
+      "name": "SoFi From Student Debt To All Set Sweepstakes"
     },
     "https://southern-crafted.com/pages/thanksgiving-giveaway": {
       "attempts": 1,
