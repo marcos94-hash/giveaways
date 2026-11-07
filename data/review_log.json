@@ -80,25 +80,17 @@
     },
     "https://alwaysdiscreetsweepstakes.com/": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "robots_blocked",
-      "reason": "Sweepstakes site disallows automated readers (robots.txt)",
-      "last_attempt_at": "2026-11-04T11:51:32-05:00",
-      "next_retry_at": "2026-11-05T11:51:32-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a listing site. The sweepstakes site disallowed automated readers last run and needed a page-reader approval (PROVENANCE_REQUIRED) this run, so the free entry method (online or mail), eligibility, deadline and limit are unconfirmed.",
+      "last_attempt_at": "2026-11-07T17:54:29-05:00",
+      "next_retry_at": "2026-11-10T17:54:29-05:00",
       "name": "Win a Trip to Super Bowl LXI!",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "robots_blocked",
-          "reason": "Sweepstakes site disallows automated readers (robots.txt)",
-          "last_attempt_at": "2026-11-04T11:51:32-05:00",
-          "next_retry_at": "2026-11-05T11:51:32-05:00",
-          "name": "Win a Trip to Super Bowl LXI!"
-        }
-      }
+      "evidence": [
+        "https://www.moneysmylife.com/always-discreet-protect-the-moment-sweepstakes/"
+      ],
+      "listing_id": "always-discreet-protect-the-moment-sweepstakes",
+      "decided_at": "2026-11-07T17:54:29-05:00"
     },
     "https://amoe.t-mobiletuesdays.com/": {
       "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
@@ -1617,6 +1609,21 @@
       "next_retry_at": "2026-11-06T17:53:17-05:00",
       "name": "The Alerus Ultimate Concert Summer Sweepstakes"
     },
+    "https://lowes.com/events/register/sweepstakes/home-for-the-holidays-sweepstakes": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites (Sweeps Atlas, Sweepstakes Advantage, The Freebie Guy) found with a Perplexity lookup. Lowe's official rules weren't found by search, and the Lowe's short link disallowed automated readers last run, so eligibility, the end time and the entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-07T17:56:39-05:00",
+      "evidence": [
+        "https://thefreebieguy.com/sweepstakes/win-a-500000-prize-in-the-lowes-home-for-the-holidays-sweeps/",
+        "https://www.sweepsadvantage.com/home-for-the-holiday-sweepstakes",
+        "https://www.sweepsatlas.com/sweeps/lowe-s-home-for-the-holidays-sweepstakes"
+      ],
+      "listing_id": "lowe-s-home-for-the-holidays-sweepstakes",
+      "decided_at": "2026-11-07T17:56:39-05:00",
+      "next_retry_at": "2026-11-10T17:56:39-05:00"
+    },
     "https://luckygolf.com/pages/giveaway": {
       "attempts": 0,
       "status": "listed",
@@ -1669,26 +1676,17 @@
       "name": "Miami Dream Sweepstakes! 818 WINNERS!"
     },
     "https://michelobultra.com/rules": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "robots_blocked",
-      "reason": "Michelob Ultra rules page disallows automated readers (robots.txt)",
-      "last_attempt_at": "2026-11-04T12:06:48-05:00",
-      "next_retry_at": "2026-11-05T12:06:48-05:00",
+      "reason": "michelobultra.com/rules disallows automated readers (robots.txt, last run) and this run's page reader only opens links found by web search; search found only NHL team Rinkside ticket sweepstakes (Red Wings, Rangers), not this Fanatics gift card one",
+      "last_attempt_at": "2026-11-07T17:54:29-05:00",
+      "next_retry_at": "2026-11-09T17:54:29-05:00",
       "name": "Win a Fanatics Gift Card in The Michelob Ultra Rinkside ’26",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "robots_blocked",
-          "reason": "Michelob Ultra rules page disallows automated readers (robots.txt)",
-          "last_attempt_at": "2026-11-04T12:06:48-05:00",
-          "next_retry_at": "2026-11-05T12:06:48-05:00",
-          "name": "Win a Fanatics Gift Card in The Michelob Ultra Rinkside ’26"
-        }
-      }
+      "evidence": [
+        "https://www.nhl.com/rangers/fans/sweepstakes/michelob-ultra-rinkside",
+        "https://www.nhl.com/redwings/fans/michelob-ultra-rinkside-sweepstakes"
+      ]
     },
     "https://mikeshard.com/sweepstakes/hardergaming26": {
       "attempts": 0,
@@ -1812,25 +1810,18 @@
     },
     "https://offseasonpepsisweeps.com/": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "js_only",
-      "reason": "Sweepstakes site returns only its title (Off Season Pepsi Sweeps); content and rules load by script",
-      "last_attempt_at": "2026-11-04T11:44:44-05:00",
-      "next_retry_at": "2026-11-05T11:44:44-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The sponsor's press release confirms the promotion and the Nov 30 end date, but the official rules on offseasonpepsisweeps.com needed a page-reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer (last run the site loaded only by script), so eligibility, the end time and the daily limit are unconfirmed.",
+      "last_attempt_at": "2026-11-07T17:54:29-05:00",
+      "next_retry_at": "2026-11-10T17:54:29-05:00",
       "name": "14,000 Win a Mini Can Jacket in The Pepsi x Off Season Can Jacket Sweeps!",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "js_only",
-          "reason": "Sweepstakes site returns only its title (Off Season Pepsi Sweeps); content and rules load by script",
-          "last_attempt_at": "2026-11-04T11:44:44-05:00",
-          "next_retry_at": "2026-11-05T11:44:44-05:00",
-          "name": "14,000 Win a Mini Can Jacket in The Pepsi x Off Season Can Jacket Sweeps!"
-        }
-      }
+      "evidence": [
+        "https://hip2save.com/deals/pepsi-mini-nfl-puffer-jackets-sweepstakes/",
+        "https://www.pepsico.com/newsroom/press-releases/2026/pepsi-and-off-season-give-great-taste-a-one-of-a-kind-tailgate-fit-with-mini-nfl-puffer-can-jackets"
+      ],
+      "listing_id": "pepsi-x-off-season-can-jacket-sweepstakes",
+      "decided_at": "2026-11-07T17:54:29-05:00"
     },
     "https://ojbirthday.com/login": {
       "attempts": 2,
@@ -2131,13 +2122,13 @@
       "name": "Win a $1000 Walmart Gift Card and More from Real Good Foods!"
     },
     "https://realsimple.com/real-simple-this-is-your-sign-to-sweepstakes-12196911": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Real Simple's sweepstakes page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run (the reader only opens links that come from web search), and neither web search nor a Perplexity lookup on realsimple.com turned up the page or its rules",
+      "last_attempt_at": "2026-11-07T17:56:39-05:00",
+      "next_retry_at": "2026-11-08T17:56:39-05:00",
+      "name": "Real Simple Treat Yourself Sweepstakes"
     },
     "https://refer.tatcha.com/october2026sweepstakes": {
       "attempts": 0,
@@ -2262,25 +2253,19 @@
     },
     "https://shoplowes.me/3WZLa2y": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "robots_blocked",
-      "reason": "Lowe's short link disallows automated readers (robots.txt) and the rules weren't found on lowes.com by search; destination page and rules unknown",
-      "last_attempt_at": "2026-11-04T11:48:14-05:00",
-      "next_retry_at": "2026-11-05T11:48:14-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites (Sweeps Atlas, Sweepstakes Advantage, The Freebie Guy) found with a Perplexity lookup. Lowe's official rules weren't found by search, and the Lowe's short link disallowed automated readers last run, so eligibility, the end time and the entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-07T17:56:39-05:00",
+      "next_retry_at": "2026-11-10T17:56:39-05:00",
       "name": "Win a House in Lowe's A Home for the Holidays Sweepstakes!",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "robots_blocked",
-          "reason": "Lowe's short link disallows automated readers (robots.txt) and the rules weren't found on lowes.com by search; destination page and rules unknown",
-          "last_attempt_at": "2026-11-04T11:48:14-05:00",
-          "next_retry_at": "2026-11-05T11:48:14-05:00",
-          "name": "Win a House in Lowe's A Home for the Holidays Sweepstakes!"
-        }
-      }
+      "evidence": [
+        "https://thefreebieguy.com/sweepstakes/win-a-500000-prize-in-the-lowes-home-for-the-holidays-sweeps/",
+        "https://www.sweepsadvantage.com/home-for-the-holiday-sweepstakes",
+        "https://www.sweepsatlas.com/sweeps/lowe-s-home-for-the-holidays-sweepstakes"
+      ],
+      "listing_id": "lowe-s-home-for-the-holidays-sweepstakes",
+      "decided_at": "2026-11-07T17:56:39-05:00"
     },
     "https://shoppingcentersweepstakes.com/": {
       "attempts": 0,
@@ -2425,27 +2410,38 @@
       "next_retry_at": "2026-11-08T18:03:51-05:00",
       "name": "28 Will Win a $100 Amazon GC in The Head Start on Holidays Giveaway!"
     },
+    "https://starbucks-survey2.promo.eprize.com/": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The sponsor rules read (Starbucks, administered by Merkle) cover the period that ended Sep 30, 2026. Listing sites quote the same terms for the new Oct 2026 to Sep 2027 period, but the current rules weren't read.",
+      "last_attempt_at": "2026-11-07T17:56:39-05:00",
+      "evidence": [
+        "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2025.pdf",
+        "https://starbucks.survoxinc.com/star01/insights/ce101/rules_2026.pdf",
+        "https://www.sweepsadvantage.com/starbucks-sweepstakes",
+        "https://www.sweepstakestoday.com/sweeps/details/117997/starbucks-customer-experience-sweepstakes"
+      ],
+      "listing_id": "starbucks-customer-experience-sweepstakes-oct-2026-to-sep-20",
+      "decided_at": "2026-11-07T17:56:39-05:00",
+      "next_retry_at": "2026-11-10T17:56:39-05:00"
+    },
     "https://starbucks.promo.eprize.com/survey/public/COMPILED/en/fulfillment/rules_2021.ae83bf2ad04b5fa42cfdec81f0c8479d.pdf": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "Rules PDF returns a client error to the page reader. Customer-experience survey sweepstakes usually need a receipt survey code online with mail-in as the free method; not confirmed.",
-      "last_attempt_at": "2026-11-04T12:12:55-05:00",
-      "next_retry_at": "2026-11-05T12:12:55-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The sponsor rules read (Starbucks, administered by Merkle) cover the period that ended Sep 30, 2026. Listing sites quote the same terms for the new Oct 2026 to Sep 2027 period, but the current rules weren't read.",
+      "last_attempt_at": "2026-11-07T17:56:39-05:00",
+      "next_retry_at": "2026-11-10T17:56:39-05:00",
       "name": "1.2K Win a GC in The Starbucks Customer Experience Sweeps!",
-      "claim": {
-        "run": "review-2026-11-07",
-        "expires_at": "2026-11-07T20:44:41-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Rules PDF returns a client error to the page reader. Customer-experience survey sweepstakes usually need a receipt survey code online with mail-in as the free method; not confirmed.",
-          "last_attempt_at": "2026-11-04T12:12:55-05:00",
-          "next_retry_at": "2026-11-05T12:12:55-05:00",
-          "name": "1.2K Win a GC in The Starbucks Customer Experience Sweeps!"
-        }
-      }
+      "evidence": [
+        "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2025.pdf",
+        "https://starbucks.survoxinc.com/star01/insights/ce101/rules_2026.pdf",
+        "https://www.sweepsadvantage.com/starbucks-sweepstakes",
+        "https://www.sweepstakestoday.com/sweeps/details/117997/starbucks-customer-experience-sweepstakes"
+      ],
+      "listing_id": "starbucks-customer-experience-sweepstakes-oct-2026-to-sep-20",
+      "decided_at": "2026-11-07T17:56:39-05:00"
     },
     "https://straighttalkracingtour.com/mustang-giveaway": {
       "attempts": 1,

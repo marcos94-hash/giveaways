@@ -2888,6 +2888,153 @@
       "source": "Claude review 2026-11-07",
       "id": "modelo-college-football-playoff-2026-sweepstakes",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Pepsi x Off Season Can Jacket Sweepstakes",
+      "prize": "Mini NFL puffer can jacket (about $30 each), 14,000 winners",
+      "category": "other",
+      "entry_url": "https://offseasonpepsisweeps.com/",
+      "rules_url": "https://offseasonpepsisweeps.com/",
+      "match": [
+        "offseasonpepsisweeps.com"
+      ],
+      "ends": "2026-11-30T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "PepsiCo's press release says entries run through Nov 30, 2026 and points to the sweeps site for the official rules. A deal site says no purchase, enter once a day and pick an NFL team's jacket; winners are picked around Dec 1 and told by email. Eligibility, minimum age and the end time are unconfirmed.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-07T17:54:00-05:00",
+        "reason": "The sponsor's press release confirms the promotion and the Nov 30 end date, but the official rules on offseasonpepsisweeps.com needed a page-reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer (last run the site loaded only by script), so eligibility, the end time and the daily limit are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "deadline_time",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.pepsico.com/newsroom/press-releases/2026/pepsi-and-off-season-give-great-taste-a-one-of-a-kind-tailgate-fit-with-mini-nfl-puffer-can-jackets",
+          "https://hip2save.com/deals/pepsi-mini-nfl-puffer-jackets-sweepstakes/"
+        ]
+      },
+      "added": "2026-11-07",
+      "source": "Claude review 2026-11-07",
+      "id": "pepsi-x-off-season-can-jacket-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Always Discreet Protect the Moment Sweepstakes",
+      "prize": "Trip for two to Super Bowl LXI: 2 game tickets, 3 hotel nights and a $5,000 travel check (ARV $12,950; airfare not included)",
+      "category": "trip",
+      "entry_url": "https://alwaysdiscreetsweepstakes.com/",
+      "rules_url": "https://alwaysdiscreetsweepstakes.com/",
+      "match": [
+        "alwaysdiscreetsweepstakes.com"
+      ],
+      "starts": "2026-09-01T10:00:00-04:00",
+      "ends": "2026-12-31T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Per a listing site: Procter & Gamble sweepstakes for the 48 contiguous states and DC, 18+, one entry per person, Sep 1 to Dec 31, 2026 11:59 PM ET. The main entry uploads a receipt from a qualifying purchase; the listing says a no-purchase alternate method is described on the official site but not whether it is online. Don't buy anything for this; check the alternate method first.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-07T17:54:00-05:00",
+        "reason": "Facts come from a listing site. The sweepstakes site disallowed automated readers last run and needed a page-reader approval (PROVENANCE_REQUIRED) this run, so the free entry method (online or mail), eligibility, deadline and limit are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.moneysmylife.com/always-discreet-protect-the-moment-sweepstakes/"
+        ]
+      },
+      "added": "2026-11-07",
+      "source": "Claude review 2026-11-07",
+      "id": "always-discreet-protect-the-moment-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Lowe's Home for the Holidays Sweepstakes",
+      "prize": "Winner's choice: $500,000 credit toward building a new home, or a $300,000 check (1 winner)",
+      "category": "cash",
+      "entry_url": "https://www.lowes.com/events/register/sweepstakes/home-for-the-holidays-sweepstakes",
+      "match": [
+        "lowes.com/events/register/sweepstakes/home-for-the-holidays-sweepstakes"
+      ],
+      "ends": "2026-12-15T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Free MyLowe's Rewards membership required; enter signed in on lowes.com or in the Lowe's app (Member Events)."
+      },
+      "notes": "Per listing sites: open to the 50 states and DC, 18+ (and age of majority), MyLowe's Rewards members only (free to join). One free entry per person. Extra daily bonus entries come only from a $50+ purchase or a mailed card, plus a one-time share bonus in the app. Ends Dec 15, 2026 11:59 PM ET; winner drawn about Jan 4, 2027. Needs a free MyLowe's Rewards account. The sponsor's rules weren't read.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-07T17:56:00-05:00",
+        "reason": "Facts come from listing sites (Sweeps Atlas, Sweepstakes Advantage, The Freebie Guy) found with a Perplexity lookup. Lowe's official rules weren't found by search, and the Lowe's short link disallowed automated readers last run, so eligibility, the end time and the entry limit are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.sweepsatlas.com/sweeps/lowe-s-home-for-the-holidays-sweepstakes",
+          "https://www.sweepsadvantage.com/home-for-the-holiday-sweepstakes",
+          "https://thefreebieguy.com/sweepstakes/win-a-500000-prize-in-the-lowes-home-for-the-holidays-sweeps/"
+        ]
+      },
+      "added": "2026-11-07",
+      "source": "Claude review 2026-11-07",
+      "id": "lowe-s-home-for-the-holidays-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Starbucks Customer Experience Sweepstakes (Oct 2026 to Sep 2027)",
+      "prize": "$100 Starbucks gift card; 100 winners each month (1,200 in all)",
+      "category": "gift_card",
+      "entry_url": "https://starbucks-survey2.promo.eprize.com/",
+      "match": [
+        "starbucks-survey2.promo.eprize.com"
+      ],
+      "ends": "2027-10-01T02:59:00-04:00",
+      "limit": {
+        "type": "rolling",
+        "hours": 720
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Listing sites quoting the current rules: 50 states and DC, 18+, no purchase; the free way in is the online form on the promotion site (name, email, home address). One entry per person per calendar month (Pacific time), 100 winners drawn each month, runs to Sep 30, 2027 11:59 PM PT. The limit is set to 30 days here, so enter early in each month to avoid skipping one. Last year's sponsor rules (Oct 2025 to Sep 2026) had the same terms.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-07T17:56:00-05:00",
+        "reason": "The sponsor rules read (Starbucks, administered by Merkle) cover the period that ended Sep 30, 2026. Listing sites quote the same terms for the new Oct 2026 to Sep 2027 period, but the current rules weren't read.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2025.pdf",
+          "https://starbucks.survoxinc.com/star01/insights/ce101/rules_2026.pdf",
+          "https://www.sweepstakestoday.com/sweeps/details/117997/starbucks-customer-experience-sweepstakes",
+          "https://www.sweepsadvantage.com/starbucks-sweepstakes"
+        ]
+      },
+      "added": "2026-11-07",
+      "source": "Claude review 2026-11-07",
+      "id": "starbucks-customer-experience-sweepstakes-oct-2026-to-sep-20",
+      "rules_checked": "partial"
     }
   ]
 }
