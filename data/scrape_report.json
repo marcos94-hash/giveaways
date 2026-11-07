@@ -1,30 +1,32 @@
 {
- "run_at": "2026-11-07T11:17:02+00:00",
+ "run_at": "2026-11-07T21:17:02+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
-   "detail_links": 40,
-   "parsed": 25,
-   "kept": 25,
-   "dropped": {},
+   "detail_links": 41,
+   "parsed": 19,
+   "kept": 17,
+   "dropped": {
+    "social-media-only entry": 2
+   },
    "errors": [],
    "samples": [
     {
-     "title": "Mountaindale Press World's Only Hero Preorder Giveaway",
-     "entry_url": "https://gleam.io/fgQi6/worlds-only-hero-preorder-giveaway?gsr=fgQi6-oJsrnf9FNn",
+     "title": "STORMCRAFT Salem Tech ​Sales Season PC Giveaway",
+     "entry_url": "https://gleam.io/cPggF/stormcraft-salem-tech-sales-season-pc-giveaway?gsr=cPggF-oH0RlOPhUE",
      "rules_url": null,
-     "ends_guess": "2026-12-05",
-     "ends_text": "Last day to enter: Sat, Dec 5",
+     "ends_guess": "2026-11-07",
+     "ends_text": "Last day to enter: Sat, Nov 7",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonth"
     },
     {
-     "title": "Mossberg MC2sc Double Trouble Giveaway",
-     "entry_url": "https://gleam.io/OHkOh/double-trouble-giveaway-mossberg-mc2sc-gift-card",
+     "title": "Game Outpost Star Trek Giveaway",
+     "entry_url": "https://app.viralsweep.com/sweeps/full/5a56f8-239820?framed=1#f1785387",
      "rules_url": null,
-     "ends_guess": "2026-11-17",
-     "ends_text": "Last day to enter: Tue, Nov 17",
+     "ends_guess": "2026-11-07",
+     "ends_text": "Last day to enter: Sat, Nov 7",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonth"
@@ -43,37 +45,37 @@
   "winprizesonline": {
    "listing_pages": 2,
    "detail_links": 18,
-   "parsed": 9,
-   "kept": 5,
+   "parsed": 8,
+   "kept": 3,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Home Holiday Makeover Sweepstakes",
+     "title": "Chic Soul Sweepstakes",
      "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-12-31",
-     "ends_text": "Expires\n 12-31-2026",
-     "frequency_guess": "daily",
-     "min_age_guess": 21,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Home Hol"
-    },
-    {
-     "title": "PuroQuiet Plus Headphones Giveaway",
-     "entry_url": null,
-     "rules_url": null,
-     "ends_guess": "2026-11-29",
-     "ends_text": "Expires\n 11-29-2026",
+     "ends_guess": "2026-11-27",
+     "ends_text": "Expires\n 11-27-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n PuroQuie"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Chic Sou"
+    },
+    {
+     "title": "Mestiza Tabletop Giveaway",
+     "entry_url": null,
+     "rules_url": null,
+     "ends_guess": "2026-11-08",
+     "ends_text": "Expires\n 11-08-2026",
+     "frequency_guess": "daily",
+     "min_age_guess": 18,
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Mestiza "
     }
    ],
    "retry_later": {
-    "no entry link found": 4
+    "no entry link found": 5
    }
   }
  },
- "total_candidates": 433,
- "details_budget_left": 116
+ "total_candidates": 453,
+ "details_budget_left": 123
 }
