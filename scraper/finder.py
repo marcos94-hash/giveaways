@@ -447,7 +447,8 @@ def main():
     for src in SOURCES:
         if args.only and src["name"] != args.only:
             continue
-        r = {"listing_pages": 0, "detail_links": 0, "parsed": 0, "kept": 0, "dropped": {}, "errors": [], "samples": []}
+        # skipped_seen: detail pages parsed on an earlier run, so 0 parsed with no errors means "nothing new", not a broken parser
+        r = {"listing_pages": 0, "detail_links": 0, "parsed": 0, "skipped_seen": 0, "kept": 0, "dropped": {}, "errors": [], "samples": []}
         report["sources"][src["name"]] = r
         details = []
         for lu in src["listing"]:
@@ -480,6 +481,7 @@ def main():
             if budget <= 0 or src_budget <= 0:
                 break
             if not due_for_fetch(seen.get(du), today):
+                r["skipped_seen"] += 1
                 continue
             if not allowed(du):
                 r["errors"].append(f"robots.txt disallows {du}")

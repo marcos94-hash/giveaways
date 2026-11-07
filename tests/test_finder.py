@@ -143,12 +143,14 @@ def test_main_offline(monkeypatch=None):
         canada = [c for c in out["candidates"].values() if "canada" in c["title"].lower()][0]
         assert "foreign_only" in canada["review_flags"]
         s = rep["sources"]["freestufftimes"]
-        assert s["detail_links"] == 3 and s["parsed"] == 3 and s["kept"] == 3, s
+        assert s["detail_links"] == 3 and s["parsed"] == 3 and s["kept"] == 3 and s["skipped_seen"] == 0, s
         assert s["dropped"] == {}, s["dropped"]   # "Canadian residents only" is a heuristic: kept, flagged
         # second run: details already seen are not refetched, candidates kept
         finder.main()
         out2 = json.load(open(f"{d}/c.json")); rep2 = json.load(open(f"{d}/r.json"))
         assert out2["count"] == 3 and rep2["sources"]["freestufftimes"]["parsed"] == 0
+        # the report says why nothing was parsed: every detail page was already seen
+        assert rep2["sources"]["freestufftimes"]["skipped_seen"] == 3, rep2["sources"]["freestufftimes"]
     finally:
         finder.dt.date = real_today
 
