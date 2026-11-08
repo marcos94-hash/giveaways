@@ -17,27 +17,30 @@
     },
     "https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes": {
       "attempts": 2,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the sponsor page https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes; rules still not found",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-05T17:53:37-05:00",
       "evidence": [
         "https://acbarbeque.com/pages/the-ultimate-ac-bbq-game-day-sweepstakes"
       ],
-      "next_retry_at": "2026-11-07T17:53:37-05:00",
-      "name": "Win the Ultimate AC Barbeque Game Day Prize Pack!"
+      "next_retry_at": null,
+      "name": "Win the Ultimate AC Barbeque Game Day Prize Pack!",
+      "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://ahxlegoland.com/en/gate": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "js_only",
-      "reason": "Arm & Hammer (Church & Dwight) LEGOLAND trip site returns only its title and description; form and rules load by script",
-      "last_attempt_at": "2026-11-04T12:16:47-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor's gate page (read through a Perplexity lookup) confirms eligibility and the end date, but the official rules couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. How to enter, whether a free online entry exists and the entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-08T17:50:42-05:00",
       "evidence": [
         "https://ahxlegoland.com/en/gate"
       ],
-      "next_retry_at": "2026-11-05T12:16:47-05:00",
-      "name": "Win a Trip for Four to Legoland!"
+      "next_retry_at": "2026-11-11T17:50:42-05:00",
+      "name": "Win a Trip for Four to Legoland!",
+      "listing_id": "arm-hammer-legoland-trip-sweepstakes",
+      "decided_at": "2026-11-08T17:50:42-05:00"
     },
     "https://airbaton.net/l/nutrlcollegefootballsweeps": {
       "attempts": 0,
@@ -163,14 +166,36 @@
       "next_retry_at": "2026-11-07T17:59:00-05:00",
       "name": "Bleuet Holiday Wishlist Giveaway"
     },
+    "https://app.viralsweep.com/sweeps/full/6a050e-237159?framed=1": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
+    },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "unreadable_page",
       "reason": "ViralSweep returns a client error to the page reader; Yankee Candle gift card giveaway rules can't be read here",
       "last_attempt_at": "2026-11-04T12:16:53-05:00",
       "next_retry_at": "2026-11-05T12:16:53-05:00",
-      "name": "Win 1 of 6 Gift Cards from Yankee Candle!"
+      "name": "Win 1 of 6 Gift Cards from Yankee Candle!",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "unreadable_page",
+          "reason": "ViralSweep returns a client error to the page reader; Yankee Candle gift card giveaway rules can't be read here",
+          "last_attempt_at": "2026-11-04T12:16:53-05:00",
+          "next_retry_at": "2026-11-05T12:16:53-05:00",
+          "name": "Win 1 of 6 Gift Cards from Yankee Candle!"
+        }
+      }
     },
     "https://app.viralsweep.com/sweeps/full/f5c8a8-238992?framed=1": {
       "attempts": 0,
@@ -407,15 +432,16 @@
     },
     "https://capncrunchmystery.com/": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the entry page https://www.capncrunchmystery.com/; official rules link not found yet",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-05T17:52:55-05:00",
       "evidence": [
         "https://www.capncrunchmystery.com/"
       ],
-      "next_retry_at": "2026-11-06T17:52:55-05:00",
-      "name": "Cap'n Crunch Find The Cap'n Sweepstakes"
+      "next_retry_at": null,
+      "name": "Cap’n Crunch Find the Cap’n Sweepstakes",
+      "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://celebritycruises.com/games/reflection-spot-the-difference": {
       "attempts": 1,
@@ -465,17 +491,47 @@
       "decided_at": "2026-11-04T00:59:07-05:00",
       "next_retry_at": null
     },
+    "https://cloroxhomeappliances.com/giveaway-clorox-large-room-turbo-air-purifier-11090-0926": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor's giveaways page (read through a Perplexity lookup) confirms eligibility, no purchase and the end time, but the official rules page couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. The one-entry limit comes only from a listing blog.",
+      "last_attempt_at": "2026-11-08T17:50:42-05:00",
+      "evidence": [
+        "https://cloroxhomeappliances.com/giveaways",
+        "https://www.moneysmylife.com/clorox-home-appliances-air-purifier-sweepstakes/"
+      ],
+      "listing_id": "clorox-home-appliances-large-room-turbo-air-purifier-giveawa",
+      "decided_at": "2026-11-08T17:50:42-05:00",
+      "next_retry_at": "2026-11-11T17:50:42-05:00"
+    },
     "https://cloroxhomeappliances.com/giveaways": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://cloroxhomeappliances.com/giveaways and nobody answered it in this unattended run, so the rules were not read",
-      "last_attempt_at": "2026-11-04T17:51:05-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor's giveaways page (read through a Perplexity lookup) confirms eligibility, no purchase and the end time, but the official rules page couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. The one-entry limit comes only from a listing blog.",
+      "last_attempt_at": "2026-11-08T17:50:42-05:00",
       "evidence": [
-        "https://cloroxhomeappliances.com/giveaways"
+        "https://cloroxhomeappliances.com/giveaways",
+        "https://www.moneysmylife.com/clorox-home-appliances-air-purifier-sweepstakes/"
       ],
-      "next_retry_at": "2026-11-05T17:51:05-05:00",
-      "name": "Win a Turbo True HEPA Air Purifier from Clorox!"
+      "next_retry_at": "2026-11-11T17:50:42-05:00",
+      "name": "Win a Turbo True HEPA Air Purifier from Clorox!",
+      "listing_id": "clorox-home-appliances-large-room-turbo-air-purifier-giveawa",
+      "decided_at": "2026-11-08T17:50:42-05:00"
+    },
+    "https://cloud.em.honda.com/C10357": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-08T17:50:41-05:00",
+      "evidence": [
+        "https://cloud.em.honda.com/C10357"
+      ],
+      "listing_id": "honda-progressive-ride-red-and-win-sweepstakes",
+      "decided_at": "2026-11-08T17:50:41-05:00",
+      "next_retry_at": null
     },
     "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones": {
       "attempts": 0,
@@ -558,7 +614,7 @@
     },
     "https://coldstonecreamery.com/sweepstakes": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-04T01:26:53-05:00",
@@ -566,8 +622,17 @@
         "https://www.coldstonecreamery.com/sweepstakes/Sweepstakes-Rules.pdf"
       ],
       "listing_id": "cold-stone-creamery-the-cat-in-the-hat-sweepstakes",
-      "decided_at": "2026-11-04T01:26:53-05:00",
+      "decided_at": "2026-11-08T17:38:38-05:00",
       "next_retry_at": null
+    },
+    "https://cole-tac.com/varmint-wrangling-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
     },
     "https://contest.gunnisoncopper.com/": {
       "attempts": 0,
@@ -582,6 +647,15 @@
       "listing_id": "gunnison-copper-gunn-25-challenge-sweepstakes",
       "decided_at": "2026-11-06T18:00:22-05:00",
       "next_retry_at": null
+    },
+    "https://contests.coinweek.com/giveaway/coin-giveaway-666": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
     },
     "https://continentaltire.com/newsletter-signup": {
       "attempts": 0,
@@ -819,6 +893,15 @@
       "next_retry_at": "2026-11-08T18:02:27-05:00",
       "name": "OxyShred Sweepstakes"
     },
+    "https://ellisskis.com/pages/kanso-powder-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
+    },
     "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes": {
       "attempts": 0,
       "status": "listed",
@@ -926,6 +1009,24 @@
       "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
+    "https://form.jotform.com/Lectricebikes/2026-veterans-day-ebike-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
+    },
+    "https://fs22.formsite.com/roundisnow/wbcgrwjjxd/index": {
+      "attempts": 0,
+      "name": "Twisted Tea KEEP YOUR RIDE TWISTED 2026 SWEEPSTAKES",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-08T17:38:38-05:00"
+    },
     "https://gearpatrol.com/style/aer-travel-pack-sweepstakes-2026": {
       "attempts": 0,
       "status": "rejected",
@@ -951,6 +1052,15 @@
       "next_retry_at": null,
       "decided_at": "2026-11-04T01:28:51-05:00",
       "name": "GigaParts x Anker eufyMake E1 Sweepstakes"
+    },
+    "https://gleam.io/3088i/2026-perfect-vacation-giveaway?gsr=3088i-oxbJdrAtU2": {
+      "attempts": 0,
+      "name": "Mountain America Federal Credit Union 2026 Perfect Vacation Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://gleam.io/4ppnS/southern-crafteds-thanksgiving-giveaway?gsr=4ppnS-oyB0t1Ahjz": {
       "attempts": 1,
@@ -1000,6 +1110,24 @@
         "https://gleam.io/EEb9t/giveaway-elfie-the-owl-bundle"
       ]
     },
+    "https://gleam.io/KSc7B/vippori-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
+    },
+    "https://gleam.io/NJ2WD/participate-in-the-event-to-win-etenwolf-prizes?gsr=NJ2WD-phUE1MxORc": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/PdaOd/wwe-zenni-survivor-series-sweepstakes": {
       "attempts": 1,
       "status": "blocked",
@@ -1029,15 +1157,25 @@
     },
     "https://gleam.io/VvauK/weekly-tempspike-pro-giveaway-nov-28": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/VvauK/weekly-tempspike-pro-giveaway-nov-28 and nobody answered it in this unattended run, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-04T17:51:03-05:00",
       "evidence": [
         "https://gleam.io/VvauK/weekly-tempspike-pro-giveaway-nov-28"
       ],
-      "next_retry_at": "2026-11-05T17:51:03-05:00",
-      "name": "TempPro TempSpike Pro Wi-Fi Dual-Probe Meat Thermometer Giveaway"
+      "next_retry_at": null,
+      "name": "TempPro TempSpike Pro Wi-Fi Dual-Probe Meat Thermometer Giveaway",
+      "decided_at": "2026-11-08T17:38:38-05:00"
+    },
+    "https://gleam.io/W856M/the-49ers-x-zenni-rewards-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
       "attempts": 1,
@@ -1051,7 +1189,7 @@
     },
     "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "unreadable_page",
       "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway and nobody answered it in this unattended run, so the rules were not read",
       "last_attempt_at": "2026-11-04T17:51:05-05:00",
@@ -1059,7 +1197,23 @@
         "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway"
       ],
       "next_retry_at": "2026-11-05T17:51:05-05:00",
-      "name": "A Bookshop for Christmas Blog Tour Giveaway"
+      "name": "A Bookshop for Christmas Blog Tour Giveaway",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "unreadable_page",
+          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway and nobody answered it in this unattended run, so the rules were not read",
+          "last_attempt_at": "2026-11-04T17:51:05-05:00",
+          "evidence": [
+            "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway"
+          ],
+          "next_retry_at": "2026-11-05T17:51:05-05:00",
+          "name": "A Bookshop for Christmas Blog Tour Giveaway"
+        }
+      }
     },
     "https://gleam.io/cPggF/stormcraft-salem-tech-sales-season-pc-giveaway?gsr=cPggF-oH0RlOPhUE": {
       "attempts": 0,
@@ -1100,9 +1254,18 @@
       "next_retry_at": null,
       "decided_at": "2026-11-06T17:40:02-05:00"
     },
+    "https://gleam.io/jjlbM/endix-elgato-giveaway?gsr=jjlbM-oNuWgV4ix4": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "unreadable_page",
       "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026 and nobody answered it in this unattended run, so the rules were not read",
       "last_attempt_at": "2026-11-04T17:51:05-05:00",
@@ -1110,7 +1273,23 @@
         "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026"
       ],
       "next_retry_at": "2026-11-05T17:51:05-05:00",
-      "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026"
+      "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "unreadable_page",
+          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026 and nobody answered it in this unattended run, so the rules were not read",
+          "last_attempt_at": "2026-11-04T17:51:05-05:00",
+          "evidence": [
+            "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026"
+          ],
+          "next_retry_at": "2026-11-05T17:51:05-05:00",
+          "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026"
+        }
+      }
     },
     "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes": {
       "attempts": 1,
@@ -1124,6 +1303,15 @@
       "next_retry_at": "2026-11-06T17:53:17-05:00",
       "name": "Win a New Boat in The 2026 MLF Bass Pro Shops Z19 Sweepstakes!!"
     },
+    "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 2,
       "status": "blocked",
@@ -1135,6 +1323,15 @@
       "evidence": [
         "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more"
       ]
+    },
+    "https://gleam.io/wU0im/gadgetguy-eero-7-3pack-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/woiZw/giveaway-bear-nutriease-stainless-steel-all-stage-baby-food-maker": {
       "attempts": 1,
@@ -1486,7 +1683,7 @@
     },
     "https://larryscoffee.com/pages/moccamaster-giveaway": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "unreadable_page",
       "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://larryscoffee.com/pages/moccamaster-giveaway and nobody answered it in this unattended run, so the rules were not read",
       "last_attempt_at": "2026-11-04T17:50:42-05:00",
@@ -1494,7 +1691,23 @@
         "https://larryscoffee.com/pages/moccamaster-giveaway"
       ],
       "next_retry_at": "2026-11-05T17:50:42-05:00",
-      "name": "Win The Ultimate Home Brew Setup!"
+      "name": "Win The Ultimate Home Brew Setup!",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "unreadable_page",
+          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://larryscoffee.com/pages/moccamaster-giveaway and nobody answered it in this unattended run, so the rules were not read",
+          "last_attempt_at": "2026-11-04T17:50:42-05:00",
+          "evidence": [
+            "https://larryscoffee.com/pages/moccamaster-giveaway"
+          ],
+          "next_retry_at": "2026-11-05T17:50:42-05:00",
+          "name": "Win The Ultimate Home Brew Setup!"
+        }
+      }
     },
     "https://legendairymilk.com/pages/thankful-for-you-registry-giveaway-terms": {
       "attempts": 0,
@@ -1620,6 +1833,20 @@
       "decided_at": "2026-11-04T11:54:33-05:00",
       "next_retry_at": null
     },
+    "https://megamodsweeps.com/": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The 2026 rules PDF and the sweepstakes site couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. The facts come from a listing site (ends Nov 15, 2026) and the 2025 edition's rules.",
+      "last_attempt_at": "2026-11-08T17:50:42-05:00",
+      "evidence": [
+        "https://certified.promotrust.com/ApexTools/The2025MEGAMODSweeps/rules/",
+        "https://thefreebieguy.com/sweepstakes/win-a-huge-tool-set-in-the-2026-megamod-sweepstakes/"
+      ],
+      "listing_id": "2026-megamod-sweepstakes-gearwrench",
+      "decided_at": "2026-11-08T17:50:42-05:00",
+      "next_retry_at": "2026-11-11T17:50:42-05:00"
+    },
     "https://miamicfsweeps.com/login": {
       "attempts": 0,
       "status": "rejected",
@@ -1658,6 +1885,15 @@
       "listing_id": "mike-s-harder-gaming-system-sweepstakes",
       "decided_at": "2026-11-06T18:04:15-05:00",
       "next_retry_at": "2026-11-09T18:04:15-05:00"
+    },
+    "https://mishimoto.com/alum-rad-giveaway-oct-2026": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
     },
     "https://modelousa.com/pages/cfp-2026": {
       "attempts": 0,
@@ -1713,16 +1949,17 @@
     },
     "https://mygrizzly.com/secure.html": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://www.mygrizzly.com/promotions/the-camo-life/official-rules.html and https://www.mygrizzly.com/secure.html and nobody answered it in this unattended run, so the rules were not read",
-      "last_attempt_at": "2026-11-04T17:51:05-05:00",
+      "status": "rejected",
+      "reason_code": "restricted_group",
+      "reason": "Sponsor rules (American Snuff, Grizzly Camo Life promotion): only for tobacco consumers 21+ with a sponsor-registered username, MA and MI excluded; prizes are $250 prepaid cards",
+      "last_attempt_at": "2026-11-08T17:50:42-05:00",
       "evidence": [
         "https://www.mygrizzly.com/promotions/the-camo-life/official-rules.html",
         "https://www.mygrizzly.com/secure.html"
       ],
-      "next_retry_at": "2026-11-05T17:51:05-05:00",
-      "name": "892 Will Instantly Win a $250 Gift Card in The Grizzly Camo Life IWG!"
+      "next_retry_at": null,
+      "name": "892 Will Instantly Win a $250 Gift Card in The Grizzly Camo Life IWG!",
+      "decided_at": "2026-11-08T17:50:42-05:00"
     },
     "https://na.nokiantyres.com/gtg": {
       "attempts": 0,
@@ -1994,25 +2231,39 @@
     },
     "https://qr.sapporobeer.com/c/OK40": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "robots_blocked",
       "reason": "Sapporo QR short link disallows automated readers (robots.txt); destination and rules unknown",
       "last_attempt_at": "2026-11-04T12:15:18-05:00",
       "next_retry_at": "2026-11-05T12:15:18-05:00",
-      "name": "30 Will Win in the Sapporo x Onimusha Bottle Opener Giveaway!"
+      "name": "30 Will Win in the Sapporo x Onimusha Bottle Opener Giveaway!",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "robots_blocked",
+          "reason": "Sapporo QR short link disallows automated readers (robots.txt); destination and rules unknown",
+          "last_attempt_at": "2026-11-04T12:15:18-05:00",
+          "next_retry_at": "2026-11-05T12:15:18-05:00",
+          "name": "30 Will Win in the Sapporo x Onimusha Bottle Opener Giveaway!"
+        }
+      }
     },
     "https://racewithcraftsman.craftsman.com/": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://racewithcraftsman.craftsman.com/official-rules and https://racewithcraftsman.craftsman.com/ and nobody answered it in this unattended run, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-04T17:51:03-05:00",
       "evidence": [
         "https://racewithcraftsman.craftsman.com/",
         "https://racewithcraftsman.craftsman.com/official-rules"
       ],
-      "next_retry_at": "2026-11-05T17:51:03-05:00",
-      "name": "Race with Craftsman Sweepstakes! Win a Trip Package or CRAFTSMAN Tool Packages!"
+      "next_retry_at": null,
+      "name": "NASCAR Race with Craftsman Sweepstakes",
+      "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://ram.hotwheelssweepstakes.com/": {
       "attempts": 1,
@@ -2407,16 +2658,17 @@
     },
     "https://straighttalkracingtour.com/mustang-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the official rules https://straighttalkracingtour.com/mustang-giveaway-official-rules and the entry page; rules not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-05T17:52:55-05:00",
       "evidence": [
         "https://straighttalkracingtour.com/mustang-giveaway",
         "https://straighttalkracingtour.com/mustang-giveaway-official-rules"
       ],
-      "next_retry_at": "2026-11-06T17:52:55-05:00",
-      "name": "Straight Talk “Ford Mustang” 2026 Giveaway"
+      "next_retry_at": null,
+      "name": "Straight Talk “Ford Mustang” 2026 Giveaway",
+      "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://survey.walmart.com/": {
       "attempts": 0,
@@ -2444,6 +2696,15 @@
       ],
       "listing_id": "mighty-swell-solo-stove-sweepstakes",
       "decided_at": "2026-11-04T12:11:51-05:00"
+    },
+    "https://sweepwidget.com/c/103029-ct8hafeo": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
     },
     "https://sweepwidget.com/c/103061-maqov7nw": {
       "attempts": 1,
@@ -2554,15 +2815,16 @@
     },
     "https://thechasefordpromo.nascar.com/": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://thechasefordpromo.nascar.com/ and nobody answered it in this unattended run, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-04T17:51:05-05:00",
       "evidence": [
         "https://thechasefordpromo.nascar.com/"
       ],
-      "next_retry_at": "2026-11-05T17:51:05-05:00",
-      "name": "2026 NASCAR Cup Series Chase Sweepstakes"
+      "next_retry_at": null,
+      "name": "Win a Ford F-150 Raptor 2026 NASCAR Cup Series Chase Sweeps!",
+      "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://theknot.com/aisle-ready": {
       "name": "The Knot Get Aisle Ready Sweepstakes",
@@ -2580,6 +2842,24 @@
       "last_attempt_at": "2026-11-07T18:02:27-05:00",
       "next_retry_at": "2026-11-08T18:02:27-05:00",
       "name": "Tito’s Holiday Sweater Drop Giveaway"
+    },
+    "https://tunespeak.com/tour/6ab134bffaa41f00011e7fc0": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
+    },
+    "https://tunespeak.com/tour/6adf55d45a094a00013a09e3": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-08",
+        "expires_at": "2026-11-08T20:38:43-05:00",
+        "prev": null
+      }
     },
     "https://ul.ink/185EMB-TQM8S6": {
       "attempts": 2,
@@ -2755,6 +3035,15 @@
       "reason": "only open to AZ, CA, KS, MO, NV, TN, TX, UT",
       "decided_at": "2026-11-04",
       "attempts": 0
+    },
+    "https://web.witcontests.com/ravens/sweepstakes/win/the-hunt-for-the-ultimate-rave-260803": {
+      "attempts": 0,
+      "name": "Baltimore Ravens Flocks Finest Contest",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://web.witcontests.com/swig/giveaway/slots/take-the-chance-win-a-dollar10-261008": {
       "attempts": 0,
