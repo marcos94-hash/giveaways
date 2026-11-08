@@ -650,12 +650,18 @@
     },
     "https://contests.coinweek.com/giveaway/coin-giveaway-666": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "CoinWeek's general terms confirm US residents 18+ and no purchase, but they state no deadline or entry limit, and the #666 page couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run.",
+      "last_attempt_at": "2026-11-08T17:51:19-05:00",
+      "evidence": [
+        "https://contests.coinweek.com/giveaway-terms-and-rules/",
+        "https://contests.coinweek.com/giveaway/",
+        "https://contests.coinweek.com/giveaway/coin-giveaway-638/"
+      ],
+      "listing_id": "coinweek-giveaway-666-three-special-mint-sets",
+      "decided_at": "2026-11-08T17:51:19-05:00",
+      "next_retry_at": "2026-11-11T17:51:19-05:00"
     },
     "https://continentaltire.com/newsletter-signup": {
       "attempts": 0,
@@ -1111,13 +1117,16 @@
       ]
     },
     "https://gleam.io/KSc7B/vippori-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:19-05:00",
+      "evidence": [
+        "https://gleam.io/KSc7B/vippori-giveaway"
+      ],
+      "next_retry_at": "2026-11-09T17:51:19-05:00",
+      "name": "Youtooz Vippori Giveaway"
     },
     "https://gleam.io/NJ2WD/participate-in-the-event-to-win-etenwolf-prizes?gsr=NJ2WD-phUE1MxORc": {
       "attempts": 0,
@@ -1255,13 +1264,16 @@
       "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://gleam.io/jjlbM/endix-elgato-giveaway?gsr=jjlbM-oNuWgV4ix4": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:19-05:00",
+      "evidence": [
+        "https://gleam.io/jjlbM/endix-elgato-giveaway?gsr=jjlbM-oNuWgV4ix4"
+      ],
+      "next_retry_at": "2026-11-09T17:51:19-05:00",
+      "name": "Endix Elgato giveaway"
     },
     "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026": {
       "attempts": 1,
@@ -1304,13 +1316,16 @@
       "name": "Win a New Boat in The 2026 MLF Bass Pro Shops Z19 Sweepstakes!!"
     },
     "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:19-05:00",
+      "evidence": [
+        "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway"
+      ],
+      "next_retry_at": "2026-11-09T17:51:19-05:00",
+      "name": "Gusto TV's Dinner in Paris Steelite Giveaway"
     },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 2,
@@ -2698,13 +2713,16 @@
       "decided_at": "2026-11-04T12:11:51-05:00"
     },
     "https://sweepwidget.com/c/103029-ct8hafeo": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the SweepWidget page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:19-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/103029-ct8hafeo"
+      ],
+      "next_retry_at": "2026-11-09T17:51:19-05:00",
+      "name": "DeMarco Watch Co Giveaway"
     },
     "https://sweepwidget.com/c/103061-maqov7nw": {
       "attempts": 1,

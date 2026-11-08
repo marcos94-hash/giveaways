@@ -3185,6 +3185,44 @@
       "source": "Claude review 2026-11-08",
       "id": "clorox-home-appliances-large-room-turbo-air-purifier-giveawa",
       "rules_checked": "partial"
+    },
+    {
+      "name": "CoinWeek Giveaway #666 (Three Special Mint Sets)",
+      "prize": "Three Special Mint sets, per the listing title (the #666 page wasn't read)",
+      "category": "other",
+      "entry_url": "https://contests.coinweek.com/giveaway/coin-giveaway-666/",
+      "rules_url": "https://contests.coinweek.com/giveaway-terms-and-rules/",
+      "match": [
+        "contests.coinweek.com/giveaway/coin-giveaway-666"
+      ],
+      "ends": "2026-11-14T08:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering adds your email to CoinWeek's mailing list."
+      },
+      "notes": "Weekly free coin contest. CoinWeek's general terms: open to US residents 18+, no purchase necessary, entry form on contests.coinweek.com/giveaway; entering adds your email to their mailing list; likes and comments for extra entries are optional. End time is inferred from earlier weekly editions (8 AM Saturday). Check the #666 page for the real deadline and entry limit.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-08T17:55:00-05:00",
+        "reason": "CoinWeek's general terms confirm US residents 18+ and no purchase, but they state no deadline or entry limit, and the #666 page couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run.",
+        "evidence": [
+          "https://contests.coinweek.com/giveaway-terms-and-rules/",
+          "https://contests.coinweek.com/giveaway/",
+          "https://contests.coinweek.com/giveaway/coin-giveaway-638/"
+        ],
+        "missing": [
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-08",
+      "source": "Claude review 2026-11-08",
+      "id": "coinweek-giveaway-666-three-special-mint-sets",
+      "rules_checked": "partial"
     }
   ]
 }
