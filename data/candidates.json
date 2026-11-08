@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T11:17:02+00:00",
- "count": 468,
+ "updated": "2026-11-08T21:17:02+00:00",
+ "count": 484,
  "candidates": {
   "https://fs22.formsite.com/roundisnow/wbcgrwjjxd/index": {
    "title": "Twisted Tea KEEP YOUR RIDE TWISTED 2026 SWEEPSTAKES",
@@ -644,6 +644,446 @@
    "first_seen": "2026-11-08",
    "last_seen": "2026-11-08"
   },
+  "https://tunespeak.com/tour/6ab134bffaa41f00011e7fc0": {
+   "title": "Win 2 Tickets to see Late Night Thoughts on the Days Like This Tour 2026",
+   "source_url": "https://www.freestufftimes.com/contests/08/win-2-tickets-to-see-late-night-thoughts-on-the-days-like-this-tour-2026/",
+   "entry_url": "https://www.tunespeak.com/tour/6ab134bffaa41f00011e7fc0",
+   "rules_url": null,
+   "ends_guess": "2026-11-13",
+   "ends_text": "Last day to enter: Fri, Nov 13",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://tunespeak.com/tour/6ab134bffaa41f00011e7fc0",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://tunespeak.com/tour/6adf55d45a094a00013a09e3": {
+   "title": "Win 2 Spots on Cut Copy DJs Guest List",
+   "source_url": "https://www.freestufftimes.com/contests/08/win-2-spots-on-cut-copy-djs-guest-list/",
+   "entry_url": "https://www.tunespeak.com/tour/6adf55d45a094a00013a09e3",
+   "rules_url": null,
+   "ends_guess": "2026-11-13",
+   "ends_text": "Last day to enter: Fri, Nov 13",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://tunespeak.com/tour/6adf55d45a094a00013a09e3",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://tunespeak.com/campaign/69fa0e95538bce0001557eb7": {
+   "title": "Win a Signed Guitar from Beartooth + Signed Drumhead",
+   "source_url": "https://www.freestufftimes.com/contests/08/win-a-signed-guitar-from-beartooth-signed-drumhead/",
+   "entry_url": "https://www.tunespeak.com/campaign/69fa0e95538bce0001557eb7",
+   "rules_url": null,
+   "ends_guess": "2027-01-11",
+   "ends_text": "Last day to enter: Mon, Jan 11, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://tunespeak.com/campaign/69fa0e95538bce0001557eb7",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://gleam.io/c4KbI/venhub-road-to-the-big-game-giveaway?gsr=c4KbI-oGglgRlU7l": {
+   "title": "VenHub Road to the Big Game Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/08/venhub-road-to-the-big-game-giveaway/",
+   "entry_url": "https://gleam.io/c4KbI/venhub-road-to-the-big-game-giveaway?gsr=c4KbI-oGglgRlU7l",
+   "rules_url": null,
+   "ends_guess": "2027-01-24",
+   "ends_text": "Last day to enter: Sun, Jan 24, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 15300,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://gleam.io/c4KbI/venhub-road-to-the-big-game-giveaway?gsr=c4KbI-oGglgRlU7l",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://gleam.io/nHwg6/winter-giveaways-from-mr-digi-with-ryscomofo-electricyoshi-thedanbot85-toomodel84-miredmedia": {
+   "title": "Mr. Digi! with TooModel84, RyscoMoFo, ElectricYoshi, Mired Media Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/08/mr-digi-with-toomodel84-ryscomofo-electricyoshi-mired-media-giveaway/",
+   "entry_url": "https://gleam.io/nHwg6/winter-giveaways-from-mr-digi-with-ryscomofo-electricyoshi-thedanbot85-toomodel84-miredmedia",
+   "rules_url": null,
+   "ends_guess": "2027-01-09",
+   "ends_text": "Last day to enter: Sat, Jan 9, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://gleam.io/nHwg6/winter-giveaways-from-mr-digi-with-ryscomofo-electricyoshi-thedanbot85-toomodel84-miredmedia",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://gleam.io/tdLyf/-latepis-plush-pink-faux-fur-blanket-giveaway-": {
+   "title": "Latepis Plush Pink Faux Fur Blanket Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/08/latepis-plush-pink-faux-fur-blanket-giveaway/",
+   "entry_url": "https://gleam.io/tdLyf/-latepis-plush-pink-faux-fur-blanket-giveaway-",
+   "rules_url": null,
+   "ends_guess": "2027-02-07",
+   "ends_text": "Last day to enter: Sun, Feb 7, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://gleam.io/tdLyf/-latepis-plush-pink-faux-fur-blanket-giveaway-",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://sweepwidget.com/c/103029-ct8hafeo": {
+   "title": "DeMarco Watch Co Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/08/demarco-watch-co-giveaway-2/",
+   "entry_url": "https://sweepwidget.com/c/103029-ct8hafeo",
+   "rules_url": null,
+   "ends_guess": "2026-11-09",
+   "ends_text": "Last day to enter: Mon, Nov 9",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://sweepwidget.com/c/103029-ct8hafeo",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://gleam.io/NJ2WD/participate-in-the-event-to-win-etenwolf-prizes?gsr=NJ2WD-phUE1MxORc": {
+   "title": "ETENWOLF Event Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/08/etenwolf-event-giveaway/",
+   "entry_url": "https://gleam.io/NJ2WD/participate-in-the-event-to-win-etenwolf-prizes?gsr=NJ2WD-phUE1MxORc",
+   "rules_url": null,
+   "ends_guess": "2026-11-15",
+   "ends_text": "Last day to enter: Sun, Nov 15",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://gleam.io/NJ2WD/participate-in-the-event-to-win-etenwolf-prizes?gsr=NJ2WD-phUE1MxORc",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://sweepwidget.com/c/103148-5atowf0c": {
+   "title": "WIN Backstreet Boys Into the Millennium - HOMECOMING: Live in Canada Tour Tickets",
+   "source_url": "https://www.freestufftimes.com/contests/08/win-backstreet-boys-into-the-millennium-homecoming-live-in-canada-tour-tickets/",
+   "entry_url": "https://sweepwidget.com/c/103148-5atowf0c",
+   "rules_url": null,
+   "ends_guess": "2026-12-01",
+   "ends_text": "Last day to enter: Tue, Dec 1",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://sweepwidget.com/c/103148-5atowf0c",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://mms.com/en-us/marvel": {
+   "title": "M&Ms 2026 Heroic Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/08/mms-2026-heroic-sweepstakes-2/",
+   "entry_url": "https://www.mms.com/en-us/marvel",
+   "rules_url": null,
+   "ends_guess": "2026-12-15",
+   "ends_text": "Last day to enter: Tue, Dec 15",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 155250,
+   "category_guess": "trip",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://mms.com/en-us/marvel",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway": {
+   "title": "Gusto TV's Dinner in Paris Steelite Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/08/gusto-tvs-dinner-in-paris-steelite-giveaway/",
+   "entry_url": "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-10",
+   "ends_text": "Last day to enter: Tue, Nov 10",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://mrt.tires/blogs/the-tread-thread/final-mrt-tire-set-giveaway-of-the-year": {
+   "title": "Final MRT Tire Set Giveaway of the Year",
+   "source_url": "https://www.freestufftimes.com/contests/08/final-mrt-tire-set-giveaway-of-the-year/",
+   "entry_url": "https://mrt.tires/blogs/the-tread-thread/final-mrt-tire-set-giveaway-of-the-year",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Last day to enter: Thu, Dec 31",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://mrt.tires/blogs/the-tread-thread/final-mrt-tire-set-giveaway-of-the-year",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://sparklingicefuelyourholidays.com/": {
+   "title": "Sparkling Ice Fuel Your Holidays Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/08/sparkling-ice-fuel-your-holidays-sweepstakes/",
+   "entry_url": "https://sparklingicefuelyourholidays.com/",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Last day to enter: Thu, Dec 31",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://sparklingicefuelyourholidays.com/",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://set.fan/XECHK94mIwpPatZXklvl": {
+   "title": "SET.fan Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/08/set-fan-sweepstakes/",
+   "entry_url": "https://set.fan/XECHK94mIwpPatZXklvl",
+   "rules_url": null,
+   "ends_guess": "2026-11-25",
+   "ends_text": "Last day to enter: Wed, Nov 25",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://set.fan/XECHK94mIwpPatZXklvl",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://fordeventreg.com/hdtrucktour": {
+   "title": "Ohio Ford Dealers Truck Tour Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/08/ohio-ford-dealers-truck-tour-sweepstakes/",
+   "entry_url": "https://fordeventreg.com/hdtrucktour",
+   "rules_url": null,
+   "ends_guess": "2026-12-04",
+   "ends_text": "Last day to enter: Fri, Dec 4",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 5000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://fordeventreg.com/hdtrucktour",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  "https://hp2win.com/2-towns-ciderhouse-shred-the-holiday-sweepstakes-2townsshred-12312026": {
+   "title": "2 Towns Ciderhouse “Shred the Holiday” Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/08/2-towns-ciderhouse-shred-the-holiday-sweepstakes/",
+   "entry_url": "https://hp2win.com/2-towns-ciderhouse-shred-the-holiday-sweepstakes-2townsshred-12312026/",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Last day to enter: Thu, Dec 31",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://hp2win.com/2-towns-ciderhouse-shred-the-holiday-sweepstakes-2townsshred-12312026",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
   "https://gleam.io/fgQi6/worlds-only-hero-preorder-giveaway?gsr=fgQi6-oJsrnf9FNn": {
    "title": "Mountaindale Press World's Only Hero Preorder Giveaway",
    "source_url": "https://www.freestufftimes.com/contests/06/mountaindale-press-worlds-only-hero-preorder-giveaway/",
@@ -701,17 +1141,17 @@
    "last_seen": "2026-11-07"
   },
   "https://sweepwidget.com/c/102909-8fo10ua5": {
-   "title": "COZIER NIGHTS GIVEAWAY",
-   "source_url": "https://www.freestufftimes.com/contests/06/cozier-nights-giveaway/",
+   "title": "Cozier Nights Giveaway",
+   "source_url": "https://www.winprizesonline.com/Cozier-Nights-Giveaway/",
    "entry_url": "https://sweepwidget.com/c/102909-8fo10ua5",
    "rules_url": null,
    "ends_guess": "2026-12-31",
-   "ends_text": "Last day to enter: Thu, Dec 31",
-   "ends_how": "inferred",
+   "ends_text": "Expires\n 12-31-2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 550000,
+   "category_guess": "other",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -720,13 +1160,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://sweepwidget.com/c/102909-8fo10ua5",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-08"
   },
   "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1": {
    "title": "GarciaLive Volume 8 Beat The Line Giveaway",
@@ -3079,17 +3517,17 @@
    "last_seen": "2026-11-06"
   },
   "https://purina.com/s/petivity-dog-cat-bundle-sweepstakes": {
-   "title": "Purina Petivity Paws & Claws Bundle Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/06/purina-petivity-paws-claws-bundle-sweepstakes/",
+   "title": "Petivity Paws and Claws Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Petivity-Paws-and-Claws-Sweepstakes/",
    "entry_url": "https://www.purina.com/s/petivity-dog-cat-bundle-sweepstakes",
    "rules_url": null,
    "ends_guess": "2026-11-25",
-   "ends_text": "Last day to enter: Wed, Nov 25",
-   "ends_how": "inferred",
+   "ends_text": "Expires\n 11-25-2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 550000,
+   "category_guess": "electronics",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -3098,13 +3536,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://purina.com/s/petivity-dog-cat-bundle-sweepstakes",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-06"
+   "last_seen": "2026-11-08"
   },
   "https://greenpan.us/pages/stakt-giveaway": {
    "title": "GreenPan x Stakt Giveaway",
