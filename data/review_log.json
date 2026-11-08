@@ -626,13 +626,16 @@
       "next_retry_at": null
     },
     "https://cole-tac.com/varmint-wrangling-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Cole-TAC page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read; the prize is unknown and the sponsor sells holsters and tactical gear, so check the prize for firearms before listing",
+      "last_attempt_at": "2026-11-08T17:51:21-05:00",
+      "evidence": [
+        "https://www.cole-tac.com/varmint-wrangling-giveaway/"
+      ],
+      "next_retry_at": "2026-11-09T17:51:21-05:00",
+      "name": "Cole-tac's Varmint Wrangling Giveaway"
     },
     "https://contest.gunnisoncopper.com/": {
       "attempts": 0,
@@ -1016,13 +1019,16 @@
       "next_retry_at": "2026-11-07T00:30:00-05:00"
     },
     "https://form.jotform.com/Lectricebikes/2026-veterans-day-ebike-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Jotform page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read; a targeted Perplexity lookup on lectricebikes.com and jotform.com did not find it either",
+      "last_attempt_at": "2026-11-08T17:51:21-05:00",
+      "evidence": [
+        "https://form.jotform.com/Lectricebikes/2026-veterans-day-ebike-giveaway"
+      ],
+      "next_retry_at": "2026-11-09T17:51:21-05:00",
+      "name": "Lectric Veterans Day eBike Giveaway"
     },
     "https://fs22.formsite.com/roundisnow/wbcgrwjjxd/index": {
       "attempts": 0,
@@ -1178,13 +1184,16 @@
       "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://gleam.io/W856M/the-49ers-x-zenni-rewards-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:21-05:00",
+      "evidence": [
+        "https://gleam.io/W856M/the-49ers-x-zenni-rewards-giveaway"
+      ],
+      "next_retry_at": "2026-11-09T17:51:21-05:00",
+      "name": "The 49ers x Zenni Rewards Giveaway"
     },
     "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
       "attempts": 1,
@@ -2862,22 +2871,28 @@
       "name": "Tito’s Holiday Sweater Drop Giveaway"
     },
     "https://tunespeak.com/tour/6ab134bffaa41f00011e7fc0": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Tunespeak page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:21-05:00",
+      "evidence": [
+        "https://www.tunespeak.com/tour/6ab134bffaa41f00011e7fc0"
+      ],
+      "next_retry_at": "2026-11-09T17:51:21-05:00",
+      "name": "Win 2 Tickets to see Late Night Thoughts on the Days Like This Tour 2026"
     },
     "https://tunespeak.com/tour/6adf55d45a094a00013a09e3": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Tunespeak page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:21-05:00",
+      "evidence": [
+        "https://www.tunespeak.com/tour/6adf55d45a094a00013a09e3"
+      ],
+      "next_retry_at": "2026-11-09T17:51:21-05:00",
+      "name": "Win 2 Spots on Cut Copy DJs Guest List"
     },
     "https://ul.ink/185EMB-TQM8S6": {
       "attempts": 2,
