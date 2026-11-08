@@ -179,26 +179,16 @@
       "name": "STONE BREWING VANS WARPED TOUR GUITAR SWEEPSTAKES"
     },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "ViralSweep returns a client error to the page reader; Yankee Candle gift card giveaway rules can't be read here",
-      "last_attempt_at": "2026-11-04T12:16:53-05:00",
-      "next_retry_at": "2026-11-05T12:16:53-05:00",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the ViralSweep page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:25-05:00",
+      "next_retry_at": "2026-11-10T17:51:25-05:00",
       "name": "Win 1 of 6 Gift Cards from Yankee Candle!",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "ViralSweep returns a client error to the page reader; Yankee Candle gift card giveaway rules can't be read here",
-          "last_attempt_at": "2026-11-04T12:16:53-05:00",
-          "next_retry_at": "2026-11-05T12:16:53-05:00",
-          "name": "Win 1 of 6 Gift Cards from Yankee Candle!"
-        }
-      }
+      "evidence": [
+        "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1"
+      ]
     },
     "https://app.viralsweep.com/sweeps/full/f5c8a8-238992?framed=1": {
       "attempts": 0,
@@ -1215,32 +1205,16 @@
       "decided_at": "2026-11-05T17:39:30-05:00"
     },
     "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway and nobody answered it in this unattended run, so the rules were not read",
-      "last_attempt_at": "2026-11-04T17:51:05-05:00",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:25-05:00",
       "evidence": [
         "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway"
       ],
-      "next_retry_at": "2026-11-05T17:51:05-05:00",
-      "name": "A Bookshop for Christmas Blog Tour Giveaway",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway and nobody answered it in this unattended run, so the rules were not read",
-          "last_attempt_at": "2026-11-04T17:51:05-05:00",
-          "evidence": [
-            "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway"
-          ],
-          "next_retry_at": "2026-11-05T17:51:05-05:00",
-          "name": "A Bookshop for Christmas Blog Tour Giveaway"
-        }
-      }
+      "next_retry_at": "2026-11-10T17:51:25-05:00",
+      "name": "A Bookshop for Christmas Blog Tour Giveaway"
     },
     "https://gleam.io/cPggF/stormcraft-salem-tech-sales-season-pc-giveaway?gsr=cPggF-oH0RlOPhUE": {
       "attempts": 0,
@@ -1294,32 +1268,16 @@
       "name": "Endix Elgato giveaway"
     },
     "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026 and nobody answered it in this unattended run, so the rules were not read",
-      "last_attempt_at": "2026-11-04T17:51:05-05:00",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:25-05:00",
       "evidence": [
         "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026"
       ],
-      "next_retry_at": "2026-11-05T17:51:05-05:00",
-      "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026 and nobody answered it in this unattended run, so the rules were not read",
-          "last_attempt_at": "2026-11-04T17:51:05-05:00",
-          "evidence": [
-            "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026"
-          ],
-          "next_retry_at": "2026-11-05T17:51:05-05:00",
-          "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026"
-        }
-      }
+      "next_retry_at": "2026-11-10T17:51:25-05:00",
+      "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026"
     },
     "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes": {
       "attempts": 1,
@@ -1718,32 +1676,16 @@
       "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://larryscoffee.com/pages/moccamaster-giveaway": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://larryscoffee.com/pages/moccamaster-giveaway and nobody answered it in this unattended run, so the rules were not read",
-      "last_attempt_at": "2026-11-04T17:50:42-05:00",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Larry's Coffee page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:25-05:00",
       "evidence": [
         "https://larryscoffee.com/pages/moccamaster-giveaway"
       ],
-      "next_retry_at": "2026-11-05T17:50:42-05:00",
-      "name": "Win The Ultimate Home Brew Setup!",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://larryscoffee.com/pages/moccamaster-giveaway and nobody answered it in this unattended run, so the rules were not read",
-          "last_attempt_at": "2026-11-04T17:50:42-05:00",
-          "evidence": [
-            "https://larryscoffee.com/pages/moccamaster-giveaway"
-          ],
-          "next_retry_at": "2026-11-05T17:50:42-05:00",
-          "name": "Win The Ultimate Home Brew Setup!"
-        }
-      }
+      "next_retry_at": "2026-11-10T17:51:25-05:00",
+      "name": "Win The Ultimate Home Brew Setup!"
     },
     "https://legendairymilk.com/pages/thankful-for-you-registry-giveaway-terms": {
       "attempts": 0,
@@ -2269,26 +2211,16 @@
       "name": "Win $4200 For Groceries and More!"
     },
     "https://qr.sapporobeer.com/c/OK40": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "robots_blocked",
-      "reason": "Sapporo QR short link disallows automated readers (robots.txt); destination and rules unknown",
-      "last_attempt_at": "2026-11-04T12:15:18-05:00",
-      "next_retry_at": "2026-11-05T12:15:18-05:00",
+      "attempts": 2,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Sapporo QR link and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:25-05:00",
+      "next_retry_at": "2026-11-10T17:51:25-05:00",
       "name": "30 Will Win in the Sapporo x Onimusha Bottle Opener Giveaway!",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "robots_blocked",
-          "reason": "Sapporo QR short link disallows automated readers (robots.txt); destination and rules unknown",
-          "last_attempt_at": "2026-11-04T12:15:18-05:00",
-          "next_retry_at": "2026-11-05T12:15:18-05:00",
-          "name": "30 Will Win in the Sapporo x Onimusha Bottle Opener Giveaway!"
-        }
-      }
+      "evidence": [
+        "https://qr.sapporobeer.com/c/OK40"
+      ]
     },
     "https://racewithcraftsman.craftsman.com/": {
       "attempts": 1,
