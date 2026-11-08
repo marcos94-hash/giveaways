@@ -1,32 +1,31 @@
 {
- "run_at": "2026-11-07T21:17:02+00:00",
+ "run_at": "2026-11-08T11:17:02+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 41,
-   "parsed": 19,
-   "kept": 17,
-   "dropped": {
-    "social-media-only entry": 2
-   },
+   "parsed": 25,
+   "skipped_seen": 16,
+   "kept": 25,
+   "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "STORMCRAFT Salem Tech ​Sales Season PC Giveaway",
-     "entry_url": "https://gleam.io/cPggF/stormcraft-salem-tech-sales-season-pc-giveaway?gsr=cPggF-oH0RlOPhUE",
+     "title": "Twisted Tea KEEP YOUR RIDE TWISTED 2026 SWEEPSTAKES",
+     "entry_url": "https://fs22.formsite.com/roundisnow/wbcgrwjjxd/index",
      "rules_url": null,
-     "ends_guess": "2026-11-07",
-     "ends_text": "Last day to enter: Sat, Nov 7",
+     "ends_guess": "2026-11-08",
+     "ends_text": "Last day to enter: Sun, Nov 8",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonth"
     },
     {
-     "title": "Game Outpost Star Trek Giveaway",
-     "entry_url": "https://app.viralsweep.com/sweeps/full/5a56f8-239820?framed=1#f1785387",
+     "title": "Cap’n Crunch Find the Cap’n Sweepstakes",
+     "entry_url": "https://www.capncrunchmystery.com/",
      "rules_url": null,
-     "ends_guess": "2026-11-07",
-     "ends_text": "Last day to enter: Sat, Nov 7",
+     "ends_guess": "2026-11-08",
+     "ends_text": "Last day to enter: Sun, Nov 8",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nVeterans Day Freebies\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonth"
@@ -35,8 +34,9 @@
   },
   "thefreebieguy": {
    "listing_pages": 2,
-   "detail_links": 263,
+   "detail_links": 260,
    "parsed": 0,
+   "skipped_seen": 260,
    "kept": 0,
    "dropped": {},
    "errors": [],
@@ -44,38 +44,39 @@
   },
   "winprizesonline": {
    "listing_pages": 2,
-   "detail_links": 18,
-   "parsed": 8,
+   "detail_links": 15,
+   "parsed": 7,
+   "skipped_seen": 8,
    "kept": 3,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Chic Soul Sweepstakes",
+     "title": "Home Holiday Makeover Sweepstakes",
      "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-11-27",
-     "ends_text": "Expires\n 11-27-2026",
+     "ends_guess": "2026-12-31",
+     "ends_text": "Expires\n 12-31-2026",
      "frequency_guess": "daily",
-     "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Chic Sou"
+     "min_age_guess": 21,
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Home Hol"
     },
     {
-     "title": "Mestiza Tabletop Giveaway",
-     "entry_url": null,
+     "title": "Kylies Holiday Giveaway",
+     "entry_url": "https://web.witcontests.com/ngl/sweepstakes/win/kylies-holiday-picks-261105",
      "rules_url": null,
-     "ends_guess": "2026-11-08",
-     "ends_text": "Expires\n 11-08-2026",
+     "ends_guess": "2026-11-28",
+     "ends_text": "Expires\n 11-28-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Mestiza "
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Kylies H"
     }
    ],
    "retry_later": {
-    "no entry link found": 5
+    "no entry link found": 4
    }
   }
  },
- "total_candidates": 453,
- "details_budget_left": 123
+ "total_candidates": 468,
+ "details_budget_left": 118
 }
