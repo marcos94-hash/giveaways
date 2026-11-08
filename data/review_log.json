@@ -167,13 +167,16 @@
       "name": "Bleuet Holiday Wishlist Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/6a050e-237159?framed=1": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the ViralSweep page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:23-05:00",
+      "evidence": [
+        "https://app.viralsweep.com/sweeps/full/6a050e-237159?framed=1"
+      ],
+      "next_retry_at": "2026-11-09T17:51:23-05:00",
+      "name": "STONE BREWING VANS WARPED TOUR GUITAR SWEEPSTAKES"
     },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
       "attempts": 1,
@@ -903,13 +906,16 @@
       "name": "OxyShred Sweepstakes"
     },
     "https://ellisskis.com/pages/kanso-powder-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Ellis Skis page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:23-05:00",
+      "evidence": [
+        "https://www.ellisskis.com/pages/kanso-powder-giveaway"
+      ],
+      "next_retry_at": "2026-11-09T17:51:23-05:00",
+      "name": "Win a pair of Kanso 106s Skis"
     },
     "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes": {
       "attempts": 0,
@@ -1135,13 +1141,16 @@
       "name": "Youtooz Vippori Giveaway"
     },
     "https://gleam.io/NJ2WD/participate-in-the-event-to-win-etenwolf-prizes?gsr=NJ2WD-phUE1MxORc": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:23-05:00",
+      "evidence": [
+        "https://gleam.io/NJ2WD/participate-in-the-event-to-win-etenwolf-prizes?gsr=NJ2WD-phUE1MxORc"
+      ],
+      "next_retry_at": "2026-11-09T17:51:23-05:00",
+      "name": "ETENWOLF Event Giveaway"
     },
     "https://gleam.io/PdaOd/wwe-zenni-survivor-series-sweepstakes": {
       "attempts": 1,
@@ -1349,13 +1358,16 @@
       ]
     },
     "https://gleam.io/wU0im/gadgetguy-eero-7-3pack-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:23-05:00",
+      "evidence": [
+        "https://gleam.io/wU0im/gadgetguy-eero-7-3pack-giveaway"
+      ],
+      "next_retry_at": "2026-11-09T17:51:23-05:00",
+      "name": "GadgetGuy & eero 7 3-pack giveaway"
     },
     "https://gleam.io/woiZw/giveaway-bear-nutriease-stainless-steel-all-stage-baby-food-maker": {
       "attempts": 1,
@@ -1911,13 +1923,16 @@
       "next_retry_at": "2026-11-09T18:04:15-05:00"
     },
     "https://mishimoto.com/alum-rad-giveaway-oct-2026": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-08",
-        "expires_at": "2026-11-08T20:38:43-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Mishimoto page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "last_attempt_at": "2026-11-08T17:51:23-05:00",
+      "evidence": [
+        "https://www.mishimoto.com/alum-rad-giveaway-oct-2026"
+      ],
+      "next_retry_at": "2026-11-09T17:51:23-05:00",
+      "name": "Mishimoto Performance Aluminum Radiator Giveaway"
     },
     "https://modelousa.com/pages/cfp-2026": {
       "attempts": 0,
