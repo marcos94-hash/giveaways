@@ -128,32 +128,17 @@
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
     "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1": {
-      "attempts": 2,
-      "status": "in_progress",
+      "attempts": 3,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "Access approved Nov 4 01:13 ET, but ViralSweep returned a client error to the page reader; nothing of the page or rules was retrieved",
-      "last_attempt_at": "2026-11-04T01:13:08-05:00",
-      "next_retry_at": "2026-11-06T01:13:08-05:00",
+      "reason": "The ViralSweep page didn't come up in web search, so the 2026 rules weren't read. GOWOOD's own 2026 giveaway page (3 pairs of sunglasses, $267) gives no dates or eligibility; last year's edition was open to Canada, the US and the UK and closed Nov 11.",
+      "last_attempt_at": "2026-11-09T18:15:33-05:00",
+      "next_retry_at": "2026-11-13T18:15:33-05:00",
       "name": "GOWOOD sunglasses Giveaway",
       "evidence": [
-        "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1"
-      ],
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Access approved Nov 4 01:13 ET, but ViralSweep returned a client error to the page reader; nothing of the page or rules was retrieved",
-          "last_attempt_at": "2026-11-04T01:13:08-05:00",
-          "next_retry_at": "2026-11-06T01:13:08-05:00",
-          "name": "GOWOOD sunglasses Giveaway",
-          "evidence": [
-            "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1"
-          ]
-        }
-      }
+        "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1",
+        "https://www.gowood.ca/giveaway-2025/"
+      ]
     },
     "https://app.viralsweep.com/sweeps/full/4b1c4c-240297?framed=1": {
       "attempts": 0,
@@ -1434,13 +1419,13 @@
       "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026"
     },
     "https://gleam.io/ojPo1/go-green-win-bigyour-chance-to-win-an-epic-prize-package?gsr=ojPo1-oSvqtakbv3": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page https://gleam.io/ojPo1/go-green-win-bigyour-chance-to-win-an-epic-prize-package didn't come up in web search (other Gleam pages returned client errors to the page reader), and no sponsor or listing page about it was found, so nothing of the terms was read.",
+      "last_attempt_at": "2026-11-09T18:15:32-05:00",
+      "next_retry_at": "2026-11-10T18:15:32-05:00",
+      "name": "Osight Go Green, Win Big Giveaway"
     },
     "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes": {
       "attempts": 1,
@@ -1826,32 +1811,18 @@
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
     "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11 and nobody answered it in this unattended run, so the rules were not read",
-      "last_attempt_at": "2026-11-04T18:04:36-05:00",
+      "reason": "The KingSumo page https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11 needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, so the #11 rules weren't read. A participating artist's blog says the giveaway lasts one week starting Oct 30, so it may already have ended; edition #10's rules were 21+ with some countries excluded.",
+      "last_attempt_at": "2026-11-09T18:15:32-05:00",
       "evidence": [
-        "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11"
+        "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11",
+        "https://kingsumo.com/giveaways/m5ggzx3/rules",
+        "https://www.glimmerbug.com/blog/art-bundles-for-good-11-giveaway"
       ],
-      "next_retry_at": "2026-11-05T18:04:36-05:00",
-      "name": "Art Bundles for Good #11 Giveaway",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11 and nobody answered it in this unattended run, so the rules were not read",
-          "last_attempt_at": "2026-11-04T18:04:36-05:00",
-          "evidence": [
-            "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11"
-          ],
-          "next_retry_at": "2026-11-05T18:04:36-05:00",
-          "name": "Art Bundles for Good #11 Giveaway"
-        }
-      }
+      "next_retry_at": "2026-11-11T18:15:32-05:00",
+      "name": "Art Bundles for Good #11 Giveaway"
     },
     "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway": {
       "attempts": 1,
@@ -2258,13 +2229,16 @@
       "name": "Orange Julius Smoothie Smash"
     },
     "https://on.ltk.com/+bxbyWFxKqBphP4r99VWPrQ": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "incomplete_info",
+      "reason": "This is Embark Veterinary's World's Weirdest Dog contest (Oct 15 to Nov 15, 2026 per its press release): a photo or video contest decided with public voting, not a random drawing, and it needs your own dog's photo or video. The official rules and the entry page on embarkvet.com weren't readable in this run, so eligibility, free entry, end time and the entry limit are unsettled.",
+      "last_attempt_at": "2026-11-09T18:15:32-05:00",
+      "evidence": [
+        "https://www.prnewswire.com/news-releases/embark-announces-contest-to-find-the-worlds-weirdest-dog-302910231.html"
+      ],
+      "next_retry_at": "2026-11-10T18:15:32-05:00",
+      "name": "Enter to Win Prizes in the Weirdest Dog Contest!"
     },
     "https://outback.com/best-steaks-ever": {
       "attempts": 0,
@@ -3051,32 +3025,17 @@
       "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
-      "attempts": 2,
-      "status": "in_progress",
-      "reason_code": "js_only",
-      "reason": "Access approved Nov 4 01:13 ET, but the SweepWidget page shows only a 'Loading Giveaway' placeholder and description (two winners get a luggage-line bundle); rules, dates, eligibility and limit load by script",
-      "last_attempt_at": "2026-11-04T01:13:34-05:00",
-      "next_retry_at": "2026-11-06T01:13:34-05:00",
+      "attempts": 3,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The SweepWidget page didn't come up in web search, so its rules weren't read. Samantha Brown's site says the rules are on the giveaway page, reached from her Instagram link in bio; two winners get her ten-item holiday travel collection; no end date or eligibility was found.",
+      "last_attempt_at": "2026-11-09T18:15:33-05:00",
+      "next_retry_at": "2026-11-13T18:15:33-05:00",
       "name": "Samantha Brown Holiday Collection Giveaway",
       "evidence": [
+        "https://samantha-brown.com/",
         "https://sweepwidget.com/c/103203-zj5pi0v7"
-      ],
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "js_only",
-          "reason": "Access approved Nov 4 01:13 ET, but the SweepWidget page shows only a 'Loading Giveaway' placeholder and description (two winners get a luggage-line bundle); rules, dates, eligibility and limit load by script",
-          "last_attempt_at": "2026-11-04T01:13:34-05:00",
-          "next_retry_at": "2026-11-06T01:13:34-05:00",
-          "name": "Samantha Brown Holiday Collection Giveaway",
-          "evidence": [
-            "https://sweepwidget.com/c/103203-zj5pi0v7"
-          ]
-        }
-      }
+      ]
     },
     "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232": {
       "attempts": 2,
