@@ -3184,6 +3184,150 @@
       "source": "Claude review 2026-11-09",
       "id": "mobil-1-o-reilly-race-to-win-sweepstakes",
       "rules_checked": "full"
+    },
+    {
+      "name": "Herschel Supply Holiday Sweepstakes",
+      "prize": "Herschel travel set: Heritage hardshell carry-on and medium luggage, Kaslo backpack, organizer, packing cubes and travel accessories (ARV $980)",
+      "category": "other",
+      "entry_url": "https://herschel.com/pages/sweepstakes",
+      "rules_url": "https://herschel.com/pages/contest-rules",
+      "match": [
+        "herschel.com/pages/sweepstakes"
+      ],
+      "ends": "2026-11-16T13:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Sponsor Herschel Supply Company Ltd. Open to the 50 states and DC except Rhode Island, age of majority (18 in NJ). No purchase necessary: submit your email on the entry form at herschel.com/pages/sweepstakes. One entry per person and per email address for the whole period. Ends 10:00 AM PT Nov 16 (1:00 PM ET). Draw Dec 1. The entry page itself wasn't readable in this run, so check the form for a marketing signup box.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://herschel.com/pages/contest-rules",
+        "checked_at": "2026-11-09T18:13:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://herschel.com/pages/contest-rules"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "herschel-supply-holiday-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Quilted Northern Home Essentials Sweepstakes",
+      "prize": "A year supply of Quilted Northern toilet paper, as twelve $16 coupons (ARV $192)",
+      "category": "other",
+      "entry_url": "https://www.quiltednorthern.com/win-a-year-supply-sweeps",
+      "rules_url": "https://www.quiltednorthern.com/win-a-year-supply-sweeps/rules",
+      "match": [
+        "quiltednorthern.com/win-a-year-supply-sweeps"
+      ],
+      "ends": "2026-11-15T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Sponsor Georgia-Pacific Consumer Products LP. Open to the 50 states and DC, 18+; NJ is in. No purchase necessary: fill in the form on the page (three short survey questions, name, email, ZIP and the eligibility checkbox). One entry per person for the whole period. Ends 11:59 PM ET Nov 15. The email signup for a $1.50 coupon is optional. Brawny and Vanity Fair run their own separate sweepstakes on the same template. Drawing on or about Nov 30.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.quiltednorthern.com/win-a-year-supply-sweeps/rules",
+        "checked_at": "2026-11-09T18:13:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.quiltednorthern.com/win-a-year-supply-sweeps/rules",
+          "https://www.quiltednorthern.com/win-a-year-supply-sweeps"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "quilted-northern-home-essentials-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Hot Wheels Ram Truck Sweepstakes",
+      "prize": "One 2026 Ram 1500 truck (MSRP up to about $70,000)",
+      "category": "other",
+      "entry_url": "https://ram.hotwheelssweepstakes.com/",
+      "rules_url": "https://ram.hotwheelssweepstakes.com/rules.aspx",
+      "match": [
+        "ram.hotwheelssweepstakes.com"
+      ],
+      "ends": "2026-12-15T02:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Sponsor Mattel, Inc. Open to the 50 states and DC, 18+ (or age of majority) and a licensed driver; NJ is in. No purchase necessary: complete the entry form (name, email, ZIP, cell phone, agree to the rules). One entry per person and per email address per day. Ends 11:59 PM PT Dec 14 (2:59 AM ET Dec 15). The Ram and Mattel marketing boxes are optional. Drawing on or about Dec 18; the winner pays taxes and vehicle costs. The rules name hotwheels.com/ramsweepstakes as the entry address; the form is at ram.hotwheelssweepstakes.com.",
+      "day_note": "The rules didn't say when a day starts, so this waits a full 24 hours between entries to stay under the limit.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://ram.hotwheelssweepstakes.com/rules.aspx",
+        "checked_at": "2026-11-09T18:13:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://ram.hotwheelssweepstakes.com/rules.aspx",
+          "https://ram.hotwheelssweepstakes.com/"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "hot-wheels-ram-truck-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Harvest Right Freeze Dryer Giveaway",
+      "prize": "One Medium Home Freeze Dryer (ARV $2,895; winner pays shipping)",
+      "category": "other",
+      "entry_url": "https://harvestright.com/pages/contest",
+      "rules_url": "https://harvestright.com/pages/contest",
+      "match": [
+        "harvestright.com/pages/contest",
+        "harvestright.com/contest"
+      ],
+      "ends": "2026-11-16T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering signs you up for Harvest Right emails and texts; a phone number is required."
+      },
+      "notes": "Sponsor Harvest Right (Salt Lake City). Open to the 50 states and DC (and some places abroad), 18+; NJ is in. No purchase necessary: the entry form opens from the button on the contest page (first and last name, phone, email). One entry per person for the whole contest. The rules give only the end date, 11-16-26, with no time, so this listing ends at 11:59 PM ET that day. Drawing on or about Nov 17; the winner must answer within 24 hours.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://harvestright.com/pages/contest",
+        "checked_at": "2026-11-09T18:13:00-05:00",
+        "reason": "Sponsor's rules confirm eligibility (50 states and DC, 18+), free online entry and one entry per person, but give only an end date (11-16-26) with no time or time zone.",
+        "evidence": [
+          "https://harvestright.com/pages/contest"
+        ],
+        "missing": [
+          "deadline"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "harvest-right-freeze-dryer-giveaway",
+      "rules_checked": "partial"
     }
   ]
 }

@@ -846,33 +846,18 @@
     },
     "https://dollargeneral.com/ch/brand-page/mattel": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the official rules https://ram.hotwheelssweepstakes.com/rules.aspx and nobody answered it in this unattended run; Mattel's entry page https://ram.hotwheelssweepstakes.com/ says 50 states and DC, 18+ licensed drivers, no purchase necessary, 9/14/26 to 12/14/26 11:59 PM PT, prize a 2026 Ram 1500, but the entry limit is unread; same promotion as candidate https://ram.hotwheelssweepstakes.com/",
-      "last_attempt_at": "2026-11-04T18:04:36-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-09T18:11:48-05:00",
       "evidence": [
         "https://ram.hotwheelssweepstakes.com/",
         "https://ram.hotwheelssweepstakes.com/rules.aspx"
       ],
-      "next_retry_at": "2026-11-05T18:04:36-05:00",
+      "next_retry_at": null,
       "name": "Win a 2026 Ram Truck!",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the official rules https://ram.hotwheelssweepstakes.com/rules.aspx and nobody answered it in this unattended run; Mattel's entry page https://ram.hotwheelssweepstakes.com/ says 50 states and DC, 18+ licensed drivers, no purchase necessary, 9/14/26 to 12/14/26 11:59 PM PT, prize a 2026 Ram 1500, but the entry limit is unread; same promotion as candidate https://ram.hotwheelssweepstakes.com/",
-          "last_attempt_at": "2026-11-04T18:04:36-05:00",
-          "evidence": [
-            "https://ram.hotwheelssweepstakes.com/",
-            "https://ram.hotwheelssweepstakes.com/rules.aspx"
-          ],
-          "next_retry_at": "2026-11-05T18:04:36-05:00",
-          "name": "Win a 2026 Ram Truck!"
-        }
-      }
+      "listing_id": "hot-wheels-ram-truck-sweepstakes",
+      "decided_at": "2026-11-09T18:11:48-05:00"
     },
     "https://dostuffmedia.com/giveaways/craig-morgan-nashville-2026": {
       "attempts": 1,
@@ -1529,12 +1514,29 @@
     },
     "https://harvestright.com/contest": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor's rules confirm eligibility (50 states and DC, 18+), free online entry and one entry per person, but give only an end date (11-16-26) with no time or time zone.",
+      "last_attempt_at": "2026-11-09T18:11:48-05:00",
+      "evidence": [
+        "https://harvestright.com/pages/contest"
+      ],
+      "listing_id": "harvest-right-freeze-dryer-giveaway",
+      "decided_at": "2026-11-09T18:11:48-05:00",
+      "next_retry_at": "2026-11-12T18:11:48-05:00"
+    },
+    "https://harvestright.com/pages/contest": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor's rules confirm eligibility (50 states and DC, 18+), free online entry and one entry per person, but give only an end date (11-16-26) with no time or time zone.",
+      "last_attempt_at": "2026-11-09T18:11:48-05:00",
+      "evidence": [
+        "https://harvestright.com/pages/contest"
+      ],
+      "listing_id": "harvest-right-freeze-dryer-giveaway",
+      "decided_at": "2026-11-09T18:11:48-05:00",
+      "next_retry_at": "2026-11-12T18:11:48-05:00"
     },
     "https://heineken.com/us/en/agegateway?returnUrl=%2Fus%2Fen%2Fpromos%2Fholiday": {
       "attempts": 1,
@@ -1574,12 +1576,16 @@
     },
     "https://herschel.com/pages/sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-09T18:11:48-05:00",
+      "evidence": [
+        "https://herschel.com/pages/contest-rules"
+      ],
+      "listing_id": "herschel-supply-holiday-sweepstakes",
+      "decided_at": "2026-11-09T18:11:48-05:00",
+      "next_retry_at": null
     },
     "https://hgtv.com/shows/house-shock/giveaway": {
       "attempts": 1,
@@ -2469,12 +2475,17 @@
     },
     "https://quiltednorthern.com/win-a-year-supply-sweeps": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-09T18:11:48-05:00",
+      "evidence": [
+        "https://www.quiltednorthern.com/win-a-year-supply-sweeps",
+        "https://www.quiltednorthern.com/win-a-year-supply-sweeps/rules"
+      ],
+      "listing_id": "quilted-northern-home-essentials-sweepstakes",
+      "decided_at": "2026-11-09T18:11:48-05:00",
+      "next_retry_at": null
     },
     "https://racewithcraftsman.craftsman.com/": {
       "attempts": 1,
@@ -2492,15 +2503,18 @@
     },
     "https://ram.hotwheelssweepstakes.com/": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the official rules https://ram.hotwheelssweepstakes.com/rules.aspx; rules not read. Same promotion as the Dollar General Mattel 'Win a 2026 Ram Truck!' candidate",
-      "last_attempt_at": "2026-11-05T17:53:17-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-09T18:11:48-05:00",
       "evidence": [
+        "https://ram.hotwheelssweepstakes.com/",
         "https://ram.hotwheelssweepstakes.com/rules.aspx"
       ],
-      "next_retry_at": "2026-11-06T17:53:17-05:00",
-      "name": "HOT WHEELS 2026 Ram Truck Sweepstakes!"
+      "next_retry_at": null,
+      "name": "HOT WHEELS 2026 Ram Truck Sweepstakes!",
+      "listing_id": "hot-wheels-ram-truck-sweepstakes",
+      "decided_at": "2026-11-09T18:11:48-05:00"
     },
     "https://ramseysolutions.com/company/policies/ramsey-cash-giveaway-official-rules": {
       "attempts": 0,
@@ -2931,13 +2945,16 @@
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
     "https://sunnywines.com/pages/floral-subscription-sweepstakes": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "The sponsor page https://sunnywines.com/pages/floral-subscription-sweepstakes loaded, but its entry form and rules are a ViralSweep widget loaded by script, so no rules, dates, eligibility or entry limit were read. The prize is a three-month floral subscription; whether any wine is included wasn't stated.",
+      "last_attempt_at": "2026-11-09T18:11:48-05:00",
+      "evidence": [
+        "https://sunnywines.com/pages/floral-subscription-sweepstakes"
+      ],
+      "next_retry_at": "2026-11-10T18:11:48-05:00",
+      "name": "Sunny Wines Flowers On Repeat Sweepstakes"
     },
     "https://superpremieresweepstakes.entertowinprizes.com/": {
       "attempts": 0,
