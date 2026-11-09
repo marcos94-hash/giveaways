@@ -4,45 +4,6 @@
   "source": "Found by the Mac mini finder and Perplexity/web search, checked against official rules by Claude.",
   "giveaways": [
     {
-      "id": "real-good-foods-meatball",
-      "name": "Real Good Foods Meatball Sweepstakes",
-      "prize": "5 x $1,000 Walmart gift cards",
-      "category": "gift_card",
-      "entry_url": "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes",
-      "rules_url": "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules",
-      "match": [
-        "realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes"
-      ],
-      "ends": "2026-11-09T00:59:59-05:00",
-      "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/Chicago",
-        "reset_hour": 0
-      },
-      "flags": {},
-      "notes": "Use the free entry form, not the purchase path. Rules say the free form is worth 10 entries a day. Asks for name, email, phone and date of birth.",
-      "day_note": "Day boundary inferred from the 11:59 PM CT deadline.",
-      "rules_checked": "full",
-      "min_age": 18,
-      "added": "2026-11-03",
-      "source": "Claude review 2026-11-03",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules",
-        "checked_at": "2026-11-03",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules"
-        ]
-      }
-    },
-    {
       "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
       "prize": "25 winners: $200 prepaid gift card + $200 Atom movie credit",
       "category": "gift_card",
@@ -967,44 +928,6 @@
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
       "id": "chipotle-bag-sweepstakes",
-      "rules_checked": "full"
-    },
-    {
-      "name": "Organic Valley 2026 Thanksgiving Giveaway",
-      "prize": "1 winner: 24 Organic Valley free-product coupons ($312) + swag bundle ($100), total ARV $412",
-      "category": "other",
-      "entry_url": "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes",
-      "rules_url": "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes#rules",
-      "match": [
-        "woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes"
-      ],
-      "ends": "2026-11-08T22:00:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "follow": "The web form appears to ask for an Instagram follow; the rules call social actions optional bonus entries. The free email entry needs no social account.",
-        "account": "Instagram account may be needed for the web form; use the email entry if not"
-      },
-      "notes": "One entry per person for the whole promotion. Ends 9:00 PM CT Nov 8. Open to the 50 states and US territories, 18+. Free alternative: email OVgiveawayentries@organicvalley.com with subject 'ORGANIC VALLEY 2026 THANKSGIVING GIVEAWAY' and your name, home address (no PO box), phone, email, date of birth, city and state. Optional bonus entries for Instagram/TikTok follows and Facebook/Twitter shares are not tracked here.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes#rules",
-        "checked_at": "2026-11-04T01:11:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://woorise.com/organicvalley/2026-organic-valley-thanksgiving-sweepstakes"
-        ]
-      },
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "organic-valley-2026-thanksgiving-giveaway",
       "rules_checked": "full"
     },
     {
