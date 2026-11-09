@@ -3520,6 +3520,195 @@
       "source": "Claude review 2026-11-09",
       "id": "miller-lite-legendary-gameday-essentials-sweepstakes",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Rubber Dockie Hybrid 2-in-1 Floating Hammock Giveaway",
+      "prize": "Rubber Dockie Hybrid 2-in-1 inflatable floating hammock ($700)",
+      "category": "other",
+      "entry_url": "https://rubber-dockie-giveaway.subscribepage.io/",
+      "rules_url": null,
+      "match": [
+        "rubber-dockie-giveaway.subscribepage.io"
+      ],
+      "ends": "2026-11-14T00:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "The entry form is a MailerLite email signup with a box for Rubber Dockie marketing emails."
+      },
+      "notes": "Sponsor Rubber Dockie (North Sioux City, SD). The entry page says free to enter, no purchase necessary, open to eligible U.S. residents of legal age, ends 11:59 PM CT Nov 13. It posts no official rules and states no entry limit, so enter once. It also invites you to follow @rubberdockie on Instagram and like the giveaway post, without saying that's required. Winner contacted by email.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-09T18:30:00-05:00",
+        "reason": "The sponsor's entry page was read but posts no official rules: it says free entry, U.S. residents of legal age and an end of 11:59 PM CT Nov 13, but refers to eligibility requirements it doesn't show and states no entry limit.",
+        "evidence": [
+          "https://rubber-dockie-giveaway.subscribepage.io/"
+        ],
+        "missing": [
+          "eligibility",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "rubber-dockie-hybrid-2-in-1-floating-hammock-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Bare Necessities 28th Birthday Sweepstakes",
+      "prize": "Two $500 bra wardrobes (Wacoal), one Empreinte bra ($150) and 28 Bare minimizer bra and panty sets ($60)",
+      "category": "other",
+      "entry_url": "https://www.barenecessities.com/pages/28-years-of-fit-expertise",
+      "rules_url": null,
+      "match": [
+        "barenecessities.com/pages/28-years-of-fit-expertise"
+      ],
+      "ends": "2026-11-16T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "From listing sites: open to the US and DC, 18+, Oct 23 to Nov 16, 2026 11:59 PM ET, one entry per person by email on the sponsor's page, which also has the rules. Bonus entries for agreeing to texts, the newsletter, or sharing your band and cup size are optional.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-09T18:30:00-05:00",
+        "reason": "Facts come from two listing sites. The sponsor's entry and rules page needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and the scraper's daily guess conflicts with the listings' one entry per person.",
+        "evidence": [
+          "https://www.sweepsatlas.com/sweeps/bare-necessities-birthday-sweepstakes",
+          "https://sweepsinvasion.com/bare-necessities-28th-birthday-sweepstakes/",
+          "https://www.barenecessities.com/pages/28-years-of-fit-expertise"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "bare-necessities-28th-birthday-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Sioux Falls Sourced Box Sweepstakes (Fall Box)",
+      "prize": "Sioux Falls Sourced Fall Box of local goods: salsa, BBQ sauce, spices, honey, soap, candle, pottery mug, t-shirt and more ($140); 200 boxes a year",
+      "category": "other",
+      "entry_url": "https://www.experiencesiouxfalls.com/sioux-falls-sourced",
+      "rules_url": "https://com-experiencesiouxfalls-cdn-2025.s3.amazonaws.com/general-uploads/2026SFSourced-SweepstakesOfficialRules-9.2026-update.pdf",
+      "match": [
+        "experiencesiouxfalls.com/sioux-falls-sourced",
+        "experiencesiouxfalls.com/sourced"
+      ],
+      "ends": "2026-11-15T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "marketing": "Submitting the form consents to emails from Experience Sioux Falls.",
+        "age21": true
+      },
+      "notes": "Run by Experience Sioux Falls, the city's tourism office. Its page lists the Fall Box entry period as Sept 1 to Nov 15 with no end time. Last year's official rules were open to the 50 US states, 21+, with a fresh registration each quarter; multiple entries were accepted but didn't raise the odds, so enter once. The form asks for name, email, mailing address, birth date and a travel question. No alcohol in the box.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-09T18:30:00-05:00",
+        "reason": "The 2026 official rules PDF wasn't readable in this unattended run (its link didn't come up in web search). The Fall Box entry period comes from the sponsor's page, and eligibility (50 US states, 21+) and the entry rule come from last year's official rules.",
+        "evidence": [
+          "https://www.experiencesiouxfalls.com/sioux-falls-sourced",
+          "https://www.experiencesiouxfalls.com/general-uploads/2025SFSourced-SweepstakesOfficialRules.pdf"
+        ],
+        "missing": [
+          "eligibility",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "sioux-falls-sourced-box-sweepstakes-fall-box",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Produce Like A Pro Audeze LCD-S20 Giveaway",
+      "prize": "Audeze LCD-S20 closed-back planar magnetic studio headphones",
+      "category": "electronics",
+      "entry_url": "https://gleam.io/O0xwX/audeze-lcds20",
+      "rules_url": null,
+      "match": [
+        "gleam.io/O0xwX/audeze-lcds20"
+      ],
+      "ends": "2026-11-17T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "From a listing site: run by Produce Like A Pro, open worldwide to 18+, single entry, ends 11:59 PM PT Nov 16 (2:59 AM ET Nov 17). Gleam's terms weren't readable. An earlier Produce Like A Pro LCD-S20 giveaway on Gleam required an email subscription and offered follow, share and referral bonus actions, so expect the same.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-09T18:30:00-05:00",
+        "reason": "Facts come from one listing site. Gleam pages returned client errors to the page reader, this one didn't come up in web search, and a Perplexity lookup of gleam.io found nothing, so eligibility, free entry, end time and the entry limit are unconfirmed.",
+        "evidence": [
+          "https://online-sweepstakes.com/audeze-lcd-s20-giveaway/"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "produce-like-a-pro-audeze-lcd-s20-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "VeRUS Pet Foods Dog Gift Basket Giveaway",
+      "prize": "VeRUS dog gift basket (about $200)",
+      "category": "other",
+      "entry_url": "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway",
+      "rules_url": null,
+      "match": [
+        "kingsumo.com/g/3ee9qw3"
+      ],
+      "ends": "2026-11-10T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "A listing site says the steps include following VeRUS Pet Foods and sharing the post; on KingSumo these are usually bonus actions."
+      },
+      "notes": "From one listing site: open to the US, 18+, ends 11:59 PM ET Nov 10, sign up with email on the KingSumo page. The listing also says daily entries, which is unusual for KingSumo, so enter once.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-09T18:30:00-05:00",
+        "reason": "Facts come from one listing site, which also contradicts itself on the winner date. The KingSumo page and its rules didn't come up in web search, so they weren't readable in this unattended run.",
+        "evidence": [
+          "https://sweepsadvantage.com/search.php?keyword=dog",
+          "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "verus-pet-foods-dog-gift-basket-giveaway",
+      "rules_checked": "partial"
     }
   ]
 }

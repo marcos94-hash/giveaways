@@ -283,12 +283,33 @@
     },
     "https://barenecessities.com/": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from two listing sites. The sponsor's entry and rules page needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and the scraper's daily guess conflicts with the listings' one entry per person.",
+      "last_attempt_at": "2026-11-09T18:15:14-05:00",
+      "evidence": [
+        "https://sweepsinvasion.com/bare-necessities-28th-birthday-sweepstakes/",
+        "https://www.barenecessities.com/pages/28-years-of-fit-expertise",
+        "https://www.sweepsatlas.com/sweeps/bare-necessities-birthday-sweepstakes"
+      ],
+      "listing_id": "bare-necessities-28th-birthday-sweepstakes",
+      "decided_at": "2026-11-09T18:15:14-05:00",
+      "next_retry_at": "2026-11-12T18:15:14-05:00"
+    },
+    "https://barenecessities.com/pages/28-years-of-fit-expertise": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from two listing sites. The sponsor's entry and rules page needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and the scraper's daily guess conflicts with the listings' one entry per person.",
+      "last_attempt_at": "2026-11-09T18:15:14-05:00",
+      "evidence": [
+        "https://sweepsinvasion.com/bare-necessities-28th-birthday-sweepstakes/",
+        "https://www.barenecessities.com/pages/28-years-of-fit-expertise",
+        "https://www.sweepsatlas.com/sweeps/bare-necessities-birthday-sweepstakes"
+      ],
+      "listing_id": "bare-necessities-28th-birthday-sweepstakes",
+      "decided_at": "2026-11-09T18:15:14-05:00",
+      "next_retry_at": "2026-11-12T18:15:14-05:00"
     },
     "https://bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes/pcmcat1789139942121.c?id=pcmcat1789139942121": {
       "name": "Best Buy Store Speedrun Sweepstakes",
@@ -992,12 +1013,17 @@
     },
     "https://experiencesiouxfalls.com/sioux-falls-sourced": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The 2026 official rules PDF wasn't readable in this unattended run (its link didn't come up in web search). The Fall Box entry period comes from the sponsor's page, and eligibility (50 US states, 21+) and the entry rule come from last year's official rules.",
+      "last_attempt_at": "2026-11-09T18:15:14-05:00",
+      "evidence": [
+        "https://www.experiencesiouxfalls.com/general-uploads/2025SFSourced-SweepstakesOfficialRules.pdf",
+        "https://www.experiencesiouxfalls.com/sioux-falls-sourced"
+      ],
+      "listing_id": "sioux-falls-sourced-box-sweepstakes-fall-box",
+      "decided_at": "2026-11-09T18:15:14-05:00",
+      "next_retry_at": "2026-11-12T18:15:14-05:00"
     },
     "https://ferrerorocher.com/us/en/xp/raise-a-rocher/lead/register/amoe": {
       "attempts": 0,
@@ -1222,12 +1248,16 @@
     },
     "https://gleam.io/O0xwX/audeze-lcds20": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from one listing site. Gleam pages returned client errors to the page reader, this one didn't come up in web search, and a Perplexity lookup of gleam.io found nothing, so eligibility, free entry, end time and the entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-09T18:15:14-05:00",
+      "evidence": [
+        "https://online-sweepstakes.com/audeze-lcd-s20-giveaway/"
+      ],
+      "listing_id": "produce-like-a-pro-audeze-lcd-s20-giveaway",
+      "decided_at": "2026-11-09T18:15:14-05:00",
+      "next_retry_at": "2026-11-12T18:15:14-05:00"
     },
     "https://gleam.io/PdaOd/wwe-zenni-survivor-series-sweepstakes": {
       "attempts": 1,
@@ -1825,31 +1855,18 @@
     },
     "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the KingSumo page; terms not read",
-      "last_attempt_at": "2026-11-05T17:52:55-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from one listing site, which also contradicts itself on the winner date. The KingSumo page and its rules didn't come up in web search, so they weren't readable in this unattended run.",
+      "last_attempt_at": "2026-11-09T18:15:14-05:00",
       "evidence": [
-        "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway"
+        "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway",
+        "https://sweepsadvantage.com/search.php?keyword=dog"
       ],
-      "next_retry_at": "2026-11-06T17:52:55-05:00",
+      "next_retry_at": "2026-11-12T18:15:14-05:00",
       "name": "VeRUS Pet Foods Dog Gift Basket Giveaway",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the KingSumo page; terms not read",
-          "last_attempt_at": "2026-11-05T17:52:55-05:00",
-          "evidence": [
-            "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway"
-          ],
-          "next_retry_at": "2026-11-06T17:52:55-05:00",
-          "name": "VeRUS Pet Foods Dog Gift Basket Giveaway"
-        }
-      }
+      "listing_id": "verus-pet-foods-dog-gift-basket-giveaway",
+      "decided_at": "2026-11-09T18:15:14-05:00"
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -2676,12 +2693,16 @@
     },
     "https://rubber-dockie-giveaway.subscribepage.io/": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The sponsor's entry page was read but posts no official rules: it says free entry, U.S. residents of legal age and an end of 11:59 PM CT Nov 13, but refers to eligibility requirements it doesn't show and states no entry limit.",
+      "last_attempt_at": "2026-11-09T18:15:14-05:00",
+      "evidence": [
+        "https://rubber-dockie-giveaway.subscribepage.io/"
+      ],
+      "listing_id": "rubber-dockie-hybrid-2-in-1-floating-hammock-giveaway",
+      "decided_at": "2026-11-09T18:15:14-05:00",
+      "next_retry_at": "2026-11-12T18:15:14-05:00"
     },
     "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf": {
       "attempts": 0,
