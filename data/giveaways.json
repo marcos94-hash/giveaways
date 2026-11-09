@@ -3146,6 +3146,44 @@
       "source": "Claude review 2026-11-08",
       "id": "coinweek-giveaway-666-three-special-mint-sets",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Mobil 1 O'Reilly Race to Win Sweepstakes",
+      "prize": "Up to 10 VIP NASCAR Cup race trips for two to Charlotte in May 2027 (ARV $5,000 each), plus up to 500 posters",
+      "category": "trip",
+      "entry_url": "https://promotions.mobil.com/offers/23XIracetowin",
+      "rules_url": "https://promotions.mobil.com/offers/23XIracetowin/Info/OfficialRules",
+      "match": [
+        "promotions.mobil.com/offers/23XIracetowin"
+      ],
+      "ends": "2026-11-16T00:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Submitting the form signs you up for Mobil 1 DR1VRS Club marketing from ExxonMobil."
+      },
+      "notes": "Sponsor ExxonMobil Oil Corporation. Open to the 50 states, DC and Puerto Rico, 18+ (19 in AL and NE); NJ is in. No purchase necessary: the free online entry is the form on this page (name, address, email). The page also has a receipt upload for the O'Reilly purchase offer, which the free entry doesn't need. One entry per person for the whole promotion, plus up to 4 bonus entries by mail-in postcard postmarked by Nov 15. Ends 11:59:59 PM CT Nov 15 (12:59:59 AM ET Nov 16). Grand prizes are drawn for race periods a 23XI car wins; otherwise entries roll over to the final drawing on or about Nov 30.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://promotions.mobil.com/offers/23XIracetowin/Info/OfficialRules",
+        "checked_at": "2026-11-09T18:11:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://promotions.mobil.com/offers/23XIracetowin/Info/OfficialRules",
+          "https://promotions.mobil.com/offers/23XIracetowin"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "mobil-1-o-reilly-race-to-win-sweepstakes",
+      "rules_checked": "full"
     }
   ]
 }

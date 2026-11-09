@@ -719,15 +719,17 @@
     },
     "https://cornbreadhemp.com/pages/holiday-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the sponsor page https://www.cornbreadhemp.com/pages/holiday-giveaway; prize not read. If the prize includes hemp, THC or CBD products, reject as excluded_prize",
-      "last_attempt_at": "2026-11-05T17:53:26-05:00",
+      "status": "rejected",
+      "reason_code": "excluded_prize",
+      "reason": "Same Cornbread Spritz holiday promotion as the Gleam giveaway KoO8P: the prize includes a case of Cornbread Hemp's hemp-derived THC spritz, an excluded cannabis product under owner policy. Entry process not researched.",
+      "last_attempt_at": "2026-11-09T18:11:10-05:00",
       "evidence": [
-        "https://www.cornbreadhemp.com/pages/holiday-giveaway"
+        "https://www.cornbreadhemp.com/pages/holiday-giveaway",
+        "https://www.preparedfoods.com/articles/130458-cornbread-hemp-launches-thc-seltzers"
       ],
-      "next_retry_at": "2026-11-06T17:53:26-05:00",
-      "name": "Cornbread Spritz Holiday Sweepstakes"
+      "next_retry_at": null,
+      "name": "Cornbread Spritz Holiday Sweepstakes",
+      "decided_at": "2026-11-09T18:11:10-05:00"
     },
     "https://coronausa.com/pages/f-or-2026": {
       "attempts": 1,
@@ -1204,12 +1206,17 @@
     },
     "https://gleam.io/KoO8P/the-holidays-are-on-us-enter-to-win-500-a-case-of-free-spritz?gsr=KoO8P-peApdY6Y0j": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "excluded_prize",
+      "reason": "Prize is $500 plus a case of Cornbread Hemp's spritz, a hemp-derived THC drink, so it's an excluded cannabis product under owner policy. Entry process not researched.",
+      "last_attempt_at": "2026-11-09T18:11:10-05:00",
+      "evidence": [
+        "https://gleam.io/KoO8P/the-holidays-are-on-us-enter-to-win-500-a-case-of-free-spritz",
+        "https://www.preparedfoods.com/articles/130458-cornbread-hemp-launches-thc-seltzers"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-09T18:11:10-05:00",
+      "name": "Cornbread Spritz Holiday Giveaway"
     },
     "https://gleam.io/NJ2WD/participate-in-the-event-to-win-etenwolf-prizes?gsr=NJ2WD-phUE1MxORc": {
       "attempts": 1,
@@ -1261,22 +1268,26 @@
       "name": "Mambasnake GIVEAWAY ROUND 83"
     },
     "https://gleam.io/VYkGR/audiotechnica-athr50x": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam returned a client error to the page reader (gleam.io/giveaways/VYkGR) and the entry page https://gleam.io/VYkGR/audiotechnica-athr50x didn't come up in web search, so the sponsor's terms, dates and eligibility were not read.",
+      "last_attempt_at": "2026-11-09T18:11:10-05:00",
+      "next_retry_at": "2026-11-10T18:11:10-05:00",
+      "name": "Audio"
     },
     "https://gleam.io/VYkGR/audiotechnica-athr50x?gsr=VYkGR-pq9VM0Fs0I": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "duplicate",
+      "reason": "Same Gleam giveaway as https://gleam.io/VYkGR/audiotechnica-athr50x (campaign VYkGR); only the share-tracking gsr parameter differs.",
+      "last_attempt_at": "2026-11-09T18:11:10-05:00",
+      "evidence": [
+        "https://gleam.io/VYkGR/audiotechnica-athr50x"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-09T18:11:10-05:00",
+      "name": "Audio-Technica ATH-R50x Giveaway"
     },
     "https://gleam.io/VvauK/weekly-tempspike-pro-giveaway-nov-28": {
       "attempts": 1,
@@ -1366,12 +1377,16 @@
     },
     "https://gleam.io/hgGjz/gadgetguy-levoit-tower-fan-giveaway": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "not_open_to_nj",
+      "reason": "GadgetGuy's own giveaway page says eligible entrants are Australian residents aged 18 and over, with entries closing 11:30 AM AEDT Nov 18, so it isn't open to New Jersey. Gleam's terms returned a client error to the page reader.",
+      "last_attempt_at": "2026-11-09T18:11:10-05:00",
+      "evidence": [
+        "https://www.gadgetguy.com.au/win-levoit-classic-pro-smart-tower-fan-42-inch/"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-09T18:11:10-05:00",
+      "name": "Levoit Tower Fan giveaway"
     },
     "https://gleam.io/jjlbM/endix-elgato-giveaway?gsr=jjlbM-oNuWgV4ix4": {
       "attempts": 1,
@@ -2382,12 +2397,17 @@
     },
     "https://promotions.mobil.com/offers/23XIracetowin": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-09T18:11:22-05:00",
+      "evidence": [
+        "https://promotions.mobil.com/offers/23XIracetowin",
+        "https://promotions.mobil.com/offers/23XIracetowin/Info/OfficialRules"
+      ],
+      "listing_id": "mobil-1-o-reilly-race-to-win-sweepstakes",
+      "decided_at": "2026-11-09T18:11:22-05:00",
+      "next_retry_at": null
     },
     "https://purina.com/s/fancy-feast-little-gem-microbag-sweepstakes": {
       "attempts": 0,
