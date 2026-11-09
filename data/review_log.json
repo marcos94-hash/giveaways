@@ -382,12 +382,17 @@
     },
     "https://brawny.com/win-a-year-supply-sweeps": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-09T18:14:19-05:00",
+      "evidence": [
+        "https://www.brawny.com/win-a-year-supply-sweeps",
+        "https://www.brawny.com/win-a-year-supply-sweeps/rules"
+      ],
+      "listing_id": "brawny-home-essentials-sweepstakes",
+      "decided_at": "2026-11-09T18:14:19-05:00",
+      "next_retry_at": null
     },
     "https://budlight.com/UpgradeYourGamedayRules": {
       "attempts": 2,
@@ -2067,6 +2072,21 @@
       "decided_at": "2026-11-06T18:04:15-05:00",
       "next_retry_at": "2026-11-09T18:04:15-05:00"
     },
+    "https://millerlite.com/GamedayEssentials": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites quoting the rules. The official rules at promorules.com/MK263472 returned a client error to the page reader again, a Perplexity lookup of promorules.com found nothing, and the entry page didn't come up in web search.",
+      "last_attempt_at": "2026-11-09T18:14:19-05:00",
+      "evidence": [
+        "https://www.moneysmylife.com/miller-lite-legendary-sweepstakes/",
+        "https://www.promorules.com/MK263472",
+        "https://www.sweepstakesbible.com/giveaways/miller-lite-legendary-gameday-essentials-sweepstakes"
+      ],
+      "listing_id": "miller-lite-legendary-gameday-essentials-sweepstakes",
+      "decided_at": "2026-11-09T18:14:19-05:00",
+      "next_retry_at": "2026-11-12T18:14:19-05:00"
+    },
     "https://mishimoto.com/alum-rad-giveaway-oct-2026": {
       "attempts": 1,
       "status": "blocked",
@@ -2375,31 +2395,19 @@
     },
     "https://promorules.com/MK263472": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "The Miller Lite official rules page https://www.promorules.com/MK263472 returned a client error to the page reader, so nothing of the rules was read",
-      "last_attempt_at": "2026-11-04T17:54:49-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites quoting the rules. The official rules at promorules.com/MK263472 returned a client error to the page reader again, a Perplexity lookup of promorules.com found nothing, and the entry page didn't come up in web search.",
+      "last_attempt_at": "2026-11-09T18:14:19-05:00",
       "evidence": [
-        "https://www.promorules.com/MK263472"
+        "https://www.moneysmylife.com/miller-lite-legendary-sweepstakes/",
+        "https://www.promorules.com/MK263472",
+        "https://www.sweepstakesbible.com/giveaways/miller-lite-legendary-gameday-essentials-sweepstakes"
       ],
-      "next_retry_at": "2026-11-05T17:54:49-05:00",
+      "next_retry_at": "2026-11-12T18:14:19-05:00",
       "name": "Win a Gameday Lounge Bundle From Miller Lite!",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The Miller Lite official rules page https://www.promorules.com/MK263472 returned a client error to the page reader, so nothing of the rules was read",
-          "last_attempt_at": "2026-11-04T17:54:49-05:00",
-          "evidence": [
-            "https://www.promorules.com/MK263472"
-          ],
-          "next_retry_at": "2026-11-05T17:54:49-05:00",
-          "name": "Win a Gameday Lounge Bundle From Miller Lite!"
-        }
-      }
+      "listing_id": "miller-lite-legendary-gameday-essentials-sweepstakes",
+      "decided_at": "2026-11-09T18:14:19-05:00"
     },
     "https://promotions.mobil.com/offers/23XIracetowin": {
       "attempts": 0,
@@ -2620,35 +2628,38 @@
       "decided_at": "2026-11-06T18:04:15-05:00",
       "next_retry_at": "2026-11-09T18:04:15-05:00"
     },
+    "https://ritualtoremember.terryschocolate.com/": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The sponsor's short rules (on its live-event offer page, read through a Perplexity lookup) cover eligibility, free entry, the Feb 14, 2027 end and 25 entries a day, but the full official rules page needed a page reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer, and the sponsor's press release gives Feb 1, 2027 as the US end.",
+      "last_attempt_at": "2026-11-09T18:14:19-05:00",
+      "evidence": [
+        "https://liveevent.terryschocolate.com/home",
+        "https://ritualtoremember.terryschocolate.com/rules",
+        "https://www.einpresswire.com/article/954278995/terry-s-chocolate-launches-ritual-to-remember-holiday-sweepstakes-with-a-trip-for-two-to-europe"
+      ],
+      "listing_id": "terry-s-chocolate-ritual-to-remember-sweepstakes",
+      "decided_at": "2026-11-09T18:14:19-05:00",
+      "next_retry_at": "2026-11-12T18:14:19-05:00"
+    },
     "https://ritualtoremember.terryschocolate.com/login": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://ritualtoremember.terryschocolate.com/ and nobody answered it in this unattended run; the Terry's USA terms page that did load covers a different promotion (an Instagram prize draw), so the Ritual to Remember rules were not read",
-      "last_attempt_at": "2026-11-04T18:04:36-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The sponsor's short rules (on its live-event offer page, read through a Perplexity lookup) cover eligibility, free entry, the Feb 14, 2027 end and 25 entries a day, but the full official rules page needed a page reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer, and the sponsor's press release gives Feb 1, 2027 as the US end.",
+      "last_attempt_at": "2026-11-09T18:14:19-05:00",
       "evidence": [
+        "https://liveevent.terryschocolate.com/home",
         "https://ritualtoremember.terryschocolate.com/",
+        "https://ritualtoremember.terryschocolate.com/rules",
+        "https://www.einpresswire.com/article/954278995/terry-s-chocolate-launches-ritual-to-remember-holiday-sweepstakes-with-a-trip-for-two-to-europe",
         "https://www.terryschocolate.com/terrys-usa-terms-conditions/"
       ],
-      "next_retry_at": "2026-11-05T18:04:36-05:00",
+      "next_retry_at": "2026-11-12T18:14:19-05:00",
       "name": "terry's Chocolate Ritual to Remember Sweepstakes",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for https://ritualtoremember.terryschocolate.com/ and nobody answered it in this unattended run; the Terry's USA terms page that did load covers a different promotion (an Instagram prize draw), so the Ritual to Remember rules were not read",
-          "last_attempt_at": "2026-11-04T18:04:36-05:00",
-          "evidence": [
-            "https://ritualtoremember.terryschocolate.com/",
-            "https://www.terryschocolate.com/terrys-usa-terms-conditions/"
-          ],
-          "next_retry_at": "2026-11-05T18:04:36-05:00",
-          "name": "terry's Chocolate Ritual to Remember Sweepstakes"
-        }
-      }
+      "listing_id": "terry-s-chocolate-ritual-to-remember-sweepstakes",
+      "decided_at": "2026-11-09T18:14:19-05:00"
     },
     "https://roadrangerusa.com/BigGameSweepstakes": {
       "attempts": 0,
@@ -3305,12 +3316,17 @@
     },
     "https://vanityfairnapkins.com/win-a-year-supply-sweeps": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-09T18:14:19-05:00",
+      "evidence": [
+        "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps",
+        "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules"
+      ],
+      "listing_id": "vanity-fair-home-essentials-sweepstakes",
+      "decided_at": "2026-11-09T18:14:19-05:00",
+      "next_retry_at": null
     },
     "https://verymerrygiveaway.hallmarkchannel.com/": {
       "name": "Hallmark Very Merry Giveaway",
@@ -3386,35 +3402,19 @@
     },
     "https://whiteclaw.com/sweepstakes/surgetailgate": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the official rules and entry page https://www.whiteclaw.com/sweepstakes/surgetailgate and nobody answered it in this unattended run; listing sites quoting the rules say 50 states and DC, 21+, one entry per day, ends Dec 31, 2026 11:59:59 PM ET, prize a midsize hybrid pickup (ARV up to $72,150)",
-      "last_attempt_at": "2026-11-04T18:04:20-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from rules text quoted on listing sites. The sponsor's rules and entry page needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and a Perplexity lookup of whiteclaw.com only returned the 21+ age gate.",
+      "last_attempt_at": "2026-11-09T18:14:19-05:00",
       "evidence": [
         "https://slickdeals.net/f/19993293-white-claw-hard-seltzer-surge-ultimate-tailgate-pickup-truck-sweepstakes-12-31-2026",
         "https://www.moneysmylife.com/white-claw-surge-ultimate-tailgate-sweepstakes/",
         "https://www.whiteclaw.com/sweepstakes/surgetailgate"
       ],
-      "next_retry_at": "2026-11-05T18:04:20-05:00",
+      "next_retry_at": "2026-11-12T18:14:19-05:00",
       "name": "Ultimate Tailgate Pickup Truck Sweepstakes",
-      "claim": {
-        "run": "review-2026-11-09",
-        "expires_at": "2026-11-09T20:41:33-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the official rules and entry page https://www.whiteclaw.com/sweepstakes/surgetailgate and nobody answered it in this unattended run; listing sites quoting the rules say 50 states and DC, 21+, one entry per day, ends Dec 31, 2026 11:59:59 PM ET, prize a midsize hybrid pickup (ARV up to $72,150)",
-          "last_attempt_at": "2026-11-04T18:04:20-05:00",
-          "evidence": [
-            "https://slickdeals.net/f/19993293-white-claw-hard-seltzer-surge-ultimate-tailgate-pickup-truck-sweepstakes-12-31-2026",
-            "https://www.moneysmylife.com/white-claw-surge-ultimate-tailgate-sweepstakes/",
-            "https://www.whiteclaw.com/sweepstakes/surgetailgate"
-          ],
-          "next_retry_at": "2026-11-05T18:04:20-05:00",
-          "name": "Ultimate Tailgate Pickup Truck Sweepstakes"
-        }
-      }
+      "listing_id": "white-claw-surge-ultimate-tailgate-pickup-truck-sweepstakes",
+      "decided_at": "2026-11-09T18:14:19-05:00"
     },
     "https://wonka.com/us/en/xp/golden-ticket": {
       "attempts": 0,

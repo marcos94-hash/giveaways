@@ -3328,6 +3328,198 @@
       "source": "Claude review 2026-11-09",
       "id": "harvest-right-freeze-dryer-giveaway",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Brawny Home Essentials Sweepstakes",
+      "prize": "A year supply of Brawny paper towels, as ten $15 coupons (ARV $150)",
+      "category": "other",
+      "entry_url": "https://www.brawny.com/win-a-year-supply-sweeps",
+      "rules_url": "https://www.brawny.com/win-a-year-supply-sweeps/rules",
+      "match": [
+        "brawny.com/win-a-year-supply-sweeps"
+      ],
+      "ends": "2026-11-15T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Sponsor Georgia-Pacific Consumer Products LP. Open to the 50 states and DC, 18+; NJ is in. No purchase necessary: answer 3 quick questions, fill in the short form and check the eligibility box. One entry per person for the whole period. Ends 11:59 PM ET Nov 15. Separate from the Quilted Northern and Vanity Fair sweepstakes. The rules text was read through a Perplexity lookup of the sponsor's rules page; its eligibility section was cut from that extract, so eligibility is from the sponsor's notice on the entry page, which matches the sister rules.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.brawny.com/win-a-year-supply-sweeps/rules",
+        "checked_at": "2026-11-09T18:25:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.brawny.com/win-a-year-supply-sweeps/rules",
+          "https://www.brawny.com/win-a-year-supply-sweeps"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "brawny-home-essentials-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Vanity Fair Home Essentials Sweepstakes",
+      "prize": "A year supply of Vanity Fair napkins, as sixteen $6 coupons (ARV $96)",
+      "category": "other",
+      "entry_url": "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps",
+      "rules_url": "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules",
+      "match": [
+        "vanityfairnapkins.com/win-a-year-supply-sweeps"
+      ],
+      "ends": "2026-11-15T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Sponsor Georgia-Pacific Consumer Products LP. Open to the 50 states and DC, 18+; NJ is in. No purchase necessary: answer 3 quick questions, fill in the short form and check the eligibility box. One entry per person for the whole period. Ends 11:59 PM ET Nov 15. The email signup for a $2.50 coupon is optional. Separate from the Quilted Northern and Brawny sweepstakes. The rules text was read through a Perplexity lookup of the sponsor's rules page.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules",
+        "checked_at": "2026-11-09T18:25:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules",
+          "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "vanity-fair-home-essentials-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "terry's Chocolate Ritual to Remember Sweepstakes",
+      "prize": "4-day, 3-night trip for two to a European city with airfare, hotel and $500 spending cash (ARV $4,999)",
+      "category": "trip",
+      "entry_url": "https://ritualtoremember.terryschocolate.com/",
+      "rules_url": "https://ritualtoremember.terryschocolate.com/rules",
+      "match": [
+        "ritualtoremember.terryschocolate.com"
+      ],
+      "ends": "2027-02-14T23:59:59-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Register on the Ritual to Remember site (it has a login page) to play the game."
+      },
+      "notes": "Sponsor's short rules: no purchase necessary; continental US only (no Alaska or Hawaii), age of majority; register and play the web memory game, where each level earns an entry, up to 25 entries per day per email address; Oct 1, 2026 12:00:01 AM ET to Feb 14, 2027 11:59:59 PM ET. Sharing gives bonus entries. Odds depend on entries and game performance. The receipt upload on liveevent.terryschocolate.com is a separate $50 live-event credit offer and isn't needed. Terry's press release says the US promotion runs until Feb 1, 2027, so finish entering by then to be safe.",
+      "day_note": "The short rules don't say when a day starts, so this waits a full 24 hours between game sessions.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-09T18:25:00-05:00",
+        "reason": "The sponsor's short rules (on its live-event offer page, read through a Perplexity lookup) cover eligibility, free entry, the Feb 14, 2027 end and 25 entries a day, but the full official rules page needed a page reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer, and the sponsor's press release gives Feb 1, 2027 as the US end.",
+        "evidence": [
+          "https://liveevent.terryschocolate.com/home",
+          "https://www.einpresswire.com/article/954278995/terry-s-chocolate-launches-ritual-to-remember-holiday-sweepstakes-with-a-trip-for-two-to-europe",
+          "https://ritualtoremember.terryschocolate.com/rules"
+        ],
+        "missing": [
+          "deadline"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "terry-s-chocolate-ritual-to-remember-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "White Claw Surge Ultimate Tailgate Pickup Truck Sweepstakes",
+      "prize": "A midsize hybrid pickup truck plus a $6,000 check toward title and fees (total ARV up to $72,150)",
+      "category": "other",
+      "entry_url": "https://www.whiteclaw.com/sweepstakes/surgetailgate",
+      "rules_url": "https://www.whiteclaw.com/sweepstakes/surgetailgate",
+      "match": [
+        "whiteclaw.com/sweepstakes/surgetailgate"
+      ],
+      "ends": "2026-12-31T23:59:59-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "flags": {
+        "account": "Entering joins the free White Claw Shore Club if you aren't a member yet.",
+        "marketing": "Shore Club membership means White Claw marketing emails; you can unsubscribe without losing your entries.",
+        "age21": true
+      },
+      "notes": "From rules text quoted on listing sites: sponsor Mark Anthony Brands; open to the 50 states and DC, 21+ (no states excluded, so NJ is in); no purchase necessary; enter on the form after the age check (name, state, email); one entry per person per day; Aug 17 to Dec 31, 2026 11:59:59 PM ET. Alaska and Hawaii winners get the cash value. The prize is the truck, not alcohol. One commenter said the captcha was hard to get past.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-09T18:25:00-05:00",
+        "reason": "Facts come from rules text quoted on listing sites. The sponsor's rules and entry page needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and a Perplexity lookup of whiteclaw.com only returned the 21+ age gate.",
+        "evidence": [
+          "https://slickdeals.net/f/19993293-white-claw-hard-seltzer-surge-ultimate-tailgate-pickup-truck-sweepstakes-12-31-2026",
+          "https://www.moneysmylife.com/white-claw-surge-ultimate-tailgate-sweepstakes/",
+          "https://www.whiteclaw.com/sweepstakes/surgetailgate"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "white-claw-surge-ultimate-tailgate-pickup-truck-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Miller Lite Legendary Gameday Essentials Sweepstakes",
+      "prize": "172 prizes: a Gameday Lounge bundle (ARV $2,009 with jersey, neon sign, mini fridge, cooler, cornhole, flags, a $1,000 TV card and a $250 snack card), a $1,000 TV card, coolers, mini fridges, cornhole sets, signs, jerseys and $20 cards",
+      "category": "mixed",
+      "entry_url": "https://www.millerlite.com/GamedayEssentials",
+      "rules_url": "https://www.promorules.com/MK263472",
+      "match": [
+        "millerlite.com/GamedayEssentials"
+      ],
+      "ends": "2027-01-09T00:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "From listing sites quoting the rules: sponsor Molson Coors Beverage Company USA LLC; open to the 50 states and DC, 21+ (no states excluded, so NJ is in); no purchase necessary; enter at millerlite.com/GamedayEssentials after the date-of-birth check (name, email, home address, birth date); one entry per person per day across methods; Aug 27, 2026 to Jan 8, 2027 11:59 PM CT. One listing's Enter button goes to mc.beveragepromo.com/263472 instead. No alcohol in the prizes. One prize per household.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-09T18:25:00-05:00",
+        "reason": "Facts come from listing sites quoting the rules. The official rules at promorules.com/MK263472 returned a client error to the page reader again, a Perplexity lookup of promorules.com found nothing, and the entry page didn't come up in web search.",
+        "evidence": [
+          "https://www.promorules.com/MK263472",
+          "https://www.moneysmylife.com/miller-lite-legendary-sweepstakes/",
+          "https://www.sweepstakesbible.com/giveaways/miller-lite-legendary-gameday-essentials-sweepstakes"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-09",
+      "source": "Claude review 2026-11-09",
+      "id": "miller-lite-legendary-gameday-essentials-sweepstakes",
+      "rules_checked": "partial"
     }
   ]
 }
