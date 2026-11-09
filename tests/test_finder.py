@@ -97,6 +97,18 @@ def test_category_ignores_menu_after_head_title():
     assert c["category_guess"] == "other", c["category_guess"]
     assert c["entry_url"] == "https://gleam.io/x/bass"
 
+def test_category_prefers_title():
+    # Sidebars repeat "Best Cash Back Apps" after the post too; a prize named in the title wins over page text.
+    side = "<aside><a href='/c'>Best Cash Back Apps</a><a href='/p'>Free PayPal Money</a></aside>"
+    for title, want in [("Win $200 Gift Cards or Over 525 Instant Prizes!", "gift_card"),
+                        ("Win a Trip to Super Bowl LXI in the Snickers Giveaway!", "trip"),
+                        ("Win an ANNKE Security Camera Mystery Box!", "electronics"),
+                        ("Win a New Boat in The Bass Sweepstakes!", "cash")]:   # no prize word in title: page text decides
+        html_ = (f"<html><body><article><h1>{title}</h1><p>Ends: December 20, 2026</p>"
+                 f"<a href='https://gleam.io/x/y'>Enter here</a></article>{side}</body></html>")
+        c = finder.extract("https://thefreebieguy.com/sweepstakes/x/", html_, "thefreebieguy.com", TODAY)
+        assert c["category_guess"] == want, (title, c["category_guess"])
+
 def test_title_keeps_hyphenated_words():
     # winprizesonline og:titles have no site suffix; "Ski-Doo" and "Coca-Cola" were cut to "Ski" and "Coca".
     for og, want in [("2027 Ski-Doo Summit Sweepstakes", "2027 Ski-Doo Summit Sweepstakes"),

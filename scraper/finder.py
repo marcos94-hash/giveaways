@@ -340,7 +340,9 @@ def extract(url, body, source_host, today):
         "frequency_guess": find_frequency(text),
         "min_age_guess": find_age(text),
         "value_guess": money(text[:6000]),
-        "category_guess": category(title + " " + body_after_title(text, title)),
+        # The title names the prize more reliably than page text, where sidebars ("Best Cash Back Apps") read as cash.
+        "category_guess": (category(title) if category(title) != "other"
+                           else category(title + " " + body_after_title(text, title))),
         "flags": flags_for(text[:8000], enter),
         "snippet": text[:700],
     }
