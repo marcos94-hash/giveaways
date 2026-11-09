@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T11:17:02+00:00",
- "count": 488,
+ "updated": "2026-11-09T21:17:02+00:00",
+ "count": 496,
  "candidates": {
   "https://superpremieresweepstakes.entertowinprizes.com/": {
    "title": "Fandango's Super Premiere Sweepstakes",
@@ -412,6 +412,217 @@
    "first_seen": "2026-11-09",
    "last_seen": "2026-11-09"
   },
+  "https://sunnywines.com/pages/floral-subscription-sweepstakes": {
+   "title": "Sunny Wines Flowers On Repeat Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/09/sunny-wines-flowers-on-repeat-sweepstakes/",
+   "entry_url": "https://sunnywines.com/pages/floral-subscription-sweepstakes",
+   "rules_url": null,
+   "ends_guess": "2026-11-13",
+   "ends_text": "Last day to enter: Fri, Nov 13",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 22000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred",
+    "excluded_prize_hint"
+   ],
+   "key": "https://sunnywines.com/pages/floral-subscription-sweepstakes",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  "https://heineken.com/us/en/promos/holiday": {
+   "title": "20K+ Prizes! Win a Record Player or More in the Heineken Holiday IWG!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/20k-prizes-win-a-record-player-or-more-in-the-heineken-holiday-iwg/",
+   "entry_url": "https://www.heineken.com/us/en/promos/holiday",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "ENDING – \nDecember 31, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 21,
+   "value_guess": 75,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://heineken.com/us/en/promos/holiday",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  "https://on.ltk.com/+heKuyFzMfxlSfwvDezjV-A": {
+   "title": "Win a Surprise Prize Bundle in The Office Depot 12 Days of Giveaways!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-surprise-prize-bundle-in-the-office-depot-12-days-of-giveaways/",
+   "entry_url": "https://on.ltk.com/+heKuyFzMfxlSfwvDezjV-A",
+   "rules_url": null,
+   "ends_guess": "2026-11-25",
+   "ends_text": "ENDING – \nNovember 25, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 1269,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://on.ltk.com/+heKuyFzMfxlSfwvDezjV-A",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  "https://qualitysewing.com/pages/enter-to-win-baby-lock-jazz-ii": {
+   "title": "Baby Lock Jazz II Sewing Machine Giveaway",
+   "source_url": "https://www.winprizesonline.com/Baby-Lock-Jazz-II-Sewing-Machine-Giveaway/",
+   "entry_url": "https://www.qualitysewing.com/pages/enter-to-win-baby-lock-jazz-ii",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Expires\n 11-30-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 40500,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://qualitysewing.com/pages/enter-to-win-baby-lock-jazz-ii",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  "https://psseasoning.com/pages/ps-seasoning-fall-giveaway": {
+   "title": "PS Seasoning Fall Giveaway",
+   "source_url": "https://www.winprizesonline.com/PS-Seasoning-Fall-Giveaway/",
+   "entry_url": "https://www.psseasoning.com/pages/ps-seasoning-fall-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-22",
+   "ends_text": "Expires\n 11-22-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 40500,
+   "category_guess": "electronics",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://psseasoning.com/pages/ps-seasoning-fall-giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  "https://waterdog-usa.com/pages/giveaway": {
+   "title": "Water Dog Kennel Giveaway",
+   "source_url": "https://www.winprizesonline.com/Water-Dog-Kennel-Giveaway/",
+   "entry_url": "https://www.waterdog-usa.com/pages/giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Expires\n 12-31-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 40500,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://waterdog-usa.com/pages/giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  "https://investorcrate.com/pages/monthly-giveaway": {
+   "title": "Investor Crate November Giveaway",
+   "source_url": "https://www.winprizesonline.com/Investor-Crate-November-Giveaway/",
+   "entry_url": "https://investorcrate.com/pages/monthly-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Expires\n 11-30-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 29400,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://investorcrate.com/pages/monthly-giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  "https://trxstle.com/pages/arc-giveaway": {
+   "title": "Trxtle Fishing Rod Roof Rack Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Trxtle-Fishing-Rod-Roof-Rack-Sweepstakes/",
+   "entry_url": "https://www.trxstle.com/pages/arc-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Expires\n 11-30-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 40500,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://trxstle.com/pages/arc-giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
   "https://contests.coinweek.com/giveaway/coin-giveaway-666": {
    "title": "Coin Week Three Special Mint Set Giveaway",
    "source_url": "https://www.freestufftimes.com/contests/08/coin-week-three-special-mint-set-giveaway/",
@@ -525,32 +736,30 @@
    "last_seen": "2026-11-08"
   },
   "https://dosequis.com/en-us/xx-sweepstakes/gofordos2026": {
-   "title": "Dos Equis College Football Go For Dos Promotion",
-   "source_url": "https://www.freestufftimes.com/contests/07/dos-equis-college-football-go-for-dos-promotion/",
+   "title": "Win $200 Gift Cards or Over 525 Instant Prizes from Dos Equis!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-200-gift-cards-or-over-525-instant-prizes-from-dos-equis/",
    "entry_url": "https://www.dosequis.com/en-us/xx-sweepstakes/gofordos2026/",
    "rules_url": null,
    "ends_guess": "2026-12-31",
-   "ends_text": "Last day to enter: Thu, Dec 31",
-   "ends_how": "inferred",
+   "ends_text": "ENDING – \nDecember 31, 2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 6000,
-   "category_guess": "gift_card",
+   "min_age_guess": 21,
+   "value_guess": 65000,
+   "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://dosequis.com/en-us/xx-sweepstakes/gofordos2026",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-09"
   },
   "https://cole-tac.com/varmint-wrangling-giveaway": {
    "title": "Cole-tac's Varmint Wrangling Giveaway",
@@ -609,17 +818,17 @@
    "last_seen": "2026-11-08"
   },
   "https://form.jotform.com/Lectricebikes/2026-veterans-day-ebike-giveaway": {
-   "title": "Lectric Veterans Day eBike Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/07/lectric-veterans-day-ebike-giveaway/",
+   "title": "Veterans Day eBike Giveaway",
+   "source_url": "https://www.winprizesonline.com/Veterans-Day-eBike-Giveaway/",
    "entry_url": "https://form.jotform.com/Lectricebikes/2026-veterans-day-ebike-giveaway",
    "rules_url": null,
-   "ends_guess": "2026-11-11",
-   "ends_text": "Last day to enter: Wed, Nov 11",
-   "ends_how": "inferred",
+   "ends_guess": "2026-11-16",
+   "ends_text": "Expires\n 11-16-2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 40500,
+   "category_guess": "other",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -628,13 +837,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://form.jotform.com/Lectricebikes/2026-veterans-day-ebike-giveaway",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-09"
   },
   "https://gleam.io/Vp1JC/jerryrigeverythings-redmagic-12-pro-giveaway?gsr=Vp1JC-ppACOLMmvn": {
    "title": "JerryRigEverything's REDMAGIC 12 Pro Giveaway",
@@ -2050,16 +2257,16 @@
    "last_seen": "2026-11-07"
   },
   "https://modelousa.com/pages/college-football-bucket-promotion": {
-   "title": "Modelo College Bucket Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/06/modelo-college-bucket-sweepstakes/",
+   "title": "400 Will Win a Modelo College Football Team Bucket!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/400-will-win-a-modelo-college-football-team-bucket/",
    "entry_url": "https://www.modelousa.com/pages/college-football-bucket-promotion",
    "rules_url": null,
    "ends_guess": "2026-12-31",
-   "ends_text": "Last day to enter: Thu, Dec 31",
-   "ends_how": "inferred",
-   "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
+   "ends_text": "ENDING – \nDecember 31, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 21,
+   "value_guess": 2608,
    "category_guess": "cash",
    "flags": {
     "us_mentioned": false,
@@ -2069,13 +2276,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://modelousa.com/pages/college-football-bucket-promotion",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
   },
   "https://realsimple.com/real-simple-this-is-your-sign-to-sweepstakes-12196911": {
    "title": "Real Simple Treat Yourself Sweepstakes",
@@ -3069,19 +3274,19 @@
    "last_seen": "2026-11-06"
   },
   "https://rewards.bing.com/sweeps/promotion": {
-   "title": "Microsoft Rewards Prize Drop Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/05/microsoft-rewards-prize-drop-sweepstakes-2/",
+   "title": "Win $1 Million Cash, Mercedes-Benz Cars or Thousands of Instant Win Prizes!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-1-million-cash-mercedes-benz-cars-or-thousands-of-instant-win-prizes/",
    "entry_url": "https://rewards.bing.com/sweeps/promotion",
-   "rules_url": null,
-   "ends_guess": "2027-01-15",
-   "ends_text": "Last day to enter: Fri, Jan 15, 2027",
+   "rules_url": "https://promos.microsoftrewards.com/US/en/MS/18/rules",
+   "ends_guess": "2027-01-16",
+   "ends_text": "ENDING – \nJanuary 16, 2027",
    "ends_how": "explicit",
-   "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 1000000,
+   "frequency_guess": "unknown",
+   "min_age_guess": 18,
+   "value_guess": 650000,
    "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
@@ -3090,9 +3295,9 @@
    },
    "review_flags": [],
    "key": "https://rewards.bing.com/sweeps/promotion",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-06"
+   "last_seen": "2026-11-09"
   },
   "https://mtnops.com/pages/black-friday-early-access": {
    "title": "MTN OPS × HOYT Early Access Black Friday 2026 Giveaway",
@@ -3843,19 +4048,19 @@
    "last_seen": "2026-11-06"
   },
   "https://purina.com/s/petivity-dog-cat-bundle-sweepstakes": {
-   "title": "Petivity Paws and Claws Sweepstakes",
-   "source_url": "https://www.winprizesonline.com/Petivity-Paws-and-Claws-Sweepstakes/",
+   "title": "Win a Purina Pet Care Bundle for Your Dog or Cat-Up to $655 Value!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-purina-pet-care-bundle-for-your-dog-or-cat-up-to-655-value/",
    "entry_url": "https://www.purina.com/s/petivity-dog-cat-bundle-sweepstakes",
-   "rules_url": null,
+   "rules_url": "https://www.purina.com/s/petivity-dog-cat-bundle-sweepstakes/rules",
    "ends_guess": "2026-11-25",
-   "ends_text": "Expires\n 11-25-2026",
+   "ends_text": "ENDING – \nNovember 25, 2026",
    "ends_how": "explicit",
-   "frequency_guess": "daily",
+   "frequency_guess": "once",
    "min_age_guess": 18,
-   "value_guess": 550000,
-   "category_guess": "electronics",
+   "value_guess": 1169,
+   "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
@@ -3864,9 +4069,9 @@
    },
    "review_flags": [],
    "key": "https://purina.com/s/petivity-dog-cat-bundle-sweepstakes",
-   "source": "winprizesonline",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-09"
   },
   "https://greenpan.us/pages/stakt-giveaway": {
    "title": "GreenPan x Stakt Giveaway",
@@ -3951,15 +4156,15 @@
    "last_seen": "2026-11-06"
   },
   "https://jordans.com/winter-wishes": {
-   "title": "Jordan’s Furniture “Winter Wishes Giveaway” Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/06/jordans-furniture-winter-wishes-giveaway-sweepstakes/",
+   "title": "Win a $10,000 Jordan's Furniture Gift Card!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-10000-jordans-furniture-gift-card/",
    "entry_url": "https://www.jordans.com/winter-wishes",
-   "rules_url": null,
+   "rules_url": "https://www.jordans.com/customer-service/promotions-terms-and-conditions",
    "ends_guess": "2027-01-01",
-   "ends_text": "Last day to enter: Fri, Jan 1, 2027",
+   "ends_text": "ENDING – \nJanuary 1, 2027",
    "ends_how": "explicit",
-   "frequency_guess": "daily",
-   "min_age_guess": null,
+   "frequency_guess": "once",
+   "min_age_guess": 18,
    "value_guess": 10000,
    "category_guess": "cash",
    "flags": {
@@ -3972,9 +4177,9 @@
    },
    "review_flags": [],
    "key": "https://jordans.com/winter-wishes",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-06"
+   "last_seen": "2026-11-09"
   },
   "https://fitice.shop/?njref=4ZQ5O9": {
    "title": "Fit Ice $1000 AMAZON GIFT CARD GIVEAWAY",
@@ -4005,17 +4210,17 @@
    "last_seen": "2026-11-06"
   },
   "https://news.iheart.com/promotions/win-a-2027-ski-doo-summit-1931388": {
-   "title": "2027 Ski",
-   "source_url": "https://www.winprizesonline.com/2027-Ski-Doo-Summit-Edge-Sweepstakes/",
+   "title": "Win a 2027 Ski-Doo Summit Edge Snowmobile Worth $13,730!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-2027-ski-doo-summit-edge-snowmobile-worth-13730/",
    "entry_url": "https://news.iheart.com/promotions/win-a-2027-ski-doo-summit-1931388/",
-   "rules_url": null,
+   "rules_url": "https://news.iheart.com/rules/",
    "ends_guess": "2026-12-31",
-   "ends_text": "Expires\n 12-31-2026",
+   "ends_text": "ENDING – \nDecember 31, 2026",
    "ends_how": "explicit",
-   "frequency_guess": "daily",
+   "frequency_guess": "once",
    "min_age_guess": 21,
    "value_guess": 13730,
-   "category_guess": "other",
+   "category_guess": "cash",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -4026,37 +4231,35 @@
    },
    "review_flags": [],
    "key": "https://news.iheart.com/promotions/win-a-2027-ski-doo-summit-1931388",
-   "source": "winprizesonline",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-06"
+   "last_seen": "2026-11-09"
   },
   "https://duer.com/pages/win-a-winter-outfit": {
-   "title": "Duer Winter Outfit Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/06/duer-winter-outfit-giveaway/",
+   "title": "Win a $500 Winter Outfit from DUER!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-500-winter-outfit-from-duer/",
    "entry_url": "https://duer.com/pages/win-a-winter-outfit",
-   "rules_url": null,
-   "ends_guess": "2026-11-21",
-   "ends_text": "Last day to enter: Sat, Nov 21",
-   "ends_how": "inferred",
-   "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
+   "rules_url": "https://duer.com/pages/winter-outfit-giveaway-terms-and-conditions",
+   "ends_guess": "2026-11-22",
+   "ends_text": "ENDING – \nNovember 22, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 18,
+   "value_guess": 500,
    "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://duer.com/pages/win-a-winter-outfit",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-06"
+   "last_seen": "2026-11-09"
   },
   "https://davidsbridal.attn.tv/p/Vyh": {
    "title": "David's NBC Newlyweds Sweepstakes",
