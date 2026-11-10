@@ -29,13 +29,17 @@
       "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://aftermidnite.iheart.com/promotions/fontainebleau-las-vegas-oasis-ice-rink-1929327": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This After MidNite promotion page did not come up in web search, so it was not read. The sibling Bobby Bones page (promotion 1929324, a winter escape to Fontainebleau Las Vegas) loaded only the site shell, and iHeart's general contest rules limit contests to the station's listening area unless the contest's own rules say otherwise",
+      "last_attempt_at": "2026-11-10T17:55:19-05:00",
+      "evidence": [
+        "https://aftermidnite.iheart.com/content/general-contesting-guidelines/",
+        "https://bobbybones.iheart.com/promotions/fontainebleau-las-vegas-oasis-ice-rink-1929324/"
+      ],
+      "next_retry_at": "2026-11-11T17:55:19-05:00",
+      "name": "Fontainebleau Las Vegas Oasis Ice Rink Holiday Giveaway"
     },
     "https://ahxlegoland.com/en/gate": {
       "attempts": 1,
@@ -1394,13 +1398,16 @@
       "name": "DennisCW Wall Connector Giveaway"
     },
     "https://gleam.io/RGgHD/better-living-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam pages return a client error to the page reader: gleam.io/giveaways/RGgHD (found by web search) failed, and this entry page did not come up in search, so the terms were not read",
+      "last_attempt_at": "2026-11-10T17:55:19-05:00",
+      "evidence": [
+        "https://gleam.io/giveaways/RGgHD"
+      ],
+      "next_retry_at": "2026-11-11T17:55:19-05:00",
+      "name": "Flooret Better Living Giveaway"
     },
     "https://gleam.io/RGgHD/better-living-giveaway?gsr=RGgHD-plRRMMEiWP": {
       "attempts": 0,
@@ -2229,13 +2236,16 @@
       "next_retry_at": null
     },
     "https://marketprohdq.com/grader.html": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "conflicting_info",
+      "reason": "Sponsor's official rules on the grader page (last updated Oct 23) say entries ran Oct 19 to Nov 2, 2026 at 11:59 PM ET with the winner drawn Nov 3, but the page banner still says LIVE and a listing site posted it Nov 9 with a Nov 16 end. Prize is a $100 gift card plus a Clydesdale figure, US 18+, email entry that adds Market Pro marketing",
+      "last_attempt_at": "2026-11-10T17:55:19-05:00",
+      "evidence": [
+        "https://marketprohdq.com/grader.html"
+      ],
+      "next_retry_at": "2026-11-11T17:55:19-05:00",
+      "name": "Market Pro Clydesdale Giveaway"
     },
     "https://marysheirloomseeds.com/blogs/news/november-2026-seed-giveaway-at-marys-heirloom-seeds": {
       "attempts": 0,
@@ -2622,13 +2632,17 @@
       "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://princearmoryacademy.com/giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The giveaway page did not come up in web search; the search result for the November Warrior Armor Giveaway (princearmoryacademy.com/?rpid=3&rpr=778) returned a client error, and the Deals & Giveaways page only has stale text about a March giveaway, so no rules were read",
+      "last_attempt_at": "2026-11-10T17:55:19-05:00",
+      "evidence": [
+        "https://princearmoryacademy.com/?rpid=3&rpr=778",
+        "https://princearmoryacademy.com/home-prince-armory/deals-giveaways/"
+      ],
+      "next_retry_at": "2026-11-11T17:55:19-05:00",
+      "name": "Win the Complete Warrior Armor Pattern Bundle"
     },
     "https://promorules.com/MK262790": {
       "attempts": 1,
@@ -3006,13 +3020,16 @@
       "next_retry_at": null
     },
     "https://share.hsforms.com/14yPjMyU5Saq21KL7XAHYKg9qem": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The HubSpot entry form and its rules did not come up in web search; the only Nylabone giveaway terms found (news.nylabone.com) are for a 2022 Instagram contest, not this one",
+      "last_attempt_at": "2026-11-10T17:55:20-05:00",
+      "evidence": [
+        "https://news.nylabone.com/nylabone-giveaway-terms-and-conditions"
+      ],
+      "next_retry_at": "2026-11-11T17:55:20-05:00",
+      "name": "Nylabone $100 Holiday Prize Pack Giveaway"
     },
     "https://shoplowes.me/3WZLa2y": {
       "attempts": 1,
