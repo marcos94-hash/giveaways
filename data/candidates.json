@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T11:17:02+00:00",
- "count": 513,
+ "updated": "2026-11-10T21:17:02+00:00",
+ "count": 537,
  "candidates": {
   "https://gleam.io/HnuJg/3d-printer-giveaway": {
    "title": "3D PRINTER GIVEAWAY",
@@ -916,6 +916,658 @@
    "first_seen": "2026-11-10",
    "last_seen": "2026-11-10"
   },
+  "https://kleanfreak.com/pages/cancun-giveaway?njref=Y026LJ": {
+   "title": "Klean Freak CANCUN Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/22/klean-freak-cancun-giveaway/",
+   "entry_url": "https://www.kleanfreak.com/pages/cancun-giveaway?njref=Y026LJ",
+   "rules_url": null,
+   "ends_guess": null,
+   "ends_text": null,
+   "ends_how": null,
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 5000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://kleanfreak.com/pages/cancun-giveaway?njref=Y026LJ",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://sweepwidget.com/c/102772-ei0d4vb3": {
+   "title": "Spec Ops Veterans Day GIveaway",
+   "source_url": "https://www.freestufftimes.com/contests/01/spec-ops-veterans-day-giveaway/",
+   "entry_url": "https://sweepwidget.com/c/102772-ei0d4vb3",
+   "rules_url": null,
+   "ends_guess": null,
+   "ends_text": null,
+   "ends_how": null,
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://sweepwidget.com/c/102772-ei0d4vb3",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://ebfamilysweeps.com/contest": {
+   "title": "Eggland’s Best “Egg-citing Hallmark Holiday” Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/10/egglands-best-egg-citing-hallmark-holiday-sweepstakes/",
+   "entry_url": "https://www.ebfamilysweeps.com/contest",
+   "rules_url": null,
+   "ends_guess": "2026-12-22",
+   "ends_text": "Last day to enter: Tue, Dec 22",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 5113,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://ebfamilysweeps.com/contest",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://topgolf.com/WTGLChallengeEntry": {
+   "title": "Topgolf WTGL Challenge Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/10/topgolf-wtgl-challenge-sweepstakes/",
+   "entry_url": "https://topgolf.com/WTGLChallengeEntry/",
+   "rules_url": null,
+   "ends_guess": "2026-12-23",
+   "ends_text": "Last day to enter: Wed, Dec 23",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://topgolf.com/WTGLChallengeEntry",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://share.hsforms.com/14yPjMyU5Saq21KL7XAHYKg9qem": {
+   "title": "Nylabone $100 Holiday Prize Pack Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/10/nylabone-100-holiday-prize-pack-giveaway/",
+   "entry_url": "https://share.hsforms.com/14yPjMyU5Saq21KL7XAHYKg9qem",
+   "rules_url": null,
+   "ends_guess": "2026-11-15",
+   "ends_text": "Last day to enter: Sun, Nov 15",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://share.hsforms.com/14yPjMyU5Saq21KL7XAHYKg9qem",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://somebodyfindphil.com/": {
+   "title": "United Airlines Somebody Find Phil Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/10/united-airlines-somebody-find-phil-sweepstakes/",
+   "entry_url": "https://somebodyfindphil.com/",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Last day to enter: Mon, Nov 30",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 37500,
+   "category_guess": "trip",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://somebodyfindphil.com/",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://wm.com/irecycle": {
+   "title": "Waste Management WM “I Recycle” Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/10/waste-management-wm-i-recycle-sweepstakes/",
+   "entry_url": "https://www.wm.com/irecycle",
+   "rules_url": null,
+   "ends_guess": "2027-12-10",
+   "ends_text": "Last day to enter: Fri, Dec 10, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3500,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://wm.com/irecycle",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://gleam.io/MhwQl/-win-the-harmonex-earth-indigo-wellness-duo-": {
+   "title": "Win the Harmonex Earth & Indigo Wellness Duo",
+   "source_url": "https://www.freestufftimes.com/contests/10/win-the-harmonex-earth-indigo-wellness-duo/",
+   "entry_url": "https://gleam.io/MhwQl/-win-the-harmonex-earth-indigo-wellness-duo-?",
+   "rules_url": null,
+   "ends_guess": "2026-12-10",
+   "ends_text": "Last day to enter: Thu, Dec 10",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://gleam.io/MhwQl/-win-the-harmonex-earth-indigo-wellness-duo-",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://petinsurancerewards.com/NationwideTailsandTouchdowns26": {
+   "title": "Nationwide 2026 Tails and Touchdowns Contest",
+   "source_url": "https://www.freestufftimes.com/contests/10/nationwide-2026-tails-and-touchdowns-contest/",
+   "entry_url": "https://petinsurancerewards.com/NationwideTailsandTouchdowns26/",
+   "rules_url": null,
+   "ends_guess": "2026-12-23",
+   "ends_text": "Last day to enter: Wed, Dec 23",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 7750,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://petinsurancerewards.com/NationwideTailsandTouchdowns26",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://sumocitrus.com/pass-the-joy": {
+   "title": "Sumo Citrus Pass the Joy Sweepstakes & Contest",
+   "source_url": "https://www.freestufftimes.com/contests/10/sumo-citrus-pass-the-joy-sweepstakes-contest/",
+   "entry_url": "https://sumocitrus.com/pass-the-joy/",
+   "rules_url": null,
+   "ends_guess": "2026-11-28",
+   "ends_text": "Last day to enter: Sat, Nov 28",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 7589,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://sumocitrus.com/pass-the-joy",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://aldideckout.com/": {
+   "title": "Win $10,000 in ALDI Gift Cards and Holiday Prizes!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-10000-in-aldi-gift-cards-and-holiday-prizes/",
+   "entry_url": "https://aldideckout.com/",
+   "rules_url": null,
+   "ends_guess": "2026-11-22",
+   "ends_text": "ENDING – \nNovember 22, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 18,
+   "value_guess": 22900,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://aldideckout.com/",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://aa.com/RamsPerks": {
+   "title": "American Airlines Rams Perks Gameday Experience Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/10/american-airlines-rams-perks-gameday-experience-sweepstakes/",
+   "entry_url": "https://www.aa.com/RamsPerks",
+   "rules_url": null,
+   "ends_guess": "2026-12-21",
+   "ends_text": "Last day to enter: Mon, Dec 21",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3100,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://aa.com/RamsPerks",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://corporate.solostove.com/beastmode": {
+   "title": "Solo Stove Beast Mode Gifts That Don't Suck Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/10/solo-stove-beast-mode-gifts-that-dont-suck-sweepstakes/",
+   "entry_url": "https://corporate.solostove.com/beastmode",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Last day to enter: Thu, Dec 31",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://corporate.solostove.com/beastmode",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://artika.com/pages/contest?shpxid=631ffb94-4a3f-45ef-9cdb-7a85d99e4860": {
+   "title": "Artika Winter Glow Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/10/artika-winter-glow-giveaway/",
+   "entry_url": "https://artika.com/pages/contest?shpxid=631ffb94-4a3f-45ef-9cdb-7a85d99e4860",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Last day to enter: Thu, Dec 31",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://artika.com/pages/contest?shpxid=631ffb94-4a3f-45ef-9cdb-7a85d99e4860",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes": {
+   "title": "MAGNA-TILES X Burst Kids Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/10/magna-tiles-x-burst-kids-sweepstakes/",
+   "entry_url": "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes",
+   "rules_url": null,
+   "ends_guess": "2026-11-16",
+   "ends_text": "Last day to enter: Mon, Nov 16",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://udiscovermusic.com/competitions/the-beatles-rubber-soul-merch-giveaway": {
+   "title": "Win Official Beatles ‘Rubber Soul’ Merch",
+   "source_url": "https://www.freestufftimes.com/contests/10/win-official-beatles-rubber-soul-merch/",
+   "entry_url": "https://www.udiscovermusic.com/competitions/the-beatles-rubber-soul-merch-giveaway/",
+   "rules_url": null,
+   "ends_guess": "2026-12-06",
+   "ends_text": "Last day to enter: Sun, Dec 6",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://udiscovermusic.com/competitions/the-beatles-rubber-soul-merch-giveaway",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://amoe.t-mobiletuesdays.com/": {
+   "title": "T-Mobile Tuesdays Week #545 Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/10/t-mobile-tuesdays-week-545-sweepstakes/",
+   "entry_url": "https://amoe.t-mobiletuesdays.com/",
+   "rules_url": null,
+   "ends_guess": "2026-11-17",
+   "ends_text": "Last day to enter: Tue, Nov 17",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 47185,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://amoe.t-mobiletuesdays.com/",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://villeroy-boch.com/service/giveaway-sarahkjp-2026": {
+   "title": "Win a Holiday Pack in The Villeroy & Boch x Kiel James Patrick Giveaway",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-holiday-pack-in-the-villeroy-boch-x-kiel-james-patrick-giveaway/",
+   "entry_url": "https://www.villeroy-boch.com/service/giveaway-sarahkjp-2026",
+   "rules_url": "https://www.villeroy-boch.com/service/giveaway-sarahkjp-2026/terms-and-conditions/",
+   "ends_guess": "2026-12-04",
+   "ends_text": "ENDING – \nDecember 4, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 18,
+   "value_guess": 388,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://villeroy-boch.com/service/giveaway-sarahkjp-2026",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://roku.com/blog/user-sweepstakes": {
+   "title": "Roku Q4 2026 Experience Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/10/roku-q4-2026-experience-sweepstakes/",
+   "entry_url": "https://www.roku.com/blog/user-sweepstakes",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Last day to enter: Thu, Dec 31",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://roku.com/blog/user-sweepstakes",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://hp2win.com/hofbrau-christmas-sweater-sweepstakes-hbchristmas-12272026": {
+   "title": "20 Winners Get a Christmas Sweater in this 2026 Hofbräu Sweeps!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/20-winners-get-a-christmas-sweater-in-this-2026-hofbrau-sweeps/",
+   "entry_url": "https://hp2win.com/hofbrau-christmas-sweater-sweepstakes-hbchristmas-12272026/",
+   "rules_url": null,
+   "ends_guess": "2026-12-27",
+   "ends_text": "ENDING – \nDecember 27, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 21,
+   "value_guess": 5,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://hp2win.com/hofbrau-christmas-sweater-sweepstakes-hbchristmas-12272026",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://santamargheritawines.com/holidaygiveaway": {
+   "title": "725 Win Candles in The Uncork an Extraordinary Moment Holiday Sweeps!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/725-win-candles-in-the-uncork-an-extraordinary-moment-holiday-sweeps/",
+   "entry_url": "https://www.santamargheritawines.com/holidaygiveaway",
+   "rules_url": "https://www.santamargheritawines.com/holidaygiveawayrules",
+   "ends_guess": "2026-12-31",
+   "ends_text": "ENDING – \nDecember 31, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 21,
+   "value_guess": 77,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://santamargheritawines.com/holidaygiveaway",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://gleam.io/tliPr/bob-brads-thermored-se-massage-belt-giveaway": {
+   "title": "ThermoRed SE Massage Belt Giveaway",
+   "source_url": "https://www.winprizesonline.com/ThermoRed-SE-Massage-Belt-Giveaway/",
+   "entry_url": "https://gleam.io/tliPr/bob-brads-thermored-se-massage-belt-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-14",
+   "ends_text": "Expires\n 11-14-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 330000,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://gleam.io/tliPr/bob-brads-thermored-se-massage-belt-giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://doyonsappliance.com/promotions/neco/2026/black-friday/giveaway/savings.html": {
+   "title": "Doyon Appliance Black November Giveaway",
+   "source_url": "https://www.winprizesonline.com/Doyon-Appliance-Black-November-Giveaway/",
+   "entry_url": "https://www.doyonsappliance.com/promotions/neco/2026/black-friday/giveaway/savings.html",
+   "rules_url": null,
+   "ends_guess": "2026-12-09",
+   "ends_text": "Expires\n 12-09-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 330000,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://doyonsappliance.com/promotions/neco/2026/black-friday/giveaway/savings.html",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "https://artika.com/pages/contest": {
+   "title": "Artika Winter Glow Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Artika-Winter-Glow-Sweepstakes/",
+   "entry_url": "https://artika.com/pages/contest",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Expires\n 12-31-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 330000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://artika.com/pages/contest",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
   "https://hp2win.com/clubtails-cocktails-holiday-cash-sweepstakes-clubtailsholiday26-12312026": {
    "title": "Clubtails Cocktails Holiday Cash Sweepstakes",
    "source_url": "https://www.freestufftimes.com/contests/08/clubtails-cocktails-holiday-cash-sweepstakes/",
@@ -999,17 +1651,17 @@
    "last_seen": "2026-11-09"
   },
   "https://hoselink.com/pages/win": {
-   "title": "Hoselink Dream Garden Setup Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/08/hoselink-dream-garden-setup-giveaway/",
+   "title": "Hoselink Dream Garden Set Up Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Hoselink-Dream-Garden-Set-Up-Sweepstakes/",
    "entry_url": "https://www.hoselink.com/pages/win",
    "rules_url": null,
    "ends_guess": "2026-11-17",
-   "ends_text": "Last day to enter: Tue, Nov 17",
-   "ends_how": "inferred",
+   "ends_text": "Expires\n 11-17-2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 330000,
+   "category_guess": "gift_card",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -1018,13 +1670,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://hoselink.com/pages/win",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-09"
+   "last_seen": "2026-11-10"
   },
   "https://westcoastsaw.com/pages/gift-card-giveaway": {
    "title": "Westcoast Saw Gift Card Giveway",
@@ -1732,17 +2382,17 @@
    "last_seen": "2026-11-08"
   },
   "https://gleam.io/EcW2S/nintendo-switch-2-giveaway": {
-   "title": "Limited Edition Zelda Nintendo Switch 2 Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/07/limited-edition-zelda-nintendo-switch-2-giveaway/",
+   "title": "Zelda Nintendo Switch 2 Giveaway",
+   "source_url": "https://www.winprizesonline.com/Zelda-Nintendo-Switch-2-Giveaway/",
    "entry_url": "https://gleam.io/EcW2S/nintendo-switch-2-giveaway",
    "rules_url": null,
    "ends_guess": "2026-11-27",
-   "ends_text": "Last day to enter: Fri, Nov 27",
-   "ends_how": "inferred",
+   "ends_text": "Expires\n 11-27-2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 330000,
+   "category_guess": "electronics",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -1751,13 +2401,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://gleam.io/EcW2S/nintendo-switch-2-giveaway",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-10"
   },
   "https://gleam.io/hgGjz/gadgetguy-levoit-tower-fan-giveaway": {
    "title": "Levoit Tower Fan giveaway",
@@ -2198,17 +2846,17 @@
    "last_seen": "2026-11-08"
   },
   "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway": {
-   "title": "Gusto TV's Dinner in Paris Steelite Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/08/gusto-tvs-dinner-in-paris-steelite-giveaway/",
+   "title": "Gusto TV Dinner in Paris Giveaway",
+   "source_url": "https://www.winprizesonline.com/Gusto-TV-Dinner-in-Paris-Giveaway/",
    "entry_url": "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway",
    "rules_url": null,
    "ends_guess": "2026-11-10",
-   "ends_text": "Last day to enter: Tue, Nov 10",
-   "ends_how": "inferred",
+   "ends_text": "Expires\n 11-10-2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 29400,
+   "category_guess": "electronics",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -2217,13 +2865,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-10"
   },
   "https://mrt.tires/blogs/the-tread-thread/final-mrt-tire-set-giveaway-of-the-year": {
    "title": "Final MRT Tire Set Giveaway of the Year",
@@ -2254,32 +2900,30 @@
    "last_seen": "2026-11-08"
   },
   "https://sparklingicefuelyourholidays.com/": {
-   "title": "Sparkling Ice Fuel Your Holidays Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/08/sparkling-ice-fuel-your-holidays-sweepstakes/",
+   "title": "Win a Big Gift Card in The Sparkling Ice Fuel Your Holidays Sweeps!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-big-gift-card-in-the-sparkling-ice-fuel-your-holidays-sweeps/",
    "entry_url": "https://sparklingicefuelyourholidays.com/",
    "rules_url": null,
    "ends_guess": "2026-12-31",
-   "ends_text": "Last day to enter: Thu, Dec 31",
-   "ends_how": "inferred",
+   "ends_text": "ENDING – \nDecember 31, 2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 2500,
+   "category_guess": "gift_card",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://sparklingicefuelyourholidays.com/",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-10"
   },
   "https://set.fan/XECHK94mIwpPatZXklvl": {
    "title": "SET.fan Sweepstakes",
@@ -3387,32 +4031,30 @@
    "last_seen": "2026-11-07"
   },
   "https://titosvodka.com/holiday": {
-   "title": "Tito’s Holiday Sweater Drop Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/07/titos-holiday-sweater-drop-giveaway/",
+   "title": "400 Win an \"Ugly Sweater\" in The Tito’s Holiday Sweater Sweeps!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/400-win-an-ugly-sweater-in-the-titos-holiday-sweater-sweeps/",
    "entry_url": "https://www.titosvodka.com/holiday",
-   "rules_url": null,
+   "rules_url": "https://www.titosvodka.com/titos-holiday-official-rules",
    "ends_guess": "2026-12-09",
-   "ends_text": "Last day to enter: Wed, Dec 9",
-   "ends_how": "inferred",
-   "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 13200,
+   "ends_text": "ENDING – \nDecember 9, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 21,
+   "value_guess": 33,
    "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://titosvodka.com/holiday",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-10"
   },
   "https://runnings.com/greatbiggiveaway": {
    "title": "Black Diamond Work Bench Giveaway",
