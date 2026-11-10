@@ -4,41 +4,6 @@
   "source": "Found by the Mac mini finder and Perplexity/web search, checked against official rules by Claude.",
   "giveaways": [
     {
-      "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
-      "prize": "25 winners: $200 prepaid gift card + $200 Atom movie credit",
-      "category": "gift_card",
-      "entry_url": "https://amoe.t-mobiletuesdays.com/",
-      "rules_url": "https://amoe.t-mobiletuesdays.com/page/rules",
-      "match": [
-        "amoe.t-mobiletuesdays.com"
-      ],
-      "ends": "2026-11-10T04:59:59-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "rules_checked": "full",
-      "flags": {},
-      "notes": "No T-Mobile account needed on this free entry page. Asks for name, email, phone and street address (no PO boxes). One entry per person for the week; a new weekly sweepstakes starts each Tuesday.",
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "t-mobile-tuesdays-week-544-sweepstakes-free-entry-page",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://amoe.t-mobiletuesdays.com/page/rules",
-        "checked_at": "2026-11-04T00:05:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://amoe.t-mobiletuesdays.com/page/rules"
-        ]
-      }
-    },
-    {
       "id": "ign-bestbuy-daily",
       "name": "IGN x Best Buy daily giveaway",
       "prize": "A new Best Buy tech prize each weekday + weekly grand prize bundle",

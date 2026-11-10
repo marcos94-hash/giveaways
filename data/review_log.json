@@ -97,8 +97,8 @@
     },
     "https://amoe.t-mobiletuesdays.com/": {
       "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
-      "status": "listed",
-      "decided_at": "2026-11-04",
+      "status": "ended",
+      "decided_at": "2026-11-10T17:39:28-05:00",
       "attempts": 0,
       "listing_id": "t-mobile-tuesdays-week-544-sweepstakes-free-entry-page",
       "reason_code": "verified",
@@ -129,16 +129,17 @@
     },
     "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1": {
       "attempts": 3,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The ViralSweep page didn't come up in web search, so the 2026 rules weren't read. GOWOOD's own 2026 giveaway page (3 pairs of sunglasses, $267) gives no dates or eligibility; last year's edition was open to Canada, the US and the UK and closed Nov 11.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-09T18:15:33-05:00",
-      "next_retry_at": "2026-11-13T18:15:33-05:00",
+      "next_retry_at": null,
       "name": "GOWOOD sunglasses Giveaway",
       "evidence": [
         "https://app.viralsweep.com/sweeps/full/18c639-240058?framed=1",
         "https://www.gowood.ca/giveaway-2025/"
-      ]
+      ],
+      "decided_at": "2026-11-10T17:39:28-05:00"
     },
     "https://app.viralsweep.com/sweeps/full/4b1c4c-240297?framed=1": {
       "attempts": 0,
@@ -1331,15 +1332,16 @@
     },
     "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway": {
       "attempts": 2,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-08T17:51:25-05:00",
       "evidence": [
         "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway"
       ],
-      "next_retry_at": "2026-11-10T17:51:25-05:00",
-      "name": "A Bookshop for Christmas Blog Tour Giveaway"
+      "next_retry_at": null,
+      "name": "A Bookshop for Christmas Blog Tour Giveaway",
+      "decided_at": "2026-11-10T17:39:28-05:00"
     },
     "https://gleam.io/cPggF/stormcraft-salem-tech-sales-season-pc-giveaway?gsr=cPggF-oH0RlOPhUE": {
       "attempts": 0,
@@ -1408,15 +1410,16 @@
     },
     "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026": {
       "attempts": 2,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-08T17:51:25-05:00",
       "evidence": [
         "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026"
       ],
-      "next_retry_at": "2026-11-10T17:51:25-05:00",
-      "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026"
+      "next_retry_at": null,
+      "name": "ATTACK SHARK Weekly Giveaway - Week 45 of 2026",
+      "decided_at": "2026-11-10T17:39:28-05:00"
     },
     "https://gleam.io/ojPo1/go-green-win-bigyour-chance-to-win-an-epic-prize-package?gsr=ojPo1-oSvqtakbv3": {
       "attempts": 1,
@@ -1441,15 +1444,16 @@
     },
     "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Gleam page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-08T17:51:19-05:00",
       "evidence": [
         "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway"
       ],
-      "next_retry_at": "2026-11-09T17:51:19-05:00",
-      "name": "Gusto TV's Dinner in Paris Steelite Giveaway"
+      "next_retry_at": null,
+      "name": "Gusto TV Dinner in Paris Giveaway",
+      "decided_at": "2026-11-10T17:39:28-05:00"
     },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 2,
@@ -1513,12 +1517,13 @@
     },
     "https://greenpan.us/pages/stakt-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "GreenPan giveaway page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; greenpan.us partnerships page doesn't mention it",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-06T17:58:59-05:00",
-      "next_retry_at": "2026-11-07T17:58:59-05:00",
-      "name": "Greenpan Stakt Giveaway"
+      "next_retry_at": null,
+      "name": "GreenPan x Stakt Giveaway",
+      "decided_at": "2026-11-10T17:39:28-05:00"
     },
     "https://happyholi-lays.com/rules": {
       "attempts": 2,
@@ -2276,15 +2281,16 @@
     },
     "https://pepboys.com/giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the entry page https://www.pepboys.com/giveaway; rules and any local area limit not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-05T17:53:07-05:00",
       "evidence": [
         "https://www.pepboys.com/giveaway"
       ],
-      "next_retry_at": "2026-11-06T17:53:07-05:00",
-      "name": "Pep Boys Philly Giveaway"
+      "next_retry_at": null,
+      "name": "Pep Boys Philly Giveaway",
+      "decided_at": "2026-11-10T17:39:28-05:00"
     },
     "https://pepsipromos.com/knicks": {
       "attempts": 0,
