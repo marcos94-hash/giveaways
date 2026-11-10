@@ -1215,50 +1215,34 @@
       "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://gleam.io/4JkLI/electroharmonix-bender-royale-germanium-fuzz-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page did not come up in web search, so the page reader could not open it in this unattended run, and Gleam pages that did come up returned client errors; terms not read",
+      "last_attempt_at": "2026-11-10T17:58:34-05:00",
+      "next_retry_at": "2026-11-11T17:58:34-05:00",
+      "name": "Electro-Harmonix Bender Royale Germanium Fuzz Giveaway"
     },
     "https://gleam.io/4ozxF/fl-thanksgiving-weekly-flag-giveaway-112026": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page did not come up in web search, so the page reader could not open it in this unattended run, and Gleam pages that did come up returned client errors; terms not read",
+      "last_attempt_at": "2026-11-10T17:58:34-05:00",
+      "next_retry_at": "2026-11-11T17:58:34-05:00",
+      "name": "FlagsRus Thanksgiving Flag Giveaway"
     },
     "https://gleam.io/4ppnS/southern-crafteds-thanksgiving-giveaway?gsr=4ppnS-oyB0t1Ahjz": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the Gleam page; terms not read",
-      "last_attempt_at": "2026-11-05T17:53:07-05:00",
+      "reason": "Second try: the Gleam page still did not come up in web search, so the page reader could not open it in this unattended run, and Gleam pages that did come up returned client errors; terms not read",
+      "last_attempt_at": "2026-11-10T17:58:34-05:00",
       "evidence": [
         "https://gleam.io/4ppnS/southern-crafteds-thanksgiving-giveaway"
       ],
-      "next_retry_at": "2026-11-06T17:53:07-05:00",
-      "name": "Southern Crafted's Thanksgiving Giveaway",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the Gleam page; terms not read",
-          "last_attempt_at": "2026-11-05T17:53:07-05:00",
-          "evidence": [
-            "https://gleam.io/4ppnS/southern-crafteds-thanksgiving-giveaway"
-          ],
-          "next_retry_at": "2026-11-06T17:53:07-05:00",
-          "name": "Southern Crafted's Thanksgiving Giveaway"
-        }
-      }
+      "next_retry_at": "2026-11-12T17:58:34-05:00",
+      "name": "Southern Crafted's Thanksgiving Giveaway"
     },
     "https://gleam.io/5ZgiH/prebf-giveaway-2026": {
       "attempts": 1,
@@ -2628,32 +2612,16 @@
       "name": "Win the Complete Warrior Armor Pattern Bundle"
     },
     "https://promorules.com/MK262790": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the official rules https://www.promorules.com/MK262790; rules not read. The finder's excluded-prize hint is from the word Hunt (a scavenger hunt); title prizes are swag and arcade machines, 21+",
-      "last_attempt_at": "2026-11-05T17:53:27-05:00",
+      "reason": "Second try: the official rules at promorules.com/MK262790 did not come up in web search (only older Keystone Light rules did), and a Perplexity lookup of promorules.com and keystonelight.com found nothing, so the rules, prize list and any purchase or code requirement were not read. The excluded-prize hint is from the word Hunt; title prizes are swag and arcade machines, 21+",
+      "last_attempt_at": "2026-11-10T17:58:34-05:00",
       "evidence": [
         "https://www.promorules.com/MK262790"
       ],
-      "next_retry_at": "2026-11-06T17:53:27-05:00",
-      "name": "516 Win Swag, Arcade Machines and More in The Keystone Light Hunt Sweeps & IWG!",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the official rules https://www.promorules.com/MK262790; rules not read. The finder's excluded-prize hint is from the word Hunt (a scavenger hunt); title prizes are swag and arcade machines, 21+",
-          "last_attempt_at": "2026-11-05T17:53:27-05:00",
-          "evidence": [
-            "https://www.promorules.com/MK262790"
-          ],
-          "next_retry_at": "2026-11-06T17:53:27-05:00",
-          "name": "516 Win Swag, Arcade Machines and More in The Keystone Light Hunt Sweeps & IWG!"
-        }
-      }
+      "next_retry_at": "2026-11-12T17:58:34-05:00",
+      "name": "516 Win Swag, Arcade Machines and More in The Keystone Light Hunt Sweeps & IWG!"
     },
     "https://promorules.com/MK263472": {
       "attempts": 1,
@@ -3343,32 +3311,16 @@
       "decided_at": "2026-11-04T00:52:12-05:00"
     },
     "https://sweepwidget.com/c/103262-zd804rb1": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the SweepWidget page; terms not read",
-      "last_attempt_at": "2026-11-05T17:53:07-05:00",
+      "reason": "Second try: the SweepWidget page still did not come up in web search (only other SweepWidget giveaways did), so the page reader could not open it in this unattended run; terms not read",
+      "last_attempt_at": "2026-11-10T17:58:34-05:00",
       "evidence": [
         "https://sweepwidget.com/c/103262-zd804rb1"
       ],
-      "next_retry_at": "2026-11-06T17:53:07-05:00",
-      "name": "Fork & Embers × ChefsTemp Giveaway",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the SweepWidget page; terms not read",
-          "last_attempt_at": "2026-11-05T17:53:07-05:00",
-          "evidence": [
-            "https://sweepwidget.com/c/103262-zd804rb1"
-          ],
-          "next_retry_at": "2026-11-06T17:53:07-05:00",
-          "name": "Fork & Embers × ChefsTemp Giveaway"
-        }
-      }
+      "next_retry_at": "2026-11-12T17:58:34-05:00",
+      "name": "Fork & Embers × ChefsTemp Giveaway"
     },
     "https://sweepwidget.com/c/103274-vozqwf42": {
       "attempts": 1,
