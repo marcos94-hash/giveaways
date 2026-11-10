@@ -1416,13 +1416,13 @@
       "name": "Mambasnake GIVEAWAY ROUND 83"
     },
     "https://gleam.io/TMgeE/black-friday-mega-sale-round-1": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page did not come up in web search (only other Mambasnake rounds did), so the page reader could not open it in this unattended run, and Gleam pages that did come up returned client errors; terms not read",
+      "last_attempt_at": "2026-11-10T17:58:22-05:00",
+      "next_retry_at": "2026-11-11T17:58:22-05:00",
+      "name": "Mambasnake BLACK FRIDAY MEGA SALE"
     },
     "https://gleam.io/VYkGR/audiotechnica-athr50x": {
       "attempts": 1,
@@ -1645,13 +1645,13 @@
       "name": "Bear NutriEase Stainless Steel All Stage Baby Food Maker Giveaway"
     },
     "https://gleam.io/yiGZ8/austrian-audio-od505": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page did not come up in web search, so the page reader could not open it in this unattended run, and Gleam pages that did come up returned client errors; a Perplexity lookup of gleam.io and austrian.audio found only product pages",
+      "last_attempt_at": "2026-11-10T17:58:22-05:00",
+      "next_retry_at": "2026-11-11T17:58:22-05:00",
+      "name": "Austrian Audio OD505 Giveaway"
     },
     "https://go.magik.ly/ml/4hyl7": {
       "attempts": 0,
@@ -1978,13 +1978,13 @@
       "next_retry_at": "2026-11-07T11:39:07-05:00"
     },
     "https://kingsumo.com/g/1dkxzk3/win-a-handcrafted-etchwood-mantel-this-holiday-season/kyozn99": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The KingSumo giveaway page and its rules page did not come up in web search, so the page reader could not open them in this unattended run; terms not read",
+      "last_attempt_at": "2026-11-10T17:58:22-05:00",
+      "next_retry_at": "2026-11-11T17:58:22-05:00",
+      "name": "Win a Handcrafted EtchWood Mantel This Holiday Season"
     },
     "https://kingsumo.com/g/1xqx5nm/a-christmas-romance-giveaway": {
       "attempts": 1,
@@ -2039,13 +2039,13 @@
       "decided_at": "2026-11-09T18:15:14-05:00"
     },
     "https://kingsumo.com/g/3zjegw1/verus-pet-foods-dry-wet-food-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The KingSumo giveaway page and its rules page did not come up in web search, so the page reader could not open them in this unattended run; terms not read",
+      "last_attempt_at": "2026-11-10T17:58:22-05:00",
+      "next_retry_at": "2026-11-11T17:58:22-05:00",
+      "name": "VeRUS Pet Foods Dry & Wet Food Giveaway"
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -2228,13 +2228,16 @@
       "name": "Market Pro Clydesdale Giveaway"
     },
     "https://marysheirloomseeds.com/blogs/news/november-2026-seed-giveaway-at-marys-heirloom-seeds": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The blog index lists this post (Nov 7, 2026, tagged Giveaway), but the post itself did not come up in web search, so the page reader could not open it in this unattended run; prizes, eligibility, dates and entry method were not read",
+      "last_attempt_at": "2026-11-10T17:58:22-05:00",
+      "evidence": [
+        "https://www.marysheirloomseeds.com/blogs/news"
+      ],
+      "next_retry_at": "2026-11-11T17:58:22-05:00",
+      "name": "Mary's Heirloom Seeds November 2026 Seed Giveaway"
     },
     "https://medievaltimes.com/giveaways/thanksgiving-giveaway": {
       "attempts": 1,
