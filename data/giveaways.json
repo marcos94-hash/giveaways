@@ -212,7 +212,7 @@
       "flags": {
         "age21": true
       },
-      "notes": "On the promotions page, open 'The Kewpie Japan Experience Sweepstakes'. 50 US + DC, 21+, one entry per person/email/household per day. Bonus entries for visiting iHeartMayo.com and following @kewpieusa.",
+      "notes": "Open 'The Kewpie Japan Experience Sweepstakes' (kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861). Listing sites: 50 US + DC, 21+, one entry per person/email/household per day. Bonus entries for visiting iHeartMayo.com and following @kewpieusa.",
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
       "id": "kewpie-japan-experience-sweepstakes-iheart",
@@ -222,14 +222,18 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-04T00:05:00-05:00",
-        "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
+        "checked_at": "2026-11-10T17:57:00-05:00",
+        "reason": "Facts come from listing sites. The promotion page loads only the site shell for the page reader, and KIIS-FM's rules list names this sweepstakes, but its rules document and the aptivada terms page did not come up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit are unconfirmed.",
         "evidence": [
-          "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes",
-          "https://www.sweepsadvantage.com/japan-sweepstakes"
+          "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
+          "https://kiisfm.iheart.com/rules/",
+          "https://www.sweepsadvantage.com/japan-sweepstakes",
+          "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
         ],
         "missing": [
-          "entry_limit_day_definition"
+          "eligibility",
+          "deadline",
+          "entry_limit"
         ]
       }
     },
@@ -3793,6 +3797,77 @@
       "source": "Claude review 2026-11-10",
       "id": "corona-football-2026-sweepstakes",
       "rules_checked": "full"
+    },
+    {
+      "name": "Coffee mate Year of Flavor Sweepstakes and Instant Win Game",
+      "prize": "5 grand prizes of groceries for a year, 100 year's supplies of Coffee mate creamer, and 700 daily instant-win Coffee mate mugs",
+      "category": "other",
+      "entry_url": "https://www.coffeematesweeps.snipp.us/",
+      "rules_url": "https://snippdocs.blob.core.windows.net/docs/Nestle/Coffee-Mate-Sweeps/sweeps-rules.pdf",
+      "match": [
+        "coffeematesweeps.snipp.us"
+      ],
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "One sweepstakes entry plus one instant-win play per day: sign in with your email and submit the form. 50 US + DC, 18+, no purchase. Ends Nov 22 at 11:59:59 PM ET. The $2 creamer coupon on the site is separate and not needed.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-10T17:57:00-05:00",
+        "reason": "The sponsor's short rules on the entry site give 50 US + DC, 18+, no purchase, one entry and one instant-win play per day and the Nov 22 11:59:59 PM ET end, but the full official rules (a snipp.us short link to a PDF) did not come up in web search or a Perplexity lookup, so they were not read.",
+        "evidence": [
+          "https://www.coffeematesweeps.snipp.us/"
+        ],
+        "missing": [
+          "full_official_rules"
+        ]
+      },
+      "added": "2026-11-10",
+      "source": "Claude review 2026-11-10",
+      "id": "coffee-mate-year-of-flavor-sweepstakes-and-instant-win-game",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "2026 MLF Bass Pro Shops Nitro Z19 Sweepstakes",
+      "prize": "A Nitro Z19 bass boat (last year's boat, trailer and Mercury motor package was valued at $52,740)",
+      "category": "other",
+      "entry_url": "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
+      "rules_url": "https://majorleaguefishing.com/promorules/",
+      "match": [
+        "gleam.io/r8CSA"
+      ],
+      "ends": "2026-11-20T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Listing site: ends Nov 20, daily entries, 18+. Last year's MLF rules allowed one entry per person per day for residents of the 48 contiguous states and DC, 18+, on Central time, so read this year's terms on the Gleam page first. MLF also shows it at majorleaguefishing.com/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes/.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-10T17:57:00-05:00",
+        "reason": "Facts come from a listing site and last year's MLF rules. The Gleam page and every majorleaguefishing.com page (rules, promo page, press release) returned client errors to the page reader, and a Perplexity lookup only found the 2025 rules, so this year's eligibility, end time and entry limit are unconfirmed.",
+        "evidence": [
+          "https://thefreebieguy.com/sweepstakes/2026-mlf-bass-pro-shops-z19-sweepstakes/",
+          "https://majorleaguefishing.com/promorules/",
+          "https://gleam.io/giveaways/r8CSA"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-10",
+      "source": "Claude review 2026-11-10",
+      "id": "2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
+      "rules_checked": "partial"
     }
   ]
 }

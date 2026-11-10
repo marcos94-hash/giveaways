@@ -424,13 +424,17 @@
       "name": "11K+ Will Win in the Bud Light x NFL Game Day Sweeps & IWG"
     },
     "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The sweepstakes page did not come up in web search, so it was not read. burstoralcare.com/pages/sweepstakes only has rules for an ended September survey sweepstakes, and its promotional terms page is for the ambassador program",
+      "last_attempt_at": "2026-11-10T17:58:11-05:00",
+      "evidence": [
+        "https://burstoralcare.com/pages/promotional-terms-of-use",
+        "https://burstoralcare.com/pages/sweepstakes"
+      ],
+      "next_retry_at": "2026-11-11T17:58:11-05:00",
+      "name": "MAGNA-TILES X Burst Kids Sweepstakes"
     },
     "https://buzzballzholiday.com/": {
       "attempts": 0,
@@ -472,27 +476,20 @@
     },
     "https://campaign.aptivada.com/terms/1923861": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
-      "status": "in_progress",
-      "decided_at": "2026-11-04",
+      "status": "listed",
+      "decided_at": "2026-11-10T17:57:26-05:00",
       "attempts": 0,
       "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
       "reason_code": "needs_rules_check",
-      "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": {
-          "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
-          "status": "listed",
-          "decided_at": "2026-11-04",
-          "attempts": 0,
-          "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
-          "reason_code": "needs_rules_check",
-          "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
-          "next_retry_at": "2026-11-07T00:30:00-05:00"
-        }
-      }
+      "reason": "Facts come from listing sites. The promotion page loads only the site shell for the page reader, and KIIS-FM's rules list names this sweepstakes, but its rules document and the aptivada terms page did not come up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit are unconfirmed.",
+      "next_retry_at": "2026-11-13T17:57:26-05:00",
+      "last_attempt_at": "2026-11-10T17:57:26-05:00",
+      "evidence": [
+        "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
+        "https://kiisfm.iheart.com/rules/",
+        "https://www.sweepsadvantage.com/japan-sweepstakes",
+        "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
+      ]
     },
     "https://campaign.aptivada.com/terms/1927140": {
       "attempts": 2,
@@ -695,31 +692,18 @@
     },
     "https://coffeematesweeps.snipp.us/": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the official rules PDF on snippdocs.blob.core.windows.net; rules not read",
-      "last_attempt_at": "2026-11-05T17:53:17-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The sponsor's short rules on the entry site give 50 US + DC, 18+, no purchase, one entry and one instant-win play per day and the Nov 22 11:59:59 PM ET end, but the full official rules (a snipp.us short link to a PDF) did not come up in web search or a Perplexity lookup, so they were not read.",
+      "last_attempt_at": "2026-11-10T17:57:25-05:00",
       "evidence": [
-        "https://snippdocs.blob.core.windows.net/docs/Nestle/Coffee-Mate-Sweeps/sweeps-rules.pdf"
+        "https://snippdocs.blob.core.windows.net/docs/Nestle/Coffee-Mate-Sweeps/sweeps-rules.pdf",
+        "https://www.coffeematesweeps.snipp.us/"
       ],
-      "next_retry_at": "2026-11-06T17:53:17-05:00",
+      "next_retry_at": "2026-11-13T17:57:25-05:00",
       "name": "100 Instantly Win Coffee Mate + $200 in The Coffee mate Year of Flavor Sweeps & IWG!",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the official rules PDF on snippdocs.blob.core.windows.net; rules not read",
-          "last_attempt_at": "2026-11-05T17:53:17-05:00",
-          "evidence": [
-            "https://snippdocs.blob.core.windows.net/docs/Nestle/Coffee-Mate-Sweeps/sweeps-rules.pdf"
-          ],
-          "next_retry_at": "2026-11-06T17:53:17-05:00",
-          "name": "100 Instantly Win Coffee Mate + $200 in The Coffee mate Year of Flavor Sweeps & IWG!"
-        }
-      }
+      "listing_id": "coffee-mate-year-of-flavor-sweepstakes-and-instant-win-game",
+      "decided_at": "2026-11-10T17:57:25-05:00"
     },
     "https://coldstonecreamery.com/sweepstakes": {
       "attempts": 0,
@@ -1599,31 +1583,20 @@
     },
     "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the Gleam page; terms not read",
-      "last_attempt_at": "2026-11-05T17:53:17-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a listing site and last year's MLF rules. The Gleam page and every majorleaguefishing.com page (rules, promo page, press release) returned client errors to the page reader, and a Perplexity lookup only found the 2025 rules, so this year's eligibility, end time and entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-10T17:57:25-05:00",
       "evidence": [
-        "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes"
+        "https://gleam.io/giveaways/r8CSA",
+        "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
+        "https://majorleaguefishing.com/promorules/",
+        "https://thefreebieguy.com/sweepstakes/2026-mlf-bass-pro-shops-z19-sweepstakes/"
       ],
-      "next_retry_at": "2026-11-06T17:53:17-05:00",
+      "next_retry_at": "2026-11-13T17:57:25-05:00",
       "name": "Win a New Boat in The 2026 MLF Bass Pro Shops Z19 Sweepstakes!!",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the Gleam page; terms not read",
-          "last_attempt_at": "2026-11-05T17:53:17-05:00",
-          "evidence": [
-            "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes"
-          ],
-          "next_retry_at": "2026-11-06T17:53:17-05:00",
-          "name": "Win a New Boat in The 2026 MLF Bass Pro Shops Z19 Sweepstakes!!"
-        }
-      }
+      "listing_id": "2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
+      "decided_at": "2026-11-10T17:57:25-05:00"
     },
     "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway": {
       "attempts": 1,
@@ -1964,12 +1937,19 @@
     "https://kiisfm.iheart.com/promotions": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
       "status": "listed",
-      "decided_at": "2026-11-04",
+      "decided_at": "2026-11-10T17:57:26-05:00",
       "attempts": 0,
       "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
       "reason_code": "needs_rules_check",
-      "reason": "Rules as quoted by listing sites (21+, one entry a day); the sponsor's rules page didn't load and the exact entry page isn't confirmed.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "reason": "Facts come from listing sites. The promotion page loads only the site shell for the page reader, and KIIS-FM's rules list names this sweepstakes, but its rules document and the aptivada terms page did not come up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit are unconfirmed.",
+      "next_retry_at": "2026-11-13T17:57:26-05:00",
+      "last_attempt_at": "2026-11-10T17:57:26-05:00",
+      "evidence": [
+        "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
+        "https://kiisfm.iheart.com/rules/",
+        "https://www.sweepsadvantage.com/japan-sweepstakes",
+        "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
+      ]
     },
     "https://kingsumo.com/g/107jyv3/win-a-vato-tuned-honda-obd1-pnp-standalone-ecu": {
       "attempts": 0,
@@ -2257,13 +2237,13 @@
       }
     },
     "https://medievaltimes.com/giveaways/thanksgiving-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-10",
-        "expires_at": "2026-11-10T20:40:59-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The giveaway page did not come up in web search (only older Medieval Times giveaway pages did), so the page reader could not open it in this unattended run, and a Perplexity lookup of medievaltimes.com and woobox.com found no Thanksgiving 2026 rules",
+      "last_attempt_at": "2026-11-10T17:58:11-05:00",
+      "next_retry_at": "2026-11-11T17:58:11-05:00",
+      "name": "Medieval Times Thanksgiving Giveaway"
     },
     "https://megamodsweeps.com/": {
       "attempts": 0,
