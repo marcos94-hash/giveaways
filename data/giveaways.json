@@ -3674,6 +3674,125 @@
       "source": "Claude review 2026-11-09",
       "id": "verus-pet-foods-dog-gift-basket-giveaway",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Hoselink Win Your Dream Garden Setup",
+      "prize": "Garden setup worth $1,715: Hoselink retractable hose reel, 2 metal raised garden beds, wall trellis, greenhouse, tool set, 12 solar path lights and a $150 Southern Living Plant Collection gift card",
+      "category": "other",
+      "entry_url": "https://www.hoselink.com/pages/win",
+      "rules_url": "https://www.hoselink.com/pages/win",
+      "match": [
+        "hoselink.com/pages/win"
+      ],
+      "ends": "2026-11-17T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "Follow @hoselinkusa on Instagram (required by the terms)",
+        "marketing": "Entering subscribes you to Hoselink USA marketing emails"
+      },
+      "notes": "One entry per person. US residents 18+, except Hawaii, Alaska and territories. The terms list two entry steps: join the Hoselink USA mailing list and follow @hoselinkusa on Instagram. SMS signup is optional and adds nothing. The page banner says 11:59pm EDT, but the terms say 23:59 ET on Nov 17. Winner drawn Nov 18.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.hoselink.com/pages/win",
+        "checked_at": "2026-11-10T17:52:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.hoselink.com/pages/win"
+        ]
+      },
+      "added": "2026-11-10",
+      "source": "Claude review 2026-11-10",
+      "id": "hoselink-win-your-dream-garden-setup",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Celebrity Reflection Daily Win Game",
+      "prize": "10 grand prizes of a 3-night Celebrity Reflection cruise for 2 with air and a hotel night (ARV $5,000 each), plus 206 daily prizes such as bags, journals and laptop sleeves ($13 to $35)",
+      "category": "trip",
+      "entry_url": "https://www.celebritycruises.com/games/reflection-daily-win",
+      "rules_url": "https://www.celebritycruises.com/content/dam/celebrity/pdf/reflection-gamification-terms-and-conditions.pdf",
+      "match": [
+        "celebritycruises.com/games/reflection-daily-win",
+        "celebritycruises.com/games/reflection-spot-the-difference"
+      ],
+      "ends": "2026-11-11T23:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Ends Nov 11 at 11:59 PM ET, so only today and tomorrow are left. 50 US + DC, 21+. One entry each Day (a Day starts 12:01 AM ET): play the optional game or skip it, then give name and email. Each friend you refer who enters adds a bonus entry. Limit 1 daily prize and 1 grand prize per person. The rules don't name the game page; the listing site linked the spot-the-difference page.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.celebritycruises.com/content/dam/celebrity/pdf/reflection-gamification-terms-and-conditions.pdf",
+        "checked_at": "2026-11-10T17:52:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.celebritycruises.com/content/dam/celebrity/pdf/reflection-gamification-terms-and-conditions.pdf",
+          "https://www.celebritycruises.com/games/reflection-daily-win"
+        ]
+      },
+      "added": "2026-11-10",
+      "source": "Claude review 2026-11-10",
+      "id": "celebrity-reflection-daily-win-game",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Corona Football 2026 Sweepstakes",
+      "prize": "100 tailgate gear bundles (folding table, cooler, games, insulated holders, cups; ARV $630 each) in monthly drawings, plus a grand prize beach watch-party trip for the winner and 5 guests with $1,000 spending money and a $5,000 tax check (max ARV $21,250)",
+      "category": "mixed",
+      "entry_url": "https://www.coronausa.com/pages/football-2026",
+      "rules_url": "https://www.coronausa.com/pages/f-or-2026",
+      "match": [
+        "coronausa.com/pages/football-2026",
+        "campaign-forms.coronausa.com/campaigns/coronausa"
+      ],
+      "ends": "2027-02-14T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "50 US + DC, 21+. One website entry per person/email per day (the rules don't define a day). Enter Now leads to an email check, then the entry form. November entries close Nov 30 at 11:59 PM ET for 17 bundles; monthly drawings continue through Feb 14, 2027. Corona's Facebook/Instagram ads give a second daily entry (not tracked here). The rules say no alcohol is awarded. One rules line says entries must arrive by Feb 17, 2027, but the promotion period ends Feb 14 at 11:59 PM ET.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.coronausa.com/pages/f-or-2026",
+        "checked_at": "2026-11-10T17:52:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.coronausa.com/pages/f-or-2026",
+          "https://www.coronausa.com/pages/football-2026"
+        ]
+      },
+      "added": "2026-11-10",
+      "source": "Claude review 2026-11-10",
+      "id": "corona-football-2026-sweepstakes",
+      "rules_checked": "full"
     }
   ]
 }
