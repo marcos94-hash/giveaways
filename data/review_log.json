@@ -1369,13 +1369,13 @@
       "name": "Cornbread Spritz Holiday Giveaway"
     },
     "https://gleam.io/LiYQ4/win-a-year-of-wild-woman-box-5-holiday-boxes-to-give?gsr=LiYQ4-pfuzVdDRl9": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page didn't come up in web search (only Wild Woman Box shop pages did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "last_attempt_at": "2026-11-11T17:59:43-05:00",
+      "next_retry_at": "2026-11-12T17:59:43-05:00",
+      "name": "Win a Year of Wild Woman Box + 5 Holiday Boxes to Give"
     },
     "https://gleam.io/Ml78w/olight-black-friday-live-reserve-win-800?gsr=Ml78w-pgwIdFCG5j": {
       "attempts": 1,
@@ -1534,13 +1534,13 @@
       "name": "The 49ers x Zenni Rewards Giveaway"
     },
     "https://gleam.io/WHRAv/attack-shark-weekly-giveaway-week-46-of-2026": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page didn't come up in web search (only other Attack Shark giveaways did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "last_attempt_at": "2026-11-11T17:59:43-05:00",
+      "next_retry_at": "2026-11-12T17:59:43-05:00",
+      "name": "ATTACK SHARK Weekly Giveaway - Week 46 of 2026"
     },
     "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
       "attempts": 1,
@@ -2173,13 +2173,13 @@
       "decided_at": "2026-11-11T17:44:49-05:00"
     },
     "https://kingsumo.com/g/3l5j761/carolina-pottery-believe-christmas-theme-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This KingSumo page and its rules page didn't come up in web search (only other KingSumo giveaways did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers). Rules not read.",
+      "last_attempt_at": "2026-11-11T17:59:43-05:00",
+      "next_retry_at": "2026-11-12T17:59:43-05:00",
+      "name": "Carolina Pottery \"Believe\" Christmas Theme Giveaway"
     },
     "https://kingsumo.com/g/3zjegw1/verus-pet-foods-dry-wet-food-giveaway": {
       "attempts": 1,
@@ -3533,22 +3533,22 @@
       ]
     },
     "https://sweepwidget.com/c/103423-m5gu8fpt": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This SweepWidget page didn't come up in web search (only other pedal giveaways did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers). Terms not read.",
+      "last_attempt_at": "2026-11-11T17:59:43-05:00",
+      "next_retry_at": "2026-11-12T17:59:43-05:00",
+      "name": "Gear Drop #4 - WIN A BOSS SUPER CHORUS PEDAL! | FREE GIVEAWAY"
     },
     "https://sweepwidget.com/c/103432-tugb5fc3/eqr448-103432": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This SweepWidget page didn't come up in web search and the listing doesn't name the sponsor, and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers). Terms not read.",
+      "last_attempt_at": "2026-11-11T17:59:43-05:00",
+      "next_retry_at": "2026-11-12T17:59:43-05:00",
+      "name": "$400 November 10-17 Week Giveaway"
     },
     "https://tablotv.com/contest": {
       "name": "Tablo Race Weekend Sweepstakes",
