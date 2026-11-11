@@ -1378,13 +1378,13 @@
       }
     },
     "https://gleam.io/Ml78w/olight-black-friday-live-reserve-win-800?gsr=Ml78w-pgwIdFCG5j": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page didn't come up in web search; the Olight blog post that did describes a different reservation draw. the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers), so this giveaway's prizes and terms weren't read.",
+      "last_attempt_at": "2026-11-11T17:59:32-05:00",
+      "next_retry_at": "2026-11-12T17:59:32-05:00",
+      "name": "Olight Black Friday Live Giveaway"
     },
     "https://gleam.io/NJ2WD/participate-in-the-event-to-win-etenwolf-prizes?gsr=NJ2WD-phUE1MxORc": {
       "attempts": 1,
@@ -1553,13 +1553,13 @@
       "decided_at": "2026-11-05T17:39:30-05:00"
     },
     "https://gleam.io/bbD7t/find-your-winter-layer-duo-giveaway?gsr=bbD7t-oFnecCz8Oq": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page didn't come up in web search, and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers), so the sponsor, the prize and the terms weren't read.",
+      "last_attempt_at": "2026-11-11T17:59:32-05:00",
+      "next_retry_at": "2026-11-12T17:59:32-05:00",
+      "name": "Camel FIND YOUR WINTER LAYER: DUO GIVEAWAY"
     },
     "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway": {
       "attempts": 2,
@@ -1627,13 +1627,13 @@
       "name": "Levoit Tower Fan giveaway"
     },
     "https://gleam.io/itHLO/soundpeats-air6-pro-new-launch-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page didn't come up in web search (only Air6 Pro reviews did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "last_attempt_at": "2026-11-11T17:59:32-05:00",
+      "next_retry_at": "2026-11-12T17:59:32-05:00",
+      "name": "SOUNDPEATS Air6 Pro| New Launch Giveaway"
     },
     "https://gleam.io/jA6ng/enter-to-win-utv-stereos-giveaway": {
       "attempts": 1,
@@ -1710,22 +1710,22 @@
       "decided_at": "2026-11-10T17:39:28-05:00"
     },
     "https://gleam.io/tliPr/bob-brads-thermored-se-massage-belt-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page didn't come up in web search (only older Bob and Brad giveaways did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "last_attempt_at": "2026-11-11T17:59:32-05:00",
+      "next_retry_at": "2026-11-12T17:59:32-05:00",
+      "name": "Bob & Brad's ThermoRed SE Massage Belt Giveaway"
     },
     "https://gleam.io/uNXog/mitra9s-ultimate-ebike-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page didn't come up in web search, and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "last_attempt_at": "2026-11-11T17:59:32-05:00",
+      "next_retry_at": "2026-11-12T17:59:32-05:00",
+      "name": "Mitra9’s Ultimate E-Bike Giveaway"
     },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 2,
