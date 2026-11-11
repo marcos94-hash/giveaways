@@ -370,13 +370,13 @@
       "name": "Win a Sports Nutrition Package from Tailwind"
     },
     "https://bobbybones.iheart.com/promotions/fontainebleau-las-vegas-oasis-ice-rink-1929326": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The iHeart promotion page didn't come up in web search (only Fontainebleau's own rink pages did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers), so the rules weren't read.",
+      "last_attempt_at": "2026-11-11T17:59:13-05:00",
+      "next_retry_at": "2026-11-12T17:59:13-05:00",
+      "name": "Fontainebleau Las Vegas Oasis Ice Rink Holiday Giveaway"
     },
     "https://bookthrone.com/post/the-cursed-heart-series": {
       "attempts": 0,
@@ -1636,13 +1636,13 @@
       }
     },
     "https://gleam.io/jA6ng/enter-to-win-utv-stereos-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page didn't come up in web search, and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "last_attempt_at": "2026-11-11T17:59:13-05:00",
+      "next_retry_at": "2026-11-12T17:59:13-05:00",
+      "name": "UTV Stereo's Giveaway"
     },
     "https://gleam.io/jjlbM/endix-elgato-giveaway?gsr=jjlbM-oNuWgV4ix4": {
       "attempts": 1,
@@ -1740,13 +1740,13 @@
       ]
     },
     "https://gleam.io/ux3AL/2026-topps-cosmic-chrome-baseball-hobby-box-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page didn't come up in web search (only shops selling the box did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "last_attempt_at": "2026-11-11T17:59:13-05:00",
+      "next_retry_at": "2026-11-12T17:59:13-05:00",
+      "name": "2026 Topps Cosmic Chrome Baseball Hobby Box Giveaway"
     },
     "https://gleam.io/wU0im/gadgetguy-eero-7-3pack-giveaway": {
       "attempts": 1,
@@ -3722,13 +3722,13 @@
       "next_retry_at": null
     },
     "https://vallon.com/en-us/pages/win-skis-competition-2026": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The VALLON ski competition page didn't come up in web search (only an older Adventure Base x VALLON competition did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers). Terms not read, so whether US residents can enter is unknown.",
+      "last_attempt_at": "2026-11-11T17:59:13-05:00",
+      "next_retry_at": "2026-11-12T17:59:13-05:00",
+      "name": "VALLON B.V. Ski Competition 2026"
     },
     "https://valpak.com/freeride": {
       "attempts": 0,
@@ -3865,13 +3865,13 @@
       "decided_at": "2026-11-04T17:39:43-05:00"
     },
     "https://wetflyswing.com/win-an-alaska-trophy-trout-fly-fishing-trip-and-gear-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Wet Fly Swing entry page didn't come up in web search (only an ended Montana trip giveaway from the same site did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers), so the rules weren't read.",
+      "last_attempt_at": "2026-11-11T17:59:13-05:00",
+      "next_retry_at": "2026-11-12T17:59:13-05:00",
+      "name": "Fly Fishing Gear Giveaway"
     },
     "https://whiteclaw.com/sweepstakes/surgetailgate": {
       "attempts": 1,
