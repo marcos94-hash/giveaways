@@ -793,27 +793,18 @@
     },
     "https://coppolaholidayoffer.com/en": {
       "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
-      "status": "in_progress",
-      "decided_at": "2026-11-04",
+      "status": "listed",
+      "decided_at": "2026-11-11T18:06:30-05:00",
       "attempts": 0,
       "listing_id": "coppola-diamond-collection-holiday-party-sweepstakes",
       "reason_code": "needs_rules_check",
-      "reason": "From listing sites (21+, US + DC except Utah, one entry); Coppola's rules weren't read.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": {
-          "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
-          "status": "listed",
-          "decided_at": "2026-11-04",
-          "attempts": 0,
-          "listing_id": "coppola-diamond-collection-holiday-party-sweepstakes",
-          "reason_code": "needs_rules_check",
-          "reason": "From listing sites (21+, US + DC except Utah, one entry); Coppola's rules weren't read.",
-          "next_retry_at": "2026-11-07T00:30:00-05:00"
-        }
-      }
+      "reason": "Rechecked Nov 11: Coppola's entry form and rules link (coppolaholidayoffer.com/en/IH6898/submission/form) didn't come up in web search, and the page reader can't open links that don't (they wait on an unanswered PROVENANCE_REQUIRED approval prompt), so the facts still come from listing sites and the end time is unknown.",
+      "next_retry_at": "2026-11-14T18:06:30-05:00",
+      "last_attempt_at": "2026-11-11T18:06:30-05:00",
+      "evidence": [
+        "https://www.sweepsadvantage.com/holiday-sweepstakes",
+        "https://www.sweepstakesbible.com/giveaways/coppola-diamond-holiday-party-sweepstakes"
+      ]
     },
     "https://cornbreadhemp.com/pages/holiday-giveaway": {
       "attempts": 1,
@@ -1174,27 +1165,18 @@
     },
     "https://foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays": {
       "name": "Food Network Home for the Holidays",
-      "status": "in_progress",
-      "decided_at": "2026-11-03",
+      "status": "listed",
+      "decided_at": "2026-11-11T18:06:30-05:00",
       "attempts": 0,
       "listing_id": "foodnetwork-home-for-holidays",
       "reason_code": "needs_rules_check",
-      "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": {
-          "name": "Food Network Home for the Holidays",
-          "status": "listed",
-          "decided_at": "2026-11-03",
-          "attempts": 0,
-          "listing_id": "foodnetwork-home-for-holidays",
-          "reason_code": "needs_rules_check",
-          "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
-          "next_retry_at": "2026-11-07T00:30:00-05:00"
-        }
-      }
+      "reason": "Rechecked Nov 11: HGTV's sweepstakes page (read again) still confirms one entry a day on each of HGTV.com and FoodNetwork.com through Jan 6, 2027 at 8:59 AM ET, but it has no Official Rules link, and web search and Perplexity didn't find the rules, so 21+ and 50 US + DC eligibility still come from listing sites.",
+      "next_retry_at": "2026-11-14T18:06:30-05:00",
+      "last_attempt_at": "2026-11-11T18:06:30-05:00",
+      "evidence": [
+        "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays",
+        "https://www.hgtv.com/sweepstakes/home-for-the-holidays"
+      ]
     },
     "https://form.jotform.com/Lectricebikes/2026-veterans-day-ebike-giveaway": {
       "attempts": 1,
@@ -1761,13 +1743,13 @@
       "name": "GadgetGuy & eero 7 3-pack giveaway"
     },
     "https://gleam.io/wl09e/a-drive-to-the-305-sweepstakes": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This Gleam page didn't come up in web search (only unrelated racing promotions did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers), so the sponsor, prize and terms weren't read.",
+      "last_attempt_at": "2026-11-11T18:06:30-05:00",
+      "next_retry_at": "2026-11-12T18:06:30-05:00",
+      "name": "A Drive to the 305 Sweepstakes"
     },
     "https://gleam.io/woiZw/giveaway-bear-nutriease-stainless-steel-all-stage-baby-food-maker": {
       "attempts": 1,
@@ -2562,36 +2544,32 @@
     "https://news.iheart.com/promotions": {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
       "status": "listed",
-      "decided_at": "2026-11-04",
+      "decided_at": "2026-11-11T18:06:30-05:00",
       "attempts": 0,
       "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
       "reason_code": "needs_rules_check",
-      "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "reason": "Rechecked Nov 11: the sweepstakes' own iHeart page and rules still didn't come up in web search (only last year's version and station Jingle Ball flyaways did), so the facts still come from listing sites; one says a free JCPenney or Aeropostale Rewards membership is required.",
+      "next_retry_at": "2026-11-14T18:06:30-05:00",
+      "last_attempt_at": "2026-11-11T18:06:30-05:00",
+      "evidence": [
+        "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
+        "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
+      ]
     },
     "https://news.iheart.com/rules": {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
-      "status": "in_progress",
-      "decided_at": "2026-11-04",
+      "status": "listed",
+      "decided_at": "2026-11-11T18:06:30-05:00",
       "attempts": 0,
       "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
       "reason_code": "needs_rules_check",
-      "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": {
-          "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
-          "status": "listed",
-          "decided_at": "2026-11-04",
-          "attempts": 0,
-          "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
-          "reason_code": "needs_rules_check",
-          "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
-          "next_retry_at": "2026-11-07T00:30:00-05:00"
-        }
-      }
+      "reason": "Rechecked Nov 11: the sweepstakes' own iHeart page and rules still didn't come up in web search (only last year's version and station Jingle Ball flyaways did), so the facts still come from listing sites; one says a free JCPenney or Aeropostale Rewards membership is required.",
+      "next_retry_at": "2026-11-14T18:06:30-05:00",
+      "last_attempt_at": "2026-11-11T18:06:30-05:00",
+      "evidence": [
+        "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
+        "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
+      ]
     },
     "https://northernrosejewelry.com/blogs/articles/giveaway": {
       "attempts": 1,
@@ -2854,27 +2832,18 @@
     },
     "https://qr.health-ade.com/c/Y3WM": {
       "name": "Health-Ade Free Groceries for a Year Giveaway",
-      "status": "in_progress",
-      "decided_at": "2026-11-04",
+      "status": "listed",
+      "decided_at": "2026-11-11T18:06:30-05:00",
       "attempts": 0,
       "listing_id": "health-ade-free-groceries-for-a-year-giveaway",
       "reason_code": "needs_rules_check",
-      "reason": "From one listing site only (50 US + DC except RI, one entry); the entry page blocks automated reading and Health-Ade's rules weren't read.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00",
-      "claim": {
-        "run": "review-2026-11-11",
-        "expires_at": "2026-11-11T20:45:31-05:00",
-        "prev": {
-          "name": "Health-Ade Free Groceries for a Year Giveaway",
-          "status": "listed",
-          "decided_at": "2026-11-04",
-          "attempts": 0,
-          "listing_id": "health-ade-free-groceries-for-a-year-giveaway",
-          "reason_code": "needs_rules_check",
-          "reason": "From one listing site only (50 US + DC except RI, one entry); the entry page blocks automated reading and Health-Ade's rules weren't read.",
-          "next_retry_at": "2026-11-07T00:30:00-05:00"
-        }
-      }
+      "reason": "Rechecked Nov 11: Health-Ade's official rules (linked at qr.health-ade.com/c/Y3WM/custom) didn't come up in web search, and the page reader can't open links that don't (they wait on an unanswered PROVENANCE_REQUIRED approval prompt), so the facts still come from listing sites.",
+      "next_retry_at": "2026-11-14T18:06:30-05:00",
+      "last_attempt_at": "2026-11-11T18:06:30-05:00",
+      "evidence": [
+        "https://www.sweepsadvantage.com/one-entry-sweepstakes.html",
+        "https://www.sweepstakesbible.com/giveaways/health-ade-free-groceries-for-a-year-2026-giveaway"
+      ]
     },
     "https://qr.health-ade.com/c/Y3WM/custom": {
       "attempts": 0,

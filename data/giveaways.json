@@ -242,7 +242,7 @@
       "prize": "$4,200 in American Express gift cards + a year of Health-Ade (ARV $4,820)",
       "category": "gift_card",
       "entry_url": "https://qr.health-ade.com/c/Y3WM",
-      "rules_url": null,
+      "rules_url": "https://qr.health-ade.com/c/Y3WM/custom",
       "rules_note": "Linked on the entry page.",
       "ends": "2026-12-07T02:59:00-05:00",
       "limit": {
@@ -251,7 +251,7 @@
       "min_age": 18,
       "rules_checked": "partial",
       "flags": {},
-      "notes": "50 US + DC except Rhode Island. One entry per person; the form asks for contact info and a short survey. Ends 11:59 PM Pacific on Dec 6.",
+      "notes": "Listing sites: 50 US + DC except Rhode Island, 18+, no purchase, one entry per person for the whole promotion (Nov 1 to Dec 6). The form asks for contact info and a short survey. End time taken as 11:59 PM Pacific on Dec 6 from a listing site.",
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
       "id": "health-ade-free-groceries-for-a-year-giveaway",
@@ -261,9 +261,10 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-04T00:05:00-05:00",
-        "reason": "From one listing site only (50 US + DC except RI, one entry); the entry page blocks automated reading and Health-Ade's rules weren't read.",
+        "checked_at": "2026-11-11T18:06:00-05:00",
+        "reason": "Rechecked Nov 11: Health-Ade's official rules (linked at qr.health-ade.com/c/Y3WM/custom) didn't come up in web search, and the page reader can't open links that don't (they wait on an unanswered PROVENANCE_REQUIRED approval prompt), so the facts still come from listing sites.",
         "evidence": [
+          "https://www.sweepstakesbible.com/giveaways/health-ade-free-groceries-for-a-year-2026-giveaway",
           "https://www.sweepsadvantage.com/one-entry-sweepstakes.html"
         ],
         "missing": [
@@ -341,8 +342,8 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-04T00:05:00-05:00",
-        "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
+        "checked_at": "2026-11-11T18:06:00-05:00",
+        "reason": "Rechecked Nov 11: the sweepstakes' own iHeart page and rules still didn't come up in web search (only last year's version and station Jingle Ball flyaways did), so the facts still come from listing sites; one says a free JCPenney or Aeropostale Rewards membership is required.",
         "evidence": [
           "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
           "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
@@ -496,7 +497,7 @@
       "flags": {
         "age21": true
       },
-      "notes": "Winery promotion: 21+, US + DC except Utah, one entry per person/email. Five winners per region.",
+      "notes": "Winery promotion, but the prizes are e-gift cards with no alcohol. Listing sites: 21+, US + DC except Utah, no purchase, one entry per person or email for the whole promotion (Nov 1 to Dec 31). Five winners per region; NJ is in Region 1 (Northeast). The form (coppolaholidayoffer.com/en/IH6898/submission/form) asks for birth date, state, name, phone and email. No end time given, so treat Dec 31 as the last day.",
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
       "id": "coppola-diamond-collection-holiday-party-sweepstakes",
@@ -506,9 +507,10 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-04T00:05:00-05:00",
-        "reason": "From listing sites (21+, US + DC except Utah, one entry); Coppola's rules weren't read.",
+        "checked_at": "2026-11-11T18:06:00-05:00",
+        "reason": "Rechecked Nov 11: Coppola's entry form and rules link (coppolaholidayoffer.com/en/IH6898/submission/form) didn't come up in web search, and the page reader can't open links that don't (they wait on an unanswered PROVENANCE_REQUIRED approval prompt), so the facts still come from listing sites and the end time is unknown.",
         "evidence": [
+          "https://www.sweepstakesbible.com/giveaways/coppola-diamond-holiday-party-sweepstakes",
           "https://www.sweepsadvantage.com/holiday-sweepstakes"
         ],
         "missing": [
@@ -708,10 +710,11 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-03",
-        "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
+        "checked_at": "2026-11-11T18:06:00-05:00",
+        "reason": "Rechecked Nov 11: HGTV's sweepstakes page (read again) still confirms one entry a day on each of HGTV.com and FoodNetwork.com through Jan 6, 2027 at 8:59 AM ET, but it has no Official Rules link, and web search and Perplexity didn't find the rules, so 21+ and 50 US + DC eligibility still come from listing sites.",
         "evidence": [
-          "https://www.hgtv.com/sweepstakes/home-for-the-holidays"
+          "https://www.hgtv.com/sweepstakes/home-for-the-holidays",
+          "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays"
         ],
         "missing": [
           "eligibility"
