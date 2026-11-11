@@ -175,12 +175,13 @@
     },
     "https://app.viralsweep.com/sweeps/full/66d2aa-240505?framed=1": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "ViralSweep page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-06T17:59:00-05:00",
-      "next_retry_at": "2026-11-07T17:59:00-05:00",
-      "name": "Bleuet Holiday Wishlist Giveaway"
+      "next_retry_at": null,
+      "name": "Bleuet Holiday Wishlist Giveaway",
+      "decided_at": "2026-11-11T17:44:49-05:00"
     },
     "https://app.viralsweep.com/sweeps/full/6a050e-237159?framed=1": {
       "attempts": 1,
@@ -322,7 +323,7 @@
     },
     "https://bigasschipotlebag.com/alternative-method-of-entry": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-04T00:59:07-05:00",
@@ -330,7 +331,7 @@
         "https://www.chipotle.com/giveaway"
       ],
       "listing_id": "chipotle-bag-sweepstakes",
-      "decided_at": "2026-11-04T00:59:07-05:00",
+      "decided_at": "2026-11-11T17:44:49-05:00",
       "next_retry_at": null
     },
     "https://bigskybrands.com/pages/contest-rules": {
@@ -367,6 +368,15 @@
       "last_attempt_at": "2026-11-07T17:58:13-05:00",
       "next_retry_at": "2026-11-08T17:58:13-05:00",
       "name": "Win a Sports Nutrition Package from Tailwind"
+    },
+    "https://bobbybones.iheart.com/promotions/fontainebleau-las-vegas-oasis-ice-rink-1929326": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
     },
     "https://bookthrone.com/post/the-cursed-heart-series": {
       "attempts": 0,
@@ -545,6 +555,15 @@
       "listing_id": "celebrity-reflection-daily-win-game",
       "decided_at": "2026-11-10T17:52:03-05:00"
     },
+    "https://celebritycruises.com/games/reflection-wave-words": {
+      "attempts": 0,
+      "name": "Celebrity Reflection Daily Win Game",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-11T17:44:49-05:00"
+    },
     "https://charlottefootballclub.com/ally-savings-bucket-sweepstakes": {
       "attempts": 0,
       "name": "Live in North or South Carolina? You Could Win $5,000 + Charlotte FC Season Tickets!",
@@ -570,7 +589,7 @@
     },
     "https://chipotle.com/giveaway": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-04T00:59:07-05:00",
@@ -578,12 +597,12 @@
         "https://www.chipotle.com/giveaway"
       ],
       "listing_id": "chipotle-bag-sweepstakes",
-      "decided_at": "2026-11-04T00:59:07-05:00",
+      "decided_at": "2026-11-11T17:44:49-05:00",
       "next_retry_at": null
     },
     "https://cloroxhomeappliances.com/giveaway-clorox-large-room-turbo-air-purifier-11090-0926": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Sponsor's giveaways page (read through a Perplexity lookup) confirms eligibility, no purchase and the end time, but the official rules page couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. The one-entry limit comes only from a listing blog.",
       "last_attempt_at": "2026-11-08T17:50:42-05:00",
@@ -592,12 +611,12 @@
         "https://www.moneysmylife.com/clorox-home-appliances-air-purifier-sweepstakes/"
       ],
       "listing_id": "clorox-home-appliances-large-room-turbo-air-purifier-giveawa",
-      "decided_at": "2026-11-08T17:50:42-05:00",
-      "next_retry_at": "2026-11-11T17:50:42-05:00"
+      "decided_at": "2026-11-11T17:44:49-05:00",
+      "next_retry_at": null
     },
     "https://cloroxhomeappliances.com/giveaways": {
       "attempts": 1,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Sponsor's giveaways page (read through a Perplexity lookup) confirms eligibility, no purchase and the end time, but the official rules page couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. The one-entry limit comes only from a listing blog.",
       "last_attempt_at": "2026-11-08T17:50:42-05:00",
@@ -605,10 +624,10 @@
         "https://cloroxhomeappliances.com/giveaways",
         "https://www.moneysmylife.com/clorox-home-appliances-air-purifier-sweepstakes/"
       ],
-      "next_retry_at": "2026-11-11T17:50:42-05:00",
+      "next_retry_at": null,
       "name": "Win a Turbo True HEPA Air Purifier from Clorox!",
       "listing_id": "clorox-home-appliances-large-room-turbo-air-purifier-giveawa",
-      "decided_at": "2026-11-08T17:50:42-05:00"
+      "decided_at": "2026-11-11T17:44:49-05:00"
     },
     "https://cloud.em.honda.com/C10357": {
       "attempts": 0,
@@ -774,13 +793,27 @@
     },
     "https://coppolaholidayoffer.com/en": {
       "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
-      "status": "listed",
+      "status": "in_progress",
       "decided_at": "2026-11-04",
       "attempts": 0,
       "listing_id": "coppola-diamond-collection-holiday-party-sweepstakes",
       "reason_code": "needs_rules_check",
       "reason": "From listing sites (21+, US + DC except Utah, one entry); Coppola's rules weren't read.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "next_retry_at": "2026-11-07T00:30:00-05:00",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": {
+          "name": "Coppola Diamond Collection Holiday Party Sweepstakes",
+          "status": "listed",
+          "decided_at": "2026-11-04",
+          "attempts": 0,
+          "listing_id": "coppola-diamond-collection-holiday-party-sweepstakes",
+          "reason_code": "needs_rules_check",
+          "reason": "From listing sites (21+, US + DC except Utah, one entry); Coppola's rules weren't read.",
+          "next_retry_at": "2026-11-07T00:30:00-05:00"
+        }
+      }
     },
     "https://cornbreadhemp.com/pages/holiday-giveaway": {
       "attempts": 1,
@@ -1141,13 +1174,27 @@
     },
     "https://foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays": {
       "name": "Food Network Home for the Holidays",
-      "status": "listed",
+      "status": "in_progress",
       "decided_at": "2026-11-03",
       "attempts": 0,
       "listing_id": "foodnetwork-home-for-holidays",
       "reason_code": "needs_rules_check",
       "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "next_retry_at": "2026-11-07T00:30:00-05:00",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": {
+          "name": "Food Network Home for the Holidays",
+          "status": "listed",
+          "decided_at": "2026-11-03",
+          "attempts": 0,
+          "listing_id": "foodnetwork-home-for-holidays",
+          "reason_code": "needs_rules_check",
+          "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
+          "next_retry_at": "2026-11-07T00:30:00-05:00"
+        }
+      }
     },
     "https://form.jotform.com/Lectricebikes/2026-veterans-day-ebike-giveaway": {
       "attempts": 1,
@@ -1281,6 +1328,19 @@
         "https://gleam.io/EEb9t/giveaway-elfie-the-owl-bundle"
       ]
     },
+    "https://gleam.io/FOZj9/free-lat-trigger?gsr=FOZj9-pa0Aoi29Hn": {
+      "attempts": 0,
+      "status": "rejected",
+      "reason_code": "excluded_prize",
+      "reason": "The prize is a LAT rifle trigger from AR Takedown Tool, a firearm part, so it falls under the firearms exclusion; entry process not researched.",
+      "last_attempt_at": "2026-11-11T17:55:23-05:00",
+      "evidence": [
+        "https://gun.deals/product/lat-%E2%80%94-triggered-company-3-position-frt-service-rifle-match-grade-artakedowntoolcom-free-ambi"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-11T17:55:23-05:00",
+      "name": "Artakedowntool LAT Trigger Giveaway"
+    },
     "https://gleam.io/KSc7B/vippori-giveaway": {
       "attempts": 1,
       "status": "ended",
@@ -1307,6 +1367,24 @@
       "next_retry_at": null,
       "decided_at": "2026-11-09T18:11:10-05:00",
       "name": "Cornbread Spritz Holiday Giveaway"
+    },
+    "https://gleam.io/LiYQ4/win-a-year-of-wild-woman-box-5-holiday-boxes-to-give?gsr=LiYQ4-pfuzVdDRl9": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
+    },
+    "https://gleam.io/Ml78w/olight-black-friday-live-reserve-win-800?gsr=Ml78w-pgwIdFCG5j": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/NJ2WD/participate-in-the-event-to-win-etenwolf-prizes?gsr=NJ2WD-phUE1MxORc": {
       "attempts": 1,
@@ -1455,6 +1533,15 @@
       "next_retry_at": "2026-11-09T17:51:21-05:00",
       "name": "The 49ers x Zenni Rewards Giveaway"
     },
+    "https://gleam.io/WHRAv/attack-shark-weekly-giveaway-week-46-of-2026": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
       "attempts": 1,
       "status": "ended",
@@ -1464,6 +1551,15 @@
       "next_retry_at": null,
       "name": "win a golden Logitech G ASTRO Headset",
       "decided_at": "2026-11-05T17:39:30-05:00"
+    },
+    "https://gleam.io/bbD7t/find-your-winter-layer-duo-giveaway?gsr=bbD7t-oFnecCz8Oq": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/c26Rj/a-bookshop-for-christmas-blog-tour-giveaway": {
       "attempts": 2,
@@ -1530,6 +1626,24 @@
       "decided_at": "2026-11-09T18:11:10-05:00",
       "name": "Levoit Tower Fan giveaway"
     },
+    "https://gleam.io/itHLO/soundpeats-air6-pro-new-launch-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
+    },
+    "https://gleam.io/jA6ng/enter-to-win-utv-stereos-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/jjlbM/endix-elgato-giveaway?gsr=jjlbM-oNuWgV4ix4": {
       "attempts": 1,
       "status": "ended",
@@ -1595,6 +1709,24 @@
       "name": "Gusto TV Dinner in Paris Giveaway",
       "decided_at": "2026-11-10T17:39:28-05:00"
     },
+    "https://gleam.io/tliPr/bob-brads-thermored-se-massage-belt-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
+    },
+    "https://gleam.io/uNXog/mitra9s-ultimate-ebike-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 2,
       "status": "blocked",
@@ -1607,6 +1739,15 @@
         "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more"
       ]
     },
+    "https://gleam.io/ux3AL/2026-topps-cosmic-chrome-baseball-hobby-box-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/wU0im/gadgetguy-eero-7-3pack-giveaway": {
       "attempts": 1,
       "status": "blocked",
@@ -1618,6 +1759,15 @@
       ],
       "next_retry_at": "2026-11-09T17:51:23-05:00",
       "name": "GadgetGuy & eero 7 3-pack giveaway"
+    },
+    "https://gleam.io/wl09e/a-drive-to-the-305-sweepstakes": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/woiZw/giveaway-bear-nutriease-stainless-steel-all-stage-baby-food-maker": {
       "attempts": 1,
@@ -2009,7 +2159,7 @@
     },
     "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway": {
       "attempts": 1,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Facts come from one listing site, which also contradicts itself on the winner date. The KingSumo page and its rules didn't come up in web search, so they weren't readable in this unattended run.",
       "last_attempt_at": "2026-11-09T18:15:14-05:00",
@@ -2017,10 +2167,19 @@
         "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway",
         "https://sweepsadvantage.com/search.php?keyword=dog"
       ],
-      "next_retry_at": "2026-11-12T18:15:14-05:00",
+      "next_retry_at": null,
       "name": "VeRUS Pet Foods Dog Gift Basket Giveaway",
       "listing_id": "verus-pet-foods-dog-gift-basket-giveaway",
-      "decided_at": "2026-11-09T18:15:14-05:00"
+      "decided_at": "2026-11-11T17:44:49-05:00"
+    },
+    "https://kingsumo.com/g/3l5j761/carolina-pottery-believe-christmas-theme-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
     },
     "https://kingsumo.com/g/3zjegw1/verus-pet-foods-dry-wet-food-giveaway": {
       "attempts": 1,
@@ -2111,7 +2270,7 @@
     },
     "https://liqui-moly.com/en/us/service/sema-aapex-2026.html": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-07T17:53:26-05:00",
@@ -2120,7 +2279,7 @@
         "https://www.liqui-moly.com/en/ca/service/sema-aapex-2026/official-liqui-moly-usa-sweepstakes-rules.html"
       ],
       "listing_id": "liqui-moly-usa-foosball-table-giveaway",
-      "decided_at": "2026-11-07T17:53:26-05:00",
+      "decided_at": "2026-11-11T17:44:49-05:00",
       "next_retry_at": null
     },
     "https://livenation.com/jerseymikes": {
@@ -2412,13 +2571,27 @@
     },
     "https://news.iheart.com/rules": {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
-      "status": "listed",
+      "status": "in_progress",
       "decided_at": "2026-11-04",
       "attempts": 0,
       "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
       "reason_code": "needs_rules_check",
       "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "next_retry_at": "2026-11-07T00:30:00-05:00",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": {
+          "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
+          "status": "listed",
+          "decided_at": "2026-11-04",
+          "attempts": 0,
+          "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
+          "reason_code": "needs_rules_check",
+          "reason": "Rules as quoted by listing sites; one site says a free JCPenney or Aeropostale Rewards membership is required, and the exact entry page isn't confirmed.",
+          "next_retry_at": "2026-11-07T00:30:00-05:00"
+        }
+      }
     },
     "https://northernrosejewelry.com/blogs/articles/giveaway": {
       "attempts": 1,
@@ -2681,13 +2854,27 @@
     },
     "https://qr.health-ade.com/c/Y3WM": {
       "name": "Health-Ade Free Groceries for a Year Giveaway",
-      "status": "listed",
+      "status": "in_progress",
       "decided_at": "2026-11-04",
       "attempts": 0,
       "listing_id": "health-ade-free-groceries-for-a-year-giveaway",
       "reason_code": "needs_rules_check",
       "reason": "From one listing site only (50 US + DC except RI, one entry); the entry page blocks automated reading and Health-Ade's rules weren't read.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "next_retry_at": "2026-11-07T00:30:00-05:00",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": {
+          "name": "Health-Ade Free Groceries for a Year Giveaway",
+          "status": "listed",
+          "decided_at": "2026-11-04",
+          "attempts": 0,
+          "listing_id": "health-ade-free-groceries-for-a-year-giveaway",
+          "reason_code": "needs_rules_check",
+          "reason": "From one listing site only (50 US + DC except RI, one entry); the entry page blocks automated reading and Health-Ade's rules weren't read.",
+          "next_retry_at": "2026-11-07T00:30:00-05:00"
+        }
+      }
     },
     "https://qr.health-ade.com/c/Y3WM/custom": {
       "attempts": 0,
@@ -3277,16 +3464,17 @@
     },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
       "attempts": 3,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The SweepWidget page didn't come up in web search, so its rules weren't read. Samantha Brown's site says the rules are on the giveaway page, reached from her Instagram link in bio; two winners get her ten-item holiday travel collection; no end date or eligibility was found.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-09T18:15:33-05:00",
-      "next_retry_at": "2026-11-13T18:15:33-05:00",
+      "next_retry_at": null,
       "name": "Samantha Brown Holiday Collection Giveaway",
       "evidence": [
         "https://samantha-brown.com/",
         "https://sweepwidget.com/c/103203-zj5pi0v7"
-      ]
+      ],
+      "decided_at": "2026-11-11T17:44:49-05:00"
     },
     "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232": {
       "attempts": 2,
@@ -3344,6 +3532,24 @@
         "https://sweepwidget.com/c/103277-vtmslewf"
       ]
     },
+    "https://sweepwidget.com/c/103423-m5gu8fpt": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
+    },
+    "https://sweepwidget.com/c/103432-tugb5fc3/eqr448-103432": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
+    },
     "https://tablotv.com/contest": {
       "name": "Tablo Race Weekend Sweepstakes",
       "status": "rejected",
@@ -3363,12 +3569,17 @@
     "https://takeflightwithpepsi.com/": {
       "name": "Take Flight with Pepsi Sweepstakes",
       "status": "listed",
-      "decided_at": "2026-11-04",
+      "decided_at": "2026-11-11T17:56:59-05:00",
       "attempts": 0,
       "listing_id": "take-flight-with-pepsi-sweepstakes",
       "reason_code": "needs_rules_check",
-      "reason": "Rules as quoted by listing sites (50 US + DC, 18+, one entry a day); Pepsi's own rules not read and the exact end time is unknown.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "reason": "The sponsor's short rules on takeflightwithpepsi.com (read through a Perplexity page extract) give 50 US + DC, 18+ (19 in AL and NE), no purchase, one entry per person per day and the Jan 10, 2027 11:59:59 PM ET end, but the full Official Rules didn't come up in web search or Perplexity, so the day definition and other terms are unconfirmed.",
+      "next_retry_at": "2026-11-14T17:56:59-05:00",
+      "last_attempt_at": "2026-11-11T17:56:59-05:00",
+      "evidence": [
+        "https://takeflightwithpepsi.com/",
+        "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes"
+      ]
     },
     "https://thechasefordpromo.nascar.com/": {
       "attempts": 1,
@@ -3447,22 +3658,30 @@
     "https://uncapstars.starbucks.com/": {
       "name": "Starbucks Uncap, Scan & Win (free daily play)",
       "status": "listed",
-      "decided_at": "2026-11-04",
+      "decided_at": "2026-11-11T17:55:17-05:00",
       "attempts": 0,
       "listing_id": "starbucks-uncap-scan-win-free-daily-play",
-      "reason_code": "needs_rules_check",
-      "reason": "Rules as quoted by listing sites (free daily play with Starbucks Rewards); the official rules on starbucks.promo.eprize.com weren't read and the day boundary is assumed Pacific.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null,
+      "last_attempt_at": "2026-11-11T17:55:17-05:00",
+      "evidence": [
+        "https://starbucks.promo.eprize.com/uncapscanwin2026/public/fulfillment/rules.pdf"
+      ]
     },
     "https://uncapstars.starbucks.com/landing": {
       "name": "Starbucks Uncap, Scan & Win (free daily play)",
       "status": "listed",
-      "decided_at": "2026-11-04",
+      "decided_at": "2026-11-11T17:55:17-05:00",
       "attempts": 0,
       "listing_id": "starbucks-uncap-scan-win-free-daily-play",
-      "reason_code": "needs_rules_check",
-      "reason": "Rules as quoted by listing sites (free daily play with Starbucks Rewards); the official rules on starbucks.promo.eprize.com weren't read and the day boundary is assumed Pacific.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null,
+      "last_attempt_at": "2026-11-11T17:55:17-05:00",
+      "evidence": [
+        "https://starbucks.promo.eprize.com/uncapscanwin2026/public/fulfillment/rules.pdf"
+      ]
     },
     "https://upgradedpoints.com/news/universal-giveaway-2026": {
       "name": "Upgraded Points Universal Orlando Trip",
@@ -3501,6 +3720,15 @@
       "listing_id": "peppermayo-pm-insider-giveaway-van-cleef-arpels-necklace",
       "decided_at": "2026-11-04T12:04:19-05:00",
       "next_retry_at": null
+    },
+    "https://vallon.com/en-us/pages/win-skis-competition-2026": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
     },
     "https://valpak.com/freeride": {
       "attempts": 0,
@@ -3562,12 +3790,17 @@
     "https://verymerrygiveaway.hallmarkchannel.com/": {
       "name": "Hallmark Very Merry Giveaway",
       "status": "listed",
-      "decided_at": "2026-11-03",
+      "decided_at": "2026-11-11T17:56:59-05:00",
       "attempts": 0,
       "listing_id": "hallmark-very-merry",
-      "reason_code": "needs_rules_check",
-      "reason": "The Official Rules document wasn't read. Hallmark's own prize page states 21+, the 50 states/DC/PR, no purchase and Oct 16 to Dec 25 ET; the daily limit is from Hallmark's FAQ and listing sites.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null,
+      "last_attempt_at": "2026-11-11T17:56:59-05:00",
+      "evidence": [
+        "https://verymerrygiveaway.hallmarkchannel.com/",
+        "https://verymerrygiveaway.hallmarkchannel.com/rules"
+      ]
     },
     "https://weatherby.com/diehard-waterfowl-giveaway": {
       "attempts": 0,
@@ -3630,6 +3863,15 @@
       "reason": "ended before it could be verified",
       "next_retry_at": null,
       "decided_at": "2026-11-04T17:39:43-05:00"
+    },
+    "https://wetflyswing.com/win-an-alaska-trophy-trout-fly-fishing-trip-and-gear-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-11",
+        "expires_at": "2026-11-11T20:45:31-05:00",
+        "prev": null
+      }
     },
     "https://whiteclaw.com/sweepstakes/surgetailgate": {
       "attempts": 1,

@@ -398,10 +398,10 @@
     {
       "id": "hallmark-very-merry",
       "name": "Hallmark Very Merry Giveaway",
-      "prize": "103 daily prizes (incl. $1,000 and $500 prepaid cards, $100 IKEA cards) + Europe tour and $1,000 check",
+      "prize": "103 daily prizes (incl. $1,000 and $500 prepaid cards, $100 IKEA cards) + Collette Christmas Markets tour for two",
       "category": "mixed",
       "entry_url": "https://verymerrygiveaway.hallmarkchannel.com/",
-      "rules_url": null,
+      "rules_url": "https://verymerrygiveaway.hallmarkchannel.com/rules",
       "rules_note": "Linked as Official Rules on the entry page.",
       "match": [
         "verymerrygiveaway.hallmarkchannel.com"
@@ -415,26 +415,29 @@
       },
       "flags": {
         "age21": true,
-        "account": "Registration form on your first entry"
+        "account": "Registration form on your first entry; you stay signed in after that"
       },
-      "notes": "Each day's prize stays open until Dec 25. The $1,000 prepaid card prize opens about Nov 8.",
+      "notes": "Sponsor Hallmark Media. 50 US + DC + PR, 21+, free entry on the site. Each day you can enter every open daily prize page once (past days' prizes stay open until Dec 25), with 1 grand prize entry a day. Double Entry Days left: Nov 19, Nov 25, Nov 28, Dec 7, Dec 16, Dec 25. Extra grand prize entries for watching movie previews (1 per preview per week) and for 10-day and 70-day entry streaks. Days run 12:00 AM to 11:59:59 PM ET. Ends Dec 25 at 11:59:59 PM ET.",
       "day_note": "Entry periods start at 12:00 AM ET.",
-      "rules_checked": "partial",
+      "rules_checked": "full",
       "min_age": 21,
       "added": "2026-11-03",
       "source": "Claude review 2026-11-03",
       "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-03",
-        "reason": "The Official Rules document wasn't read. Hallmark's own prize page states 21+, the 50 states/DC/PR, no purchase and Oct 16 to Dec 25 ET; the daily limit is from Hallmark's FAQ and listing sites.",
+        "status": "verified",
+        "rules_source": "https://verymerrygiveaway.hallmarkchannel.com/rules",
+        "checked_at": "2026-11-11T18:05:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
         "evidence": [
-          "https://verymerrygiveaway.hallmarkchannel.com/all-prizes/OCT29-NOV09",
-          "https://www.hallmarkchannel.com/christmas/about-the-hallmark-channel-very-merry-giveaway-sweepstakes"
+          "https://verymerrygiveaway.hallmarkchannel.com/rules",
+          "https://verymerrygiveaway.hallmarkchannel.com/"
         ],
-        "missing": [
-          "entry_limit"
-        ]
+        "read_via": "Perplexity page extract of the official rules page (sections 1 to 3: period, eligibility, entry methods and limits); the page reader itself couldn't open it"
       }
     },
     {
@@ -559,38 +562,36 @@
       "prize": "4 x Starbucks for a Year ($3,935 each) + 300,500 instant prizes (Stars, drink and bakery coupons)",
       "category": "gift_card",
       "entry_url": "https://uncapstars.starbucks.com/",
-      "rules_url": null,
+      "rules_url": "https://starbucks.promo.eprize.com/uncapscanwin2026/public/fulfillment/rules.pdf",
       "rules_note": "Linked on the entry page.",
       "match": [
         "uncapstars.starbucks.com"
       ],
       "ends": "2027-01-01T02:59:00-05:00",
       "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/Los_Angeles",
-        "reset_hour": 0
+        "type": "rolling24"
       },
       "min_age": 18,
-      "rules_checked": "partial",
+      "rules_checked": "full",
       "flags": {
-        "account": "Starbucks Rewards account (free)"
+        "account": "Starbucks Rewards account (free): sign in and agree to the rules before playing"
       },
-      "notes": "No purchase needed: sign in at the site and play once a day. Losing plays become grand prize entries. Ends 11:59 PM Pacific on Dec 31. Day boundary assumed Pacific time.",
+      "notes": "No purchase needed: go to uncapstars.starbucks.com, sign in to Starbucks Rewards and play once a day. Each play wins an instant prize or becomes one entry in the Starbucks for a Year drawing (around Jan 4, 2027). The rules say 1 play per day but don't define the day, so wait 24 hours between plays. 50 US + DC, 18+. Ends 11:59 PM PT on Dec 31.",
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
       "id": "starbucks-uncap-scan-win-free-daily-play",
       "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-04T00:05:00-05:00",
-        "reason": "Rules as quoted by listing sites (free daily play with Starbucks Rewards); the official rules on starbucks.promo.eprize.com weren't read and the day boundary is assumed Pacific.",
+        "status": "verified",
+        "rules_source": "https://starbucks.promo.eprize.com/uncapscanwin2026/public/fulfillment/rules.pdf",
+        "checked_at": "2026-11-11T17:55:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
         "evidence": [
-          "https://www.sweepstakesbible.com/giveaways/starbucks-uncap-scan-win-2026-sweepstakes",
-          "https://perksensei.com/latest/starbucks-uncap-scan-win-2026-11"
-        ],
-        "missing": [
-          "entry_limit_day_definition"
+          "https://starbucks.promo.eprize.com/uncapscanwin2026/public/fulfillment/rules.pdf"
         ]
       }
     },
@@ -727,14 +728,14 @@
       "entry_url": "https://takeflightwithpepsi.com/",
       "rules_url": null,
       "rules_note": "Linked on the entry page.",
-      "ends": "2027-01-10T23:59:00-05:00",
+      "ends": "2027-01-10T23:59:59-05:00",
       "limit": {
         "type": "rolling24"
       },
       "min_age": 18,
       "rules_checked": "partial",
       "flags": {},
-      "notes": "Rules (as quoted by listing sites): 50 US + DC, 18+, one daily entry per person per day. Weekly prizes, so start early. Check the exact end time in the rules.",
+      "notes": "Sponsor's short rules: 50 US + DC, 18+ (19+ in AL and NE), no purchase, one entry per person per day, Oct 26, 2026 to Jan 10, 2027 at 11:59:59 PM ET. Multiple entry periods with weekly prizes ($200 NFLShop e-gift cards or JetBlue certificate pairs), so entering early covers more drawings.",
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
       "id": "take-flight-with-pepsi-sweepstakes",
@@ -744,15 +745,14 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-04T00:05:00-05:00",
-        "reason": "Rules as quoted by listing sites (50 US + DC, 18+, one entry a day); Pepsi's own rules not read and the exact end time is unknown.",
+        "checked_at": "2026-11-11T18:05:00-05:00",
+        "reason": "The sponsor's short rules on takeflightwithpepsi.com (read through a Perplexity page extract) give 50 US + DC, 18+ (19 in AL and NE), no purchase, one entry per person per day and the Jan 10, 2027 11:59:59 PM ET end, but the full Official Rules didn't come up in web search or Perplexity, so the day definition and other terms are unconfirmed.",
         "evidence": [
-          "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes",
-          "https://www.freestufftimes.com/contests/30/take-flight-with-pepsi-sweepstakes/"
+          "https://takeflightwithpepsi.com/",
+          "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes"
         ],
         "missing": [
-          "deadline_time",
-          "entry_limit_day_definition"
+          "full_official_rules"
         ]
       }
     },
@@ -861,43 +861,6 @@
           "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules"
         ]
       }
-    },
-    {
-      "name": "Chipotle Bag Sweepstakes",
-      "prize": "8,000 oversized Chipotle bags (ARV $30 each), 2,000 per weekly drawing",
-      "category": "other",
-      "entry_url": "https://www.bigasschipotlebag.com/alternative-method-of-entry",
-      "rules_url": "https://www.chipotle.com/giveaway",
-      "match": [
-        "bigasschipotlebag.com/alternative-method-of-entry"
-      ],
-      "ends": "2026-11-11T02:59:00-05:00",
-      "limit": {
-        "type": "rolling24"
-      },
-      "min_age": 18,
-      "flags": {
-        "account": "Chipotle Rewards membership (free); create it yourself"
-      },
-      "notes": "Free entry form requires a Chipotle Rewards membership (free; create it yourself). Form asks for name, email and month/year of birth. Open to the 50 states and DC. One entry per person per day by any method; the rules don't define the day (the sponsor's database clock is the timekeeper), so this waits 24 hours between entries. Four weekly drawings, so entering early gives more chances. The purchase route (Family Meal) isn't needed.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.chipotle.com/giveaway",
-        "checked_at": "2026-11-04T01:00:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://www.chipotle.com/giveaway"
-        ]
-      },
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "chipotle-bag-sweepstakes",
-      "rules_checked": "full"
     },
     {
       "name": "Nokian Tyres Virtual Green Tire Giveaway",
@@ -2672,43 +2635,6 @@
       "rules_checked": "partial"
     },
     {
-      "name": "LIQUI MOLY USA Foosball Table Giveaway",
-      "prize": "LIQUI MOLY foosball table (ARV $1,499), 1 winner",
-      "category": "other",
-      "entry_url": "https://www.liqui-moly.com/en/us/service/sema-aapex-2026.html",
-      "rules_url": "https://www.liqui-moly.com/en/ca/service/sema-aapex-2026/official-liqui-moly-usa-sweepstakes-rules.html",
-      "match": [
-        "liqui-moly.com/en/us/service/sema-aapex-2026.html"
-      ],
-      "starts": "2026-11-03T03:00:00-05:00",
-      "ends": "2026-11-11T02:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Sponsor LIQUI MOLY USA Inc. Open to US and DC residents 18+, except Alaska, Hawaii and Rhode Island (NJ is in). No purchase: one online form with name, address, email and a few questions. One entry per person for the whole period, which ends 11:59 PM PT Nov 10. One winner, drawn about Nov 13. The rules page read sits under the site's /en/ca/ path but is the US rules and names the /en/us/ entry page.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.liqui-moly.com/en/ca/service/sema-aapex-2026/official-liqui-moly-usa-sweepstakes-rules.html",
-        "checked_at": "2026-11-07T17:48:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://www.liqui-moly.com/en/ca/service/sema-aapex-2026/official-liqui-moly-usa-sweepstakes-rules.html",
-          "https://www.liqui-moly.com/en/ca/service/sema-aapex-2026.html"
-        ]
-      },
-      "added": "2026-11-07",
-      "source": "Claude review 2026-11-07",
-      "id": "liqui-moly-usa-foosball-table-giveaway",
-      "rules_checked": "full"
-    },
-    {
       "name": "Modelo College Football Playoff 2026 Sweepstakes",
       "prize": "Grand prize: trip for two to the 2028 CFP National Championship (ARV about $7,245). Also 5 bowl trips for two and about 275 fan packs (per a listing site)",
       "category": "trip",
@@ -3042,40 +2968,6 @@
       "added": "2026-11-08",
       "source": "Claude review 2026-11-08",
       "id": "arm-hammer-legoland-trip-sweepstakes",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "Clorox Home Appliances Large Room Turbo Air Purifier Giveaway",
-      "prize": "One Clorox Home Appliances Large Room Turbo True HEPA Air Purifier, model 11090 (ARV $129.99)",
-      "category": "other",
-      "entry_url": "https://cloroxhomeappliances.com/giveaway-clorox-large-room-turbo-air-purifier-11090-0926",
-      "rules_url": "https://cloroxhomeappliances.com/giveaway-rules-clorox-large-room-turbo-air-purifier-11090-0926",
-      "match": [
-        "cloroxhomeappliances.com/giveaway-clorox-large-room-turbo-air-purifier-11090-0926"
-      ],
-      "ends": "2026-11-11T09:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Sponsored by Hamilton Beach Brands. Sponsor's giveaways page: no purchase necessary, 18+, 50 states and DC, ends 9:59 AM ET Nov 11, 2026. One entry per entrant comes from a third-party blog that quotes the rules; check the official rules to confirm.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-08T17:55:00-05:00",
-        "reason": "Sponsor's giveaways page (read through a Perplexity lookup) confirms eligibility, no purchase and the end time, but the official rules page couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. The one-entry limit comes only from a listing blog.",
-        "evidence": [
-          "https://cloroxhomeappliances.com/giveaways",
-          "https://www.moneysmylife.com/clorox-home-appliances-air-purifier-sweepstakes/"
-        ],
-        "missing": [
-          "entry_limit"
-        ]
-      },
-      "added": "2026-11-08",
-      "source": "Claude review 2026-11-08",
-      "id": "clorox-home-appliances-large-room-turbo-air-purifier-giveawa",
       "rules_checked": "partial"
     },
     {
@@ -3638,45 +3530,6 @@
       "added": "2026-11-09",
       "source": "Claude review 2026-11-09",
       "id": "produce-like-a-pro-audeze-lcd-s20-giveaway",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "VeRUS Pet Foods Dog Gift Basket Giveaway",
-      "prize": "VeRUS dog gift basket (about $200)",
-      "category": "other",
-      "entry_url": "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway",
-      "rules_url": null,
-      "match": [
-        "kingsumo.com/g/3ee9qw3"
-      ],
-      "ends": "2026-11-10T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "follow": "A listing site says the steps include following VeRUS Pet Foods and sharing the post; on KingSumo these are usually bonus actions."
-      },
-      "notes": "From one listing site: open to the US, 18+, ends 11:59 PM ET Nov 10, sign up with email on the KingSumo page. The listing also says daily entries, which is unusual for KingSumo, so enter once.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-09T18:30:00-05:00",
-        "reason": "Facts come from one listing site, which also contradicts itself on the winner date. The KingSumo page and its rules didn't come up in web search, so they weren't readable in this unattended run.",
-        "evidence": [
-          "https://sweepsadvantage.com/search.php?keyword=dog",
-          "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway"
-        ],
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "verus-pet-foods-dog-gift-basket-giveaway",
       "rules_checked": "partial"
     },
     {
