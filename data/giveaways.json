@@ -122,43 +122,39 @@
     {
       "id": "bestbuy-store-speedrun",
       "name": "Best Buy Store Speedrun Sweepstakes",
-      "prize": "$20k tech run, 20 HP OMEN laptops, 100 x $50 certificates",
+      "prize": "Grand prize trip to Minnesota with a Best Buy store speedrun of up to $20,000 in items (ARV $30,000); 20 HP OMEN 16 gaming laptops ($2,600 each); 100 $50 My Best Buy certificates",
       "category": "electronics",
       "entry_url": "https://www.bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes/pcmcat1789139942121.c?id=pcmcat1789139942121",
-      "rules_url": null,
+      "rules_url": "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf",
       "rules_note": "On the entry page.",
       "match": [
         "bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes"
       ],
       "ends": "2026-12-01T00:59:00-05:00",
       "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/Chicago",
-        "reset_hour": 0
+        "type": "rolling24"
       },
       "flags": {
-        "account": "Free My Best Buy account (paid tiers get 4 a day; not needed)"
+        "account": "Online entry needs a My Best Buy member profile (the free tier gets 1 online entry a day; paid tiers get 4, not needed)"
       },
-      "notes": "Mail-in entry also allowed.",
-      "day_note": "Day boundary inferred from the 11:59 PM CT deadline.",
-      "rules_checked": "partial",
+      "notes": "Open to the 50 states, DC and PR, 18+. Free members get one online entry a day; the rules cap everyone at 4 a day across online and mail-in. One prize per household. Winners of a Best Buy sweepstakes in the last 6 months can't win. Ends Nov 30, 11:59 PM CT.",
+      "day_note": "The rules limit entries per day but don't say when a day starts, so this waits a full 24 hours between entries.",
+      "rules_checked": "full",
       "min_age": 18,
       "added": "2026-11-03",
       "source": "Claude review 2026-11-03",
       "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-03",
-        "reason": "Details come from listing sites. Best Buy's official rules PDF was found by the Mac mini but not read yet.",
+        "status": "verified",
+        "rules_source": "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf",
+        "checked_at": "2026-11-12T17:48:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
         "evidence": [
           "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf"
-        ],
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
         ]
       }
     },
@@ -186,14 +182,17 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-03",
-        "reason": "Valpak's rules page blocks automated reading. Dates and 18+ come from Valpak's entry page; the end time and daily limit come from listing sites.",
+        "checked_at": "2026-11-12T17:53:00-05:00",
+        "reason": "The rules link on Valpak's holiday page (valpak.com/holiday?rules=true) still serves the 2024 $10,000 Food Network Sweepstakes rules, which ended Dec 6, 2024, so this year's Holiday Haul rules weren't found. Dates and 18+ come from Valpak's entry page; the end time and daily limit come from listing sites.",
         "evidence": [
-          "https://www.valpak.com/holiday"
+          "https://www.valpak.com/holiday",
+          "https://valpak.com/holiday?rules=true"
         ],
         "missing": [
-          "entry_limit",
-          "deadline_time"
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
         ]
       }
     },
@@ -1015,7 +1014,7 @@
       "prize": "100,000 American Airlines AAdvantage miles",
       "category": "trip",
       "entry_url": "https://www.rangersperks.com/",
-      "rules_url": null,
+      "rules_url": "https://rules.gselive.com/49a748b6-8c11-40e2-8956-45edd570dab5",
       "ends": "2026-11-30T23:59:00-05:00",
       "limit": {
         "type": "once"
@@ -1028,12 +1027,12 @@
       "notes": "Other sweepstakes on the same site are limited to people within 150 miles of Globe Life Field (Texas); this one says all fans 21+. Check the rules link on the page before entering.",
       "verification": {
         "status": "needs_rules_check",
-        "rules_source": "https://www.rangersperks.com/",
-        "checked_at": "2026-11-04T01:30-05:00",
+        "rules_source": null,
+        "checked_at": "2026-11-12T17:53:00-05:00",
+        "reason": "American Airlines' page says the miles sweepstakes is open to all fans 21+ through Nov 30, 2026, no purchase necessary, AAdvantage membership required, and invites daily entries site-wide. Its official rules on rules.gselive.com didn't come up in web search, so the page reader couldn't open them; end time, state eligibility and the entry limit aren't confirmed.",
         "evidence": [
           "https://www.rangersperks.com/"
         ],
-        "reason": "Sponsor page (American Airlines) says the miles sweepstakes is open to fans 21+ through Nov 30, 2026, no purchase necessary, AAdvantage membership required; its separate official rules weren't read, so end time, state eligibility and entry limit aren't confirmed.",
         "missing": [
           "eligibility",
           "deadline",
@@ -3574,48 +3573,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "Celebrity Reflection Daily Win Game",
-      "prize": "10 grand prizes of a 3-night Celebrity Reflection cruise for 2 with air and a hotel night (ARV $5,000 each), plus 206 daily prizes such as bags, journals and laptop sleeves ($13 to $35)",
-      "category": "trip",
-      "entry_url": "https://www.celebritycruises.com/games/reflection-daily-win",
-      "rules_url": "https://www.celebritycruises.com/content/dam/celebrity/pdf/reflection-gamification-terms-and-conditions.pdf",
-      "match": [
-        "celebritycruises.com/games/reflection-daily-win",
-        "celebritycruises.com/games/reflection-spot-the-difference"
-      ],
-      "ends": "2026-11-11T23:59:00-05:00",
-      "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/New_York",
-        "reset_hour": 0
-      },
-      "min_age": 21,
-      "flags": {
-        "age21": true
-      },
-      "notes": "Ends Nov 11 at 11:59 PM ET, so only today and tomorrow are left. 50 US + DC, 21+. One entry each Day (a Day starts 12:01 AM ET): play the optional game or skip it, then give name and email. Each friend you refer who enters adds a bonus entry. Limit 1 daily prize and 1 grand prize per person. The rules don't name the game page; the listing site linked the spot-the-difference page.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.celebritycruises.com/content/dam/celebrity/pdf/reflection-gamification-terms-and-conditions.pdf",
-        "checked_at": "2026-11-10T17:52:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://www.celebritycruises.com/content/dam/celebrity/pdf/reflection-gamification-terms-and-conditions.pdf",
-          "https://www.celebritycruises.com/games/reflection-daily-win"
-        ]
-      },
-      "added": "2026-11-10",
-      "source": "Claude review 2026-11-10",
-      "id": "celebrity-reflection-daily-win-game",
-      "rules_checked": "full"
-    },
-    {
       "name": "Corona Football 2026 Sweepstakes",
       "prize": "100 tailgate gear bundles (folding table, cooler, games, insulated holders, cups; ARV $630 each) in monthly drawings, plus a grand prize beach watch-party trip for the winner and 5 guests with $1,000 spending money and a $5,000 tax check (max ARV $21,250)",
       "category": "mixed",
@@ -3723,6 +3680,80 @@
       "added": "2026-11-10",
       "source": "Claude review 2026-11-10",
       "id": "2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "The General x Street Fighter: Bonus Stage Break Sweepstakes",
+      "prize": "1994 Lexus LS400 (ARV $69,716) plus $25,400.69 cash by ACH; 1 winner",
+      "category": "mixed",
+      "entry_url": "https://the-general-x-street-fighter-bonus-stage-break.prod.fooji.com/",
+      "rules_url": "https://images.prod.fooji.com/original/organizations/449/campaigns/3681/published/click_here_for_official_rules-62220d4.pdf",
+      "ends": "2026-11-19T00:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "The rules say entry info may be used for future marketing and that the sponsor (Fooji) will sell the personal information submitted with the entry form."
+      },
+      "notes": "One entry per person for the whole promotion. You must be a licensed driver at entry and when accepting the prize. Not open in AK, HI, IN, KY, ME, MN, WA or PR; NJ is fine. Form asks for name, address, email and phone. Ends Nov 18, 11:59 PM CT.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://images.prod.fooji.com/original/organizations/449/campaigns/3681/published/click_here_for_official_rules-62220d4.pdf",
+        "checked_at": "2026-11-12T17:48:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://images.prod.fooji.com/original/organizations/449/campaigns/3681/published/click_here_for_official_rules-62220d4.pdf"
+        ]
+      },
+      "added": "2026-11-12",
+      "source": "Claude review 2026-11-12",
+      "id": "the-general-x-street-fighter-bonus-stage-break-sweepstakes",
+      "match": [
+        "the-general-x-street-fighter-bonus-stage-break.prod.fooji.com/"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "Charlotte FC Perks: Playoff Game Experience (American Airlines)",
+      "prize": "Charlotte FC playoff game experience (prize details are in the official rules, not read yet)",
+      "category": "other",
+      "entry_url": "https://www.charlottefcperks.com/",
+      "rules_url": "https://rules.gselive.com/4a30a4ec-4283-4557-9280-e12a6f762ee8",
+      "ends": "2026-11-15T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Free American Airlines AAdvantage membership required to enter"
+      },
+      "notes": "The page says this one is open to all fans 18+ (19+ in AL and NE) through Nov 15; no end time given. Other sweepstakes on the same site are limited to people within 150 miles of the Rangers' stadium, so pick the Charlotte FC playoff one. The site invites daily entries, but the per-person limit is in the unread rules.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-12T17:53:00-05:00",
+        "reason": "American Airlines' page says this playoff sweepstakes is open to all fans 18+ (19+ in AL and NE) through Nov 15, 2026, no purchase necessary, AAdvantage membership required. Its official rules on rules.gselive.com didn't come up in web search, so the page reader couldn't open them; end time, entry limit and prize details aren't confirmed.",
+        "evidence": [
+          "https://www.charlottefcperks.com/"
+        ],
+        "missing": [
+          "eligibility",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-12",
+      "source": "Claude review 2026-11-12",
+      "id": "charlotte-fc-perks-playoff-game-experience-american-airlines",
+      "match": [
+        "charlottefcperks.com/"
+      ],
       "rules_checked": "partial"
     }
   ]

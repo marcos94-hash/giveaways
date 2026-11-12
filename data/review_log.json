@@ -197,15 +197,16 @@
     },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
       "attempts": 2,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the ViralSweep page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-08T17:51:25-05:00",
-      "next_retry_at": "2026-11-10T17:51:25-05:00",
+      "next_retry_at": null,
       "name": "Win 1 of 6 Gift Cards from Yankee Candle!",
       "evidence": [
         "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1"
-      ]
+      ],
+      "decided_at": "2026-11-12T17:39:47-05:00"
     },
     "https://app.viralsweep.com/sweeps/full/f5c8a8-238992?framed=1": {
       "attempts": 0,
@@ -314,12 +315,16 @@
     "https://bestbuy.com/site/sweepstakes/store-speedrun-sweepstakes/pcmcat1789139942121.c?id=pcmcat1789139942121": {
       "name": "Best Buy Store Speedrun Sweepstakes",
       "status": "listed",
-      "decided_at": "2026-11-03",
+      "decided_at": "2026-11-12T17:49:04-05:00",
       "attempts": 0,
       "listing_id": "bestbuy-store-speedrun",
-      "reason_code": "needs_rules_check",
-      "reason": "Details come from listing sites. Best Buy's official rules PDF was found by the Mac mini but not read yet.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "reason_code": "verified",
+      "reason": "",
+      "next_retry_at": null,
+      "last_attempt_at": "2026-11-12T17:49:04-05:00",
+      "evidence": [
+        "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf"
+      ]
     },
     "https://bigasschipotlebag.com/alternative-method-of-entry": {
       "attempts": 0,
@@ -526,9 +531,18 @@
       "name": "Cap’n Crunch Find the Cap’n Sweepstakes",
       "decided_at": "2026-11-08T17:38:38-05:00"
     },
+    "https://cecejewellery.com/pages/over-the-moon": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
+    },
     "https://celebritycruises.com/games/reflection-daily-win": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-10T17:52:03-05:00",
@@ -537,12 +551,12 @@
         "https://www.celebritycruises.com/games/reflection-daily-win"
       ],
       "listing_id": "celebrity-reflection-daily-win-game",
-      "decided_at": "2026-11-10T17:52:03-05:00",
+      "decided_at": "2026-11-12T17:39:47-05:00",
       "next_retry_at": null
     },
     "https://celebritycruises.com/games/reflection-spot-the-difference": {
       "attempts": 1,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-10T17:52:03-05:00",
@@ -553,7 +567,7 @@
       "next_retry_at": null,
       "name": "216 Win Cruises or Swag in the Celebrity Reflection Daily Win Game!",
       "listing_id": "celebrity-reflection-daily-win-game",
-      "decided_at": "2026-11-10T17:52:03-05:00"
+      "decided_at": "2026-11-12T17:39:47-05:00"
     },
     "https://celebritycruises.com/games/reflection-wave-words": {
       "attempts": 0,
@@ -563,6 +577,19 @@
       "reason": "ended before it could be verified",
       "next_retry_at": null,
       "decided_at": "2026-11-11T17:44:49-05:00"
+    },
+    "https://charlottefcperks.com/": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "American Airlines' page says this playoff sweepstakes is open to all fans 18+ (19+ in AL and NE) through Nov 15, 2026, no purchase necessary, AAdvantage membership required. Its official rules on rules.gselive.com didn't come up in web search, so the page reader couldn't open them; end time, entry limit and prize details aren't confirmed.",
+      "last_attempt_at": "2026-11-12T17:53:04-05:00",
+      "evidence": [
+        "https://www.charlottefcperks.com/"
+      ],
+      "listing_id": "charlotte-fc-perks-playoff-game-experience-american-airlines",
+      "decided_at": "2026-11-12T17:53:04-05:00",
+      "next_retry_at": "2026-11-15T17:53:04-05:00"
     },
     "https://charlottefootballclub.com/ally-savings-bucket-sweepstakes": {
       "attempts": 0,
@@ -1118,6 +1145,15 @@
       "decided_at": "2026-11-04T11:46:22-05:00",
       "next_retry_at": null
     },
+    "https://fieldtotablesweepstakes.com/": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
+    },
     "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf": {
       "name": "Best Buy Store Speedrun (rules PDF)",
       "status": "rejected",
@@ -1263,15 +1299,16 @@
     },
     "https://gleam.io/4ppnS/southern-crafteds-thanksgiving-giveaway?gsr=4ppnS-oyB0t1Ahjz": {
       "attempts": 2,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Second try: the Gleam page still did not come up in web search, so the page reader could not open it in this unattended run, and Gleam pages that did come up returned client errors; terms not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-10T17:58:34-05:00",
       "evidence": [
         "https://gleam.io/4ppnS/southern-crafteds-thanksgiving-giveaway"
       ],
-      "next_retry_at": "2026-11-12T17:58:34-05:00",
-      "name": "Southern Crafted's Thanksgiving Giveaway"
+      "next_retry_at": null,
+      "name": "Southern Crafted's Thanksgiving Giveaway",
+      "decided_at": "2026-11-12T17:39:47-05:00"
     },
     "https://gleam.io/5ZgiH/prebf-giveaway-2026": {
       "attempts": 1,
@@ -1285,6 +1322,24 @@
       "next_retry_at": null,
       "name": "SSD Nodes Black Friday Giveaway",
       "decided_at": "2026-11-09T17:40:08-05:00"
+    },
+    "https://gleam.io/83D2Q/mas-laws-thanksgiving-giveaway-2-100-visa-gift-cards?gsr=83D2Q-oCfe7ZfaFQ": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
+    },
+    "https://gleam.io/8G8Uo/knifesaga-x4-pro-15piece-knife-set": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-": {
       "attempts": 2,
@@ -1393,6 +1448,15 @@
       "decided_at": "2026-11-09T18:15:14-05:00",
       "next_retry_at": "2026-11-12T18:15:14-05:00"
     },
+    "https://gleam.io/ODwDg/beacon-x-she-helps-momma-houston-night-nanny-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/OHkOh/double-trouble-giveaway-mossberg-mc2sc-gift-card": {
       "attempts": 0,
       "status": "rejected",
@@ -1452,12 +1516,13 @@
     },
     "https://gleam.io/RVTMH/mambasnake-giveaway-round-83": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Gleam entry page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run (the reader only opens links that come from web search), and web search found neither the page nor a copy of its terms",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-07T17:58:12-05:00",
-      "next_retry_at": "2026-11-08T17:58:12-05:00",
-      "name": "Mambasnake GIVEAWAY ROUND 83"
+      "next_retry_at": null,
+      "name": "Mambasnake GIVEAWAY ROUND 83",
+      "decided_at": "2026-11-12T17:39:47-05:00"
     },
     "https://gleam.io/TMgeE/black-friday-mega-sale-round-1": {
       "attempts": 1,
@@ -1585,6 +1650,15 @@
       "last_attempt_at": "2026-11-07T17:58:13-05:00",
       "next_retry_at": "2026-11-08T17:58:13-05:00",
       "name": "Win 1 of 3 custom pet portraits from Pet Art"
+    },
+    "https://gleam.io/fDttk/brighten-your-winter-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/gTGES/mitra9s-gear-up-get-moving-giveaway": {
       "attempts": 0,
@@ -1908,13 +1982,27 @@
     },
     "https://hgtv.com/sweepstakes/home-for-the-holidays": {
       "name": "HGTV Home for the Holidays",
-      "status": "listed",
+      "status": "in_progress",
       "decided_at": "2026-11-03",
       "attempts": 0,
       "listing_id": "hgtv-home-for-holidays",
       "reason_code": "needs_rules_check",
       "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "next_retry_at": "2026-11-07T00:30:00-05:00",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": {
+          "name": "HGTV Home for the Holidays",
+          "status": "listed",
+          "decided_at": "2026-11-03",
+          "attempts": 0,
+          "listing_id": "hgtv-home-for-holidays",
+          "reason_code": "needs_rules_check",
+          "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
+          "next_retry_at": "2026-11-07T00:30:00-05:00"
+        }
+      }
     },
     "https://hinttreatyourselfsweeps.com/rules": {
       "attempts": 0,
@@ -1970,13 +2058,27 @@
     },
     "https://ign.com/rewards": {
       "name": "IGN x Best Buy daily giveaway",
-      "status": "listed",
+      "status": "in_progress",
       "decided_at": "2026-11-03",
       "attempts": 0,
       "listing_id": "ign-bestbuy-daily",
       "reason_code": "needs_rules_check",
       "reason": "Each weekday giveaway has its own rules: read that day's Terms & Conditions. Giveaways #4, #5 and #7 allowed NJ with one entry each.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "next_retry_at": "2026-11-07T00:30:00-05:00",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": {
+          "name": "IGN x Best Buy daily giveaway",
+          "status": "listed",
+          "decided_at": "2026-11-03",
+          "attempts": 0,
+          "listing_id": "ign-bestbuy-daily",
+          "reason_code": "needs_rules_check",
+          "reason": "Each weekday giveaway has its own rules: read that day's Terms & Conditions. Giveaways #4, #5 and #7 allowed NJ with one entry each.",
+          "next_retry_at": "2026-11-07T00:30:00-05:00"
+        }
+      }
     },
     "https://ign.com/rewards/win-a-dualsense-ps5-wireless-controller": {
       "name": "IGN x Best Buy #7: DualSense controller",
@@ -2038,7 +2140,7 @@
     },
     "https://kensingtonbooks.com/HolidayLuxeBundle": {
       "attempts": 0,
-      "status": "listed",
+      "status": "in_progress",
       "reason_code": "needs_rules_check",
       "reason": "Kensington's giveaways page lists it as running Oct 30 to Nov 30, and its general sweepstakes terms use Eastern time, but the entry page returns an error to the page reader, so eligibility, entry method and limit weren't confirmed. Other Kensington giveaways are US-only (not Rhode Island), 18+, via newsletter signup.",
       "last_attempt_at": "2026-11-04T11:37:59-05:00",
@@ -2048,7 +2150,25 @@
       ],
       "listing_id": "kensington-holiday-luxe-bundle-giveaway",
       "decided_at": "2026-11-04T11:37:59-05:00",
-      "next_retry_at": "2026-11-07T11:37:59-05:00"
+      "next_retry_at": "2026-11-07T11:37:59-05:00",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "listed",
+          "reason_code": "needs_rules_check",
+          "reason": "Kensington's giveaways page lists it as running Oct 30 to Nov 30, and its general sweepstakes terms use Eastern time, but the entry page returns an error to the page reader, so eligibility, entry method and limit weren't confirmed. Other Kensington giveaways are US-only (not Rhode Island), 18+, via newsletter signup.",
+          "last_attempt_at": "2026-11-04T11:37:59-05:00",
+          "evidence": [
+            "https://www.kensingtonbooks.com/between-the-chapters/giveaways/",
+            "https://www.kensingtonbooks.com/pages/termsconditions/"
+          ],
+          "listing_id": "kensington-holiday-luxe-bundle-giveaway",
+          "decided_at": "2026-11-04T11:37:59-05:00",
+          "next_retry_at": "2026-11-07T11:37:59-05:00"
+        }
+      }
     },
     "https://kiisfm.iheart.com/promotions": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
@@ -2082,7 +2202,7 @@
     },
     "https://kingsumo.com/g/19w8xpm/epsom-salt-council-stress-less-express-giveaway/xw28qzn": {
       "attempts": 0,
-      "status": "listed",
+      "status": "in_progress",
       "reason_code": "needs_rules_check",
       "reason": "Sponsor's rules confirm free entry, 21+ and no US state exclusions, but give only a date (entries by Dec 15, 2026) with no time, and state no per-person entry limit. The page says the deadline is Central time.",
       "last_attempt_at": "2026-11-04T11:39:07-05:00",
@@ -2091,7 +2211,24 @@
       ],
       "listing_id": "epsom-salt-council-stress-less-express-giveaway",
       "decided_at": "2026-11-04T11:39:07-05:00",
-      "next_retry_at": "2026-11-07T11:39:07-05:00"
+      "next_retry_at": "2026-11-07T11:39:07-05:00",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "listed",
+          "reason_code": "needs_rules_check",
+          "reason": "Sponsor's rules confirm free entry, 21+ and no US state exclusions, but give only a date (entries by Dec 15, 2026) with no time, and state no per-person entry limit. The page says the deadline is Central time.",
+          "last_attempt_at": "2026-11-04T11:39:07-05:00",
+          "evidence": [
+            "https://kingsumo.com/giveaways/19w8xpm/rules"
+          ],
+          "listing_id": "epsom-salt-council-stress-less-express-giveaway",
+          "decided_at": "2026-11-04T11:39:07-05:00",
+          "next_retry_at": "2026-11-07T11:39:07-05:00"
+        }
+      }
     },
     "https://kingsumo.com/g/1dkxzk3/win-a-handcrafted-etchwood-mantel-this-holiday-season/kyozn99": {
       "attempts": 1,
@@ -2101,6 +2238,15 @@
       "last_attempt_at": "2026-11-10T17:58:22-05:00",
       "next_retry_at": "2026-11-11T17:58:22-05:00",
       "name": "Win a Handcrafted EtchWood Mantel This Holiday Season"
+    },
+    "https://kingsumo.com/g/1vj8gz1/win-a-1000-gift-certificate-to-greg-landrys-homeschool-science": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
     },
     "https://kingsumo.com/g/1xqx5nm/a-christmas-romance-giveaway": {
       "attempts": 1,
@@ -2530,7 +2676,7 @@
     },
     "https://na.nokiantyres.com/gtg": {
       "attempts": 0,
-      "status": "listed",
+      "status": "in_progress",
       "reason_code": "needs_rules_check",
       "reason": "Sponsor's giveaway page gives the dates (ends Nov 22 11:59 PM ET) and one entry per day, but the official rules page blocks the page reader (robots.txt), so eligibility, free entry and age weren't confirmed. Weekly prizes go to the closest guess, not a random draw.",
       "last_attempt_at": "2026-11-04T01:27:32-05:00",
@@ -2539,7 +2685,24 @@
       ],
       "listing_id": "nokian-tyres-virtual-green-tire-giveaway",
       "decided_at": "2026-11-04T01:27:32-05:00",
-      "next_retry_at": "2026-11-07T01:27:32-05:00"
+      "next_retry_at": "2026-11-07T01:27:32-05:00",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "listed",
+          "reason_code": "needs_rules_check",
+          "reason": "Sponsor's giveaway page gives the dates (ends Nov 22 11:59 PM ET) and one entry per day, but the official rules page blocks the page reader (robots.txt), so eligibility, free entry and age weren't confirmed. Weekly prizes go to the closest guess, not a random draw.",
+          "last_attempt_at": "2026-11-04T01:27:32-05:00",
+          "evidence": [
+            "https://na.nokiantyres.com/gtg/"
+          ],
+          "listing_id": "nokian-tyres-virtual-green-tire-giveaway",
+          "decided_at": "2026-11-04T01:27:32-05:00",
+          "next_retry_at": "2026-11-07T01:27:32-05:00"
+        }
+      }
     },
     "https://news.iheart.com/promotions": {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
@@ -2573,12 +2736,13 @@
     },
     "https://northernrosejewelry.com/blogs/articles/giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Sponsor's giveaway blog page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run, and web search found neither the page nor its rules",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-07T17:58:13-05:00",
-      "next_retry_at": "2026-11-08T17:58:13-05:00",
-      "name": "Northern Rose Amethyst Dangle Earrings Giveaway"
+      "next_retry_at": null,
+      "name": "Northern Rose Amethyst Dangle Earrings Giveaway",
+      "decided_at": "2026-11-12T17:39:47-05:00"
     },
     "https://offseasonpepsisweeps.com/": {
       "attempts": 1,
@@ -2729,12 +2893,13 @@
     },
     "https://piedmontpennies.com/pages/for-the-giver-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Piedmont Pennies giveaway page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; their gifts page and blog don't mention it",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-06T17:59:00-05:00",
-      "next_retry_at": "2026-11-07T17:59:00-05:00",
-      "name": "Piedmont Pennies For the Giver Giveaway"
+      "next_retry_at": null,
+      "name": "Piedmont Pennies For the Giver Giveaway",
+      "decided_at": "2026-11-12T17:39:47-05:00"
     },
     "https://polarjoe.com/pages/ultimate-smoothie-machine-power-pack": {
       "attempts": 1,
@@ -2934,14 +3099,14 @@
       "attempts": 0,
       "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Sponsor page (American Airlines) says the miles sweepstakes is open to fans 21+ through Nov 30, 2026, no purchase necessary, AAdvantage membership required; its separate official rules weren't read, so end time, state eligibility and entry limit aren't confirmed.",
-      "last_attempt_at": "2026-11-04T01:30:32-05:00",
+      "reason": "American Airlines' page says the miles sweepstakes is open to all fans 21+ through Nov 30, 2026, no purchase necessary, AAdvantage membership required, and invites daily entries site-wide. Its official rules on rules.gselive.com didn't come up in web search, so the page reader couldn't open them; end time, state eligibility and the entry limit aren't confirmed.",
+      "last_attempt_at": "2026-11-12T17:53:04-05:00",
       "evidence": [
         "https://www.rangersperks.com/"
       ],
       "listing_id": "rangers-perks-win-100-000-aadvantage-miles-american-airlines",
-      "decided_at": "2026-11-04T01:30:32-05:00",
-      "next_retry_at": "2026-11-07T01:30:32-05:00"
+      "decided_at": "2026-11-12T17:53:04-05:00",
+      "next_retry_at": "2026-11-15T17:53:04-05:00"
     },
     "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes": {
       "name": "Real Good Foods Meatball Sweepstakes",
@@ -3177,6 +3342,18 @@
       "decided_at": "2026-11-04T01:22:58-05:00",
       "name": "SIG SAUER X Decked Sweepstakes"
     },
+    "https://simonandschuster.com/p/blackstone-griddle-101-sweepstakes": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Simon & Schuster's entry page returned a client error to the page reader, and its rules page (simonandschuster.com/rules/544ad7c1...) didn't come up in web search, so a direct read hit the unanswered PROVENANCE_REQUIRED approval prompt. Rules not read.",
+      "last_attempt_at": "2026-11-12T17:53:04-05:00",
+      "evidence": [
+        "https://www.simonandschuster.com/p/blackstone-griddle-101-sweepstakes"
+      ],
+      "next_retry_at": "2026-11-13T17:53:04-05:00",
+      "name": "Win a Blackstone Griddle, Accessories & a Cookbook!"
+    },
     "https://sites.prh.com/fallintocozysweeps": {
       "attempts": 0,
       "status": "ended",
@@ -3285,12 +3462,13 @@
     },
     "https://southern-crafted.com/pages/thanksgiving-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Southern Crafted giveaway page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; the store homepage doesn't mention a giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-06T18:00:22-05:00",
-      "next_retry_at": "2026-11-07T18:00:22-05:00",
-      "name": "Southern Crafted Thanksgiving Giveaway"
+      "next_retry_at": null,
+      "name": "Southern Crafted Thanksgiving Giveaway",
+      "decided_at": "2026-11-12T17:39:47-05:00"
     },
     "https://southernliving.com/sweepstakes/entry?sweepId=slv-flash-headstart-1026-eo": {
       "attempts": 2,
@@ -3445,6 +3623,24 @@
       ],
       "decided_at": "2026-11-11T17:44:49-05:00"
     },
+    "https://sweepwidget.com/c/103219-84mw20s3": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
+    },
+    "https://sweepwidget.com/c/103220-o7u4zk5g": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
+    },
     "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232": {
       "attempts": 2,
       "status": "blocked",
@@ -3469,15 +3665,16 @@
     },
     "https://sweepwidget.com/c/103262-zd804rb1": {
       "attempts": 2,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Second try: the SweepWidget page still did not come up in web search (only other SweepWidget giveaways did), so the page reader could not open it in this unattended run; terms not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-10T17:58:34-05:00",
       "evidence": [
         "https://sweepwidget.com/c/103262-zd804rb1"
       ],
-      "next_retry_at": "2026-11-12T17:58:34-05:00",
-      "name": "Fork & Embers × ChefsTemp Giveaway"
+      "next_retry_at": null,
+      "name": "Fork & Embers × ChefsTemp Giveaway",
+      "decided_at": "2026-11-12T17:39:47-05:00"
     },
     "https://sweepwidget.com/c/103274-vozqwf42": {
       "attempts": 1,
@@ -3501,6 +3698,24 @@
         "https://sweepwidget.com/c/103277-vtmslewf"
       ]
     },
+    "https://sweepwidget.com/c/103325-ui2nv0jf": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
+    },
+    "https://sweepwidget.com/c/103391-6b4sow3e": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
+    },
     "https://sweepwidget.com/c/103423-m5gu8fpt": {
       "attempts": 1,
       "status": "blocked",
@@ -3518,6 +3733,15 @@
       "last_attempt_at": "2026-11-11T17:59:43-05:00",
       "next_retry_at": "2026-11-12T17:59:43-05:00",
       "name": "$400 November 10-17 Week Giveaway"
+    },
+    "https://sweepwidget.com/c/103450-aoc1l3zm": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
     },
     "https://tablotv.com/contest": {
       "name": "Tablo Race Weekend Sweepstakes",
@@ -3549,6 +3773,19 @@
         "https://takeflightwithpepsi.com/",
         "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes"
       ]
+    },
+    "https://the-general-x-street-fighter-bonus-stage-break.prod.fooji.com/": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-12T17:49:04-05:00",
+      "evidence": [
+        "https://images.prod.fooji.com/original/organizations/449/campaigns/3681/published/click_here_for_official_rules-62220d4.pdf"
+      ],
+      "listing_id": "the-general-x-street-fighter-bonus-stage-break-sweepstakes",
+      "decided_at": "2026-11-12T17:49:04-05:00",
+      "next_retry_at": null
     },
     "https://thechasefordpromo.nascar.com/": {
       "attempts": 1,
@@ -3603,6 +3840,15 @@
       ],
       "next_retry_at": "2026-11-09T17:51:21-05:00",
       "name": "Win 2 Spots on Cut Copy DJs Guest List"
+    },
+    "https://ul.ink/1150PG-PQFBF": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
     },
     "https://ul.ink/185EMB-TQM8S6": {
       "attempts": 2,
@@ -3677,6 +3923,15 @@
       "decided_at": "2026-11-07T18:02:27-05:00",
       "next_retry_at": null
     },
+    "https://us.jagermeister.com/join-us": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-12",
+        "expires_at": "2026-11-12T20:40:47-05:00",
+        "prev": null
+      }
+    },
     "https://us.peppermayo.com/pages/pm-insider-2026": {
       "attempts": 0,
       "status": "listed",
@@ -3725,12 +3980,17 @@
     "https://valpak.com/holiday": {
       "name": "Valpak $5,000 Holiday Haul",
       "status": "listed",
-      "decided_at": "2026-11-03",
+      "decided_at": "2026-11-12T17:53:04-05:00",
       "attempts": 0,
       "listing_id": "valpak-holiday-haul",
       "reason_code": "needs_rules_check",
-      "reason": "Valpak's rules page blocks automated reading. Dates and 18+ come from Valpak's entry page; the end time and daily limit come from listing sites.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00"
+      "reason": "The rules link on Valpak's holiday page (valpak.com/holiday?rules=true) still serves the 2024 $10,000 Food Network Sweepstakes rules, which ended Dec 6, 2024, so this year's Holiday Haul rules weren't found. Dates and 18+ come from Valpak's entry page; the end time and daily limit come from listing sites.",
+      "next_retry_at": "2026-11-15T17:53:04-05:00",
+      "last_attempt_at": "2026-11-12T17:53:04-05:00",
+      "evidence": [
+        "https://valpak.com/holiday?rules=true",
+        "https://www.valpak.com/holiday"
+      ]
     },
     "https://valpak.com/holiday?rules=true": {
       "attempts": 0,
