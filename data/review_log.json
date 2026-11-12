@@ -532,13 +532,16 @@
       "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://cecejewellery.com/pages/over-the-moon": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Cece Jewellery's giveaway page didn't come up in web search (only UK press about the brand did), so it couldn't be opened. Rules not read; the brand is London-based, so check whether US residents can enter.",
+      "last_attempt_at": "2026-11-12T17:55:45-05:00",
+      "evidence": [
+        "https://cecejewellery.com/pages/over-the-moon/"
+      ],
+      "next_retry_at": "2026-11-13T17:55:45-05:00",
+      "name": "Cece Jewellery Over The Moon Giveaway"
     },
     "https://celebritycruises.com/games/reflection-daily-win": {
       "attempts": 0,
@@ -1352,13 +1355,16 @@
       "name": "MAS Law’s Thanksgiving Giveaway"
     },
     "https://gleam.io/8G8Uo/knifesaga-x4-pro-15piece-knife-set": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Terms not read.",
+      "last_attempt_at": "2026-11-12T17:55:45-05:00",
+      "evidence": [
+        "https://gleam.io/8G8Uo/knifesaga-x4-pro-15piece-knife-set"
+      ],
+      "next_retry_at": "2026-11-13T17:55:45-05:00",
+      "name": "Win A KnifeSaga X4 Pro 15-Piece Knife Set With Wood Block"
     },
     "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-": {
       "attempts": 2,
@@ -1468,13 +1474,16 @@
       "next_retry_at": "2026-11-12T18:15:14-05:00"
     },
     "https://gleam.io/ODwDg/beacon-x-she-helps-momma-houston-night-nanny-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam page didn't come up in web search, so the page reader couldn't open it (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Terms not read; the night-nanny prize looks local to Houston, so check for a local restriction.",
+      "last_attempt_at": "2026-11-12T17:55:45-05:00",
+      "evidence": [
+        "https://gleam.io/ODwDg/beacon-x-she-helps-momma-houston-night-nanny-giveaway"
+      ],
+      "next_retry_at": "2026-11-13T17:55:45-05:00",
+      "name": "Win 3 Nights of Sleep + a Year of Beacon Premium"
     },
     "https://gleam.io/OHkOh/double-trouble-giveaway-mossberg-mc2sc-gift-card": {
       "attempts": 0,
@@ -1671,13 +1680,16 @@
       "name": "Win 1 of 3 custom pet portraits from Pet Art"
     },
     "https://gleam.io/fDttk/brighten-your-winter-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Terms not read.",
+      "last_attempt_at": "2026-11-12T17:55:45-05:00",
+      "evidence": [
+        "https://gleam.io/fDttk/brighten-your-winter-giveaway"
+      ],
+      "next_retry_at": "2026-11-13T17:55:45-05:00",
+      "name": "Drive Medical Brighten Your Winter Giveaway"
     },
     "https://gleam.io/gTGES/mitra9s-gear-up-get-moving-giveaway": {
       "attempts": 0,
@@ -2259,13 +2271,16 @@
       "name": "Win a Handcrafted EtchWood Mantel This Holiday Season"
     },
     "https://kingsumo.com/g/1vj8gz1/win-a-1000-gift-certificate-to-greg-landrys-homeschool-science": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "KingSumo page and its rules didn't come up in web search, so the page reader couldn't open them (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-12T17:55:45-05:00",
+      "evidence": [
+        "https://kingsumo.com/g/1vj8gz1/win-a-1000-gift-certificate-to-greg-landrys-homeschool-science"
+      ],
+      "next_retry_at": "2026-11-13T17:55:45-05:00",
+      "name": "Win a $1,000 Gift Certificate to Greg Landry’s Homeschool Science"
     },
     "https://kingsumo.com/g/1xqx5nm/a-christmas-romance-giveaway": {
       "attempts": 1,
