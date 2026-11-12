@@ -3643,22 +3643,28 @@
       "decided_at": "2026-11-11T17:44:49-05:00"
     },
     "https://sweepwidget.com/c/103219-84mw20s3": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-12T17:55:43-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/103219-84mw20s3"
+      ],
+      "next_retry_at": "2026-11-13T17:55:43-05:00",
+      "name": "Penguin Teen Special Giveaway"
     },
     "https://sweepwidget.com/c/103220-o7u4zk5g": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-12T17:55:43-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/103220-o7u4zk5g"
+      ],
+      "next_retry_at": "2026-11-13T17:55:43-05:00",
+      "name": "Secrets, Spells, and Chocolate Giveaway"
     },
     "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232": {
       "attempts": 2,
@@ -3718,22 +3724,28 @@
       ]
     },
     "https://sweepwidget.com/c/103325-ui2nv0jf": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-12T17:55:43-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/103325-ui2nv0jf"
+      ],
+      "next_retry_at": "2026-11-13T17:55:43-05:00",
+      "name": "Cafecito Filled Holidays: Part 1"
     },
     "https://sweepwidget.com/c/103391-6b4sow3e": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-12T17:55:43-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/103391-6b4sow3e"
+      ],
+      "next_retry_at": "2026-11-13T17:55:43-05:00",
+      "name": "Jolee’s 12 Days of Christmas Giveaway"
     },
     "https://sweepwidget.com/c/103423-m5gu8fpt": {
       "attempts": 1,
@@ -3754,13 +3766,16 @@
       "name": "$400 November 10-17 Week Giveaway"
     },
     "https://sweepwidget.com/c/103450-aoc1l3zm": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-12T17:55:43-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/103450-aoc1l3zm"
+      ],
+      "next_retry_at": "2026-11-13T17:55:43-05:00",
+      "name": "stphmoto 10k Giveaway"
     },
     "https://tablotv.com/contest": {
       "name": "Tablo Race Weekend Sweepstakes",
