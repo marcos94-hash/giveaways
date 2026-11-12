@@ -120,6 +120,51 @@ def test_title_keeps_hyphenated_words():
         c = finder.extract("https://www.winprizesonline.com/x-Sweepstakes/", html_, "winprizesonline.com", TODAY)
         assert c["title"] == want, (og, c["title"])
 
+WPO_NO_LINK = """<html><head><meta property="og:title" content="Cozy Mug Sweepstakes"></head><body>
+<nav><a href="https://www.winprizesonline.com/sweepstakes/">All Sweepstakes</a>
+<a href="https://www.winprizesonline.com/login.php">Log In</a><a href="https://www.facebook.com/wpo">Facebook</a></nav>
+<h1>Cozy Mug Sweepstakes</h1><p>Expires 11-23-2026</p><p>Entry Frequency: Daily</p>
+<p><a href="https://www.winprizesonline.com/go/12345/">Enter Sweepstakes</a>
+<a href="https://www.winprizesonline.com/Other-Sweepstakes/">Other Sweepstakes</a></p></body></html>"""
+
+def test_missing_entry_link_reports_hints():
+    # No entry link found: the report keeps links after the title that look like the Enter button, on-site ones too.
+    c = finder.extract("https://www.winprizesonline.com/Cozy-Mug-Sweepstakes/", WPO_NO_LINK, "winprizesonline.com", TODAY)
+    assert c["entry_url"] is None and finder.keep(c, TODAY) == ("retry", "no entry link found")
+    hints = c["entry_link_hints"]
+    assert hints[0] == {"href": "https://www.winprizesonline.com/go/12345/", "text": "Enter Sweepstakes", "onsite": True}, hints
+    assert not any("facebook" in h["href"] or "login" in h["href"] for h in hints), hints
+    # A page with an entry link carries no hints, so candidates.json never gets them.
+    ok = finder.extract("https://www.freestufftimes.com/contests/27/knot/", (FX / "fst_knot.html").read_text(), "freestufftimes.com", TODAY)
+    assert "entry_link_hints" not in ok
+
+def test_main_reports_no_entry_samples():
+    pages = {"https://www.winprizesonline.com/": "<a href='https://www.winprizesonline.com/Cozy-Mug-Sweepstakes/'>Cozy</a>",
+             "https://www.winprizesonline.com/Cozy-Mug-Sweepstakes/": WPO_NO_LINK}
+    real = (finder.fetch, finder.allowed, finder.SOURCES, finder.dt.date)
+    def fake_fetch(u):
+        if u not in pages: raise OSError("404 " + u)
+        return u, pages[u]
+    finder.fetch = fake_fetch
+    finder.allowed = lambda u: True
+    finder.SOURCES = [{"name": "winprizesonline", "listing": ["https://www.winprizesonline.com/"],
+                       "detail_re": r"^https://www\.winprizesonline\.com/[A-Za-z0-9-]+-(?:Sweepstakes|Giveaway|Contest)[A-Za-z0-9-]*/?$"}]
+    class FakeDate(dt.date):
+        @classmethod
+        def today(cls): return TODAY
+    finder.dt.date = FakeDate
+    try:
+        d = tempfile.mkdtemp()
+        sys.argv = ["finder", "--out", f"{d}/c.json", "--report", f"{d}/r.json", "--state", f"{d}/seen.json"]
+        finder.main()
+        rep = json.load(open(f"{d}/r.json"))["sources"]["winprizesonline"]
+        assert rep["retry_later"] == {"no entry link found": 1}, rep
+        s = rep["no_entry_samples"][0]
+        assert s["title"] == "Cozy Mug Sweepstakes" and s["entry_link_hints"][0]["href"].endswith("/go/12345/"), s
+        assert json.load(open(f"{d}/c.json"))["count"] == 0
+    finally:
+        finder.fetch, finder.allowed, finder.SOURCES, finder.dt.date = real
+
 def test_filters():
     c = finder.extract("https://x.com/c", (FX / "fst_canada.html").read_text(), "freestufftimes.com", TODAY)
     assert finder.keep(c, TODAY)[0] == "keep" and "foreign_only" in c["review_flags"]

@@ -103,6 +103,7 @@ class Page(HTMLParser):
         self.links = []   # (href, text)
         self.meta = {}
         self.h1 = ""
+        self.h1_links = None  # how many links came before the end of the first <h1> (post title)
         self._skip = 0
         self._a = None
         self._h1 = False
@@ -130,6 +131,8 @@ class Page(HTMLParser):
             self._a = None
         if tag == "h1":
             self._h1 = False
+            if self.h1_links is None:
+                self.h1_links = len(self.links)
 
     def handle_data(self, data):
         if self._skip:
@@ -293,6 +296,36 @@ def pick_links(page, source_host):
     return enter, rules
 
 
+HINT_TEXT = re.compile(r"\b(?:enter|entry|visit|go|official|click|rules|sponsor|site)\b", re.I)
+HINT_HREF = re.compile(r"/(?:go|out|visit|redirect|click|enter|link|track|exit)(?:[/._?=-]|$)|[?&](?:url|u|dest|goto|target|redirect)=", re.I)
+
+
+def entry_link_hints(page, source_host, limit=8):
+    """For a page where no entry link was found: links after the post title that look like an Enter
+    button, including on-site redirect links that pick_links skips. They go in the scrape report so the
+    reviewer can see what the button looks like and fix the parser. Diagnostic only; nothing is fetched."""
+    def scan(links):
+        out = []
+        for href, txt in links:
+            low = href.lower()
+            if not low.startswith("http") or any(s in low for s in SHARE):
+                continue
+            h = host(href)
+            if h.endswith(SOCIAL):
+                continue
+            onsite = h == source_host or h.endswith("." + source_host)
+            sp = urllib.parse.urlsplit(href)
+            if not onsite or HINT_TEXT.search(txt or "") or HINT_HREF.search(sp.path + ("?" + sp.query if sp.query else "")):
+                item = {"href": href[:200], "text": (txt or "")[:60], "onsite": onsite}
+                if item not in out:
+                    out.append(item)
+                if len(out) >= limit:
+                    break
+        return out
+    # Links after the post title first, so site menus don't fill the list; the whole page if that finds nothing.
+    return scan(page.links[page.h1_links or 0:]) or scan(page.links)
+
+
 def money(text):
     vals = []
     for m in re.finditer(r"\$\s?(\d{1,3}(?:,\d{3})+|\d+)(?:\.\d\d)?\s*(k|K)?", text):
@@ -329,7 +362,7 @@ def extract(url, body, source_host, today):
     title = re.sub(r"(?:\s*\|\s*|\s+[-–]\s+)[^|\-–]{2,40}$", "", title) or title
     enter, rules = pick_links(p, source_host)
     end, end_raw, end_how = find_end(text, today)
-    return {
+    c = {
         "title": title[:160],
         "source_url": url,
         "entry_url": enter,
@@ -346,6 +379,9 @@ def extract(url, body, source_host, today):
         "flags": flags_for(text[:8000], enter),
         "snippet": text[:700],
     }
+    if enter is None:  # report-only: what the page's Enter button looks like (see main)
+        c["entry_link_hints"] = entry_link_hints(p, source_host)
+    return c
 
 
 # ---------------------------------------------------------------- seen-page bookkeeping
@@ -505,10 +541,15 @@ def main():
             if decision == "retry":
                 r.setdefault("retry_later", {})
                 r["retry_later"][why] = r["retry_later"].get(why, 0) + 1
+                # Show the reviewer what the Enter button looked like, so a missing-link parser bug can be fixed.
+                if why == "no entry link found" and len(r.setdefault("no_entry_samples", [])) < 2:
+                    r["no_entry_samples"].append({"source_url": final, "title": c["title"],
+                                                  "entry_link_hints": c.get("entry_link_hints", [])})
                 continue
             if decision == "drop":
                 r["dropped"][why] = r["dropped"].get(why, 0) + 1
                 continue
+            c.pop("entry_link_hints", None)
             key = norm_url(c["entry_url"])
             prev = cands.get(key)
             c["key"] = key
