@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T11:17:02+00:00",
- "count": 599,
+ "updated": "2026-11-12T21:17:02+00:00",
+ "count": 607,
  "candidates": {
   "https://triangl.com/pages/voucher-giveaway-2026": {
    "title": "Triangl Summer Wardrobe Giveaway",
@@ -656,6 +656,224 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12"
   },
+  "https://fieldtotablesweepstakes.com/": {
+   "title": "5 Win a KitchenAid x YETI Package in The Field To Table Sweeps!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/5-win-a-kitchenaid-x-yeti-package-in-the-field-to-table-sweeps/",
+   "entry_url": "https://www.fieldtotablesweepstakes.com/",
+   "rules_url": "https://www.fieldtotablesweepstakes.com/rules",
+   "ends_guess": "2026-11-15",
+   "ends_text": "ENDING – \nNovember 15, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 21,
+   "value_guess": 1768,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://fieldtotablesweepstakes.com/",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  "https://reckitt.jebbit.com/5cf0mmdd": {
+   "title": "Reckitt Benckiser Grocery Gift Card Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/12/reckitt-benckiser-grocery-gift-card-sweepstakes/",
+   "entry_url": "https://reckitt.jebbit.com/5cf0mmdd",
+   "rules_url": null,
+   "ends_guess": "2027-01-20",
+   "ends_text": "Last day to enter: Wed, Jan 20, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://reckitt.jebbit.com/5cf0mmdd",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  "https://charlottefcperks.com/": {
+   "title": "American Airlines Charlotte FC Perks Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/12/american-airlines-charlotte-fc-perks-giveaway/",
+   "entry_url": "https://www.charlottefcperks.com/",
+   "rules_url": null,
+   "ends_guess": "2026-11-15",
+   "ends_text": "Last day to enter: Sun, Nov 15",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://charlottefcperks.com/",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  "https://cecejewellery.com/pages/over-the-moon": {
+   "title": "Cece Jewellery Over The Moon Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/12/cece-jewellery-over-the-moon-giveaway/",
+   "entry_url": "https://cecejewellery.com/pages/over-the-moon/",
+   "rules_url": null,
+   "ends_guess": "2026-11-15",
+   "ends_text": "Last day to enter: Sun, Nov 15",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://cecejewellery.com/pages/over-the-moon",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  "https://signup.flyfrontier.com/first-to-fly-sweepstakes": {
+   "title": "Frontier Airlines First To Fly Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/12/frontier-airlines-first-to-fly-sweepstakes/",
+   "entry_url": "https://signup.flyfrontier.com/first-to-fly-sweepstakes",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Last day to enter: Mon, Nov 30",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://signup.flyfrontier.com/first-to-fly-sweepstakes",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  "https://ul.ink/1150PG-PQFBF": {
+   "title": "Win FREESKIER's 2026 Holiday Gift Guide Prize Package",
+   "source_url": "https://www.freestufftimes.com/contests/12/win-freeskiers-2026-holiday-gift-guide-prize-package/",
+   "entry_url": "https://ul.ink/1150PG-PQFBF",
+   "rules_url": null,
+   "ends_guess": "2026-11-18",
+   "ends_text": "Last day to enter: Wed, Nov 18",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://ul.ink/1150PG-PQFBF",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  "https://gleam.io/14mn9/12-days-of-christmas-gifts-part-01": {
+   "title": "Lisen 12 DAYS OF CHRISTMAS GIFTS — PART 01",
+   "source_url": "https://www.freestufftimes.com/contests/12/lisen-12-days-of-christmas-gifts-part-01/",
+   "entry_url": "https://gleam.io/14mn9/12-days-of-christmas-gifts-part-01",
+   "rules_url": null,
+   "ends_guess": "2026-11-23",
+   "ends_text": "Last day to enter: Mon, Nov 23",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://gleam.io/14mn9/12-days-of-christmas-gifts-part-01",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  "https://sazeracwhiskey.com/(X(1)S(sg0nwmvzkgyq1x45ew1ix0bo))/register.aspx": {
+   "title": "1,038 Win a Tasting Kit in The Sazerac Holiday Glassware Sweeps!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/1038-win-a-tasting-kit-in-the-sazerac-holiday-glassware-sweeps/",
+   "entry_url": "https://www.sazeracwhiskey.com/(X(1)S(sg0nwmvzkgyq1x45ew1ix0bo))/register.aspx",
+   "rules_url": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/sazeracwhiskey_OfficialRules.html",
+   "ends_guess": "2026-12-31",
+   "ends_text": "ENDING – \nDecember 31, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 21,
+   "value_guess": 20,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://sazeracwhiskey.com/(X(1)S(sg0nwmvzkgyq1x45ew1ix0bo))/register.aspx",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
   "https://apqs.com/shopping-tools/giveaway/tilly-2026": {
    "title": "APQS Tilly Giveaway",
    "source_url": "https://www.freestufftimes.com/contests/06/apqs-tilly-giveaway/",
@@ -765,32 +983,30 @@
    "last_seen": "2026-11-11"
   },
   "https://gleam.io/kAHQu/thanksgiving-giveaway-medcursor": {
-   "title": "Medcursor THANKSGIVING GIVEAWAY",
-   "source_url": "https://www.freestufftimes.com/contests/10/medcursor-thanksgiving-giveaway/",
+   "title": "Medcursor Thanksgiving Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Medcursor-Thanksgiving-Sweepstakes/",
    "entry_url": "https://gleam.io/kAHQu/thanksgiving-giveaway-medcursor",
    "rules_url": null,
-   "ends_guess": "2026-11-22",
-   "ends_text": "Last day to enter: Sun, Nov 22",
-   "ends_how": "inferred",
+   "ends_guess": "2026-11-23",
+   "ends_text": "Expires\n 11-23-2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 25000,
+   "category_guess": "gift_card",
    "flags": {
-    "us_mentioned": true,
+    "us_mentioned": false,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://gleam.io/kAHQu/thanksgiving-giveaway-medcursor",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   "https://vallon.com/en-us/pages/win-skis-competition-2026": {
    "title": "VALLON B.V. Ski Competition 2026",
@@ -4428,32 +4644,30 @@
    "last_seen": "2026-11-08"
   },
   "https://gleam.io/91TMj/runnings-november-great-big-giveaway": {
-   "title": "Runnings Great Big Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/07/runnings-great-big-giveaway-46/",
+   "title": "Win a Workbench in The Runnings Great Big Giveaway!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/runnings-great-big-monthly-giveaway/",
    "entry_url": "https://gleam.io/91TMj/runnings-november-great-big-giveaway",
    "rules_url": null,
    "ends_guess": "2026-11-30",
-   "ends_text": "Last day to enter: Mon, Nov 30",
-   "ends_how": "inferred",
+   "ends_text": "ENDING – \nNovember 30, 2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
+   "min_age_guess": 18,
+   "value_guess": 529,
    "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://gleam.io/91TMj/runnings-november-great-big-giveaway",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-12"
   },
   "https://gleam.io/EcW2S/nintendo-switch-2-giveaway": {
    "title": "Zelda Nintendo Switch 2 Giveaway",
@@ -7592,19 +7806,19 @@
    "last_seen": "2026-11-06"
   },
   "https://foodnetwork.com/shows/holiday-baking-championship/giveaway": {
-   "title": "Food Network Season of Sweetness Sweepstakes",
-   "source_url": "https://www.winprizesonline.com/Food-Network-Season-of-Sweetness-Sweepstakes/",
+   "title": "Win $10,000 in The Food Network Season of Sweetness Sweeps!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-10000-in-the-food-network-season-of-sweetness-sweeps/",
    "entry_url": "https://www.foodnetwork.com/shows/holiday-baking-championship/giveaway",
    "rules_url": null,
    "ends_guess": "2026-12-21",
-   "ends_text": "Expires\n 12-21-2026",
+   "ends_text": "ENDING – \nDecember 21, 2026",
    "ends_how": "explicit",
    "frequency_guess": "daily",
    "min_age_guess": 21,
-   "value_guess": 96860,
+   "value_guess": 10356,
    "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
@@ -7613,9 +7827,9 @@
    },
    "review_flags": [],
    "key": "https://foodnetwork.com/shows/holiday-baking-championship/giveaway",
-   "source": "winprizesonline",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-12"
   },
   "https://floppycats.com/desk-nest-and-lounge-nest.html": {
    "title": "FloppyCats Desk Nest and Lounge Nest Giveaway",
