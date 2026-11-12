@@ -1146,13 +1146,16 @@
       "next_retry_at": null
     },
     "https://fieldtotablesweepstakes.com/": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The rules page (fieldtotablesweepstakes.com/rules) and entry page didn't come up in web search; a direct read of the rules hit the unanswered PROVENANCE_REQUIRED approval prompt, and Perplexity had no copy. Prize is a KitchenAid x YETI package; rules not read.",
+      "last_attempt_at": "2026-11-12T17:55:06-05:00",
+      "evidence": [
+        "https://www.fieldtotablesweepstakes.com/rules"
+      ],
+      "next_retry_at": "2026-11-13T17:55:06-05:00",
+      "name": "5 Win a KitchenAid x YETI Package in The Field To Table Sweeps!"
     },
     "https://files.bbystatic.com/3efbfd2baf1f5d69d89f8fb447a862c9/file_by_path/BestBuy_US/dam/FINAL-Official-Rules-The-Store-Speedrun-Sweepstakes-09162026-8e4f7772-eae2-4b87-9842-a9b2a27cf995.pdf": {
       "name": "Best Buy Store Speedrun (rules PDF)",
@@ -1234,6 +1237,19 @@
       "reason": "ended before it could be verified",
       "next_retry_at": null,
       "decided_at": "2026-11-09T17:40:08-05:00"
+    },
+    "https://freeskier.com/freeskier-holiday-gift-guide-2026-27": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "FREESKIER's giveaway page gives the prize and the Nov 18, 11:59 PM MST deadline but no official rules, eligibility or entry limit; the entry form sits behind a ul.ink short link that couldn't be opened.",
+      "last_attempt_at": "2026-11-12T17:55:06-05:00",
+      "evidence": [
+        "https://www.freeskier.com/freeskier-holiday-gift-guide-2026-27"
+      ],
+      "listing_id": "freeskier-holiday-gift-guide-2026-giveaway",
+      "decided_at": "2026-11-12T17:55:06-05:00",
+      "next_retry_at": "2026-11-15T17:55:06-05:00"
     },
     "https://fs22.formsite.com/roundisnow/wbcgrwjjxd/index": {
       "attempts": 0,
@@ -1324,13 +1340,16 @@
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
     "https://gleam.io/83D2Q/mas-laws-thanksgiving-giveaway-2-100-visa-gift-cards?gsr=83D2Q-oCfe7ZfaFQ": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Web search surfaced MAS Law's earlier Gleam giveaways but not this Thanksgiving one, so the page reader couldn't open it (unsearched links hit the PROVENANCE_REQUIRED prompt), and Perplexity had no copy. Terms not read.",
+      "last_attempt_at": "2026-11-12T17:55:06-05:00",
+      "evidence": [
+        "https://gleam.io/83D2Q/mas-laws-thanksgiving-giveaway-2-100-visa-gift-cards"
+      ],
+      "next_retry_at": "2026-11-13T17:55:06-05:00",
+      "name": "MAS Law’s Thanksgiving Giveaway"
     },
     "https://gleam.io/8G8Uo/knifesaga-x4-pro-15piece-knife-set": {
       "attempts": 0,
@@ -3843,12 +3862,16 @@
     },
     "https://ul.ink/1150PG-PQFBF": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "FREESKIER's giveaway page gives the prize and the Nov 18, 11:59 PM MST deadline but no official rules, eligibility or entry limit; the entry form sits behind a ul.ink short link that couldn't be opened.",
+      "last_attempt_at": "2026-11-12T17:55:06-05:00",
+      "evidence": [
+        "https://www.freeskier.com/freeskier-holiday-gift-guide-2026-27"
+      ],
+      "listing_id": "freeskier-holiday-gift-guide-2026-giveaway",
+      "decided_at": "2026-11-12T17:55:06-05:00",
+      "next_retry_at": "2026-11-15T17:55:06-05:00"
     },
     "https://ul.ink/185EMB-TQM8S6": {
       "attempts": 2,
@@ -3925,12 +3948,17 @@
     },
     "https://us.jagermeister.com/join-us": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-12T17:55:06-05:00",
+      "evidence": [
+        "https://us.jagermeister.com/2026-q4-sweeps-official-rules",
+        "https://us.jagermeister.com/join-us"
+      ],
+      "listing_id": "j-germeister-loyalty-q4-sweepstakes",
+      "decided_at": "2026-11-12T17:55:06-05:00",
+      "next_retry_at": null
     },
     "https://us.peppermayo.com/pages/pm-insider-2026": {
       "attempts": 0,

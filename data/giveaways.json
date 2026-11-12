@@ -3755,6 +3755,80 @@
         "charlottefcperks.com/"
       ],
       "rules_checked": "partial"
+    },
+    {
+      "name": "Jägermeister Loyalty Q4 Sweepstakes",
+      "prize": "Grand prize: branded Jägermeister Adirondack-style chair (ARV $150); 4 first prizes: branded Jägermeister ShotSki (ARV $50)",
+      "category": "other",
+      "entry_url": "https://us.jagermeister.com/join-us",
+      "rules_url": "https://us.jagermeister.com/2026-q4-sweeps-official-rules",
+      "ends": "2026-11-15T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "marketing": "Entering subscribes you to Jägermeister's mailing list; the rules require opting in to future marketing emails (you can unsubscribe later).",
+        "age21": true
+      },
+      "notes": "One entry per person. 21+, 50 states and DC; you need a valid US driver's license or government photo ID to claim. The site has a 21+ age gate. Form asks for name, email, zip and birth date. Prizes are branded merchandise, not alcohol. Ends Nov 15, 11:59:59 PM ET.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://us.jagermeister.com/2026-q4-sweeps-official-rules",
+        "checked_at": "2026-11-12T17:54:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://us.jagermeister.com/2026-q4-sweeps-official-rules",
+          "https://us.jagermeister.com/join-us"
+        ],
+        "note": "Rules text read from a Perplexity page extract of the sponsor's rules page; the entry page was read directly."
+      },
+      "added": "2026-11-12",
+      "source": "Claude review 2026-11-12",
+      "id": "j-germeister-loyalty-q4-sweepstakes",
+      "match": [
+        "us.jagermeister.com/join-us"
+      ],
+      "rules_checked": "full"
+    },
+    {
+      "name": "FREESKIER Holiday Gift Guide 2026 Giveaway",
+      "prize": "Ski accessories bundle worth nearly $2,000 (Hyperice Normatec Elite legs, Benchmade Bugout knife, Purl Wax tuning kit, QEJA socks, Kinco mitts, Gravity Grabber, a James Niehues book and more); 1 winner",
+      "category": "other",
+      "entry_url": "https://www.freeskier.com/freeskier-holiday-gift-guide-2026-27",
+      "ends": "2026-11-19T01:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "notes": "The Enter button on FREESKIER's page goes to a ul.ink short link (ul.ink/1150PG); that entry page and any rules weren't opened. Deadline on the page: Nov 18, 11:59 PM MST.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-12T17:54:00-05:00",
+        "reason": "FREESKIER's giveaway page gives the prize and the Nov 18, 11:59 PM MST deadline but no official rules, eligibility or entry limit; the entry form sits behind a ul.ink short link that couldn't be opened.",
+        "evidence": [
+          "https://www.freeskier.com/freeskier-holiday-gift-guide-2026-27"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "entry_limit"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-12",
+      "source": "Claude review 2026-11-12",
+      "id": "freeskier-holiday-gift-guide-2026-giveaway",
+      "match": [
+        "freeskier.com/freeskier-holiday-gift-guide-2026-27"
+      ],
+      "rules_checked": "partial"
     }
   ]
 }
