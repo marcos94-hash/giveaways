@@ -2013,27 +2013,17 @@
     },
     "https://hgtv.com/sweepstakes/home-for-the-holidays": {
       "name": "HGTV Home for the Holidays",
-      "status": "in_progress",
-      "decided_at": "2026-11-03",
+      "status": "listed",
+      "decided_at": "2026-11-12T17:56:21-05:00",
       "attempts": 0,
       "listing_id": "hgtv-home-for-holidays",
       "reason_code": "needs_rules_check",
-      "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": {
-          "name": "HGTV Home for the Holidays",
-          "status": "listed",
-          "decided_at": "2026-11-03",
-          "attempts": 0,
-          "listing_id": "hgtv-home-for-holidays",
-          "reason_code": "needs_rules_check",
-          "reason": "Official rules not read. HGTV's page confirms one entry per site per day and the Jan 6, 8:59 AM ET end; 21+ and state eligibility come from listing sites.",
-          "next_retry_at": "2026-11-07T00:30:00-05:00"
-        }
-      }
+      "reason": "Official rules not read: they open inside the Wayin entry frame (xd.wayin.com), and that rules page didn't come up in web search or Perplexity. HGTV's page confirms $5,000, one entry a day on HGTV.com plus one on FoodNetwork.com, and the Jan 6, 2027 8:59 AM ET end; 21+ and US/DC eligibility come from listing sites.",
+      "next_retry_at": "2026-11-15T17:56:21-05:00",
+      "last_attempt_at": "2026-11-12T17:56:21-05:00",
+      "evidence": [
+        "https://www.hgtv.com/sweepstakes/home-for-the-holidays"
+      ]
     },
     "https://hinttreatyourselfsweeps.com/rules": {
       "attempts": 0,
@@ -2089,27 +2079,18 @@
     },
     "https://ign.com/rewards": {
       "name": "IGN x Best Buy daily giveaway",
-      "status": "in_progress",
-      "decided_at": "2026-11-03",
+      "status": "listed",
+      "decided_at": "2026-11-12T17:56:21-05:00",
       "attempts": 0,
       "listing_id": "ign-bestbuy-daily",
       "reason_code": "needs_rules_check",
-      "reason": "Each weekday giveaway has its own rules: read that day's Terms & Conditions. Giveaways #4, #5 and #7 allowed NJ with one entry each.",
-      "next_retry_at": "2026-11-07T00:30:00-05:00",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": {
-          "name": "IGN x Best Buy daily giveaway",
-          "status": "listed",
-          "decided_at": "2026-11-03",
-          "attempts": 0,
-          "listing_id": "ign-bestbuy-daily",
-          "reason_code": "needs_rules_check",
-          "reason": "Each weekday giveaway has its own rules: read that day's Terms & Conditions. Giveaways #4, #5 and #7 allowed NJ with one entry each.",
-          "next_retry_at": "2026-11-07T00:30:00-05:00"
-        }
-      }
+      "reason": "Each weekday giveaway on IGN Rewards has its own Terms & Conditions; this run couldn't open them because IGN's giveaway pages didn't come up in web search. Earlier, giveaways #4, #5 and #7 allowed NJ with one entry each. The Best Buy event runs through Nov 13.",
+      "next_retry_at": "2026-11-15T17:56:21-05:00",
+      "last_attempt_at": "2026-11-12T17:56:21-05:00",
+      "evidence": [
+        "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller",
+        "https://www.ign.com/rewards/win-govee-dreamview-tv-light-strips"
+      ]
     },
     "https://ign.com/rewards/win-a-dualsense-ps5-wireless-controller": {
       "name": "IGN x Best Buy #7: DualSense controller",
@@ -2171,35 +2152,17 @@
     },
     "https://kensingtonbooks.com/HolidayLuxeBundle": {
       "attempts": 0,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Kensington's giveaways page lists it as running Oct 30 to Nov 30, and its general sweepstakes terms use Eastern time, but the entry page returns an error to the page reader, so eligibility, entry method and limit weren't confirmed. Other Kensington giveaways are US-only (not Rhode Island), 18+, via newsletter signup.",
-      "last_attempt_at": "2026-11-04T11:37:59-05:00",
+      "reason": "Kensington's giveaways page lists it as running Oct 30 to Nov 30, and its general sweepstakes terms use Eastern time, but the entry page didn't come up in web search and Kensington's pages return client errors to the page reader, so eligibility, entry method and limit weren't confirmed. Other Kensington giveaways are US-only (not Rhode Island), 18+, via newsletter signup.",
+      "last_attempt_at": "2026-11-12T17:56:21-05:00",
       "evidence": [
         "https://www.kensingtonbooks.com/between-the-chapters/giveaways/",
         "https://www.kensingtonbooks.com/pages/termsconditions/"
       ],
       "listing_id": "kensington-holiday-luxe-bundle-giveaway",
-      "decided_at": "2026-11-04T11:37:59-05:00",
-      "next_retry_at": "2026-11-07T11:37:59-05:00",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Kensington's giveaways page lists it as running Oct 30 to Nov 30, and its general sweepstakes terms use Eastern time, but the entry page returns an error to the page reader, so eligibility, entry method and limit weren't confirmed. Other Kensington giveaways are US-only (not Rhode Island), 18+, via newsletter signup.",
-          "last_attempt_at": "2026-11-04T11:37:59-05:00",
-          "evidence": [
-            "https://www.kensingtonbooks.com/between-the-chapters/giveaways/",
-            "https://www.kensingtonbooks.com/pages/termsconditions/"
-          ],
-          "listing_id": "kensington-holiday-luxe-bundle-giveaway",
-          "decided_at": "2026-11-04T11:37:59-05:00",
-          "next_retry_at": "2026-11-07T11:37:59-05:00"
-        }
-      }
+      "decided_at": "2026-11-12T17:56:21-05:00",
+      "next_retry_at": "2026-11-15T17:56:21-05:00"
     },
     "https://kiisfm.iheart.com/promotions": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
@@ -2233,33 +2196,16 @@
     },
     "https://kingsumo.com/g/19w8xpm/epsom-salt-council-stress-less-express-giveaway/xw28qzn": {
       "attempts": 0,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Sponsor's rules confirm free entry, 21+ and no US state exclusions, but give only a date (entries by Dec 15, 2026) with no time, and state no per-person entry limit. The page says the deadline is Central time.",
-      "last_attempt_at": "2026-11-04T11:39:07-05:00",
+      "reason": "Sponsor's rules (read Nov 4) confirm free entry, 21+ and no US state exclusions, but give only a date (entries by Dec 15, 2026) with no time, and state no per-person entry limit. The page says the deadline is Central time. The rules page didn't come up in web search this run, so it couldn't be re-read for changes.",
+      "last_attempt_at": "2026-11-12T17:56:21-05:00",
       "evidence": [
         "https://kingsumo.com/giveaways/19w8xpm/rules"
       ],
       "listing_id": "epsom-salt-council-stress-less-express-giveaway",
-      "decided_at": "2026-11-04T11:39:07-05:00",
-      "next_retry_at": "2026-11-07T11:39:07-05:00",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Sponsor's rules confirm free entry, 21+ and no US state exclusions, but give only a date (entries by Dec 15, 2026) with no time, and state no per-person entry limit. The page says the deadline is Central time.",
-          "last_attempt_at": "2026-11-04T11:39:07-05:00",
-          "evidence": [
-            "https://kingsumo.com/giveaways/19w8xpm/rules"
-          ],
-          "listing_id": "epsom-salt-council-stress-less-express-giveaway",
-          "decided_at": "2026-11-04T11:39:07-05:00",
-          "next_retry_at": "2026-11-07T11:39:07-05:00"
-        }
-      }
+      "decided_at": "2026-11-12T17:56:21-05:00",
+      "next_retry_at": "2026-11-15T17:56:21-05:00"
     },
     "https://kingsumo.com/g/1dkxzk3/win-a-handcrafted-etchwood-mantel-this-holiday-season/kyozn99": {
       "attempts": 1,
@@ -2710,33 +2656,16 @@
     },
     "https://na.nokiantyres.com/gtg": {
       "attempts": 0,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Sponsor's giveaway page gives the dates (ends Nov 22 11:59 PM ET) and one entry per day, but the official rules page blocks the page reader (robots.txt), so eligibility, free entry and age weren't confirmed. Weekly prizes go to the closest guess, not a random draw.",
-      "last_attempt_at": "2026-11-04T01:27:32-05:00",
+      "reason": "Sponsor's giveaway page gives the dates (ends Nov 22, 11:59 PM ET) and one entry per day, but the official rules page (na.nokiantyres.com/gtg/rules/) didn't come up in web search this run and was robots.txt-blocked before, so eligibility, free entry and age weren't confirmed. Weekly prizes go to the closest guess, not a random draw.",
+      "last_attempt_at": "2026-11-12T17:56:21-05:00",
       "evidence": [
         "https://na.nokiantyres.com/gtg/"
       ],
       "listing_id": "nokian-tyres-virtual-green-tire-giveaway",
-      "decided_at": "2026-11-04T01:27:32-05:00",
-      "next_retry_at": "2026-11-07T01:27:32-05:00",
-      "claim": {
-        "run": "review-2026-11-12",
-        "expires_at": "2026-11-12T20:40:47-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Sponsor's giveaway page gives the dates (ends Nov 22 11:59 PM ET) and one entry per day, but the official rules page blocks the page reader (robots.txt), so eligibility, free entry and age weren't confirmed. Weekly prizes go to the closest guess, not a random draw.",
-          "last_attempt_at": "2026-11-04T01:27:32-05:00",
-          "evidence": [
-            "https://na.nokiantyres.com/gtg/"
-          ],
-          "listing_id": "nokian-tyres-virtual-green-tire-giveaway",
-          "decided_at": "2026-11-04T01:27:32-05:00",
-          "next_retry_at": "2026-11-07T01:27:32-05:00"
-        }
-      }
+      "decided_at": "2026-11-12T17:56:21-05:00",
+      "next_retry_at": "2026-11-15T17:56:21-05:00"
     },
     "https://news.iheart.com/promotions": {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
