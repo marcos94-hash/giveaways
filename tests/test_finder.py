@@ -165,6 +165,45 @@ def test_main_reports_no_entry_samples():
     finally:
         finder.fetch, finder.allowed, finder.SOURCES, finder.dt.date = real
 
+WPO_WEBSITE = """<html><head><meta property="og:title" content="Fresh Express Holiday Sweater Sweepstakes"></head><body>
+<nav><a href="https://www.winprizesonline.com/sweepstakes/">All Sweepstakes</a></nav>
+<h1>Fresh Express Holiday Sweater Sweepstakes</h1><p>Expires 11-23-2026</p>
+<p>Sponsor: <a href="https://freshholiday.brandmoverscf.com">Fresh Express</a></p>
+<p>Website: <a href="https://freshholiday.brandmoverscf.com">freshholiday.brandmoverscf.com</a></p>
+<p><a href="https://www.winprizesonline.com/daily/sweepstakes/">Daily Entry</a></p></body></html>"""
+
+def test_wpo_printed_website_link_is_entry():
+    # Report hints (Nov 13): winprizesonline links the sponsor name and prints the promo address as link text,
+    # with no Enter link and no platform keyword, so "no entry link found". The printed address is the entry link.
+    c = finder.extract("https://www.winprizesonline.com/Fresh-Express-Holiday-Sweater-Sweepstakes/", WPO_WEBSITE, "winprizesonline.com", TODAY)
+    assert c["entry_url"] == "https://freshholiday.brandmoverscf.com", c["entry_url"]
+    assert finder.keep(c, TODAY)[0] == "keep"
+    # A bare brand homepage is not a giveaway page: still no entry link.
+    home = WPO_WEBSITE.replace("freshholiday.brandmoverscf.com", "sazeracwhiskey.com")
+    c2 = finder.extract("https://www.winprizesonline.com/Sazerac-Sweepstakes/", home, "winprizesonline.com", TODAY)
+    assert c2["entry_url"] is None, c2["entry_url"]
+    assert finder.printed_url("https://www.example.com/pages/holiday-2026", "example.com/pages/holiday-2026")
+    assert finder.printed_url("https://www.example.com/promotions/holiday-entry", "https://www.example.com/promotions/holi…")
+    assert not finder.printed_url("https://www.example.com/pages/holiday-2026", "Example Brand")
+    assert not finder.printed_url("https://www.example.com/", "www.example.com")
+    # Keyword links found before keep their place, so existing candidate keys don't change.
+    both = WPO_WEBSITE.replace("</body>", "<a href='https://gleam.io/x/holiday'>gleam</a></body>")
+    assert finder.extract("https://www.winprizesonline.com/x-Sweepstakes/", both, "winprizesonline.com", TODAY)["entry_url"] == "https://gleam.io/x/holiday"
+
+def test_enter_button_to_rules_page_is_last_resort():
+    # Report hints (Nov 13): freestufftimes' "Enter giveaway" button for Regal opens the sponsor's rules page.
+    rules = "https://www.regmovies.com/promotions/animated-la-premier-sweepstakes-rules"
+    page = (f"<html><body><h1>Regal Rewards Animated LA Premiere Sweepstakes</h1><p>Ends: December 1, 2026</p>"
+            f"<p><a href='{rules}'>{rules}</a></p><p><a href='{rules}'>Enter giveaway</a></p></body></html>")
+    c = finder.extract("https://www.freestufftimes.com/contests/13/regal/", page, "freestufftimes.com", TODAY)
+    assert c["entry_url"] == rules and c["rules_url"] == rules, c
+    assert finder.keep(c, TODAY)[0] == "keep"
+    # A real entry link still wins over the rules page.
+    real = "https://www.regmovies.com/promotions/animated-la-premier-sweepstakes"
+    c2 = finder.extract("https://www.freestufftimes.com/contests/13/regal/", page.replace("</body>", f"<a href='{real}'>Enter here</a></body>"),
+                        "freestufftimes.com", TODAY)
+    assert c2["entry_url"] == real and c2["rules_url"] == rules, c2
+
 def test_filters():
     c = finder.extract("https://x.com/c", (FX / "fst_canada.html").read_text(), "freestufftimes.com", TODAY)
     assert finder.keep(c, TODAY)[0] == "keep" and "foreign_only" in c["review_flags"]

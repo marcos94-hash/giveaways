@@ -267,8 +267,22 @@ def flags_for(text, entry_url):
             "purchase_required": purchase, "local_only": local, "social_entry": social}
 
 
+def printed_url(href, txt):
+    """True when the link text is the link's own address, as in winprizesonline's 'Website:' field
+    (text 'freshholiday.brandmoverscf.com'). A bare homepage (sazeracwhiskey.com) doesn't count:
+    it isn't the giveaway page, and as a candidate key it would merge a sponsor's giveaways."""
+    sp = urllib.parse.urlsplit(href)
+    h = host(href)
+    full = (h + sp.path.rstrip("/") + ("?" + sp.query if sp.query else "")).lower()
+    t = re.sub(r"^https?://", "", (txt or "").strip().lower()).removeprefix("www.")
+    t = re.sub(r"(?:…|\.\.\.)$", "", t).rstrip("/")   # sites cut long printed URLs short
+    if not h or len(t) < len(h) or not full.startswith(t):
+        return False
+    return sp.path.strip("/") != "" or h.count(".") >= 2
+
+
 def pick_links(page, source_host):
-    enter = rules = None
+    enter = rules = enter_rules = None
     outbound = []
     for href, txt in page.links:
         if not href.startswith("http") or any(s in href.lower() for s in SHARE):
@@ -283,6 +297,8 @@ def pick_links(page, source_host):
         if looks_rules:
             if rules is None:
                 rules = href
+            if enter_rules is None and "rule" not in tl and re.search(r"\benter\b", tl):
+                enter_rules = href  # an "Enter giveaway" button that opens the sponsor's rules page
             continue
         elif enter is None and re.search(r"\benter\b|click here|go to (?:the )?(?:giveaway|sweepstakes)|entry form", tl):
             enter = href
@@ -293,6 +309,15 @@ def pick_links(page, source_host):
                     and not re.search(r"rules|terms|\.pdf$", path)):
                 enter = href
                 break
+    if enter is None:  # then a printed promo address (a 'Website:' field) that names no platform keyword
+        for href, txt in outbound:
+            path = urllib.parse.urlsplit(href).path.lower()
+            if (not host(href).endswith(SOCIAL) and printed_url(href, txt) and "rule" not in txt.lower()
+                    and not re.search(r"rules|terms|\.pdf$", path)):
+                enter = href
+                break
+    if enter is None and enter_rules:  # last resort: the reviewer finds the entry page from the rules
+        enter = enter_rules
     return enter, rules
 
 
