@@ -205,13 +205,16 @@
       "name": "STONE BREWING VANS WARPED TOUR GUITAR SWEEPSTAKES"
     },
     "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "ViralSweep page didn't come up in web search (nor on jerrygarcia.com), so the page reader couldn't open it (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-13T17:57:23-05:00",
+      "evidence": [
+        "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1"
+      ],
+      "next_retry_at": "2026-11-14T17:57:23-05:00",
+      "name": "GarciaLive Volume 8 Beat The Line Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
       "attempts": 2,
@@ -1363,13 +1366,16 @@
       "name": "GigaParts x Anker eufyMake E1 Sweepstakes"
     },
     "https://gleam.io/00lF8/retay-drakes-outfitter-tour-kick-off-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam page didn't come up in web search and Gleam returns a client error to the page reader, so the prize and terms weren't read. RETAY makes shotguns and Drake's is a waterfowl hunting brand, so check whether the prize is a firearm (excluded) before listing.",
+      "last_attempt_at": "2026-11-13T17:57:23-05:00",
+      "evidence": [
+        "https://gleam.io/00lF8/retay-drakes-outfitter-tour-kick-off-giveaway"
+      ],
+      "next_retry_at": "2026-11-14T17:57:23-05:00",
+      "name": "RETAY & Drake's Outfitter Tour Kick Off Giveaway"
     },
     "https://gleam.io/3088i/2026-perfect-vacation-giveaway?gsr=3088i-oxbJdrAtU2": {
       "attempts": 0,
@@ -1425,13 +1431,16 @@
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
     "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam page didn't come up in web search (nor on shunnarah.com) and Gleam returns a client error to the page reader, so the terms weren't read. Shunnarah is an Alabama law firm, so check for an Alabama-only restriction.",
+      "last_attempt_at": "2026-11-13T17:57:23-05:00",
+      "evidence": [
+        "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway"
+      ],
+      "next_retry_at": "2026-11-14T17:57:23-05:00",
+      "name": "Shunnarah's Iron Bowl Giveaway"
     },
     "https://gleam.io/83D2Q/mas-laws-thanksgiving-giveaway-2-100-visa-gift-cards?gsr=83D2Q-oCfe7ZfaFQ": {
       "attempts": 1,
@@ -1458,13 +1467,16 @@
       "name": "Win A KnifeSaga X4 Pro 15-Piece Knife Set With Wood Block"
     },
     "https://gleam.io/8KDbS/utterance-200-steam-credit-giveaway-playtest": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam page didn't come up in web search and Gleam returns a client error to the page reader, so the terms weren't read.",
+      "last_attempt_at": "2026-11-13T17:57:23-05:00",
+      "evidence": [
+        "https://gleam.io/8KDbS/utterance-200-steam-credit-giveaway-playtest"
+      ],
+      "next_retry_at": "2026-11-14T17:57:23-05:00",
+      "name": "Utterance: $200 Steam Credit Giveaway"
     },
     "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-": {
       "attempts": 2,
@@ -1541,13 +1553,16 @@
       "name": "Win a Year of Wild Woman Box + 5 Holiday Boxes to Give"
     },
     "https://gleam.io/Lzq1j/primary-x-zazzle-holiday-giveaway?gsr=Lzq1j-pfL16sLUn0": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam page didn't come up in web search, Gleam returns a client error to the page reader, and Perplexity had no copy, so the terms weren't read. This key is a Gleam share link (gsr= parameter).",
+      "last_attempt_at": "2026-11-13T17:57:23-05:00",
+      "evidence": [
+        "https://gleam.io/Lzq1j/primary-x-zazzle-holiday-giveaway?gsr=Lzq1j-pfL16sLUn0"
+      ],
+      "next_retry_at": "2026-11-14T17:57:23-05:00",
+      "name": "Primary Zazzle $1,000 Giveaway"
     },
     "https://gleam.io/Ml78w/olight-black-friday-live-reserve-win-800?gsr=Ml78w-pgwIdFCG5j": {
       "attempts": 1,
