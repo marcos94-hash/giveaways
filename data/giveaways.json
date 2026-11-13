@@ -1946,17 +1946,23 @@
       },
       "min_age": 18,
       "flags": {},
-      "notes": "Form asks for name, email and address.",
+      "notes": "Avon's monthly beauty sweepstakes (the prize pack changes each month). The form asks for name, email and mailing address; the marketing-email checkbox is optional.",
       "verification": {
         "status": "needs_rules_check",
-        "rules_source": "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes",
-        "checked_at": "2026-11-04T12:08-05:00",
-        "evidence": [
-          "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes"
-        ],
-        "reason": "Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the linked official rules weren't readable, so the entry limit and prize value aren't confirmed.",
+        "rules_source": null,
+        "checked_at": "2026-11-13T17:57:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": false
+        },
+        "reason": "Rechecked Nov 13: Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the official rules still weren't read (the page reader didn't get the rules link's address, and the rules didn't turn up in web search or Perplexity), so the entry limit and prize details aren't confirmed.",
         "missing": [
           "entry_limit"
+        ],
+        "evidence": [
+          "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes"
         ]
       },
       "added": "2026-11-04",
@@ -2089,15 +2095,22 @@
       "notes": "Spiked-seltzer brand; 21+. Prize per listing: a custom Solo Stove.",
       "verification": {
         "status": "needs_rules_check",
-        "rules_source": "https://sweepstakes.roundisnow.com/mightyswellsolostove2026",
-        "checked_at": "2026-11-04T12:11-05:00",
-        "evidence": [
-          "https://sweepstakes.roundisnow.com/mightyswellsolostove2026"
-        ],
-        "reason": "Entry page (read Nov 4 12:12 ET) says no purchase necessary, US and DC residents 21+, but its Official Rules link is empty, so dates, entry limit and prize details aren't confirmed. End date is the listing site's guess.",
+        "rules_source": null,
+        "checked_at": "2026-11-13T17:57:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Rechecked Nov 13: the official rules still weren't found. The entry page's rules link was empty when read on Nov 4, Mighty Swell's giveaways page loads its list by script, and web search and Perplexity turned up only older Mighty Swell rules. No purchase necessary and US/DC 21+ come from the entry page; the Dec 31 end date is the listing site's guess.",
         "missing": [
           "deadline",
           "entry_limit"
+        ],
+        "evidence": [
+          "https://sweepstakes.roundisnow.com/mightyswellsolostove2026",
+          "https://mightyswell.com/pages/giveaways"
         ]
       },
       "added": "2026-11-04",
@@ -2110,7 +2123,7 @@
     },
     {
       "name": "Tatcha Advent Calendar Giveaway",
-      "prize": "Tatcha 12 Ways to Love Your Skin advent calendar for you and a friend (5 winners per listing site)",
+      "prize": "Two Tatcha 12 Ways to Love Your Skin advent calendars, one for you and one for a friend (5 winners per listing site)",
       "category": "other",
       "entry_url": "https://refer.tatcha.com/october2026sweepstakes",
       "rules_url": null,
@@ -2120,21 +2133,27 @@
       },
       "min_age": 18,
       "flags": {},
-      "notes": "Email entry; referring friends adds entries.",
+      "notes": "Email entry; each referred friend who enters adds an entry.",
       "verification": {
         "status": "needs_rules_check",
-        "rules_source": "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640",
-        "checked_at": "2026-11-04T12:12-05:00",
-        "evidence": [
-          "https://refer.tatcha.com/october2026sweepstakes",
-          "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
-        ],
-        "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
+        "rules_source": null,
+        "checked_at": "2026-11-13T17:57:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Rechecked Nov 13: Tatcha's entry page asks only for an email and links no rules, and its home page says the giveaway ends 11/19 with no time. No official rules turned up in web search or Perplexity, so eligibility, free entry, end time and limit aren't confirmed.",
         "missing": [
           "eligibility",
           "free_entry",
           "deadline",
           "entry_limit"
+        ],
+        "evidence": [
+          "https://refer.tatcha.com/october2026sweepstakes",
+          "https://tatcha.com/"
         ]
       },
       "match": [
@@ -3882,6 +3901,48 @@
       "source": "Claude review 2026-11-13",
       "id": "olipop-holiday-helper-giveaway",
       "rules_checked": "full"
+    },
+    {
+      "name": "Explore La Crosse Rotary Lights Getaway Sweepstakes 2026",
+      "prize": "La Crosse, Wisconsin getaway package worth $1,400+: a night at the Charmant Hotel, 2 La Crosse Symphony tickets and T-shirts (Mar 13, 2027 concert), a horse-drawn carriage ride at Rotary Holiday Lights, and local gift cards",
+      "category": "trip",
+      "entry_url": "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse",
+      "match": [
+        "gleam.io/wSFp4"
+      ],
+      "ends": "2026-11-18T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "notes": "Run by Explore La Crosse, the La Crosse, Wisconsin visitors bureau; its blog post links to this Gleam form. Using the prize means travel to Wisconsin. Eligibility, age and the entry limit are in Gleam's terms, which weren't read.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-13T17:57:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Explore La Crosse's own page gives the prize and says entries are valid Nov 4-19, 2026 (no time), with entry on Gleam. Gleam's terms couldn't be read (Gleam returns a client error to the page reader), so eligibility, free entry, end time and entry limit aren't confirmed. A listing site gives Nov 18 as the last day, so the listing ends then.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://explorelacrosse.com/blog/rotary-lights-getaway-sweepstake-2026/",
+          "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-13",
+      "source": "Claude review 2026-11-13",
+      "id": "explore-la-crosse-rotary-lights-getaway-sweepstakes-2026",
+      "rules_checked": "partial"
     }
   ]
 }

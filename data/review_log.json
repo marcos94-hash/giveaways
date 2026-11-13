@@ -283,33 +283,16 @@
     },
     "https://avon.com/sweepstakes/beauty--cheer-sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the linked official rules weren't readable, so the entry limit and prize value aren't confirmed.",
-      "last_attempt_at": "2026-11-04T12:08:28-05:00",
+      "reason": "Rechecked Nov 13: Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the official rules still weren't read (the page reader didn't get the rules link's address, and the rules didn't turn up in web search or Perplexity), so the entry limit and prize details aren't confirmed.",
+      "last_attempt_at": "2026-11-13T17:58:16-05:00",
       "evidence": [
         "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes"
       ],
       "listing_id": "avon-beauty-cheer-sweepstakes",
-      "decided_at": "2026-11-04T12:08:28-05:00",
-      "next_retry_at": "2026-11-07T12:08:28-05:00",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the linked official rules weren't readable, so the entry limit and prize value aren't confirmed.",
-          "last_attempt_at": "2026-11-04T12:08:28-05:00",
-          "evidence": [
-            "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes"
-          ],
-          "listing_id": "avon-beauty-cheer-sweepstakes",
-          "decided_at": "2026-11-04T12:08:28-05:00",
-          "next_retry_at": "2026-11-07T12:08:28-05:00"
-        }
-      }
+      "decided_at": "2026-11-13T17:58:16-05:00",
+      "next_retry_at": "2026-11-16T17:58:16-05:00"
     },
     "https://ballarddesigns.attn.tv/p/Kn3/landing-page": {
       "attempts": 0,
@@ -1150,13 +1133,16 @@
       "next_retry_at": null
     },
     "https://envisionp.com/holiday-traditions-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "Envision Promotions' page came up in web search and was read, but its entry widget and rules load by script, so only the title and \"$4,700+ in prizes\" were visible: no dates, eligibility or rules. Neither web search nor Perplexity found the rules.",
+      "last_attempt_at": "2026-11-13T17:58:16-05:00",
+      "evidence": [
+        "https://www.envisionp.com/holiday-traditions-giveaway/"
+      ],
+      "next_retry_at": "2026-11-14T17:58:16-05:00",
+      "name": "Holiday Traditions Sweepstakes"
     },
     "https://exmark.com/America250": {
       "attempts": 0,
@@ -1204,12 +1190,17 @@
     },
     "https://explorelacrosse.com/blog/rotary-lights-getaway-sweepstake-2026": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Explore La Crosse's own page gives the prize and says entries are valid Nov 4-19, 2026 (no time), with entry on Gleam. Gleam's terms couldn't be read (Gleam returns a client error to the page reader), so eligibility, free entry, end time and entry limit aren't confirmed. A listing site gives Nov 18 as the last day, so the listing ends then.",
+      "last_attempt_at": "2026-11-13T17:58:16-05:00",
+      "evidence": [
+        "https://explorelacrosse.com/blog/rotary-lights-getaway-sweepstake-2026/",
+        "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse"
+      ],
+      "listing_id": "explore-la-crosse-rotary-lights-getaway-sweepstakes-2026",
+      "decided_at": "2026-11-13T17:58:16-05:00",
+      "next_retry_at": "2026-11-16T17:58:16-05:00"
     },
     "https://ferrerorocher.com/us/en/xp/raise-a-rocher/lead/register/amoe": {
       "attempts": 0,
@@ -1964,12 +1955,17 @@
     },
     "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Explore La Crosse's own page gives the prize and says entries are valid Nov 4-19, 2026 (no time), with entry on Gleam. Gleam's terms couldn't be read (Gleam returns a client error to the page reader), so eligibility, free entry, end time and entry limit aren't confirmed. A listing site gives Nov 18 as the last day, so the listing ends then.",
+      "last_attempt_at": "2026-11-13T17:58:16-05:00",
+      "evidence": [
+        "https://explorelacrosse.com/blog/rotary-lights-getaway-sweepstake-2026/",
+        "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse"
+      ],
+      "listing_id": "explore-la-crosse-rotary-lights-getaway-sweepstakes-2026",
+      "decided_at": "2026-11-13T17:58:16-05:00",
+      "next_retry_at": "2026-11-16T17:58:16-05:00"
     },
     "https://gleam.io/wU0im/gadgetguy-eero-7-3pack-giveaway": {
       "attempts": 1,
@@ -3267,67 +3263,33 @@
     },
     "https://refer.tatcha.com/october2026sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
-      "last_attempt_at": "2026-11-04T12:12:22-05:00",
+      "reason": "Rechecked Nov 13: Tatcha's entry page asks only for an email and links no rules, and its home page says the giveaway ends 11/19 with no time. No official rules turned up in web search or Perplexity, so eligibility, free entry, end time and limit aren't confirmed.",
+      "last_attempt_at": "2026-11-13T17:58:16-05:00",
       "evidence": [
         "https://refer.tatcha.com/october2026sweepstakes",
-        "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
+        "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640",
+        "https://tatcha.com/"
       ],
       "listing_id": "tatcha-advent-calendar-giveaway",
-      "decided_at": "2026-11-04T12:12:22-05:00",
-      "next_retry_at": "2026-11-07T12:12:22-05:00",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
-          "last_attempt_at": "2026-11-04T12:12:22-05:00",
-          "evidence": [
-            "https://refer.tatcha.com/october2026sweepstakes",
-            "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
-          ],
-          "listing_id": "tatcha-advent-calendar-giveaway",
-          "decided_at": "2026-11-04T12:12:22-05:00",
-          "next_retry_at": "2026-11-07T12:12:22-05:00"
-        }
-      }
+      "decided_at": "2026-11-13T17:58:16-05:00",
+      "next_retry_at": "2026-11-16T17:58:16-05:00"
     },
     "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640": {
       "attempts": 0,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
-      "last_attempt_at": "2026-11-04T12:12:22-05:00",
+      "reason": "Rechecked Nov 13: Tatcha's entry page asks only for an email and links no rules, and its home page says the giveaway ends 11/19 with no time. No official rules turned up in web search or Perplexity, so eligibility, free entry, end time and limit aren't confirmed.",
+      "last_attempt_at": "2026-11-13T17:58:16-05:00",
       "evidence": [
         "https://refer.tatcha.com/october2026sweepstakes",
-        "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
+        "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640",
+        "https://tatcha.com/"
       ],
       "listing_id": "tatcha-advent-calendar-giveaway",
-      "decided_at": "2026-11-04T12:12:22-05:00",
-      "next_retry_at": "2026-11-07T12:12:22-05:00",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
-          "last_attempt_at": "2026-11-04T12:12:22-05:00",
-          "evidence": [
-            "https://refer.tatcha.com/october2026sweepstakes",
-            "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
-          ],
-          "listing_id": "tatcha-advent-calendar-giveaway",
-          "decided_at": "2026-11-04T12:12:22-05:00",
-          "next_retry_at": "2026-11-07T12:12:22-05:00"
-        }
-      }
+      "decided_at": "2026-11-13T17:58:16-05:00",
+      "next_retry_at": "2026-11-16T17:58:16-05:00"
     },
     "https://rewards.bing.com/sweeps/promotion": {
       "attempts": 0,
@@ -3749,35 +3711,18 @@
     },
     "https://sweepstakes.roundisnow.com/mightyswellsolostove2026": {
       "attempts": 1,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Entry page (read Nov 4 12:12 ET) says no purchase necessary, US and DC residents 21+, but its Official Rules link is empty, so dates, entry limit and prize details aren't confirmed. End date is the listing site's guess.",
-      "last_attempt_at": "2026-11-04T12:11:51-05:00",
-      "next_retry_at": "2026-11-07T12:11:51-05:00",
+      "reason": "Rechecked Nov 13: the official rules still weren't found. The entry page's rules link was empty when read on Nov 4, Mighty Swell's giveaways page loads its list by script, and web search and Perplexity turned up only older Mighty Swell rules. No purchase necessary and US/DC 21+ come from the entry page; the Dec 31 end date is the listing site's guess.",
+      "last_attempt_at": "2026-11-13T17:58:16-05:00",
+      "next_retry_at": "2026-11-16T17:58:16-05:00",
       "name": "Win a Custom Solo Stove in the Mighty Swell Solo Stove Sweepstakes!",
       "evidence": [
+        "https://mightyswell.com/pages/giveaways",
         "https://sweepstakes.roundisnow.com/mightyswellsolostove2026"
       ],
       "listing_id": "mighty-swell-solo-stove-sweepstakes",
-      "decided_at": "2026-11-04T12:11:51-05:00",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Entry page (read Nov 4 12:12 ET) says no purchase necessary, US and DC residents 21+, but its Official Rules link is empty, so dates, entry limit and prize details aren't confirmed. End date is the listing site's guess.",
-          "last_attempt_at": "2026-11-04T12:11:51-05:00",
-          "next_retry_at": "2026-11-07T12:11:51-05:00",
-          "name": "Win a Custom Solo Stove in the Mighty Swell Solo Stove Sweepstakes!",
-          "evidence": [
-            "https://sweepstakes.roundisnow.com/mightyswellsolostove2026"
-          ],
-          "listing_id": "mighty-swell-solo-stove-sweepstakes",
-          "decided_at": "2026-11-04T12:11:51-05:00"
-        }
-      }
+      "decided_at": "2026-11-13T17:58:16-05:00"
     },
     "https://sweepwidget.com/c/103029-ct8hafeo": {
       "attempts": 1,
@@ -3806,13 +3751,16 @@
       "decided_at": "2026-11-06T17:40:02-05:00"
     },
     "https://sweepwidget.com/c/103119-54jmyal7/f3e48i-103119": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-13T17:58:16-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/103119-54jmyal7/f3e48i-103119"
+      ],
+      "next_retry_at": "2026-11-14T17:58:16-05:00",
+      "name": "The Field Ready Giveaway"
     },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
       "attempts": 3,
