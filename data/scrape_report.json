@@ -1,87 +1,53 @@
 {
- "run_at": "2026-11-13T11:17:02+00:00",
+ "run_at": "2026-11-13T21:17:02+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
-   "detail_links": 45,
-   "parsed": 34,
-   "skipped_seen": 11,
-   "kept": 32,
-   "dropped": {},
+   "detail_links": 41,
+   "parsed": 14,
+   "skipped_seen": 27,
+   "kept": 12,
+   "dropped": {
+    "social-media-only entry": 1
+   },
    "errors": [],
    "samples": [
     {
-     "title": "USA TODAY Project Home Improved $25,000 Giveaway",
-     "entry_url": "http://consumers.secondstreetapp.com/og/b223ecde-2ba8-43bb-b89e-87afa6e96b42/referrals/264d8302-ba2e-4772-9cc1-4c206b66c934",
+     "title": "Nashville's Big Bash Giveaway with Ajax Turner & Twice Daily",
+     "entry_url": "https://www.visitmusiccity.com/newyearseve/giveaway/ajaxturner",
      "rules_url": null,
-     "ends_guess": "2026-11-13",
-     "ends_text": "Last day to enter: Fri, Nov 13",
+     "ends_guess": "2026-12-16",
+     "ends_text": "Last day to enter: Wed, Dec 16",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     },
     {
-     "title": "Cricket Wireless 2026 Celebration Bowl Flyaway Sweepstakes",
-     "entry_url": "https://www.cricketsweepstakes.com/hbcu",
+     "title": "Taste of Nashville’s Food-Scene Giveaway",
+     "entry_url": "https://www.visitmusiccity.com/nashville-restaurant-giveaway",
      "rules_url": null,
-     "ends_guess": null,
-     "ends_text": "end the 20",
+     "ends_guess": "2026-12-10",
+     "ends_text": "Last day to enter: Thu, Dec 10",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     }
    ],
    "retry_later": {
-    "no entry link found": 2
+    "no entry link found": 1
    },
    "no_entry_samples": [
     {
-     "source_url": "https://www.freestufftimes.com/contests/20/regal-rewards-clayface-hollywood-to-horror-sweepstakes/",
-     "title": "Regal Rewards Clayface Hollywood to Horror Sweepstakes",
+     "source_url": "https://www.freestufftimes.com/contests/13/regal-rewards-animated-la-premiere-sweepstakes/",
+     "title": "Regal Rewards® Animated LA Premiere Sweepstakes",
      "entry_link_hints": [
       {
-       "href": "https://www.regmovies.com/promotions/clayface-hollywood-to-horror-sweepstakes-rules",
-       "text": "https://www.regmovies.com/promotions/clayface-hollywood-to-h",
+       "href": "https://www.regmovies.com/promotions/animated-la-premier-sweepstakes-rules",
+       "text": "https://www.regmovies.com/promotions/animated-la-premier-swe",
        "onsite": false
       },
       {
-       "href": "https://www.regmovies.com/promotions/clayface-hollywood-to-horror-sweepstakes-rules",
-       "text": "Enter giveaway",
-       "onsite": false
-      },
-      {
-       "href": "https://apps.apple.com/us/app/free-stuff-times-freebies/id347844436",
-       "text": "iPhone",
-       "onsite": false
-      },
-      {
-       "href": "https://play.google.com/store/apps/details?id=com.mobileapps.freestufftimes",
-       "text": "Android",
-       "onsite": false
-      },
-      {
-       "href": "https://www.freestufftimes.com/contests/category/one-entry/",
-       "text": "One Entry",
-       "onsite": true
-      },
-      {
-       "href": "https://www.freestufftimes.com/site-map",
-       "text": "Site Map",
-       "onsite": true
-      }
-     ]
-    },
-    {
-     "source_url": "https://www.freestufftimes.com/contests/12/regal-rewards-i-play-rocky-philadelphia-travel-sweepstakes/",
-     "title": "Regal Rewards I Play Rocky Philadelphia Travel Sweepstakes",
-     "entry_link_hints": [
-      {
-       "href": "https://www.regmovies.com/promotions/i-play-rocky-philadelphia-travel-sweepstakes-rules",
-       "text": "https://www.regmovies.com/promotions/i-play-rocky-philadelph",
-       "onsite": false
-      },
-      {
-       "href": "https://www.regmovies.com/promotions/i-play-rocky-philadelphia-travel-sweepstakes-rules",
+       "href": "https://www.regmovies.com/promotions/animated-la-premier-sweepstakes-rules",
        "text": "Enter giveaway",
        "onsite": false
       },
@@ -112,59 +78,70 @@
   "thefreebieguy": {
    "listing_pages": 2,
    "detail_links": 275,
-   "parsed": 0,
-   "skipped_seen": 275,
-   "kept": 0,
+   "parsed": 1,
+   "skipped_seen": 274,
+   "kept": 1,
    "dropped": {},
    "errors": [],
-   "samples": []
+   "samples": [
+    {
+     "title": "221 Winners Will Take Home $3,000 Cash, & More in the Budweiser Winter Contest",
+     "entry_url": "https://us.budweiser.com/Winter2026",
+     "rules_url": "https://us.budweiser.com/rules#wintercontest",
+     "ends_guess": "2026-12-31",
+     "ends_text": "ENDING – \nDecember 31, 2026",
+     "frequency_guess": "once",
+     "min_age_guess": 21,
+     "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
+    }
+   ]
   },
   "winprizesonline": {
    "listing_pages": 2,
    "detail_links": 20,
-   "parsed": 10,
-   "skipped_seen": 10,
+   "parsed": 7,
+   "skipped_seen": 13,
    "kept": 3,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Hallmark Countdown to Christmas Sweepstakes",
-     "entry_url": null,
+     "title": "Mogsy Playstation and GTA Sweepstakes",
+     "entry_url": "https://gleam.io/dydV3/ps5-pro-gta6-giveaway",
      "rules_url": null,
-     "ends_guess": "2026-12-29",
-     "ends_text": "Expires\n 12-29-2026",
+     "ends_guess": "2026-12-11",
+     "ends_text": "Expires\n 12-11-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Hallmark"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Mogsy Pl"
     },
     {
-     "title": "Fuel for Your Holidays Sweepstakes",
+     "title": "Fresh Express Holiday Sweater Sweepstakes",
      "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-12-31",
-     "ends_text": "Expires\n 12-31-2026",
+     "ends_guess": "2026-11-23",
+     "ends_text": "Expires\n 11-23-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Fuel for"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Fresh Ex"
     }
    ],
    "retry_later": {
-    "no entry link found": 7
+    "no entry link found": 4
    },
    "no_entry_samples": [
     {
-     "source_url": "https://www.winprizesonline.com/Hallmark-Countdown-to-Christmas-Sweepstakes/",
-     "title": "Hallmark Countdown to Christmas Sweepstakes",
+     "source_url": "https://www.winprizesonline.com/Fresh-Express-Holiday-Sweater-Sweepstakes/",
+     "title": "Fresh Express Holiday Sweater Sweepstakes",
      "entry_link_hints": [
       {
-       "href": "https://christmasmoviegame.hallmarkchannel.com",
-       "text": "Hallmark Channel",
+       "href": "https://freshholiday.brandmoverscf.com",
+       "text": "Fresh Express",
        "onsite": false
       },
       {
-       "href": "https://christmasmoviegame.hallmarkchannel.com",
-       "text": "christmasmoviegame.hallmarkchannel.com",
+       "href": "https://freshholiday.brandmoverscf.com",
+       "text": "freshholiday.brandmoverscf.com",
        "onsite": false
       },
       {
@@ -180,17 +157,17 @@
      ]
     },
     {
-     "source_url": "https://www.winprizesonline.com/Fuel-for-Your-Holidays-Sweepstakes/",
-     "title": "Fuel for Your Holidays Sweepstakes",
+     "source_url": "https://www.winprizesonline.com/Sazerac-Holiday-Whiskey-Glassware-Giveaway/",
+     "title": "Sazerac Holiday Whiskey Glassware Giveaway",
      "entry_link_hints": [
       {
-       "href": "https://sparklingicefuelyourholidays.com",
-       "text": "Sparkling Ice",
+       "href": "https://sazeracwhiskey.com",
+       "text": "Sazerac",
        "onsite": false
       },
       {
-       "href": "https://sparklingicefuelyourholidays.com",
-       "text": "sparklingicefuelyourholidays.com",
+       "href": "https://sazeracwhiskey.com",
+       "text": "sazeracwhiskey.com",
        "onsite": false
       },
       {
@@ -208,6 +185,6 @@
    ]
   }
  },
- "total_candidates": 632,
- "details_budget_left": 106
+ "total_candidates": 646,
+ "details_budget_left": 128
 }

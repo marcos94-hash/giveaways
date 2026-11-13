@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T11:17:02+00:00",
- "count": 632,
+ "updated": "2026-11-13T21:17:02+00:00",
+ "count": 646,
  "candidates": {
   "http://consumers.secondstreetapp.com/og/b223ecde-2ba8-43bb-b89e-87afa6e96b42/referrals/264d8302-ba2e-4772-9cc1-4c206b66c934": {
    "title": "USA TODAY Project Home Improved $25,000 Giveaway",
@@ -783,30 +783,30 @@
    "last_seen": "2026-11-13"
   },
   "https://us.budweiser.com/Winter2026": {
-   "title": "Budweiser 150 Crate Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/12/budweiser-150-crate-giveaway/",
+   "title": "221 Winners Will Take Home $3,000 Cash, & More in the Budweiser Winter Contest",
+   "source_url": "https://thefreebieguy.com/sweepstakes/221-winners-will-take-home-3000-cash-more-in-the-budweiser-winter-contest/",
    "entry_url": "https://us.budweiser.com/Winter2026",
-   "rules_url": null,
-   "ends_guess": "2026-11-18",
-   "ends_text": "Last day to enter: Wed, Nov 18",
-   "ends_how": "inferred",
-   "frequency_guess": "daily",
-   "min_age_guess": null,
+   "rules_url": "https://us.budweiser.com/rules#wintercontest",
+   "ends_guess": "2026-12-31",
+   "ends_text": "ENDING – \nDecember 31, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 21,
    "value_guess": 3000,
    "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
-    "nj_excluded": false,
+    "nj_excluded": true,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
    "review_flags": [
-    "end_date_inferred"
+    "nj_excluded"
    ],
    "key": "https://us.budweiser.com/Winter2026",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-13"
   },
@@ -888,6 +888,388 @@
    },
    "review_flags": [],
    "key": "https://boost12daysofgiveaways.com/v/2c11b371-7bf8-4537-b384-401e5577ea2e/code_batch-1/ea48705e-ff67-418a-9ac5-db968e8bd6cb",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://visitmusiccity.com/newyearseve/giveaway/ajaxturner": {
+   "title": "Nashville's Big Bash Giveaway with Ajax Turner & Twice Daily",
+   "source_url": "https://www.freestufftimes.com/contests/13/nashvilles-big-bash-giveaway-with-ajax-turner-twice-daily/",
+   "entry_url": "https://www.visitmusiccity.com/newyearseve/giveaway/ajaxturner",
+   "rules_url": null,
+   "ends_guess": "2026-12-16",
+   "ends_text": "Last day to enter: Wed, Dec 16",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://visitmusiccity.com/newyearseve/giveaway/ajaxturner",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://visitmusiccity.com/nashville-restaurant-giveaway": {
+   "title": "Taste of Nashville’s Food-Scene Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/13/taste-of-nashvilles-food-scene-giveaway/",
+   "entry_url": "https://www.visitmusiccity.com/nashville-restaurant-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-12-10",
+   "ends_text": "Last day to enter: Thu, Dec 10",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://visitmusiccity.com/nashville-restaurant-giveaway",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://nbc.com/the-voice/exclusives/orlando-flyaway-sweepstakes": {
+   "title": "NBC The Voice--Orlando Flyaway Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/13/nbc-the-voice-orlando-flyaway-sweepstakes/",
+   "entry_url": "https://www.nbc.com/the-voice/exclusives/orlando-flyaway-sweepstakes",
+   "rules_url": null,
+   "ends_guess": "2026-12-14",
+   "ends_text": "Last day to enter: Mon, Dec 14",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://nbc.com/the-voice/exclusives/orlando-flyaway-sweepstakes",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://freshholiday.brandmoverscf.com/": {
+   "title": "Fresh Express Ugly Sweater” Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/13/fresh-express-ugly-sweater-sweepstakes/",
+   "entry_url": "https://freshholiday.brandmoverscf.com/",
+   "rules_url": null,
+   "ends_guess": "2026-11-23",
+   "ends_text": "Last day to enter: Mon, Nov 23",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://freshholiday.brandmoverscf.com/",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://wedderspoon.com/pages/giveaway": {
+   "title": "Wedderspoon Winter Wellness Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/13/wedderspoon-winter-wellness-giveaway/",
+   "entry_url": "https://wedderspoon.com/pages/giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-20",
+   "ends_text": "Last day to enter: Fri, Nov 20",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://wedderspoon.com/pages/giveaway",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://perdue.com/giveaway": {
+   "title": "Perdue Win a Year’s Worth of Chicken Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/13/perdue-win-a-years-worth-of-chicken-sweepstakes/",
+   "entry_url": "https://www.perdue.com/giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-22",
+   "ends_text": "Last day to enter: Sun, Nov 22",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://perdue.com/giveaway",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://valvolineglobal.com/en/promotions/advance-auto-parts/weeklywinners": {
+   "title": "Valvoline's Oil Change on Us Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/13/valvolines-oil-change-on-us-sweepstakes/",
+   "entry_url": "https://www.valvolineglobal.com/en/promotions/advance-auto-parts/weeklywinners/",
+   "rules_url": null,
+   "ends_guess": "2027-01-05",
+   "ends_text": "Last day to enter: Tue, Jan 5, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://valvolineglobal.com/en/promotions/advance-auto-parts/weeklywinners",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://dovemenholidayplaybook.com/": {
+   "title": "Dove Men Holiday Playbook Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/13/dove-men-holiday-playbook-sweepstakes/",
+   "entry_url": "https://dovemenholidayplaybook.com/",
+   "rules_url": null,
+   "ends_guess": "2027-01-18",
+   "ends_text": "Last day to enter: Mon, Jan 18, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 30000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://dovemenholidayplaybook.com/",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://carnivalrewards.com/shaq": {
+   "title": "Carnival Shaq’s Ginormous Points Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/13/carnival-shaqs-ginormous-points-giveaway/",
+   "entry_url": "https://carnivalrewards.com/shaq",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Last day to enter: Mon, Nov 30",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://carnivalrewards.com/shaq",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://theview.abcaudiencegiveaways.com/emeraldcruises": {
+   "title": "The View's Athens to Istanbul Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/13/the-views-athens-to-istanbul-sweepstakes/",
+   "entry_url": "https://theview.abcaudiencegiveaways.com/emeraldcruises",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Last day to enter: Thu, Dec 31",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://theview.abcaudiencegiveaways.com/emeraldcruises",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://swpp.me/e/bmsweepstakes": {
+   "title": "Beyond Menu $5,000 Gift Card Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/13/beyond-menu-5000-gift-card-sweepstakes/",
+   "entry_url": "https://swpp.me/e/bmsweepstakes",
+   "rules_url": null,
+   "ends_guess": "2027-03-31",
+   "ends_text": "Last day to enter: Wed, Mar 31, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://swpp.me/e/bmsweepstakes",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://shoplc.com/pages/giveaways": {
+   "title": "Shop LC Thanksgiving Countdown Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/13/shop-lc-thanksgiving-countdown-sweepstakes/",
+   "entry_url": "https://www.shoplc.com/pages/giveaways",
+   "rules_url": null,
+   "ends_guess": "2026-11-24",
+   "ends_text": "Last day to enter: Tue, Nov 24",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 25000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://shoplc.com/pages/giveaways",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://gleam.io/dydV3/ps5-pro-gta6-giveaway": {
+   "title": "Mogsy Playstation and GTA Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Mogsy-Playstation-and-GTA-Sweepstakes/",
+   "entry_url": "https://gleam.io/dydV3/ps5-pro-gta6-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-12-11",
+   "ends_text": "Expires\n 12-11-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 25000,
+   "category_guess": "electronics",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://gleam.io/dydV3/ps5-pro-gta6-giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  "https://bookthrone.com/november-non-fiction-reader-giveaway": {
+   "title": "Book Throne Non-Fiction Reader Giveaway",
+   "source_url": "https://www.winprizesonline.com/Book-Throne-Non-Fiction-Reader-Giveaway/",
+   "entry_url": "https://www.bookthrone.com/november-non-fiction-reader-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-12-10",
+   "ends_text": "Expires\n 12-10-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 25000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://bookthrone.com/november-non-fiction-reader-giveaway",
    "source": "winprizesonline",
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-13"
@@ -1709,17 +2091,17 @@
    "last_seen": "2026-11-12"
   },
   "https://gleam.io/14mn9/12-days-of-christmas-gifts-part-01": {
-   "title": "Lisen 12 DAYS OF CHRISTMAS GIFTS — PART 01",
-   "source_url": "https://www.freestufftimes.com/contests/12/lisen-12-days-of-christmas-gifts-part-01/",
+   "title": "Lisen 12 Days of Christmas Gifts Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Lisen-12-Days-of-Christmas-Gifts-Sweepstakes/",
    "entry_url": "https://gleam.io/14mn9/12-days-of-christmas-gifts-part-01",
    "rules_url": null,
-   "ends_guess": "2026-11-23",
-   "ends_text": "Last day to enter: Mon, Nov 23",
-   "ends_how": "inferred",
+   "ends_guess": "2026-11-22",
+   "ends_text": "Expires\n 11-22-2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 25000,
+   "category_guess": "gift_card",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -1728,13 +2110,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://gleam.io/14mn9/12-days-of-christmas-gifts-part-01",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   "https://sazeracwhiskey.com/(X(1)S(sg0nwmvzkgyq1x45ew1ix0bo))/register.aspx": {
    "title": "1,038 Win a Tasting Kit in The Sazerac Holiday Glassware Sweeps!",
