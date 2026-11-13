@@ -2305,13 +2305,16 @@
       ]
     },
     "https://kingsumo.com/g/107jkv3/win-2-poppy-odyssey-ii-crochet-hooks": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "KingSumo page and its rules page didn't come up in web search (only other Furls Crochet KingSumo giveaways did), so the page reader couldn't open them (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-13T17:57:07-05:00",
+      "evidence": [
+        "https://kingsumo.com/g/107jkv3/win-2-poppy-odyssey-ii-crochet-hooks"
+      ],
+      "next_retry_at": "2026-11-14T17:57:07-05:00",
+      "name": "Win 2 Poppy Odyssey II Crochet Hooks"
     },
     "https://kingsumo.com/g/107jyv3/win-a-vato-tuned-honda-obd1-pnp-standalone-ecu": {
       "attempts": 0,
@@ -2432,13 +2435,16 @@
       "name": "VeRUS Pet Foods Dry & Wet Food Giveaway"
     },
     "https://kingsumo.com/g/3zjkpx1/win-two-steel-size-odyssey-ii-hooks-size-5-cotton-thread-pattern-of-choice": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "KingSumo page and its rules page didn't come up in web search (only other Furls Crochet KingSumo giveaways did), so the page reader couldn't open them (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-13T17:57:07-05:00",
+      "evidence": [
+        "https://kingsumo.com/g/3zjkpx1/win-two-steel-size-odyssey-ii-hooks-size-5-cotton-thread-pattern-of-choice"
+      ],
+      "next_retry_at": "2026-11-14T17:57:07-05:00",
+      "name": "Win Two Steel size Odyssey II Hooks, Size 5 Cotton Thread + Pattern of choice"
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -3944,31 +3950,40 @@
       "name": "stphmoto 10k Giveaway"
     },
     "https://sweepwidget.com/c/103457-di2na1be": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-13T17:57:07-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/103457-di2na1be"
+      ],
+      "next_retry_at": "2026-11-14T17:57:07-05:00",
+      "name": "GTA 6 GIVEAWAY"
     },
     "https://sweepwidget.com/c/103466-acu4r7nh": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-13T17:57:07-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/103466-acu4r7nh"
+      ],
+      "next_retry_at": "2026-11-14T17:57:07-05:00",
+      "name": "Mosky Golden Horse guitar overdrive pedal Giveaway"
     },
     "https://sweepwidget.com/c/98809-w42okmt5": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-13",
-        "expires_at": "2026-11-13T20:42:42-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "last_attempt_at": "2026-11-13T17:57:07-05:00",
+      "evidence": [
+        "https://sweepwidget.com/c/98809-w42okmt5"
+      ],
+      "next_retry_at": "2026-11-14T17:57:07-05:00",
+      "name": "Truth or Play Giveaway"
     },
     "https://tablotv.com/contest": {
       "name": "Tablo Race Weekend Sweepstakes",
