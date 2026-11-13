@@ -1,6 +1,15 @@
 {
   "version": 2,
   "items": {
+    "http://consumers.secondstreetapp.com/og/b223ecde-2ba8-43bb-b89e-87afa6e96b42/referrals/264d8302-ba2e-4772-9cc1-4c206b66c934": {
+      "attempts": 0,
+      "name": "USA TODAY Project Home Improved $25,000 Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-13T17:39:55-05:00"
+    },
     "https://2026bigsipz16k.com/home": {
       "attempts": 0,
       "status": "listed",
@@ -195,6 +204,15 @@
       "next_retry_at": "2026-11-09T17:51:23-05:00",
       "name": "STONE BREWING VANS WARPED TOUR GUITAR SWEEPSTAKES"
     },
+    "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
+    },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
       "attempts": 2,
       "status": "ended",
@@ -262,7 +280,7 @@
     },
     "https://avon.com/sweepstakes/beauty--cheer-sweepstakes": {
       "attempts": 0,
-      "status": "listed",
+      "status": "in_progress",
       "reason_code": "needs_rules_check",
       "reason": "Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the linked official rules weren't readable, so the entry limit and prize value aren't confirmed.",
       "last_attempt_at": "2026-11-04T12:08:28-05:00",
@@ -271,7 +289,24 @@
       ],
       "listing_id": "avon-beauty-cheer-sweepstakes",
       "decided_at": "2026-11-04T12:08:28-05:00",
-      "next_retry_at": "2026-11-07T12:08:28-05:00"
+      "next_retry_at": "2026-11-07T12:08:28-05:00",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "listed",
+          "reason_code": "needs_rules_check",
+          "reason": "Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the linked official rules weren't readable, so the entry limit and prize value aren't confirmed.",
+          "last_attempt_at": "2026-11-04T12:08:28-05:00",
+          "evidence": [
+            "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes"
+          ],
+          "listing_id": "avon-beauty-cheer-sweepstakes",
+          "decided_at": "2026-11-04T12:08:28-05:00",
+          "next_retry_at": "2026-11-07T12:08:28-05:00"
+        }
+      }
     },
     "https://ballarddesigns.attn.tv/p/Kn3/landing-page": {
       "attempts": 0,
@@ -367,12 +402,13 @@
     },
     "https://blisterreview.com/blister-gear-giveaway/win-a-sports-nutrition-package-from-tailwind": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Blister giveaway page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run; web search found other Blister giveaways but not this one or its rules",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-07T17:58:13-05:00",
-      "next_retry_at": "2026-11-08T17:58:13-05:00",
-      "name": "Win a Sports Nutrition Package from Tailwind"
+      "next_retry_at": null,
+      "name": "Win a Sports Nutrition Package from Tailwind",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://bobbybones.iheart.com/promotions/fontainebleau-las-vegas-oasis-ice-rink-1929326": {
       "attempts": 1,
@@ -607,15 +643,16 @@
       "attempts": 0,
       "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "The listing's short link blocks automated readers; it matches Chewy Claus (ends Dec 24). Chewy's FAQ says Nov 2 to Dec 24 11:59 PM, free with no Chewy account, 18+ in the 48 contiguous states and DC, but the official rules (entry limit, prize count) weren't readable.",
-      "last_attempt_at": "2026-11-04T11:49:12-05:00",
+      "reason": "Official rules read in full Nov 13: 48 contiguous states and DC, 18+, no purchase necessary, one entry per person, random drawings for 14,000 boxes. They give the entry period only as Nov 6 through Dec 24, 2026, with no end time or time zone, so the listing ends at 11:59 PM ET Dec 24 (Chewy is in Florida).",
+      "last_attempt_at": "2026-11-13T17:51:28-05:00",
       "evidence": [
         "https://be.chewy.com/chewy-claus-terms-conditions",
+        "https://www.chewy.com/app/content/chewy-claus-terms-and-conditions",
         "https://www.chewy.com/education/chewy-claus"
       ],
       "listing_id": "chewy-claus-2026-pet-holiday-letter-sweepstakes",
-      "decided_at": "2026-11-04T11:49:12-05:00",
-      "next_retry_at": "2026-11-07T11:49:12-05:00"
+      "decided_at": "2026-11-13T17:51:28-05:00",
+      "next_retry_at": "2026-11-16T17:51:28-05:00"
     },
     "https://chipotle.com/giveaway": {
       "attempts": 0,
@@ -1008,6 +1045,20 @@
       "name": "Craig Morgan Nashville Experience Giveaway",
       "decided_at": "2026-11-07T17:40:01-05:00"
     },
+    "https://drinkolipop.com/pages/holiday-helper-giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-13T17:54:32-05:00",
+      "evidence": [
+        "https://drinkolipop.com/pages/holiday-helper-giveaway",
+        "https://drinkolipop.com/pages/holiday-helper-giveaway-official-rules-2026"
+      ],
+      "listing_id": "olipop-holiday-helper-giveaway",
+      "decided_at": "2026-11-13T17:54:32-05:00",
+      "next_retry_at": null
+    },
     "https://drpeppersweeps.com/holiday": {
       "attempts": 0,
       "status": "rejected",
@@ -1023,7 +1074,7 @@
     },
     "https://dunkin.promo.eprize.com/fall26": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Sponsor rules were read only in excerpts: they give free Dunkin' At Home Extra members one Instant Win Reveal play a day (50 states and DC, 18+, ends Nov 13 noon ET) and no purchase step appeared for that play, but the full how-to-play text and the entry page address weren't read",
       "last_attempt_at": "2026-11-06T18:03:51-05:00",
@@ -1031,22 +1082,22 @@
         "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf"
       ],
       "listing_id": "dunkin-at-home-extravaganza-arcade-instant-win-game",
-      "decided_at": "2026-11-06T18:03:51-05:00",
-      "next_retry_at": "2026-11-09T18:03:51-05:00"
+      "decided_at": "2026-11-13T17:39:55-05:00",
+      "next_retry_at": null
     },
     "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf": {
       "attempts": 1,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Sponsor rules were read only in excerpts: they give free Dunkin' At Home Extra members one Instant Win Reveal play a day (50 states and DC, 18+, ends Nov 13 noon ET) and no purchase step appeared for that play, but the full how-to-play text and the entry page address weren't read",
       "last_attempt_at": "2026-11-06T18:03:51-05:00",
       "evidence": [
         "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf"
       ],
-      "next_retry_at": "2026-11-09T18:03:51-05:00",
+      "next_retry_at": null,
       "name": "80,000+ Prizes in the Dunkin' At Home EXTRAvaganza Arcade Instant Win Game!",
       "listing_id": "dunkin-at-home-extravaganza-arcade-instant-win-game",
-      "decided_at": "2026-11-06T18:03:51-05:00"
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://ebacamoe.com/official-rules": {
       "attempts": 0,
@@ -1095,31 +1146,44 @@
       "decided_at": "2026-11-04T12:07:41-05:00",
       "next_retry_at": null
     },
+    "https://envisionp.com/holiday-traditions-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
+    },
     "https://exmark.com/America250": {
       "attempts": 0,
       "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Sponsor's rules confirm free registration, US residents 18+ and one entry per person, but give the end date (Dec 12, 2026) with no time or time zone; the rules also give two different entry URLs (exmark.com/America250 and exmark.com/usa250).",
-      "last_attempt_at": "2026-11-04T11:50:42-05:00",
+      "reason": "Rules re-read Nov 13: US residents 18+, no purchase necessary, limit one entry per person, open Oct 21 through Dec 12, 2026, but still no end time or time zone (sponsor is in Nebraska), so the listing ends at 11:59 PM ET Dec 12. The rules name both exmark.com/America250 and exmark.com/usa250 as the sign-up page.",
+      "last_attempt_at": "2026-11-13T17:51:28-05:00",
       "evidence": [
-        "https://www.exmark.com/America250/official-rules"
+        "https://www.exmark.com/America250",
+        "https://www.exmark.com/America250/official-rules",
+        "https://www.exmark.com/america250/official-rules"
       ],
       "listing_id": "exmark-built-to-be-an-american-legend-giveaway",
-      "decided_at": "2026-11-04T11:50:42-05:00",
-      "next_retry_at": "2026-11-07T11:50:42-05:00"
+      "decided_at": "2026-11-13T17:51:28-05:00",
+      "next_retry_at": "2026-11-16T17:51:28-05:00"
     },
     "https://exmark.com/America250/official-rules": {
       "attempts": 0,
       "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Sponsor's rules confirm free registration, US residents 18+ and one entry per person, but give the end date (Dec 12, 2026) with no time or time zone; the rules also give two different entry URLs (exmark.com/America250 and exmark.com/usa250).",
-      "last_attempt_at": "2026-11-04T11:50:42-05:00",
+      "reason": "Rules re-read Nov 13: US residents 18+, no purchase necessary, limit one entry per person, open Oct 21 through Dec 12, 2026, but still no end time or time zone (sponsor is in Nebraska), so the listing ends at 11:59 PM ET Dec 12. The rules name both exmark.com/America250 and exmark.com/usa250 as the sign-up page.",
+      "last_attempt_at": "2026-11-13T17:51:28-05:00",
       "evidence": [
-        "https://www.exmark.com/America250/official-rules"
+        "https://www.exmark.com/America250",
+        "https://www.exmark.com/America250/official-rules",
+        "https://www.exmark.com/america250/official-rules"
       ],
       "listing_id": "exmark-built-to-be-an-american-legend-giveaway",
-      "decided_at": "2026-11-04T11:50:42-05:00",
-      "next_retry_at": "2026-11-07T11:50:42-05:00"
+      "decided_at": "2026-11-13T17:51:28-05:00",
+      "next_retry_at": "2026-11-16T17:51:28-05:00"
     },
     "https://experiencesiouxfalls.com/sioux-falls-sourced": {
       "attempts": 0,
@@ -1134,6 +1198,15 @@
       "listing_id": "sioux-falls-sourced-box-sweepstakes-fall-box",
       "decided_at": "2026-11-09T18:15:14-05:00",
       "next_retry_at": "2026-11-12T18:15:14-05:00"
+    },
+    "https://explorelacrosse.com/blog/rotary-lights-getaway-sweepstake-2026": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
     },
     "https://ferrerorocher.com/us/en/xp/raise-a-rocher/lead/register/amoe": {
       "attempts": 0,
@@ -1289,6 +1362,15 @@
       "decided_at": "2026-11-04T01:28:51-05:00",
       "name": "GigaParts x Anker eufyMake E1 Sweepstakes"
     },
+    "https://gleam.io/00lF8/retay-drakes-outfitter-tour-kick-off-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/3088i/2026-perfect-vacation-giveaway?gsr=3088i-oxbJdrAtU2": {
       "attempts": 0,
       "name": "Mountain America Federal Credit Union 2026 Perfect Vacation Giveaway",
@@ -1342,6 +1424,15 @@
       "name": "SSD Nodes Black Friday Giveaway",
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
+    "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/83D2Q/mas-laws-thanksgiving-giveaway-2-100-visa-gift-cards?gsr=83D2Q-oCfe7ZfaFQ": {
       "attempts": 1,
       "status": "blocked",
@@ -1366,6 +1457,15 @@
       "next_retry_at": "2026-11-13T17:55:45-05:00",
       "name": "Win A KnifeSaga X4 Pro 15-Piece Knife Set With Wood Block"
     },
+    "https://gleam.io/8KDbS/utterance-200-steam-credit-giveaway-playtest": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-": {
       "attempts": 2,
       "status": "blocked",
@@ -1380,15 +1480,16 @@
     },
     "https://gleam.io/EEb9t/giveaway-elfie-the-owl-bundle": {
       "attempts": 2,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the Gleam page; terms not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-05T17:53:37-05:00",
-      "next_retry_at": "2026-11-07T17:53:37-05:00",
+      "next_retry_at": null,
       "name": "Elfie the Owl Bundle Giveaway",
       "evidence": [
         "https://gleam.io/EEb9t/giveaway-elfie-the-owl-bundle"
-      ]
+      ],
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://gleam.io/FOZj9/free-lat-trigger?gsr=FOZj9-pa0Aoi29Hn": {
       "attempts": 0,
@@ -1438,6 +1539,15 @@
       "last_attempt_at": "2026-11-11T17:59:43-05:00",
       "next_retry_at": "2026-11-12T17:59:43-05:00",
       "name": "Win a Year of Wild Woman Box + 5 Holiday Boxes to Give"
+    },
+    "https://gleam.io/Lzq1j/primary-x-zazzle-holiday-giveaway?gsr=Lzq1j-pfL16sLUn0": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/Ml78w/olight-black-friday-live-reserve-win-800?gsr=Ml78w-pgwIdFCG5j": {
       "attempts": 1,
@@ -1807,12 +1917,13 @@
     },
     "https://gleam.io/uNXog/mitra9s-ultimate-ebike-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "This Gleam page didn't come up in web search, and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-11T17:59:32-05:00",
-      "next_retry_at": "2026-11-12T17:59:32-05:00",
-      "name": "Mitra9’s Ultimate E-Bike Giveaway"
+      "next_retry_at": null,
+      "name": "Mitra9’s Ultimate E-Bike Giveaway",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 2,
@@ -1828,12 +1939,22 @@
     },
     "https://gleam.io/ux3AL/2026-topps-cosmic-chrome-baseball-hobby-box-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "This Gleam page didn't come up in web search (only shops selling the box did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-11T17:59:13-05:00",
-      "next_retry_at": "2026-11-12T17:59:13-05:00",
-      "name": "2026 Topps Cosmic Chrome Baseball Hobby Box Giveaway"
+      "next_retry_at": null,
+      "name": "2026 Topps Cosmic Chrome Baseball Hobby Box Giveaway",
+      "decided_at": "2026-11-13T17:39:55-05:00"
+    },
+    "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/wU0im/gadgetguy-eero-7-3pack-giveaway": {
       "attempts": 1,
@@ -1858,12 +1979,13 @@
     },
     "https://gleam.io/woiZw/giveaway-bear-nutriease-stainless-steel-all-stage-baby-food-maker": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Gleam entry page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run (the reader only opens links that come from web search), and web search found neither the page nor a copy of its terms",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-07T17:58:12-05:00",
-      "next_retry_at": "2026-11-08T17:58:12-05:00",
-      "name": "Bear NutriEase Stainless Steel All Stage Baby Food Maker Giveaway"
+      "next_retry_at": null,
+      "name": "Bear NutriEase Stainless Steel All Stage Baby Food Maker Giveaway",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://gleam.io/yiGZ8/austrian-audio-od505": {
       "attempts": 1,
@@ -1878,15 +2000,16 @@
       "attempts": 0,
       "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "The listing's short link blocks automated readers; it matches Chewy Claus (ends Dec 24). Chewy's FAQ says Nov 2 to Dec 24 11:59 PM, free with no Chewy account, 18+ in the 48 contiguous states and DC, but the official rules (entry limit, prize count) weren't readable.",
-      "last_attempt_at": "2026-11-04T11:49:12-05:00",
+      "reason": "Official rules read in full Nov 13: 48 contiguous states and DC, 18+, no purchase necessary, one entry per person, random drawings for 14,000 boxes. They give the entry period only as Nov 6 through Dec 24, 2026, with no end time or time zone, so the listing ends at 11:59 PM ET Dec 24 (Chewy is in Florida).",
+      "last_attempt_at": "2026-11-13T17:51:28-05:00",
       "evidence": [
         "https://be.chewy.com/chewy-claus-terms-conditions",
+        "https://www.chewy.com/app/content/chewy-claus-terms-and-conditions",
         "https://www.chewy.com/education/chewy-claus"
       ],
       "listing_id": "chewy-claus-2026-pet-holiday-letter-sweepstakes",
-      "decided_at": "2026-11-04T11:49:12-05:00",
-      "next_retry_at": "2026-11-07T11:49:12-05:00"
+      "decided_at": "2026-11-13T17:51:28-05:00",
+      "next_retry_at": "2026-11-16T17:51:28-05:00"
     },
     "https://goldbelly.com/spotlight/thanksgiving-sweepstakes": {
       "attempts": 2,
@@ -2181,6 +2304,15 @@
         "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
       ]
     },
+    "https://kingsumo.com/g/107jkv3/win-2-poppy-odyssey-ii-crochet-hooks": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
+    },
     "https://kingsumo.com/g/107jyv3/win-a-vato-tuned-honda-obd1-pnp-standalone-ecu": {
       "attempts": 0,
       "status": "listed",
@@ -2209,12 +2341,13 @@
     },
     "https://kingsumo.com/g/1dkxzk3/win-a-handcrafted-etchwood-mantel-this-holiday-season/kyozn99": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The KingSumo giveaway page and its rules page did not come up in web search, so the page reader could not open them in this unattended run; terms not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-10T17:58:22-05:00",
-      "next_retry_at": "2026-11-11T17:58:22-05:00",
-      "name": "Win a Handcrafted EtchWood Mantel This Holiday Season"
+      "next_retry_at": null,
+      "name": "Win a Handcrafted EtchWood Mantel This Holiday Season",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://kingsumo.com/g/1vj8gz1/win-a-1000-gift-certificate-to-greg-landrys-homeschool-science": {
       "attempts": 1,
@@ -2297,6 +2430,15 @@
       "last_attempt_at": "2026-11-10T17:58:22-05:00",
       "next_retry_at": "2026-11-11T17:58:22-05:00",
       "name": "VeRUS Pet Foods Dry & Wet Food Giveaway"
+    },
+    "https://kingsumo.com/g/3zjkpx1/win-two-steel-size-odyssey-ii-hooks-size-5-cotton-thread-pattern-of-choice": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -2492,12 +2634,13 @@
     },
     "https://medievaltimes.com/giveaways/thanksgiving-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The giveaway page did not come up in web search (only older Medieval Times giveaway pages did), so the page reader could not open it in this unattended run, and a Perplexity lookup of medievaltimes.com and woobox.com found no Thanksgiving 2026 rules",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-10T17:58:11-05:00",
-      "next_retry_at": "2026-11-11T17:58:11-05:00",
-      "name": "Medieval Times Thanksgiving Giveaway"
+      "next_retry_at": null,
+      "name": "Medieval Times Thanksgiving Giveaway",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://megamodsweeps.com/": {
       "attempts": 0,
@@ -2879,16 +3022,17 @@
     },
     "https://princearmoryacademy.com/giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The giveaway page did not come up in web search; the search result for the November Warrior Armor Giveaway (princearmoryacademy.com/?rpid=3&rpr=778) returned a client error, and the Deals & Giveaways page only has stale text about a March giveaway, so no rules were read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-10T17:55:19-05:00",
       "evidence": [
         "https://princearmoryacademy.com/?rpid=3&rpr=778",
         "https://princearmoryacademy.com/home-prince-armory/deals-giveaways/"
       ],
-      "next_retry_at": "2026-11-11T17:55:19-05:00",
-      "name": "Win the Complete Warrior Armor Pattern Bundle"
+      "next_retry_at": null,
+      "name": "Win the Complete Warrior Armor Pattern Bundle",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://promorules.com/MK262790": {
       "attempts": 2,
@@ -3102,7 +3246,7 @@
     },
     "https://refer.tatcha.com/october2026sweepstakes": {
       "attempts": 0,
-      "status": "listed",
+      "status": "in_progress",
       "reason_code": "needs_rules_check",
       "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
       "last_attempt_at": "2026-11-04T12:12:22-05:00",
@@ -3112,11 +3256,29 @@
       ],
       "listing_id": "tatcha-advent-calendar-giveaway",
       "decided_at": "2026-11-04T12:12:22-05:00",
-      "next_retry_at": "2026-11-07T12:12:22-05:00"
+      "next_retry_at": "2026-11-07T12:12:22-05:00",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "listed",
+          "reason_code": "needs_rules_check",
+          "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
+          "last_attempt_at": "2026-11-04T12:12:22-05:00",
+          "evidence": [
+            "https://refer.tatcha.com/october2026sweepstakes",
+            "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
+          ],
+          "listing_id": "tatcha-advent-calendar-giveaway",
+          "decided_at": "2026-11-04T12:12:22-05:00",
+          "next_retry_at": "2026-11-07T12:12:22-05:00"
+        }
+      }
     },
     "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640": {
       "attempts": 0,
-      "status": "listed",
+      "status": "in_progress",
       "reason_code": "needs_rules_check",
       "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
       "last_attempt_at": "2026-11-04T12:12:22-05:00",
@@ -3126,7 +3288,25 @@
       ],
       "listing_id": "tatcha-advent-calendar-giveaway",
       "decided_at": "2026-11-04T12:12:22-05:00",
-      "next_retry_at": "2026-11-07T12:12:22-05:00"
+      "next_retry_at": "2026-11-07T12:12:22-05:00",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": {
+          "attempts": 0,
+          "status": "listed",
+          "reason_code": "needs_rules_check",
+          "reason": "Tatcha's entry page asks only for an email (extra entries for referred friends) and its site says the giveaway ends 11/19, but the linked terms are the referral-program terms, not sweepstakes rules, so eligibility, end time and limit aren't confirmed.",
+          "last_attempt_at": "2026-11-04T12:12:22-05:00",
+          "evidence": [
+            "https://refer.tatcha.com/october2026sweepstakes",
+            "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640"
+          ],
+          "listing_id": "tatcha-advent-calendar-giveaway",
+          "decided_at": "2026-11-04T12:12:22-05:00",
+          "next_retry_at": "2026-11-07T12:12:22-05:00"
+        }
+      }
     },
     "https://rewards.bing.com/sweeps/promotion": {
       "attempts": 0,
@@ -3253,6 +3433,19 @@
       "listing_id": "schaeffer-season-2026-instant-win-and-sweeps",
       "decided_at": "2026-11-04T18:04:20-05:00",
       "next_retry_at": null
+    },
+    "https://sdqk.me/p/turtle-beach-suitcase-giveaway-6KWLRC1k": {
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "robots_blocked",
+      "reason": "The entry page on sdqk.me refuses automated readers (robots.txt), so the giveaway and its rules couldn't be read. Turtle Beach's own giveaway terms page is a generic 2020 page for social giveaways and doesn't cover this one.",
+      "last_attempt_at": "2026-11-13T17:54:21-05:00",
+      "evidence": [
+        "https://sdqk.me/p/turtle-beach-suitcase-giveaway-6KWLRC1k",
+        "https://www.turtlebeach.com/blog/giveaway-terms-and-conditions"
+      ],
+      "next_retry_at": "2026-11-14T17:54:21-05:00",
+      "name": "Turtle Beach Suitcase Giveaway"
     },
     "https://share.hsforms.com/14yPjMyU5Saq21KL7XAHYKg9qem": {
       "attempts": 1,
@@ -3500,15 +3693,16 @@
     },
     "https://sunnywines.com/pages/floral-subscription-sweepstakes": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "js_only",
-      "reason": "The sponsor page https://sunnywines.com/pages/floral-subscription-sweepstakes loaded, but its entry form and rules are a ViralSweep widget loaded by script, so no rules, dates, eligibility or entry limit were read. The prize is a three-month floral subscription; whether any wine is included wasn't stated.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-09T18:11:48-05:00",
       "evidence": [
         "https://sunnywines.com/pages/floral-subscription-sweepstakes"
       ],
-      "next_retry_at": "2026-11-10T18:11:48-05:00",
-      "name": "Sunny Wines Flowers On Repeat Sweepstakes"
+      "next_retry_at": null,
+      "name": "Sunny Wines Flowers On Repeat Sweepstakes",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://superpremieresweepstakes.entertowinprizes.com/": {
       "attempts": 0,
@@ -3534,7 +3728,7 @@
     },
     "https://sweepstakes.roundisnow.com/mightyswellsolostove2026": {
       "attempts": 1,
-      "status": "listed",
+      "status": "in_progress",
       "reason_code": "needs_rules_check",
       "reason": "Entry page (read Nov 4 12:12 ET) says no purchase necessary, US and DC residents 21+, but its Official Rules link is empty, so dates, entry limit and prize details aren't confirmed. End date is the listing site's guess.",
       "last_attempt_at": "2026-11-04T12:11:51-05:00",
@@ -3544,7 +3738,25 @@
         "https://sweepstakes.roundisnow.com/mightyswellsolostove2026"
       ],
       "listing_id": "mighty-swell-solo-stove-sweepstakes",
-      "decided_at": "2026-11-04T12:11:51-05:00"
+      "decided_at": "2026-11-04T12:11:51-05:00",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "listed",
+          "reason_code": "needs_rules_check",
+          "reason": "Entry page (read Nov 4 12:12 ET) says no purchase necessary, US and DC residents 21+, but its Official Rules link is empty, so dates, entry limit and prize details aren't confirmed. End date is the listing site's guess.",
+          "last_attempt_at": "2026-11-04T12:11:51-05:00",
+          "next_retry_at": "2026-11-07T12:11:51-05:00",
+          "name": "Win a Custom Solo Stove in the Mighty Swell Solo Stove Sweepstakes!",
+          "evidence": [
+            "https://sweepstakes.roundisnow.com/mightyswellsolostove2026"
+          ],
+          "listing_id": "mighty-swell-solo-stove-sweepstakes",
+          "decided_at": "2026-11-04T12:11:51-05:00"
+        }
+      }
     },
     "https://sweepwidget.com/c/103029-ct8hafeo": {
       "attempts": 1,
@@ -3571,6 +3783,15 @@
       "next_retry_at": null,
       "name": "Win a Battery Tender Charge N Start 4120",
       "decided_at": "2026-11-06T17:40:02-05:00"
+    },
+    "https://sweepwidget.com/c/103119-54jmyal7/f3e48i-103119": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
     },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
       "attempts": 3,
@@ -3681,15 +3902,16 @@
     },
     "https://sweepwidget.com/c/103391-6b4sow3e": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-12T17:55:43-05:00",
       "evidence": [
         "https://sweepwidget.com/c/103391-6b4sow3e"
       ],
-      "next_retry_at": "2026-11-13T17:55:43-05:00",
-      "name": "Jolee’s 12 Days of Christmas Giveaway"
+      "next_retry_at": null,
+      "name": "Jolee’s 12 Days of Christmas Giveaway",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://sweepwidget.com/c/103423-m5gu8fpt": {
       "attempts": 1,
@@ -3720,6 +3942,33 @@
       ],
       "next_retry_at": "2026-11-13T17:55:43-05:00",
       "name": "stphmoto 10k Giveaway"
+    },
+    "https://sweepwidget.com/c/103457-di2na1be": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
+    },
+    "https://sweepwidget.com/c/103466-acu4r7nh": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
+    },
+    "https://sweepwidget.com/c/98809-w42okmt5": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-13",
+        "expires_at": "2026-11-13T20:42:42-05:00",
+        "prev": null
+      }
     },
     "https://tablotv.com/contest": {
       "name": "Tablo Race Weekend Sweepstakes",
@@ -3786,6 +4035,15 @@
       "decided_at": "2026-11-03",
       "attempts": 0
     },
+    "https://thenorthface.com/en-us/xplr-pass/xplr-pass-sweepstakes": {
+      "attempts": 0,
+      "name": "XPLR Pass Holiday Sweepstakes",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-13T17:39:55-05:00"
+    },
     "https://titosvodka.com/holiday": {
       "attempts": 1,
       "status": "blocked",
@@ -3797,27 +4055,29 @@
     },
     "https://tunespeak.com/tour/6ab134bffaa41f00011e7fc0": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Tunespeak page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-08T17:51:21-05:00",
       "evidence": [
         "https://www.tunespeak.com/tour/6ab134bffaa41f00011e7fc0"
       ],
-      "next_retry_at": "2026-11-09T17:51:21-05:00",
-      "name": "Win 2 Tickets to see Late Night Thoughts on the Days Like This Tour 2026"
+      "next_retry_at": null,
+      "name": "Win 2 Tickets to see Late Night Thoughts on the Days Like This Tour 2026",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://tunespeak.com/tour/6adf55d45a094a00013a09e3": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Tunespeak page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-08T17:51:21-05:00",
       "evidence": [
         "https://www.tunespeak.com/tour/6adf55d45a094a00013a09e3"
       ],
-      "next_retry_at": "2026-11-09T17:51:21-05:00",
-      "name": "Win 2 Spots on Cut Copy DJs Guest List"
+      "next_retry_at": null,
+      "name": "Win 2 Spots on Cut Copy DJs Guest List",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://ul.ink/1150PG-PQFBF": {
       "attempts": 0,
@@ -3934,12 +4194,13 @@
     },
     "https://vallon.com/en-us/pages/win-skis-competition-2026": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The VALLON ski competition page didn't come up in web search (only an older Adventure Base x VALLON competition did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers). Terms not read, so whether US residents can enter is unknown.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-11T17:59:13-05:00",
-      "next_retry_at": "2026-11-12T17:59:13-05:00",
-      "name": "VALLON B.V. Ski Competition 2026"
+      "next_retry_at": null,
+      "name": "VALLON B.V. Ski Competition 2026",
+      "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://valpak.com/freeride": {
       "attempts": 0,
@@ -4079,6 +4340,20 @@
       "reason": "ended before it could be verified",
       "next_retry_at": null,
       "decided_at": "2026-11-04T17:39:43-05:00"
+    },
+    "https://wedderspoon.com/pages/giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Sponsor's rules (in wedderspoon.com Terms & Conditions) confirm US residents 18+, a website entry form needing only an email, and Nov 2 to Nov 20, 2026 at 11:59 PM PT, but state no entry limit.",
+      "last_attempt_at": "2026-11-13T17:51:28-05:00",
+      "evidence": [
+        "https://wedderspoon.com/pages/giveaway",
+        "https://wedderspoon.com/pages/terms-conditions"
+      ],
+      "listing_id": "wedderspoon-winter-wellness-giveaway",
+      "decided_at": "2026-11-13T17:51:28-05:00",
+      "next_retry_at": "2026-11-16T17:51:28-05:00"
     },
     "https://wetflyswing.com/win-an-alaska-trophy-trout-fly-fishing-trip-and-gear-giveaway": {
       "attempts": 1,

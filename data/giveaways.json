@@ -1310,28 +1310,34 @@
     },
     {
       "name": "Chewy Claus 2026 (pet holiday letter sweepstakes)",
-      "prize": "About 14,000 winners get a Chewy goody box surprise for their pet (per listing site)",
+      "prize": "14,000 pet goodie boxes (ARV $35 each) across 10 categories, awarded in random drawings",
       "category": "other",
       "entry_url": "https://www.chewy.com/education/chewy-claus",
-      "rules_url": null,
+      "rules_url": "https://www.chewy.com/app/content/chewy-claus-terms-and-conditions",
       "ends": "2026-12-24T23:59:00-05:00",
       "limit": {
         "type": "once"
       },
       "min_age": 18,
       "flags": {},
-      "notes": "Write a holiday letter for your pet on Chewy's page. Free, no account needed per Chewy's FAQ.",
+      "notes": "Write a holiday wish-list letter for your pet on Chewy's page (name, mailing address, email). One entry per person for the whole promotion, in one prize category. No Chewy account needed to enter; only the separate pet-portrait prize needs one.",
       "verification": {
         "status": "needs_rules_check",
-        "rules_source": "https://www.chewy.com/education/chewy-claus",
-        "checked_at": "2026-11-04T11:49-05:00",
-        "evidence": [
-          "https://be.chewy.com/chewy-claus-terms-conditions",
-          "https://www.chewy.com/education/chewy-claus"
-        ],
-        "reason": "The listing's short link blocks automated readers; it matches Chewy Claus (ends Dec 24). Chewy's FAQ says Nov 2 to Dec 24 11:59 PM, free with no Chewy account, 18+ in the 48 contiguous states and DC, but the official rules (entry limit, prize count) weren't readable.",
+        "rules_source": "https://www.chewy.com/app/content/chewy-claus-terms-and-conditions",
+        "checked_at": "2026-11-13T17:52:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": false,
+          "entry_limit": true
+        },
+        "reason": "Official rules read in full Nov 13: 48 contiguous states and DC, 18+, no purchase necessary, one entry per person, random drawings for 14,000 boxes. They give the entry period only as Nov 6 through Dec 24, 2026, with no end time or time zone, so the listing ends at 11:59 PM ET Dec 24 (Chewy is in Florida).",
         "missing": [
-          "entry_limit"
+          "deadline"
+        ],
+        "evidence": [
+          "https://www.chewy.com/app/content/chewy-claus-terms-and-conditions",
+          "https://www.chewy.com/education/chewy-claus"
         ]
       },
       "added": "2026-11-04",
@@ -1344,27 +1350,34 @@
     },
     {
       "name": "Exmark Built to Be an American Legend Giveaway",
-      "prize": "1 winner: 60-inch USA 250 Lazer Z X-Series mower (retail value $30,000)",
+      "prize": "1 winner: 60-inch USA 250 Lazer Z X-Series mower (ARV $30,000), delivered at a local Exmark dealer",
       "category": "other",
       "entry_url": "https://www.exmark.com/America250",
-      "rules_url": null,
+      "rules_url": "https://www.exmark.com/america250/official-rules",
       "ends": "2026-12-12T23:59:00-05:00",
       "limit": {
         "type": "once"
       },
       "min_age": 18,
       "flags": {},
-      "notes": "One entry per person. Registration form on Exmark's site; check which of the two URLs hosts the form.",
+      "notes": "One entry per person: register on Exmark's America250 page. The rules also name exmark.com/usa250 as the sign-up page.",
       "verification": {
         "status": "needs_rules_check",
-        "rules_source": "https://www.exmark.com/America250/official-rules",
-        "checked_at": "2026-11-04T11:50-05:00",
-        "evidence": [
-          "https://www.exmark.com/America250/official-rules"
-        ],
-        "reason": "Sponsor's rules confirm free registration, US residents 18+ and one entry per person, but give the end date (Dec 12, 2026) with no time or time zone; the rules also give two different entry URLs (exmark.com/America250 and exmark.com/usa250).",
+        "rules_source": "https://www.exmark.com/america250/official-rules",
+        "checked_at": "2026-11-13T17:52:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": false,
+          "entry_limit": true
+        },
+        "reason": "Rules re-read Nov 13: US residents 18+, no purchase necessary, limit one entry per person, open Oct 21 through Dec 12, 2026, but still no end time or time zone (sponsor is in Nebraska), so the listing ends at 11:59 PM ET Dec 12. The rules name both exmark.com/America250 and exmark.com/usa250 as the sign-up page.",
         "missing": [
           "deadline"
+        ],
+        "evidence": [
+          "https://www.exmark.com/america250/official-rules",
+          "https://www.exmark.com/America250"
         ]
       },
       "match": [
@@ -2442,46 +2455,6 @@
       "added": "2026-11-06",
       "source": "Claude review 2026-11-06",
       "id": "heineken-takeoff-for-kickoff-sweepstakes",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "Dunkin' At Home EXTRAvaganza Arcade Instant Win Game",
-      "prize": "Daily instant win: 1,000 beanies, 500 truck block sets, 1,000 cup sleeves and Dunkin' At Home loyalty points (50 to 350). The grand prize (Keurig brewer, $250 gift card) and the $5 and $10 gift cards are drawn only from receipt or mail-in entries",
-      "category": "other",
-      "entry_url": "https://dunkin.promo.eprize.com/fall26/",
-      "rules_url": "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf",
-      "match": [
-        "dunkin.promo.eprize.com/fall26"
-      ],
-      "starts": "2026-10-01T09:00:00-04:00",
-      "ends": "2026-11-13T12:00:00-05:00",
-      "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/New_York",
-        "reset_hour": 0
-      },
-      "min_age": 18,
-      "flags": {
-        "account": "Free Dunkin' At Home Extra loyalty account needed (log in or join)."
-      },
-      "notes": "Sponsor Dunkin' Brands. Open to Dunkin' At Home Extra members (accounts are free) in the 50 US states and DC, 18+. One free Instant Win Reveal play per day; days run midnight to 11:59 PM ET and the last day ends at noon ET Nov 13. Playing 7 times earns a 25-point bonus. Sweepstakes entries need a receipt upload or a mailed entry, which this list doesn't cover. The entry page address is the promo site the rules PDF sits under; it wasn't opened.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf",
-        "checked_at": "2026-11-06T18:03:00-05:00",
-        "reason": "Sponsor rules were read only in excerpts: they give free Dunkin' At Home Extra members one Instant Win Reveal play a day (50 states and DC, 18+, ends Nov 13 noon ET) and no purchase step appeared for that play, but the full how-to-play text and the entry page address weren't read",
-        "evidence": [
-          "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf"
-        ],
-        "missing": [
-          "entry_page",
-          "free_entry_full_text"
-        ]
-      },
-      "added": "2026-11-06",
-      "source": "Claude review 2026-11-06",
-      "id": "dunkin-at-home-extravaganza-arcade-instant-win-game",
       "rules_checked": "partial"
     },
     {
@@ -3826,6 +3799,89 @@
         "freeskier.com/freeskier-holiday-gift-guide-2026-27"
       ],
       "rules_checked": "partial"
+    },
+    {
+      "name": "Wedderspoon Winter Wellness Giveaway",
+      "prize": "1 winner: KitchenAid Artisan stand mixer, two 250g jars of raw Manuka honey (MGO 1100+ and 850+), a candle and a kitchen towel (ARV $720)",
+      "category": "other",
+      "entry_url": "https://wedderspoon.com/pages/giveaway",
+      "rules_url": "https://wedderspoon.com/pages/terms-conditions",
+      "ends": "2026-11-21T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entry details may be used for Wedderspoon marketing emails (and texts if you give a phone number)."
+      },
+      "notes": "Entry form on Wedderspoon's giveaway page asks for an email; the phone number is only for optional texts. The rules sit in the site's Terms & Conditions page and give no entry limit, so this is set to one entry. Ends Nov 20, 11:59 PM PT.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://wedderspoon.com/pages/terms-conditions",
+        "checked_at": "2026-11-13T17:52:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": false
+        },
+        "reason": "Sponsor's rules (in wedderspoon.com Terms & Conditions) confirm US residents 18+, a website entry form needing only an email, and Nov 2 to Nov 20, 2026 at 11:59 PM PT, but state no entry limit.",
+        "missing": [
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://wedderspoon.com/pages/terms-conditions",
+          "https://wedderspoon.com/pages/giveaway"
+        ]
+      },
+      "added": "2026-11-13",
+      "source": "Claude review 2026-11-13",
+      "id": "wedderspoon-winter-wellness-giveaway",
+      "match": [
+        "wedderspoon.com/pages/giveaway"
+      ],
+      "rules_checked": "partial"
+    },
+    {
+      "name": "OLIPOP Holiday Helper Giveaway",
+      "prize": "1,000 winners across 17 daily drawings: a 12-pack of limited-edition Pomegranate Sparkle plus an OLIPOP x Compartés holiday chocolate gift box",
+      "category": "other",
+      "entry_url": "https://drinkolipop.com/pages/holiday-helper-giveaway",
+      "rules_url": "https://drinkolipop.com/pages/holiday-helper-giveaway-official-rules-2026",
+      "match": [
+        "drinkolipop.com/pages/holiday-helper-giveaway",
+        "drinkolipop.com/holidayhelper"
+      ],
+      "ends": "2026-11-19T20:59:00-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/Los_Angeles",
+        "reset_hour": 12
+      },
+      "min_age": 18,
+      "notes": "One entry per daily entry period through Nov 19. The form asks for first name, last name and email. One prize per person for the whole giveaway.",
+      "day_note": "Entries are only taken from 12:00 PM to 5:59 PM PT (3:00 to 8:59 PM ET) each day.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://drinkolipop.com/pages/holiday-helper-giveaway-official-rules-2026",
+        "checked_at": "2026-11-13T17:54:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://drinkolipop.com/pages/holiday-helper-giveaway-official-rules-2026",
+          "https://drinkolipop.com/pages/holiday-helper-giveaway"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-13",
+      "source": "Claude review 2026-11-13",
+      "id": "olipop-holiday-helper-giveaway",
+      "rules_checked": "full"
     }
   ]
 }
