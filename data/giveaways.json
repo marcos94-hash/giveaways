@@ -4032,6 +4032,90 @@
       "source": "Claude review 2026-11-14",
       "id": "schneider-lures-20-000-wahoo-gear-giveaway",
       "rules_checked": "partial"
+    },
+    {
+      "name": "TempPro Weekly TempSpike Pro Giveaway (Nov 9-15)",
+      "prize": "One TempPro TempSpike Pro Wi-Fi dual-probe meat thermometer",
+      "category": "other",
+      "entry_url": "https://gleam.io/LXGIW/weekly-tempspike-pro-giveaway-nov-915",
+      "match": [
+        "gleam.io/LXGIW"
+      ],
+      "ends": "2026-11-16T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Only TempPro email newsletter subscribers are eligible, per the giveaway description."
+      },
+      "notes": "Per a listing site's copy of the Gleam page: North American residents only, newsletter subscribers only, Nov 9 to Nov 16 at 07:59 UTC (2:59 AM ET Nov 16). Gleam lists 19 entry actions (newsletter, a survey question, recipe and blog visits, social follows and views). The winner must give a name and a photo for promotional use.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-14T18:00:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Facts come from giveaway-list.com's copy of the Gleam page; Gleam returns a client error to the page reader, so the terms weren't read and age and entry limit aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://giveaway-list.com/giveaway/gleam-LXGIW/temppro-weekly-tempspike-pro-giveaway-nov-9-15"
+        ]
+      },
+      "added": "2026-11-14",
+      "source": "Claude review 2026-11-14",
+      "id": "temppro-weekly-tempspike-pro-giveaway-nov-9-15",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "MAMBASNAKE Giveaway Round 84",
+      "prize": "MAMBASNAKE M2 wireless gaming mouse (carbon fiber shell, 41 g, PAW3395PRO sensor)",
+      "category": "electronics",
+      "entry_url": "https://gleam.io/Hqexi/mambasnake-giveaway-round-84",
+      "match": [
+        "gleam.io/Hqexi"
+      ],
+      "ends": "2026-11-20T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "notes": "Per a listing site's copy of the Gleam page: open worldwide, Nov 12 to Nov 20 at 07:59 UTC (11:59 PM PT Nov 19); the description says Nov 13 to Nov 19 (PST). The number of winners isn't stated. Gleam lists 24 entry actions, mostly Discord, YouTube, Instagram, TikTok, X, Facebook, Threads and Pinterest follows.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-14T18:00:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Facts come from giveaway-list.com's copy of the Gleam page; Gleam returns a client error to the page reader, so the terms weren't read and age, winners and entry limit aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://giveaway-list.com/giveaway/gleam-Hqexi/giveaway-round-84"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-14",
+      "source": "Claude review 2026-11-14",
+      "id": "mambasnake-giveaway-round-84",
+      "rules_checked": "partial"
     }
   ]
 }
