@@ -188,13 +188,13 @@
       "name": "THERMAL GEAR AND HOG HUNT SWEEPSTAKES"
     },
     "https://app.viralsweep.com/sweeps/full/54ac41-241656?framed=1": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The ViralSweep page didn't come up in web search (CJ's Master Formula is a metal polish brand; only its shop pages came up), so the prize, eligibility, dates and entry limit weren't read",
+      "last_attempt_at": "2026-11-14T18:01:32-05:00",
+      "next_retry_at": "2026-11-15T18:01:32-05:00",
+      "name": "Win a Year’s Supply of CJ’s Master Formula Products"
     },
     "https://app.viralsweep.com/sweeps/full/5a56f8-239820?framed=1": {
       "attempts": 0,
@@ -1661,13 +1661,13 @@
       "name": "Win a Year of Wild Woman Box + 5 Holiday Boxes to Give"
     },
     "https://gleam.io/Lzq1j/primary-x-zazzle-holiday-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page didn't come up in web search, Gleam pages return a client error to the page reader, and no listing-site copy turned up, so the terms weren't read (its gsr= share-link key is blocked for the same reason)",
+      "last_attempt_at": "2026-11-14T18:01:32-05:00",
+      "next_retry_at": "2026-11-15T18:01:32-05:00",
+      "name": "Primary Kids x Zazzle Holiday Giveaway"
     },
     "https://gleam.io/Lzq1j/primary-x-zazzle-holiday-giveaway?gsr=Lzq1j-pfL16sLUn0": {
       "attempts": 1,
@@ -1808,13 +1808,13 @@
       "decided_at": "2026-11-12T17:39:47-05:00"
     },
     "https://gleam.io/RY4fs/crownful-x-nutriscale-thanksgiving-giveaway-": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page didn't come up in web search (only an older Crownful Thanksgiving giveaway, gleam.io/2fwz4, did), Gleam pages return a client error to the page reader, and no listing-site copy turned up, so the prize and terms weren't read",
+      "last_attempt_at": "2026-11-14T18:01:32-05:00",
+      "next_retry_at": "2026-11-15T18:01:32-05:00",
+      "name": "Crownful x Nutriscale Thanksgiving Giveaway"
     },
     "https://gleam.io/RoevG/sandisk-optimus-san-diego-giveaway-2026": {
       "attempts": 1,
@@ -2667,12 +2667,16 @@
     },
     "https://kingsumo.com/g/m5goy83/fall-christian-fiction-giveaway-middle-grade-young-adult": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from giveaway-list.com's copy of the KingSumo page; the KingSumo page and its rules didn't come up in web search, so age, entry limit and the full terms aren't confirmed.",
+      "last_attempt_at": "2026-11-14T18:01:32-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/kingsumo-m5goy83/fall-christian-fiction-giveaway-middle-grade-young-adult"
+      ],
+      "listing_id": "fall-christian-fiction-giveaway-middle-grade-young-adult",
+      "decided_at": "2026-11-14T18:01:32-05:00",
+      "next_retry_at": "2026-11-17T18:01:32-05:00"
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -3755,13 +3759,13 @@
       "next_retry_at": null
     },
     "https://sites.prh.com/sleuthing-sweepstakes-nov26": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The sites.prh.com page didn't come up in web search (only other Penguin Random House sweepstakes did), so the page reader couldn't open it and its rules weren't read",
+      "last_attempt_at": "2026-11-14T18:01:32-05:00",
+      "next_retry_at": "2026-11-15T18:01:32-05:00",
+      "name": "Penguin Random House Sleuthing Sweepstakes"
     },
     "https://skrewballwhiskey.com/en/collegetailgatetour": {
       "attempts": 0,
@@ -4092,32 +4096,17 @@
       "decided_at": "2026-11-05T17:39:30-05:00"
     },
     "https://sweepwidget.com/c/103277-vtmslewf": {
-      "attempts": 2,
-      "status": "in_progress",
+      "attempts": 3,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the SweepWidget page; terms and prize not read",
-      "last_attempt_at": "2026-11-05T17:53:27-05:00",
-      "next_retry_at": "2026-11-07T17:53:27-05:00",
+      "reason": "Third try: this SweepWidget campaign didn't come up in web search. SweepWidget's directory shows an earlier round, 101994 It's All in the Can Sweepstakes, whose prize is a Keystone Meats variety pack (canned meat, not beer) and which ended Sep 27, 2026; campaign 103277 wasn't on the directory's first page, so its dates and terms weren't read",
+      "last_attempt_at": "2026-11-14T18:01:32-05:00",
+      "next_retry_at": "2026-11-18T18:01:32-05:00",
       "name": "Keystone It’s All in the Can Sweepstakes",
       "evidence": [
-        "https://sweepwidget.com/c/103277-vtmslewf"
-      ],
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the SweepWidget page; terms and prize not read",
-          "last_attempt_at": "2026-11-05T17:53:27-05:00",
-          "next_retry_at": "2026-11-07T17:53:27-05:00",
-          "name": "Keystone It’s All in the Can Sweepstakes",
-          "evidence": [
-            "https://sweepwidget.com/c/103277-vtmslewf"
-          ]
-        }
-      }
+        "https://sweepwidget.com/c/103277-vtmslewf",
+        "https://sweepwidget.com/giveaways/101994-z36mjfr5"
+      ]
     },
     "https://sweepwidget.com/c/103325-ui2nv0jf": {
       "attempts": 1,

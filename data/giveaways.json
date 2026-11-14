@@ -4116,6 +4116,49 @@
       "source": "Claude review 2026-11-14",
       "id": "mambasnake-giveaway-round-84",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Fall Christian Fiction Giveaway (Middle Grade & Young Adult)",
+      "prize": "Grand prize: a Kindle e-reader plus paperbacks and ebooks of four Christian middle grade and YA books (worth over $230); two runners-up get the four ebooks",
+      "category": "mixed",
+      "entry_url": "https://kingsumo.com/g/m5goy83/fall-christian-fiction-giveaway-middle-grade-young-adult",
+      "match": [
+        "kingsumo.com/g/m5goy83"
+      ],
+      "ends": "2026-11-22T00:45:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering with your email subscribes you to each author's newsletter."
+      },
+      "notes": "Per a listing site's copy of the KingSumo page: US mailing addresses only, Nov 7 to Nov 22 at 05:45 UTC (12:45 AM ET Nov 22), three winners. Bonus entries for author follows on Goodreads and Facebook, a resource download and a podcast subscription. The Kindle model is to be picked by the end of November.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-14T18:01:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Facts come from giveaway-list.com's copy of the KingSumo page; the KingSumo page and its rules didn't come up in web search, so age, entry limit and the full terms aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://giveaway-list.com/giveaway/kingsumo-m5goy83/fall-christian-fiction-giveaway-middle-grade-young-adult"
+        ]
+      },
+      "added": "2026-11-14",
+      "source": "Claude review 2026-11-14",
+      "id": "fall-christian-fiction-giveaway-middle-grade-young-adult",
+      "rules_checked": "partial"
     }
   ]
 }
