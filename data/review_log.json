@@ -165,12 +165,17 @@
     },
     "https://app.viralsweep.com/sweeps/full/2704ec-241561?framed=1": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites (gleamgiveaways.com and freestufftimes), found with a Perplexity search; the ViralSweep page and its rules didn't come up in web search, so eligibility, age, end time and entry limit aren't confirmed.",
+      "last_attempt_at": "2026-11-14T17:58:12-05:00",
+      "evidence": [
+        "https://gleamgiveaways.com/giveaways/win-20000-in-wahoo-fishing-gear/",
+        "https://www.freestufftimes.com/contests/09/schneider-lures-20000-wahoo-gear-giveaway/"
+      ],
+      "listing_id": "schneider-lures-20-000-wahoo-gear-giveaway",
+      "decided_at": "2026-11-14T17:58:12-05:00",
+      "next_retry_at": "2026-11-17T17:58:12-05:00"
     },
     "https://app.viralsweep.com/sweeps/full/4b1c4c-240297?framed=1": {
       "attempts": 0,
@@ -727,71 +732,35 @@
     },
     "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones": {
       "attempts": 0,
-      "status": "in_progress",
-      "reason_code": "needs_rules_check",
-      "reason": "Researcher-provided primary-source evidence (Sony's official rules via web search, Nov 4 12:15 ET): 50 states and DC, 18+, free online form, one entry per person/email, ends 11:59:59 PM ET Nov 30, 2026. Kept as needs rules check because the rules have a broad clause against automated entry generation, and the rules page is blocked for this reviewer's page reader.",
-      "last_attempt_at": "2026-11-04T12:15:54-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-14T17:58:12-05:00",
       "evidence": [
+        "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones",
         "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
         "https://www.androidauthority.com/sony-nfl-xm6-headphone-sweepstakes-3725213/"
       ],
       "listing_id": "sony-x-seattle-seahawks-wh-1000xm6-headphones-sweepstakes",
-      "decided_at": "2026-11-04T12:15:54-05:00",
-      "next_retry_at": "2026-11-07T12:15:54-05:00",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Researcher-provided primary-source evidence (Sony's official rules via web search, Nov 4 12:15 ET): 50 states and DC, 18+, free online form, one entry per person/email, ends 11:59:59 PM ET Nov 30, 2026. Kept as needs rules check because the rules have a broad clause against automated entry generation, and the rules page is blocked for this reviewer's page reader.",
-          "last_attempt_at": "2026-11-04T12:15:54-05:00",
-          "evidence": [
-            "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
-            "https://www.androidauthority.com/sony-nfl-xm6-headphone-sweepstakes-3725213/"
-          ],
-          "listing_id": "sony-x-seattle-seahawks-wh-1000xm6-headphones-sweepstakes",
-          "decided_at": "2026-11-04T12:15:54-05:00",
-          "next_retry_at": "2026-11-07T12:15:54-05:00"
-        }
-      }
+      "decided_at": "2026-11-14T17:58:12-05:00",
+      "next_retry_at": null
     },
     "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules": {
       "attempts": 2,
-      "status": "in_progress",
-      "reason_code": "needs_rules_check",
-      "reason": "Researcher-provided primary-source evidence (Sony's official rules via web search, Nov 4 12:15 ET): 50 states and DC, 18+, free online form, one entry per person/email, ends 11:59:59 PM ET Nov 30, 2026. Kept as needs rules check because the rules have a broad clause against automated entry generation, and the rules page is blocked for this reviewer's page reader.",
-      "last_attempt_at": "2026-11-04T12:15:54-05:00",
-      "next_retry_at": "2026-11-07T12:15:54-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-14T17:58:12-05:00",
+      "next_retry_at": null,
       "name": "Win Sony x Seattle Seahawks Headphones!",
       "evidence": [
+        "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones",
         "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
         "https://www.androidauthority.com/sony-nfl-xm6-headphone-sweepstakes-3725213/",
         "https://www.technobezz.com/news/sony-wh-1000xm6-nfl-team-designs-sweepstakes"
       ],
       "listing_id": "sony-x-seattle-seahawks-wh-1000xm6-headphones-sweepstakes",
-      "decided_at": "2026-11-04T12:15:54-05:00",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Researcher-provided primary-source evidence (Sony's official rules via web search, Nov 4 12:15 ET): 50 states and DC, 18+, free online form, one entry per person/email, ends 11:59:59 PM ET Nov 30, 2026. Kept as needs rules check because the rules have a broad clause against automated entry generation, and the rules page is blocked for this reviewer's page reader.",
-          "last_attempt_at": "2026-11-04T12:15:54-05:00",
-          "next_retry_at": "2026-11-07T12:15:54-05:00",
-          "name": "Win Sony x Seattle Seahawks Headphones!",
-          "evidence": [
-            "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
-            "https://www.androidauthority.com/sony-nfl-xm6-headphone-sweepstakes-3725213/",
-            "https://www.technobezz.com/news/sony-wh-1000xm6-nfl-team-designs-sweepstakes"
-          ],
-          "listing_id": "sony-x-seattle-seahawks-wh-1000xm6-headphones-sweepstakes",
-          "decided_at": "2026-11-04T12:15:54-05:00"
-        }
-      }
+      "decided_at": "2026-11-14T17:58:12-05:00"
     },
     "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form": {
       "attempts": 0,
@@ -1622,14 +1591,37 @@
         "prev": null
       }
     },
+    "https://gleam.io/IYfl0/2026-10k-sparkle-spree": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites that quote the official rules (Slickdeals, MyStringBean, UltraContest, giveaway-list), found with a Perplexity search; Gleam returns a client error to the page reader and Shane Co.'s rules page didn't come up in web search, so the sponsor's rules weren't read.",
+      "last_attempt_at": "2026-11-14T17:58:12-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-IYfl0/2026-10k-sparkle-spree",
+        "https://gleamgiveaways.com/giveaways/2026-10k-sparkle-spree-2026-11/",
+        "https://mystringbean.com/assets/contests",
+        "https://slickdeals.net/f/20298390-shane-co-s-10k-sparkle-spree-sweepstakes-11-22-2026"
+      ],
+      "listing_id": "shane-co-10k-sparkle-spree",
+      "decided_at": "2026-11-14T17:58:12-05:00",
+      "next_retry_at": "2026-11-17T17:58:12-05:00"
+    },
     "https://gleam.io/IYfl0/2026-10k-sparkle-spree?gsr=IYfl0-pd9Qq9M5MQ": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites that quote the official rules (Slickdeals, MyStringBean, UltraContest, giveaway-list), found with a Perplexity search; Gleam returns a client error to the page reader and Shane Co.'s rules page didn't come up in web search, so the sponsor's rules weren't read.",
+      "last_attempt_at": "2026-11-14T17:58:12-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-IYfl0/2026-10k-sparkle-spree",
+        "https://gleamgiveaways.com/giveaways/2026-10k-sparkle-spree-2026-11/",
+        "https://mystringbean.com/assets/contests",
+        "https://slickdeals.net/f/20298390-shane-co-s-10k-sparkle-spree-sweepstakes-11-22-2026"
+      ],
+      "listing_id": "shane-co-10k-sparkle-spree",
+      "decided_at": "2026-11-14T17:58:12-05:00",
+      "next_retry_at": "2026-11-17T17:58:12-05:00"
     },
     "https://gleam.io/KSc7B/vippori-giveaway": {
       "attempts": 1,
@@ -1872,14 +1864,35 @@
       "decided_at": "2026-11-09T18:11:10-05:00",
       "name": "Audio-Technica ATH-R50x Giveaway"
     },
+    "https://gleam.io/Vp1JC/jerryrigeverythings-redmagic-12-pro-giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites (gleamgiveaways, giveaway-list, OzBargain, TrySpree), found with a Perplexity search; the Gleam page and its terms return a client error to the page reader, so eligibility, age, end time and entry limit aren't confirmed.",
+      "last_attempt_at": "2026-11-14T17:58:12-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-Vp1JC/jerryrigeverythings-redmagic-12-pro-giveaway",
+        "https://gleamgiveaways.com/giveaways/jerryrigeverything-s-redmagic-12-pro-giveaway-2026-11/",
+        "https://www.ozbargain.com.au/node/982164"
+      ],
+      "listing_id": "jerryrigeverything-s-redmagic-12-pro-giveaway",
+      "decided_at": "2026-11-14T17:58:12-05:00",
+      "next_retry_at": "2026-11-17T17:58:12-05:00"
+    },
     "https://gleam.io/Vp1JC/jerryrigeverythings-redmagic-12-pro-giveaway?gsr=Vp1JC-ppACOLMmvn": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites (gleamgiveaways, giveaway-list, OzBargain, TrySpree), found with a Perplexity search; the Gleam page and its terms return a client error to the page reader, so eligibility, age, end time and entry limit aren't confirmed.",
+      "last_attempt_at": "2026-11-14T17:58:12-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-Vp1JC/jerryrigeverythings-redmagic-12-pro-giveaway",
+        "https://gleamgiveaways.com/giveaways/jerryrigeverything-s-redmagic-12-pro-giveaway-2026-11/",
+        "https://www.ozbargain.com.au/node/982164"
+      ],
+      "listing_id": "jerryrigeverything-s-redmagic-12-pro-giveaway",
+      "decided_at": "2026-11-14T17:58:12-05:00",
+      "next_retry_at": "2026-11-17T17:58:12-05:00"
     },
     "https://gleam.io/VvauK/weekly-tempspike-pro-giveaway-nov-28": {
       "attempts": 1,
@@ -2483,32 +2496,17 @@
       "next_retry_at": null
     },
     "https://jordans.com/winter-wishes": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "jordans.com entry page and promotion terms page return a client error to the page reader; listing sites title it 'Limited States', so NJ may not be eligible",
-      "last_attempt_at": "2026-11-06T18:00:37-05:00",
+      "reason": "Second try: jordans.com/winter-wishes and its promotions terms page came up in web search but both returned a client error to the page reader, and a Perplexity search of jordans.com had no copy of the Winter Wishes rules, so the state list (listing sites say Limited States), dates and entry limit weren't read",
+      "last_attempt_at": "2026-11-14T17:58:12-05:00",
       "evidence": [
+        "https://www.jordans.com/customer-service/promotions-terms-and-conditions",
         "https://www.jordans.com/winter-wishes"
       ],
-      "next_retry_at": "2026-11-07T18:00:37-05:00",
-      "name": "Jordan’s Furniture “Winter Wishes Giveaway” Sweepstakes",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "jordans.com entry page and promotion terms page return a client error to the page reader; listing sites title it 'Limited States', so NJ may not be eligible",
-          "last_attempt_at": "2026-11-06T18:00:37-05:00",
-          "evidence": [
-            "https://www.jordans.com/winter-wishes"
-          ],
-          "next_retry_at": "2026-11-07T18:00:37-05:00",
-          "name": "Jordan’s Furniture “Winter Wishes Giveaway” Sweepstakes"
-        }
-      }
+      "next_retry_at": "2026-11-16T17:58:12-05:00",
+      "name": "Jordan’s Furniture “Winter Wishes Giveaway” Sweepstakes"
     },
     "https://kensingtonbooks.com/HolidayLuxeBundle": {
       "attempts": 0,
@@ -2762,26 +2760,17 @@
       "next_retry_at": null
     },
     "https://letstalkfaith.com/members/member-contests-and-sweepstakes/2026-christmas-mortgage-miracle-sweepstakes": {
-      "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "letstalkfaith.com returns a client error to the page reader and the 2026 page didn't come up in search; it sits under /members/, so check whether an account is needed",
-      "last_attempt_at": "2026-11-06T18:00:22-05:00",
-      "next_retry_at": "2026-11-07T18:00:22-05:00",
+      "attempts": 2,
+      "status": "needs_review",
+      "reason_code": "possible_membership",
+      "reason": "letstalkfaith.com is the site of WTBN-AM, a Tampa, Florida Christian station, and this page sits in its members area, so the promotion likely needs a station membership and may be limited to its listening area; the members page and the related page found in search (the-christmas-mortgage-miracle-sweepstakes) return a client error to the page reader, so the rules weren't read",
+      "last_attempt_at": "2026-11-14T17:58:13-05:00",
+      "next_retry_at": "2026-11-16T17:58:13-05:00",
       "name": "Christmas Mortgage Miracle Sweepstakes",
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "letstalkfaith.com returns a client error to the page reader and the 2026 page didn't come up in search; it sits under /members/, so check whether an account is needed",
-          "last_attempt_at": "2026-11-06T18:00:22-05:00",
-          "next_retry_at": "2026-11-07T18:00:22-05:00",
-          "name": "Christmas Mortgage Miracle Sweepstakes"
-        }
-      }
+      "evidence": [
+        "https://letstalkfaith.com/members/member-contests-and-sweepstakes/the-christmas-mortgage-miracle-sweepstakes",
+        "https://letstalkfaith.com/subscribe"
+      ]
     },
     "https://liqui-moly.com/en/us/service/sema-aapex-2026.html": {
       "attempts": 0,
@@ -4373,32 +4362,16 @@
       "next_retry_at": "2026-11-15T17:55:06-05:00"
     },
     "https://ul.ink/185EMB-TQM8S6": {
-      "attempts": 2,
-      "status": "in_progress",
+      "attempts": 3,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the short link https://ul.ink/185EMB-TQM8S6; redirect target, rules and membership question not settled",
-      "last_attempt_at": "2026-11-05T17:53:27-05:00",
-      "next_retry_at": "2026-11-07T17:53:27-05:00",
+      "reason": "Third try: the ul.ink short link didn't come up in web search, so the page reader couldn't open it and its target station isn't known; Christmas Mortgage Miracle sweepstakes are run by individual Salem radio stations (one found is WTBN in Tampa, members area), so the area and membership rules weren't settled",
+      "last_attempt_at": "2026-11-14T17:58:13-05:00",
+      "next_retry_at": "2026-11-18T17:58:13-05:00",
       "name": "The Christmas Mortgage Miracle Sweepstakes",
       "evidence": [
         "https://ul.ink/185EMB-TQM8S6"
-      ],
-      "claim": {
-        "run": "review-2026-11-14",
-        "expires_at": "2026-11-14T20:45:50-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader needed an access approval that went unanswered (WebFetch PROVENANCE_REQUIRED: permission request not answered in time) for the short link https://ul.ink/185EMB-TQM8S6; redirect target, rules and membership question not settled",
-          "last_attempt_at": "2026-11-05T17:53:27-05:00",
-          "next_retry_at": "2026-11-07T17:53:27-05:00",
-          "name": "The Christmas Mortgage Miracle Sweepstakes",
-          "evidence": [
-            "https://ul.ink/185EMB-TQM8S6"
-          ]
-        }
-      }
+      ]
     },
     "https://ulta.com/company/terms-and-conditions/scan-to-win-sweepstakes": {
       "name": "Ulta Beauty Scan to Win #2",
