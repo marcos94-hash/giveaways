@@ -4,50 +4,6 @@
   "source": "Found by the Mac mini finder and Perplexity/web search, checked against official rules by Claude.",
   "giveaways": [
     {
-      "id": "ign-bestbuy-daily",
-      "name": "IGN x Best Buy daily giveaway",
-      "prize": "A new Best Buy tech prize each weekday + weekly grand prize bundle",
-      "category": "electronics",
-      "entry_url": "https://www.ign.com/rewards",
-      "rules_url": null,
-      "rules_note": "Terms & Conditions on each giveaway's own page.",
-      "match": [
-        "ign.com/rewards"
-      ],
-      "starts": "2026-11-04T13:00:00-05:00",
-      "ends": "2026-11-14T12:00:00-05:00",
-      "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/New_York",
-        "reset_hour": 13,
-        "weekdays_only": true
-      },
-      "flags": {
-        "account": "Free IGN account"
-      },
-      "notes": "Pick the current Best Buy 'Biggest OOO Ever' giveaway on IGN Rewards. Each one has its own page and allows one entry. Runs through Nov 13.",
-      "day_note": "New giveaways open around 10 AM Pacific (1 PM ET) on weekdays.",
-      "rules_checked": "partial",
-      "min_age": 18,
-      "added": "2026-11-03",
-      "source": "Claude review 2026-11-03",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-12T17:56:00-05:00",
-        "reason": "Each weekday giveaway on IGN Rewards has its own Terms & Conditions; this run couldn't open them because IGN's giveaway pages didn't come up in web search. Earlier, giveaways #4, #5 and #7 allowed NJ with one entry each. The Best Buy event runs through Nov 13.",
-        "evidence": [
-          "https://www.ign.com/rewards/win-govee-dreamview-tv-light-strips",
-          "https://www.ign.com/rewards/win-a-dualsense-ps5-wireless-controller"
-        ],
-        "missing": [
-          "deadline",
-          "entry_limit"
-        ]
-      }
-    },
-    {
       "id": "upgraded-points-universal",
       "name": "Upgraded Points Universal Orlando Trip",
       "prize": "Universal Orlando trip for 4 (about $5,510)",
@@ -1602,43 +1558,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "David's Bridal NBC Newlyweds Taping Trip Sweepstakes",
-      "prize": "1 winner: trip for 2 to Los Angeles (airfare, 2 hotel nights, transfers) + 2 tickets to a Dec 11 taping of NBC's Newlyweds (ARV $3,500)",
-      "category": "trip",
-      "entry_url": "https://davidsbridal.attn.tv/p/Vyh/",
-      "rules_url": "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules",
-      "ends": "2026-11-13T23:59:59-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "marketing": "Entry form is a David's Bridal text-message signup page (asks for mobile number); expect marketing texts"
-      },
-      "notes": "One entry per person. Form asks for name, email, mobile number and ZIP. 48 contiguous states and DC, 18+. You don't need to be engaged or married.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules",
-        "checked_at": "2026-11-04T11:56-05:00",
-        "evidence": [
-          "https://www.davidsbridal.com/legal/terms-conditions/sweeps/nbc-newlywed-sweeps-rules"
-        ],
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        }
-      },
-      "match": [
-        "davidsbridal.attn.tv/p/Vyh"
-      ],
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "david-s-bridal-nbc-newlyweds-taping-trip-sweepstakes",
-      "rules_checked": "full"
-    },
-    {
       "name": "Allegiant Double Down Flyaway Sweepstakes (Luke Bryan & Jason Aldean)",
       "prize": "1 winner: 2 tickets to the Double Down Tour (Dec 11, Allegiant Stadium, Las Vegas) + round-trip flights and hotel (ARV $2,258)",
       "category": "trip",
@@ -2962,44 +2881,6 @@
       "rules_checked": "partial"
     },
     {
-      "name": "CoinWeek Giveaway #666 (Three Special Mint Sets)",
-      "prize": "Three Special Mint sets, per the listing title (the #666 page wasn't read)",
-      "category": "other",
-      "entry_url": "https://contests.coinweek.com/giveaway/coin-giveaway-666/",
-      "rules_url": "https://contests.coinweek.com/giveaway-terms-and-rules/",
-      "match": [
-        "contests.coinweek.com/giveaway/coin-giveaway-666"
-      ],
-      "ends": "2026-11-14T08:00:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "marketing": "Entering adds your email to CoinWeek's mailing list."
-      },
-      "notes": "Weekly free coin contest. CoinWeek's general terms: open to US residents 18+, no purchase necessary, entry form on contests.coinweek.com/giveaway; entering adds your email to their mailing list; likes and comments for extra entries are optional. End time is inferred from earlier weekly editions (8 AM Saturday). Check the #666 page for the real deadline and entry limit.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-08T17:55:00-05:00",
-        "reason": "CoinWeek's general terms confirm US residents 18+ and no purchase, but they state no deadline or entry limit, and the #666 page couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run.",
-        "evidence": [
-          "https://contests.coinweek.com/giveaway-terms-and-rules/",
-          "https://contests.coinweek.com/giveaway/",
-          "https://contests.coinweek.com/giveaway/coin-giveaway-638/"
-        ],
-        "missing": [
-          "deadline",
-          "entry_limit"
-        ]
-      },
-      "added": "2026-11-08",
-      "source": "Claude review 2026-11-08",
-      "id": "coinweek-giveaway-666-three-special-mint-sets",
-      "rules_checked": "partial"
-    },
-    {
       "name": "Mobil 1 O'Reilly Race to Win Sweepstakes",
       "prize": "Up to 10 VIP NASCAR Cup race trips for two to Charlotte in May 2027 (ARV $5,000 each), plus up to 500 posters",
       "category": "trip",
@@ -3371,42 +3252,6 @@
       "added": "2026-11-09",
       "source": "Claude review 2026-11-09",
       "id": "miller-lite-legendary-gameday-essentials-sweepstakes",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "Rubber Dockie Hybrid 2-in-1 Floating Hammock Giveaway",
-      "prize": "Rubber Dockie Hybrid 2-in-1 inflatable floating hammock ($700)",
-      "category": "other",
-      "entry_url": "https://rubber-dockie-giveaway.subscribepage.io/",
-      "rules_url": null,
-      "match": [
-        "rubber-dockie-giveaway.subscribepage.io"
-      ],
-      "ends": "2026-11-14T00:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "marketing": "The entry form is a MailerLite email signup with a box for Rubber Dockie marketing emails."
-      },
-      "notes": "Sponsor Rubber Dockie (North Sioux City, SD). The entry page says free to enter, no purchase necessary, open to eligible U.S. residents of legal age, ends 11:59 PM CT Nov 13. It posts no official rules and states no entry limit, so enter once. It also invites you to follow @rubberdockie on Instagram and like the giveaway post, without saying that's required. Winner contacted by email.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-09T18:30:00-05:00",
-        "reason": "The sponsor's entry page was read but posts no official rules: it says free entry, U.S. residents of legal age and an end of 11:59 PM CT Nov 13, but refers to eligibility requirements it doesn't show and states no entry limit.",
-        "evidence": [
-          "https://rubber-dockie-giveaway.subscribepage.io/"
-        ],
-        "missing": [
-          "eligibility",
-          "entry_limit"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "rubber-dockie-hybrid-2-in-1-floating-hammock-giveaway",
       "rules_checked": "partial"
     },
     {
@@ -3942,6 +3787,123 @@
       "added": "2026-11-13",
       "source": "Claude review 2026-11-13",
       "id": "explore-la-crosse-rotary-lights-getaway-sweepstakes-2026",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Peeler's Seafood Ultimate Montana Giveaway 2026",
+      "prize": "One Montana prize package, ARV $4,623: Simms Rip Line Pro bib and jacket, FORLOH pant and jacket set, Peeler's $600 gift card, Old Salt Festival weekend passes for four, Montana Knife Co. paring knife, Mystery Ranch pack, Distinctly Montana gift certificate and more",
+      "category": "mixed",
+      "entry_url": "https://www.peelersseafood.com/montana-giveaway-2026",
+      "rules_url": "https://www.peelersseafood.com/sweepstakes",
+      "match": [
+        "www.peelersseafood.com/montana-giveaway-2026"
+      ],
+      "ends": "2026-11-21T01:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Open to the 50 states and DC, 21+. The form needs an email, a phone number or both: each counts as one entry, so giving both in one go uses the full limit of two entries per person. Marketing consent is optional. Ends 11:59:59 PM MT Nov 20 (1:59 AM ET Nov 21). One item, a Bozeman Spirits barrel, $50 gift card and hat, is called an alcohol-related prize component in the rules, which the sponsor may swap for a non-alcohol prize. Festival passes exclude travel.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.peelersseafood.com/sweepstakes",
+        "checked_at": "2026-11-14T17:52:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.peelersseafood.com/sweepstakes",
+          "https://www.peelersseafood.com/montana-giveaway-2026"
+        ]
+      },
+      "added": "2026-11-14",
+      "source": "Claude review 2026-11-14",
+      "id": "peeler-s-seafood-ultimate-montana-giveaway-2026",
+      "rules_checked": "full"
+    },
+    {
+      "name": "D'Addario Los Tigres del Norte Bajo Quinto Giveaway",
+      "prize": "Two winners: an H. Jimenez Natural Tiger Maple bajo quinto signed by Los Tigres del Norte, or an H. Jimenez Mexican Calendar bajo quinto, each with D'Addario accessories (ARV up to $1,050)",
+      "category": "other",
+      "entry_url": "https://www.daddario.com/pages/los-tigres-giveaway",
+      "match": [
+        "www.daddario.com/pages/los-tigres-giveaway"
+      ],
+      "ends": "2026-11-19T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Open to the 50 states, DC and Canada, age of majority. Free form on D'Addario's page (name, email, country, primary instrument). One entry per person and email. The page says enter by Nov 19, 2026, but its rules text gives a Feb 25 to Mar 17, 2026 entry period, so the end date isn't settled.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.daddario.com/en-au/pages/los-tigres-giveaway",
+        "checked_at": "2026-11-14T17:52:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": false,
+          "entry_limit": true
+        },
+        "reason": "The rules on D'Addario's page (read from the en-au copy, which states US, DC and Canada eligibility; the US page didn't come up in search) confirm eligibility, a free online form and one entry per person, but their entry period reads Feb 25 to Mar 17, 2026, which conflicts with the page's 'Enter by November 19, 2026' and a Nov 20 drawing. The listing ends Nov 19 at 11:59 PM ET, the page's date with the rules' 23:59 ET time.",
+        "missing": [
+          "deadline"
+        ],
+        "evidence": [
+          "https://www.daddario.com/en-au/pages/los-tigres-giveaway"
+        ]
+      },
+      "added": "2026-11-14",
+      "source": "Claude review 2026-11-14",
+      "id": "d-addario-los-tigres-del-norte-bajo-quinto-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Win Watcharee's NEW Sweet Heat Spreads",
+      "prize": "19 winners each get a Sweet Heat Spread Duo (Sweet Chili Ginger and Lime Habanero)",
+      "category": "other",
+      "entry_url": "https://sweepwidget.com/c/103482-rfn9uve6",
+      "match": [
+        "sweepwidget.com/c/103482-rfn9uve6",
+        "sweepwidget.com/giveaways/103482-rfn9uve6"
+      ],
+      "ends": "2026-11-20T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "Must be following @wthaisauce on Instagram."
+      },
+      "notes": "Open to US residents, Nov 13 to Nov 20 at 11:59 PM EST. You must follow @wthaisauce on Instagram. Optional bonus entries for a newsletter sign-up and for sharing or tagging friends on the Instagram post. The page states no entry limit and no minimum age. Winners are emailed Nov 23 and must reply by Nov 30.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-14T17:52:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": false
+        },
+        "reason": "The SweepWidget giveaway page (no separate official rules) says open to US residents only, Nov 13 to Nov 20 at 11:59 PM EST, with a free form and a required Instagram follow of @wthaisauce, but it states no entry limit or minimum age. The listing assumes one entry per person.",
+        "missing": [
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://sweepwidget.com/giveaways/103482-rfn9uve6"
+        ]
+      },
+      "added": "2026-11-14",
+      "source": "Claude review 2026-11-14",
+      "id": "win-watcharee-s-new-sweet-heat-spreads",
       "rules_checked": "partial"
     }
   ]
