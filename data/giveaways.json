@@ -4159,6 +4159,121 @@
       "source": "Claude review 2026-11-14",
       "id": "fall-christian-fiction-giveaway-middle-grade-young-adult",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Perdue Win a Year's Worth of Chicken Sweepstakes",
+      "prize": "Three winners each get a year's worth of Perdue chicken: 50 bags of Perdue products in five monthly shipments, ARV $935.90 each",
+      "category": "other",
+      "entry_url": "https://www.perdue.com/giveaway",
+      "rules_url": "https://www.perdue.com/perdue-win-a-years-worth-of-chicken-sweepstakes",
+      "match": [
+        "perdue.com/giveaway"
+      ],
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering signs you up for Perdue marketing emails (you can unsubscribe)."
+      },
+      "notes": "Open to the 50 states and DC, 18+ (19+ in AL and NE, 21+ in MS). One entry per person and household for the whole period, Nov 13 at 9:00 AM ET to Nov 22 at 11:59 PM ET. The form asks for name, email and mailing address, and clicking Join now also subscribes you to Perdue emails. No mail-in entries. Drawing on or about Nov 23.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.perdue.com/perdue-win-a-years-worth-of-chicken-sweepstakes",
+        "checked_at": "2026-11-15T18:07:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.perdue.com/perdue-win-a-years-worth-of-chicken-sweepstakes",
+          "https://www.perdue.com/giveaway"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "perdue-win-a-year-s-worth-of-chicken-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Tito's Holiday Sweater Drop",
+      "prize": "400 winners (200 in each of two drawings) get a limited-edition Tito's holiday sweater prize, ARV $33 each",
+      "category": "other",
+      "entry_url": "https://www.titosvodka.com/holiday",
+      "rules_url": "https://www.titosvodka.com/titos-holiday-official-rules",
+      "match": [
+        "titosvodka.com/holiday"
+      ],
+      "ends": "2026-12-09T17:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "marketing": "Entering opts you in to marketing from Tito's and its promotional partners unless you opt out on the form.",
+        "age21": true
+      },
+      "notes": "Open to the 47 states other than Maine, Virginia and California, plus DC, 21+. One entry per person and email for the whole promotion; entries that don't win drawing 1 carry into drawing 2. Entry period 1 ends Nov 17 at 11:59:59 PM ET (drawing Nov 18), period 2 runs Nov 19 to Dec 9 (drawing Dec 10), and Nov 18 is a gap, which may be why the page also carries a 'sign up is closed' message. The rules put the promotion end at 4:59:59 PM CT Dec 9 (5:59 PM ET), earlier than period 2's 11:59 PM ET end, so this listing uses the earlier time. The form asks for name, mailing address, email and phone behind an age gate. No purchase or text needed. Tito's is a vodka brand, but the prize is clothing.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.titosvodka.com/titos-holiday-official-rules",
+        "checked_at": "2026-11-15T18:07:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.titosvodka.com/titos-holiday-official-rules",
+          "https://www.titosvodka.com/holiday"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "tito-s-holiday-sweater-drop",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Heineken Holiday Promotion",
+      "prize": "306 grand prizes (six per state and DC) of a Heineken x Victrola suitcase record player, ARV $75, plus instant wins: 100 $35 Victrola gift cards and 20,000 TouchTunes codes for two song credits",
+      "category": "electronics",
+      "entry_url": "https://www.heineken.com/us/en/promos/holiday",
+      "rules_url": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/holiday_OfficialRules.html",
+      "match": [
+        "heineken.com/us/en/promos/holiday"
+      ],
+      "ends": "2026-12-31T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "flags": {
+        "account": "Entry needs a free registration on Heineken's promo site; you log back in with your email to play the instant win game each day.",
+        "age21": true
+      },
+      "notes": "Open to the 50 states and DC, 21+. No purchase or text needed: register once on the promo page (texting CHEERS to 27287 is the other way in), then log in with your email to play the instant win game up to once a day; every play also enters the grand prize drawing. The instant win ends Dec 31 at 11:59 PM ET or when its prizes run out. One instant win prize per person, and one prize per household every six months across all Heineken USA promotions, the Takeoff for Kickoff listing included. Referrals who register earn bonus grand prize entries. No prize includes alcohol. The site has an age gate. Drawing on or about Jan 5.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/holiday_OfficialRules.html",
+        "checked_at": "2026-11-15T18:07:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.mdmgames.com/MDMAdmin/RulesPolicies/holiday_OfficialRules.html"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "heineken-holiday-promotion",
+      "rules_checked": "full"
     }
   ]
 }
