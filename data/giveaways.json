@@ -4315,6 +4315,220 @@
       "source": "Claude review 2026-11-15",
       "id": "atk-gear-black-friday-lucky-draw-round-1",
       "rules_checked": "partial"
+    },
+    {
+      "name": "CoinWeek Giveaway #667: 2012 US Mint Limited Edition Silver Proof Set",
+      "prize": "One 2012 US Mint Limited Edition Silver Proof Set (eight coins, including a 2012-W Proof Silver Eagle), value $245, one winner",
+      "category": "other",
+      "entry_url": "https://contests.coinweek.com/giveaway/coin-giveaway-667/",
+      "rules_url": "https://contests.coinweek.com/giveaway-terms-and-rules/",
+      "match": [
+        "contests.coinweek.com/giveaway/coin-giveaway-667"
+      ],
+      "ends": "2026-11-21T08:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering adds your email to CoinWeek's mailing list, and its terms let CoinWeek share or use the address."
+      },
+      "notes": "CoinWeek's general terms: legal US residents 18+, no purchase necessary, enter with your email on the giveaway page. The #667 page says entries close at 10 AM GMT-4 on Sat Nov 21 (9 AM ET), but the contest hub says 8 AM, so this listing uses 8 AM ET. Neither the page nor the terms state an entry limit; CoinWeek's entries page shows one entry per email, plus optional bonus entries for a Facebook like and comment, article comments, text alerts and each newsletter you join. Winner announced about Nov 25.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://contests.coinweek.com/giveaway-terms-and-rules/",
+        "checked_at": "2026-11-15T18:11:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "CoinWeek's terms confirm US residents 18+ and free online entry, but they state no entry limit, and the end time conflicts: the #667 page says 10 AM GMT-4 on Nov 21 while the contest hub says 8 AM.",
+        "missing": [
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://contests.coinweek.com/giveaway-terms-and-rules/",
+          "https://contests.coinweek.com/giveaway/coin-giveaway-667/",
+          "https://contests.coinweek.com/",
+          "https://contests.coinweek.com/entries/"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "coinweek-giveaway-667-2012-us-mint-limited-edition-silver-pr",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Raising Cane's Caniac Football Instant Win Game",
+      "prize": "1,920 instant win prizes: Cane's merchandise (Hopsulators, bottles, fanny packs, AirTag holders, hats, plush) and digital codes for free sauce, Texas toast, drinks and fries",
+      "category": "other",
+      "entry_url": "https://www.raisingcanes.com/football/",
+      "rules_url": "https://www.raisingcanes.com/caniac-football-game-september-2026/",
+      "match": [
+        "raisingcanes.com/football"
+      ],
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Per a listing site: US and DC, 18+, play the football game at the bottom of Cane's football page once a day; winning the game or reaching a score isn't required. Ends Nov 22 at 11:59 PM (no time zone given, so this listing uses ET). Most prizes are digital food codes, probably redeemable only at a Raising Cane's restaurant. Whether a Caniac Club login is needed isn't confirmed.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-15T18:11:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Facts come from a listing site; raisingcanes.com returned client errors to the page reader and its rules page hit the unanswered PROVENANCE_REQUIRED prompt, so eligible states, any account requirement, the end time and the play limit aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://thefreebieguy.com/sweepstakes/1920-instantly-win-branded-food-prizes-in-the-raising-canes-caniac-football-iwg/"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "raising-cane-s-caniac-football-instant-win-game",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Happy Thursday x LineLeap Sweepstakes",
+      "prize": "One grand prize: a year of LineLeap LineSkips and a 12-pack of Happy Thursday every Thursday for a year, awarded as a $2,300 check",
+      "category": "cash",
+      "entry_url": "https://mc.beveragepromo.com/262939",
+      "rules_url": "https://www.promorules.com/MK262939",
+      "match": [
+        "mc.beveragepromo.com/262939"
+      ],
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Per listing sites: open to the US and DC except Maine, Maryland and West Virginia, 21+, one entry per person, ends Nov 22 at 11:59 PM (no time zone given, so this listing uses ET). The prize is described as LineSkips and a weekly 12-pack of Happy Thursday, an alcoholic drink, but it is paid out as a $2,300 check. Last year's edition also had instant win merchandise.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-15T18:11:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Facts come from listing sites; the official rules at promorules.com/MK262939 hit the unanswered PROVENANCE_REQUIRED prompt and the beveragepromo.com entry page didn't come up in web search, so the entry method, eligible states and end time aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://thefreebieguy.com/sweepstakes/happy-thursday-x-lineleap-sweepstakes/",
+          "https://www.freestufftimes.com/contests/20/happy-thursday-x-lineleap-sweepstakes/"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "happy-thursday-x-lineleap-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "MTN OPS x HOYT Early Access Black Friday 2026 Giveaway",
+      "prize": "Two winners: one gets a HOYT 2027 Carbon Bow (ARV $2,149), the other a HOYT 2027 Aluminum Bow (ARV $1,449)",
+      "category": "other",
+      "entry_url": "https://mtnops.com/pages/black-friday-early-access",
+      "rules_url": "https://mtnops.com/pages/giveaway-2-terms-and-conditions",
+      "match": [
+        "mtnops.com/pages/black-friday-early-access"
+      ],
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering is a sign-up for MTN OPS Black Friday Early Access with your email and phone number, so expect marketing emails and texts."
+      },
+      "notes": "Terms: legal US residents 18+, except residents of Florida, New York and Rhode Island. No purchase necessary: submit the Early Access sign-up form (email, phone and required info) for one entry, limit one per person. Runs Nov 2 to Nov 22, 2026 with no end time given (MTN OPS is in Utah), so this listing ends at 11:59 PM ET Nov 22. Winners have 72 hours to respond. The bows come without arrows, sights or other accessories.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://mtnops.com/pages/giveaway-2-terms-and-conditions",
+        "checked_at": "2026-11-15T18:11:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": false,
+          "entry_limit": true
+        },
+        "reason": "Terms read through a Perplexity extract of MTN OPS's terms page (the page reader's approval prompt went unanswered): US 18+ except FL, NY and RI, free sign-up entry, one per person, but the period ends on Nov 22, 2026 with no end time or time zone.",
+        "missing": [
+          "deadline"
+        ],
+        "evidence": [
+          "https://mtnops.com/pages/giveaway-2-terms-and-conditions",
+          "https://mtnops.com/pages/black-friday-early-access"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "mtn-ops-x-hoyt-early-access-black-friday-2026-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "KitchenAid x Corkcicle MindFULLness Sweepstakes",
+      "prize": "Five winners each get a KitchenAid MindFULLness Fridge with Intelligent Auto Fill, a set of three KitchenAid x Corkcicle drinkware pieces and $500 cash, ARV $4,929 each",
+      "category": "mixed",
+      "entry_url": "https://www.kitchenaidxcorkciclesweeps.com/home",
+      "rules_url": "https://www.kitchenaidxcorkciclesweeps.com/rules",
+      "match": [
+        "kitchenaidxcorkciclesweeps.com"
+      ],
+      "ends": "2026-11-15T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Ends tonight, Nov 15 at 11:59 PM ET (a listing site's Nov 22 date is wrong). KitchenAid's short-form rules: legal residents of the 48 contiguous states and DC, 18+, void in Alaska and Hawaii, no purchase necessary. Per a listing site, you register with name and email for one entry, can earn up to 15 bonus entries by sharing, and returning entrants log back in with their email.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": "https://www.kitchenaid.com/major-appliances/partnerships/corkcicle.html",
+        "checked_at": "2026-11-15T18:11:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": false
+        },
+        "reason": "KitchenAid's own promo page and its short-form rules confirm eligibility, free entry and the Nov 15, 11:59 PM ET end, but the full rules at kitchenaidxcorkciclesweeps.com returned a client error to the page reader, so the entry limit comes only from a listing site.",
+        "missing": [
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.kitchenaid.com/major-appliances/partnerships/corkcicle.html",
+          "https://www.sweepstakesbible.com/giveaways/kitchenaid-corkcicle-mindfullness-fridge-sweepstakes"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "kitchenaid-x-corkcicle-mindfullness-sweepstakes",
+      "rules_checked": "partial"
     }
   ]
 }

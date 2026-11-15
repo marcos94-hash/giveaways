@@ -906,12 +906,19 @@
     },
     "https://contests.coinweek.com/giveaway/coin-giveaway-667": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "CoinWeek's terms confirm US residents 18+ and free online entry, but they state no entry limit, and the end time conflicts: the #667 page says 10 AM GMT-4 on Nov 21 while the contest hub says 8 AM.",
+      "last_attempt_at": "2026-11-15T18:12:16-05:00",
+      "evidence": [
+        "https://contests.coinweek.com/",
+        "https://contests.coinweek.com/entries/",
+        "https://contests.coinweek.com/giveaway-terms-and-rules/",
+        "https://contests.coinweek.com/giveaway/coin-giveaway-667/"
+      ],
+      "listing_id": "coinweek-giveaway-667-2012-us-mint-limited-edition-silver-pr",
+      "decided_at": "2026-11-15T18:12:16-05:00",
+      "next_retry_at": "2026-11-18T18:12:16-05:00"
     },
     "https://continentaltire.com/newsletter-signup": {
       "attempts": 0,
@@ -2836,12 +2843,17 @@
     },
     "https://kitchenaidxcorkciclesweeps.com/home": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "KitchenAid's own promo page and its short-form rules confirm eligibility, free entry and the Nov 15, 11:59 PM ET end, but the full rules at kitchenaidxcorkciclesweeps.com returned a client error to the page reader, so the entry limit comes only from a listing site.",
+      "last_attempt_at": "2026-11-15T18:12:16-05:00",
+      "evidence": [
+        "https://www.kitchenaid.com/major-appliances/partnerships/corkcicle.html",
+        "https://www.sweepstakesbible.com/giveaways/kitchenaid-corkcicle-mindfullness-fridge-sweepstakes"
+      ],
+      "listing_id": "kitchenaid-x-corkcicle-mindfullness-sweepstakes",
+      "decided_at": "2026-11-15T18:12:16-05:00",
+      "next_retry_at": "2026-11-18T18:12:16-05:00"
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -3048,6 +3060,20 @@
       "next_retry_at": "2026-11-11T17:58:22-05:00",
       "name": "Mary's Heirloom Seeds November 2026 Seed Giveaway"
     },
+    "https://mc.beveragepromo.com/262939": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites; the official rules at promorules.com/MK262939 hit the unanswered PROVENANCE_REQUIRED prompt and the beveragepromo.com entry page didn't come up in web search, so the entry method, eligible states and end time aren't confirmed.",
+      "last_attempt_at": "2026-11-15T18:12:16-05:00",
+      "evidence": [
+        "https://thefreebieguy.com/sweepstakes/happy-thursday-x-lineleap-sweepstakes/",
+        "https://www.freestufftimes.com/contests/20/happy-thursday-x-lineleap-sweepstakes/"
+      ],
+      "listing_id": "happy-thursday-x-lineleap-sweepstakes",
+      "decided_at": "2026-11-15T18:12:16-05:00",
+      "next_retry_at": "2026-11-18T18:12:16-05:00"
+    },
     "https://medievaltimes.com/giveaways/thanksgiving-giveaway": {
       "attempts": 1,
       "status": "ended",
@@ -3176,12 +3202,17 @@
     },
     "https://mtnops.com/pages/black-friday-early-access": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Terms read through a Perplexity extract of MTN OPS's terms page (the page reader's approval prompt went unanswered): US 18+ except FL, NY and RI, free sign-up entry, one per person, but the period ends on Nov 22, 2026 with no end time or time zone.",
+      "last_attempt_at": "2026-11-15T18:12:16-05:00",
+      "evidence": [
+        "https://mtnops.com/pages/black-friday-early-access",
+        "https://mtnops.com/pages/giveaway-2-terms-and-conditions"
+      ],
+      "listing_id": "mtn-ops-x-hoyt-early-access-black-friday-2026-giveaway",
+      "decided_at": "2026-11-15T18:12:16-05:00",
+      "next_retry_at": "2026-11-18T18:12:16-05:00"
     },
     "https://murfelectricbikes.com/pages/ultimate-beach-haul-giveaway": {
       "attempts": 0,
@@ -3543,12 +3574,17 @@
     },
     "https://promorules.com/MK262939": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites; the official rules at promorules.com/MK262939 hit the unanswered PROVENANCE_REQUIRED prompt and the beveragepromo.com entry page didn't come up in web search, so the entry method, eligible states and end time aren't confirmed.",
+      "last_attempt_at": "2026-11-15T18:12:16-05:00",
+      "evidence": [
+        "https://thefreebieguy.com/sweepstakes/happy-thursday-x-lineleap-sweepstakes/",
+        "https://www.freestufftimes.com/contests/20/happy-thursday-x-lineleap-sweepstakes/"
+      ],
+      "listing_id": "happy-thursday-x-lineleap-sweepstakes",
+      "decided_at": "2026-11-15T18:12:16-05:00",
+      "next_retry_at": "2026-11-18T18:12:16-05:00"
     },
     "https://promorules.com/MK263472": {
       "attempts": 1,
@@ -3682,12 +3718,29 @@
     },
     "https://raisingcanes.com/caniac-football-game-september-2026": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a listing site; raisingcanes.com returned client errors to the page reader and its rules page hit the unanswered PROVENANCE_REQUIRED prompt, so eligible states, any account requirement, the end time and the play limit aren't confirmed.",
+      "last_attempt_at": "2026-11-15T18:12:16-05:00",
+      "evidence": [
+        "https://thefreebieguy.com/sweepstakes/1920-instantly-win-branded-food-prizes-in-the-raising-canes-caniac-football-iwg/"
+      ],
+      "listing_id": "raising-cane-s-caniac-football-instant-win-game",
+      "decided_at": "2026-11-15T18:12:16-05:00",
+      "next_retry_at": "2026-11-18T18:12:16-05:00"
+    },
+    "https://raisingcanes.com/football": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a listing site; raisingcanes.com returned client errors to the page reader and its rules page hit the unanswered PROVENANCE_REQUIRED prompt, so eligible states, any account requirement, the end time and the play limit aren't confirmed.",
+      "last_attempt_at": "2026-11-15T18:12:16-05:00",
+      "evidence": [
+        "https://thefreebieguy.com/sweepstakes/1920-instantly-win-branded-food-prizes-in-the-raising-canes-caniac-football-iwg/"
+      ],
+      "listing_id": "raising-cane-s-caniac-football-instant-win-game",
+      "decided_at": "2026-11-15T18:12:16-05:00",
+      "next_retry_at": "2026-11-18T18:12:16-05:00"
     },
     "https://ram.hotwheelssweepstakes.com/": {
       "attempts": 1,
