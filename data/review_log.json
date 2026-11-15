@@ -138,26 +138,16 @@
       "decided_at": "2026-11-15T17:40:05-05:00"
     },
     "https://apfco.com/Secured/WB1811/S9936/Home/OfficialRules": {
-      "attempts": 2,
-      "status": "in_progress",
+      "attempts": 3,
+      "status": "blocked",
       "reason_code": "robots_blocked",
-      "reason": "Official rules page on apfco.com disallows automated readers. The sponsor brand is Al Capone (cigarillos); last year's edition was limited to adult tobacco consumers 21+ per a listing site, so this one may be a restricted group",
-      "last_attempt_at": "2026-11-06T18:03:51-05:00",
-      "next_retry_at": "2026-11-08T18:03:51-05:00",
+      "reason": "Third try: apfco.com's robots.txt still blocks the official rules page; a listing site quotes this year's rules as open only to tobacco consumers 21+ in the 50 states and DC except MA, MI, IA and VA, with eight weekly 500 dollar check drawings and one entry per day, so it is likely a restricted group",
+      "last_attempt_at": "2026-11-15T18:09:13-05:00",
+      "next_retry_at": "2026-11-19T18:09:13-05:00",
       "name": "Win $500 in The Season of Giving Cash Giveaway!",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "robots_blocked",
-          "reason": "Official rules page on apfco.com disallows automated readers. The sponsor brand is Al Capone (cigarillos); last year's edition was limited to adult tobacco consumers 21+ per a listing site, so this one may be a restricted group",
-          "last_attempt_at": "2026-11-06T18:03:51-05:00",
-          "next_retry_at": "2026-11-08T18:03:51-05:00",
-          "name": "Win $500 in The Season of Giving Cash Giveaway!"
-        }
-      }
+      "evidence": [
+        "https://www.sweepstakesbible.com/giveaways/al-capone-season-of-giving-cash-giveaway"
+      ]
     },
     "https://app.viralsweep.com/sweeps/full/07d64b-239905?framed=1": {
       "attempts": 2,
@@ -1213,26 +1203,16 @@
       "name": "The Eddie Bauer Red Rocks and Roam Giveaway! 65 Winners get Gift Cards!"
     },
     "https://ehplabs.com/pages/oxyshred-prize-giveaway": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "Sponsor's giveaway page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run; web search and a Perplexity lookup on ehplabs.com found only terms for older EHPlabs competitions, not this one",
-      "last_attempt_at": "2026-11-07T18:02:27-05:00",
-      "next_retry_at": "2026-11-08T18:02:27-05:00",
+      "reason": "Second try: the US giveaway page didn't come up in web search; EHPlabs' Australian copy of the page mentions a 1,000 dollar cash prize and an email sign-up but no terms, and the only EHPlabs terms found are for 2020, 2021 and 2024 promotions",
+      "last_attempt_at": "2026-11-15T18:09:13-05:00",
+      "next_retry_at": "2026-11-17T18:09:13-05:00",
       "name": "OxyShred Sweepstakes",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Sponsor's giveaway page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run; web search and a Perplexity lookup on ehplabs.com found only terms for older EHPlabs competitions, not this one",
-          "last_attempt_at": "2026-11-07T18:02:27-05:00",
-          "next_retry_at": "2026-11-08T18:02:27-05:00",
-          "name": "OxyShred Sweepstakes"
-        }
-      }
+      "evidence": [
+        "https://ehplabs.com.au/pages/oxyshred-prize-giveaway"
+      ]
     },
     "https://ellisskis.com/pages/kanso-powder-giveaway": {
       "attempts": 1,
@@ -2057,12 +2037,16 @@
     },
     "https://gleam.io/YcSe2/black-friday-lucky-draw-round-1": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from giveaway-list.com's copy of the Gleam page, which shows no terms; Gleam returns a client error to the page reader, so age, free entry, the entry limit and the end time aren't confirmed.",
+      "last_attempt_at": "2026-11-15T18:09:24-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-YcSe2/black-friday-lucky-draw-round-1"
+      ],
+      "listing_id": "atk-gear-black-friday-lucky-draw-round-1",
+      "decided_at": "2026-11-15T18:09:24-05:00",
+      "next_retry_at": "2026-11-18T18:09:24-05:00"
     },
     "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
       "attempts": 1,
@@ -3016,32 +3000,16 @@
       "next_retry_at": null
     },
     "https://m.cmpgn.page/RRBmd5": {
-      "attempts": 2,
-      "status": "in_progress",
+      "attempts": 3,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "Campaign page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; sponsor is Truliant Federal Credit Union, a regional credit union, so it may be members-only or local",
-      "last_attempt_at": "2026-11-06T18:00:37-05:00",
+      "reason": "Third try: the campaign page and Truliant's rules didn't come up in web search (truliant.org searches returned nothing) and scraped links hit the unanswered PROVENANCE_REQUIRED prompt, so whether it is limited to Truliant members or its service area is still unsettled",
+      "last_attempt_at": "2026-11-15T18:09:12-05:00",
       "evidence": [
         "https://m.cmpgn.page/RRBmd5"
       ],
-      "next_retry_at": "2026-11-08T18:00:37-05:00",
-      "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Campaign page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; sponsor is Truliant Federal Credit Union, a regional credit union, so it may be members-only or local",
-          "last_attempt_at": "2026-11-06T18:00:37-05:00",
-          "evidence": [
-            "https://m.cmpgn.page/RRBmd5"
-          ],
-          "next_retry_at": "2026-11-08T18:00:37-05:00",
-          "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!"
-        }
-      }
+      "next_retry_at": "2026-11-19T18:09:12-05:00",
+      "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!"
     },
     "https://madisoncreekoutfitters.com/pages/giveaway": {
       "attempts": 0,
@@ -3790,26 +3758,13 @@
       "name": "Win a $1000 Walmart Gift Card and More from Real Good Foods!"
     },
     "https://realsimple.com/real-simple-this-is-your-sign-to-sweepstakes-12196911": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "Real Simple's sweepstakes page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run (the reader only opens links that come from web search), and neither web search nor a Perplexity lookup on realsimple.com turned up the page or its rules",
-      "last_attempt_at": "2026-11-07T17:56:39-05:00",
-      "next_retry_at": "2026-11-08T17:56:39-05:00",
-      "name": "Real Simple Treat Yourself Sweepstakes",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Real Simple's sweepstakes page needs a page-reader approval (PROVENANCE_REQUIRED) that went unanswered in this unattended run (the reader only opens links that come from web search), and neither web search nor a Perplexity lookup on realsimple.com turned up the page or its rules",
-          "last_attempt_at": "2026-11-07T17:56:39-05:00",
-          "next_retry_at": "2026-11-08T17:56:39-05:00",
-          "name": "Real Simple Treat Yourself Sweepstakes"
-        }
-      }
+      "reason": "Second try: web searches limited to realsimple.com were rejected by the search proxy (HTTP 400) and plain searches didn't surface the page or its rules; Real Simple's other 2026 sweepstakes run through realsimple.com/sweepstakes/entry pages and are 21+ per a listing site",
+      "last_attempt_at": "2026-11-15T18:09:12-05:00",
+      "next_retry_at": "2026-11-17T18:09:12-05:00",
+      "name": "Real Simple Treat Yourself Sweepstakes"
     },
     "https://refer.tatcha.com/october2026sweepstakes": {
       "attempts": 0,

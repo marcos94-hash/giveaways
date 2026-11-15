@@ -4274,6 +4274,47 @@
       "source": "Claude review 2026-11-15",
       "id": "heineken-holiday-promotion",
       "rules_checked": "full"
+    },
+    {
+      "name": "ATK Gear Black Friday Lucky Draw (Round 1)",
+      "prize": "41 prizes: Velota Fuzzy 63 V2 and ATK RS7 Air keyboards, ATK Phantom, F1 V3 and VXE R1 mice, ATK N9 V2 headsets, X83 mousepads, sweat bags, $5 ATK gift cards and 2,000-point rewards",
+      "category": "electronics",
+      "entry_url": "https://gleam.io/YcSe2/black-friday-lucky-draw-round-1",
+      "match": [
+        "gleam.io/YcSe2"
+      ],
+      "ends": "2026-11-23T02:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Per a listing site's copy of the Gleam page: worldwide, Nov 9 to Nov 22 (PST), ending 11:59 PM PT Nov 22 (2:59 AM ET Nov 23). Entry actions include a newsletter signup, a site visit, X, TikTok and Discord follows, an X post, shares, a Trustpilot review and a Black Friday order entry; the copy doesn't say which are required. No age, entry limit or terms were shown.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-15T18:10:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Facts come from giveaway-list.com's copy of the Gleam page, which shows no terms; Gleam returns a client error to the page reader, so age, free entry, the entry limit and the end time aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://giveaway-list.com/giveaway/gleam-YcSe2/black-friday-lucky-draw-round-1"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "atk-gear-black-friday-lucky-draw-round-1",
+      "rules_checked": "partial"
     }
   ]
 }
