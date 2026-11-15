@@ -210,13 +210,16 @@
       "name": "Win a Year’s Supply of CJ’s Master Formula Products"
     },
     "https://app.viralsweep.com/sweeps/full/559de4-240895?framed=1": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The ViralSweep page (titled Win Your Wishlist 2026 in search results) returns a client error to the page reader, freepeople.com's giveaways and rules pages don't mention it, and a Perplexity lookup found only Free People's monthly reviews sweepstakes; the 2024 edition gave five 1,000 dollar gift cards to US and Canada residents 18+, one entry each",
+      "last_attempt_at": "2026-11-15T18:12:48-05:00",
+      "evidence": [
+        "https://www.sweepstakesbible.com/giveaways/free-people-win-your-wishlist-giveaway"
+      ],
+      "next_retry_at": "2026-11-16T18:12:48-05:00",
+      "name": "Free People Wish List Sweepstakes"
     },
     "https://app.viralsweep.com/sweeps/full/5a56f8-239820?framed=1": {
       "attempts": 0,
@@ -1162,12 +1165,17 @@
     },
     "https://duer.com/pages/win-a-winter-outfit": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "DUER's entry page confirms free email sign-up entry, but its terms page hit the unanswered PROVENANCE_REQUIRED prompt, so eligibility for US and New Jersey residents, the entry limit and the end time aren't confirmed; the Nov 22 date comes from a listing site.",
+      "last_attempt_at": "2026-11-15T18:12:47-05:00",
+      "evidence": [
+        "https://duer.com/pages/win-a-winter-outfit",
+        "https://thefreebieguy.com/current-sweepstakes-and-giveaways/"
+      ],
+      "listing_id": "duer-win-a-winter-outfit",
+      "decided_at": "2026-11-15T18:12:47-05:00",
+      "next_retry_at": "2026-11-18T18:12:47-05:00"
     },
     "https://dunkin.promo.eprize.com/fall26": {
       "attempts": 0,
@@ -2991,12 +2999,17 @@
     },
     "https://lpga.com/ford-tee-to-trail-sweepstakes": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites; lpga.com's rules page loads its text by script, so the page reader got only its title, and a Perplexity lookup of lpga.com found nothing. The listings disagree on the minimum age (18 or 21), and state exclusions aren't confirmed.",
+      "last_attempt_at": "2026-11-15T18:12:47-05:00",
+      "evidence": [
+        "https://www.sweepsatlas.com/sweeps/lpga-ford-tee-to-trail-sweepstakes",
+        "https://www.sweepstakesbible.com/giveaways/ford-tee-to-trail-sweepstakes-win-ford-bronco"
+      ],
+      "listing_id": "ford-tee-to-trail-sweepstakes-lpga",
+      "decided_at": "2026-11-15T18:12:47-05:00",
+      "next_retry_at": "2026-11-18T18:12:47-05:00"
     },
     "https://luckygolf.com/pages/giveaway": {
       "attempts": 0,
@@ -3351,25 +3364,18 @@
     },
     "https://ojbirthday.com/login": {
       "attempts": 2,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "ojbirthday.com and orangejulius.com return a client error to the page reader; the rules and whether an account is needed weren't read",
-      "last_attempt_at": "2026-11-06T18:00:37-05:00",
-      "next_retry_at": "2026-11-08T18:00:37-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites; ojbirthday.com returned client errors to the page reader for the third run and a Perplexity lookup of ojbirthday.com and orangejulius.com found no rules, so the rules, the account requirement and how a day is counted aren't confirmed.",
+      "last_attempt_at": "2026-11-15T18:12:47-05:00",
+      "next_retry_at": "2026-11-18T18:12:47-05:00",
       "name": "Orange Julius Smoothie Smash",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "ojbirthday.com and orangejulius.com return a client error to the page reader; the rules and whether an account is needed weren't read",
-          "last_attempt_at": "2026-11-06T18:00:37-05:00",
-          "next_retry_at": "2026-11-08T18:00:37-05:00",
-          "name": "Orange Julius Smoothie Smash"
-        }
-      }
+      "evidence": [
+        "https://freeprizesonline.com/2026/11/04/orange-julius-smoothie-smash-instant-win-game/",
+        "https://sweepsinvasion.com/orange-julius-smoothie-smash-sweepstakes-instant-win/"
+      ],
+      "listing_id": "orange-julius-smoothie-smash-sweepstakes-and-instant-win-gam",
+      "decided_at": "2026-11-15T18:12:47-05:00"
     },
     "https://on.ltk.com/+bxbyWFxKqBphP4r99VWPrQ": {
       "attempts": 1,
@@ -4962,13 +4968,17 @@
       "name": "Fly Fishing Gear Giveaway"
     },
     "https://wheeloffortune.com/win": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "Wheel of Fortune's Live More Floridays Giveaway II rules and FAQ pages load their text by script, so the page reader got only headings, and a Perplexity lookup of wheeloffortune.com found only older giveaways; the 2025 edition needed a free Wheel Watchers Club account and each night's on-air puzzle answer",
+      "last_attempt_at": "2026-11-15T18:12:48-05:00",
+      "evidence": [
+        "https://www.wheeloffortune.com/win/live-more-floridays/faq",
+        "https://www.wheeloffortune.com/win/live-more-floridays/rules"
+      ],
+      "next_retry_at": "2026-11-16T18:12:48-05:00",
+      "name": "Wheel Of Fortune Live More Floridays Giveaway"
     },
     "https://whiteclaw.com/sweepstakes/surgetailgate": {
       "attempts": 1,

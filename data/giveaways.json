@@ -4529,6 +4529,140 @@
       "source": "Claude review 2026-11-15",
       "id": "kitchenaid-x-corkcicle-mindfullness-sweepstakes",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Ford Tee to Trail Sweepstakes (LPGA)",
+      "prize": "One winner gets a 2026 Ford Bronco Badlands with the Sasquatch package, a 3-day, 2-night trip for four to an LPGA-sanctioned golf course in the lower 48 states, and a $1,000 gift card, total ARV $63,925",
+      "category": "mixed",
+      "entry_url": "https://www.lpga.com/ford-tee-to-trail-sweepstakes",
+      "rules_url": "https://www.lpga.com/ford-tee-to-trail-sweepstakes/rules",
+      "match": [
+        "lpga.com/ford-tee-to-trail-sweepstakes"
+      ],
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Per listing sites: open in the US, one entry per person and email for the whole period (Mar 10 to Nov 22, 2026, 11:59 PM ET). The form asks for name, email and phone, three survey questions that don't affect winning, and a box agreeing to the rules. One listing says 21+ and another 18+, so this listing uses 21. Drawing about Nov 24.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-15T18:11:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Facts come from listing sites; lpga.com's rules page loads its text by script, so the page reader got only its title, and a Perplexity lookup of lpga.com found nothing. The listings disagree on the minimum age (18 or 21), and state exclusions aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.sweepsatlas.com/sweeps/lpga-ford-tee-to-trail-sweepstakes",
+          "https://www.sweepstakesbible.com/giveaways/ford-tee-to-trail-sweepstakes-win-ford-bronco"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "ford-tee-to-trail-sweepstakes-lpga",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Orange Julius Smoothie Smash Sweepstakes and Instant Win Game",
+      "prize": "Grand prize of $1,000 in Orange Julius gift cards, plus 200 instant wins of a $10 Orange Julius gift card",
+      "category": "gift_card",
+      "entry_url": "https://www.ojbirthday.com/login",
+      "rules_url": "https://www.ojbirthday.com/rules",
+      "match": [
+        "ojbirthday.com"
+      ],
+      "ends": "2026-11-29T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "The game needs a free registration and login on ojbirthday.com."
+      },
+      "notes": "Per listing sites: legal residents of the 50 states and DC, 18+, register and log in on ojbirthday.com, then play once a day through Nov 29 at 11:59 PM ET; plays also earn grand prize entries. Whether a Dairy Queen or Orange Julius app account is needed isn't confirmed.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-15T18:11:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Facts come from listing sites; ojbirthday.com returned client errors to the page reader for the third run and a Perplexity lookup of ojbirthday.com and orangejulius.com found no rules, so the rules, the account requirement and how a day is counted aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://freeprizesonline.com/2026/11/04/orange-julius-smoothie-smash-instant-win-game/",
+          "https://sweepsinvasion.com/orange-julius-smoothie-smash-sweepstakes-instant-win/"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "orange-julius-smoothie-smash-sweepstakes-and-instant-win-gam",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "DUER Win a Winter Outfit",
+      "prize": "One winner gets a full DUER winter outfit worth $500",
+      "category": "other",
+      "entry_url": "https://duer.com/pages/win-a-winter-outfit",
+      "rules_url": "https://duer.com/pages/winter-outfit-giveaway-terms-and-conditions",
+      "match": [
+        "duer.com/pages/win-a-winter-outfit"
+      ],
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering is a sign-up for DUER marketing emails."
+      },
+      "notes": "DUER's page: sign up for DUER emails for a chance to win, no purchase necessary. A listing site gives Nov 22 as the end date with no time, so this listing uses 11:59 PM ET. DUER is a Canadian brand and its terms weren't read, so US and New Jersey eligibility, the age and the entry limit are unconfirmed (a 2023 DUER giveaway was open to the US and Canada).",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-15T18:11:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": true,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "DUER's entry page confirms free email sign-up entry, but its terms page hit the unanswered PROVENANCE_REQUIRED prompt, so eligibility for US and New Jersey residents, the entry limit and the end time aren't confirmed; the Nov 22 date comes from a listing site.",
+        "missing": [
+          "eligibility",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://duer.com/pages/win-a-winter-outfit",
+          "https://thefreebieguy.com/current-sweepstakes-and-giveaways/"
+        ]
+      },
+      "added": "2026-11-15",
+      "source": "Claude review 2026-11-15",
+      "id": "duer-win-a-winter-outfit",
+      "rules_checked": "partial"
     }
   ]
 }
