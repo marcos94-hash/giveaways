@@ -261,13 +261,13 @@
       "decided_at": "2026-11-15T17:40:05-05:00"
     },
     "https://app.viralsweep.com/sweeps/full/7fae0a-241843?framed=1": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The ViralSweep page didn't come up in web search, so it couldn't be opened (scraped links hit the unanswered PROVENANCE_REQUIRED approval prompt), and Free Stuff Times' own post stalled on the same prompt; the sponsor, prize, rules and dates are still unknown",
+      "last_attempt_at": "2026-11-15T18:08:59-05:00",
+      "next_retry_at": "2026-11-16T18:08:59-05:00",
+      "name": "Year of Better Sleep Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1": {
       "attempts": 1,
@@ -1516,13 +1516,13 @@
       "decided_at": "2026-11-15T17:40:05-05:00"
     },
     "https://gleam.io/14mn9/12-days-of-christmas-gifts-part-01": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam returns client errors to the page reader, and neither a giveaway-list.com copy nor a Lisen page came up in web search, so the terms, prizes, the 18+ age and the Nov 22 end date from the listing are unconfirmed",
+      "last_attempt_at": "2026-11-15T18:08:59-05:00",
+      "next_retry_at": "2026-11-16T18:08:59-05:00",
+      "name": "Lisen 12 Days of Christmas Gifts Sweepstakes"
     },
     "https://gleam.io/3088i/2026-perfect-vacation-giveaway?gsr=3088i-oxbJdrAtU2": {
       "attempts": 0,
@@ -1718,13 +1718,13 @@
       "next_retry_at": "2026-11-17T17:58:12-05:00"
     },
     "https://gleam.io/JT7f5/mitra9s-upgrade-your-everyday-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam returns client errors to the page reader, and neither a giveaway-list.com copy nor a Mitra9 page came up in web search, so the sponsor's terms, prize and dates are unknown",
+      "last_attempt_at": "2026-11-15T18:08:59-05:00",
+      "next_retry_at": "2026-11-16T18:08:59-05:00",
+      "name": "Mitra9’s Upgrade Your Everyday Giveaway"
     },
     "https://gleam.io/KSc7B/vippori-giveaway": {
       "attempts": 1,
@@ -2163,13 +2163,13 @@
       "name": "Levoit Tower Fan giveaway"
     },
     "https://gleam.io/i0i4g/free-natural-gas-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "Gleam returns client errors to the page reader, and neither a giveaway-list.com copy nor the sponsor's page came up in web search; the sponsor is unknown, so whether it is limited to one gas company's customers or service area is unsettled",
+      "last_attempt_at": "2026-11-15T18:08:59-05:00",
+      "next_retry_at": "2026-11-16T18:08:59-05:00",
+      "name": "Free Natural Gas Giveaway"
     },
     "https://gleam.io/itHLO/soundpeats-air6-pro-new-launch-giveaway": {
       "attempts": 1,
@@ -4374,34 +4374,17 @@
       "decided_at": "2026-11-14T17:45:13-05:00"
     },
     "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232": {
-      "attempts": 2,
-      "status": "in_progress",
+      "attempts": 3,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "SweepWidget page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; Delkin's site only shows a Toys for Tots donation drive. An earlier read suggested entry is by Instagram follow, like and share",
-      "last_attempt_at": "2026-11-06T18:00:37-05:00",
+      "reason": "Third try: the SweepWidget page still didn't come up in web search (SweepWidget's own directory pages don't list it) and scraped links hit the unanswered PROVENANCE_REQUIRED prompt, so the prize and whether there is a non-social entry method are still unsettled",
+      "last_attempt_at": "2026-11-15T18:08:59-05:00",
       "evidence": [
         "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232",
         "https://www.delkindevices.com/toys-for-tots/"
       ],
-      "next_retry_at": "2026-11-08T18:00:37-05:00",
-      "name": "Delkin Devices Toys for Tots Holiday Giveaway",
-      "claim": {
-        "run": "review-2026-11-15",
-        "expires_at": "2026-11-15T20:40:24-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "SweepWidget page didn't come up in search and scraped links need a page reader approval (PROVENANCE_REQUIRED) that this unattended run can't answer; Delkin's site only shows a Toys for Tots donation drive. An earlier read suggested entry is by Instagram follow, like and share",
-          "last_attempt_at": "2026-11-06T18:00:37-05:00",
-          "evidence": [
-            "https://sweepwidget.com/c/103232-563cndqx/bo80ay-103232",
-            "https://www.delkindevices.com/toys-for-tots/"
-          ],
-          "next_retry_at": "2026-11-08T18:00:37-05:00",
-          "name": "Delkin Devices Toys for Tots Holiday Giveaway"
-        }
-      }
+      "next_retry_at": "2026-11-19T18:08:59-05:00",
+      "name": "Delkin Devices Toys for Tots Holiday Giveaway"
     },
     "https://sweepwidget.com/c/103243-54m70kqo": {
       "attempts": 0,
