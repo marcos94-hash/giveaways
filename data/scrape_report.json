@@ -1,36 +1,67 @@
 {
- "run_at": "2026-11-14T21:17:01+00:00",
+ "run_at": "2026-11-15T11:17:01+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 41,
    "parsed": 16,
    "skipped_seen": 25,
-   "kept": 15,
+   "kept": 14,
    "dropped": {
     "social-media-only entry": 1
    },
    "errors": [],
    "samples": [
     {
-     "title": "Ulta Beauty Scan To Win Sweepstakes",
-     "entry_url": "https://www.ulta.com/company/terms-and-conditions/scan-to-win-sweepstakes",
-     "rules_url": "https://www.ulta.com/company/terms-and-conditions/scan-to-win-sweepstakes",
-     "ends_guess": "2026-11-14",
-     "ends_text": "Last day to enter: Sat, Nov 14",
+     "title": "Penguin Random House Brightly Storytime 10 Year Anniversary Giveaway",
+     "entry_url": "https://sites.prh.com/brightly-storytime-kids-giveaway",
+     "rules_url": null,
+     "ends_guess": "2026-11-30",
+     "ends_text": "Last day to enter: Mon, Nov 30",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     },
     {
-     "title": "Win A Voice Pilot 1.0 Voice Control Heater",
-     "entry_url": "https://gleam.io/AnFOO/voice-pilot-10-voice-control-heater",
+     "title": "Comfort Zone Pets Heated Pet Bed Giveaway",
+     "entry_url": "https://www.comfortzonestore.com/pages/giveaway",
      "rules_url": null,
-     "ends_guess": "2026-11-14",
-     "ends_text": "Last day to enter: Sat, Nov 14",
+     "ends_guess": "2026-11-26",
+     "ends_text": "Last day to enter: Thu, Nov 26",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
+    }
+   ],
+   "retry_later": {
+    "no entry link found": 1
+   },
+   "no_entry_samples": [
+    {
+     "source_url": "https://www.freestufftimes.com/contests/14/cast-x-line-skis-x-flylow-giveaway/",
+     "title": "CAST x Line Skis x Flylow Giveaway",
+     "entry_link_hints": [
+      {
+       "href": "https://www.freestufftimes.com/contests/category/one-entry/",
+       "text": "One Entry",
+       "onsite": true
+      },
+      {
+       "href": "https://apps.apple.com/us/app/free-stuff-times-freebies/id347844436",
+       "text": "iPhone",
+       "onsite": false
+      },
+      {
+       "href": "https://play.google.com/store/apps/details?id=com.mobileapps.freestufftimes",
+       "text": "Android",
+       "onsite": false
+      },
+      {
+       "href": "https://www.freestufftimes.com/site-map",
+       "text": "Site Map",
+       "onsite": true
+      }
+     ]
     }
    ]
   },
@@ -46,32 +77,32 @@
   },
   "winprizesonline": {
    "listing_pages": 2,
-   "detail_links": 20,
+   "detail_links": 18,
    "parsed": 7,
-   "skipped_seen": 13,
+   "skipped_seen": 11,
    "kept": 4,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Wedderspoon Winter Wellness Giveaway",
-     "entry_url": "https://wedderspoon.com/pages/giveaway",
-     "rules_url": null,
-     "ends_guess": "2026-11-20",
-     "ends_text": "Expires\n 11-20-2026",
-     "frequency_guess": "daily",
-     "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Weddersp"
-    },
-    {
-     "title": "Avara x Natasha Holiday Giveaway",
+     "title": "Tozo Grateful for Every Sound Sweepstakes",
      "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-11-16",
-     "ends_text": "Expires\n 11-16-2026",
+     "ends_guess": "2026-11-19",
+     "ends_text": "Expires\n 11-19-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Avara x "
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Tozo Gra"
+    },
+    {
+     "title": "ArcticShield Own the Season Giveaway",
+     "entry_url": "https://arctic-shield.myklpages.com",
+     "rules_url": null,
+     "ends_guess": "2026-11-30",
+     "ends_text": "Expires\n 11-30-2026",
+     "frequency_guess": "daily",
+     "min_age_guess": 21,
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n ArcticSh"
     }
    ],
    "retry_later": {
@@ -79,8 +110,8 @@
    },
    "no_entry_samples": [
     {
-     "source_url": "https://www.winprizesonline.com/Avara-x-Natasha-Holiday-Giveaway/",
-     "title": "Avara x Natasha Holiday Giveaway",
+     "source_url": "https://www.winprizesonline.com/Tozo-Grateful-for-Every-Sound-Sweepstakes/",
+     "title": "Tozo Grateful for Every Sound Sweepstakes",
      "entry_link_hints": [
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
@@ -95,9 +126,19 @@
      ]
     },
     {
-     "source_url": "https://www.winprizesonline.com/RIG-Grand-Theft-Auto-6-Giveaway/",
-     "title": "RIG Grand Theft Auto 6 Giveaway",
+     "source_url": "https://www.winprizesonline.com/SSYS-Pink-Friday-Sweepstakes/",
+     "title": "SSYS Pink Friday Sweepstakes",
      "entry_link_hints": [
+      {
+       "href": "https://ssys.com",
+       "text": "SSYS",
+       "onsite": false
+      },
+      {
+       "href": "https://ssys.com",
+       "text": "ssys.com",
+       "onsite": false
+      },
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
        "text": "Daily Entry",
@@ -113,6 +154,6 @@
    ]
   }
  },
- "total_candidates": 671,
+ "total_candidates": 677,
  "details_budget_left": 127
 }
