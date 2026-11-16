@@ -1808,13 +1808,13 @@
       "next_retry_at": "2026-11-17T17:58:12-05:00"
     },
     "https://gleam.io/IuUqy/black-friday-2026-giveaway?gsr=IuUqy-pcGvvHtbP4": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "The sponsor is unknown and four searches found neither it nor any rules; the Gleam page never came up in search, and the AppSumo and ATK GEAR Black Friday 2026 promotions checked are different giveaways",
+      "last_attempt_at": "2026-11-16T18:10:36-05:00",
+      "next_retry_at": "2026-11-17T18:10:36-05:00",
+      "name": "Black Friday 2026 Giveaway"
     },
     "https://gleam.io/JT7f5/mitra9s-upgrade-your-everyday-giveaway": {
       "attempts": 1,
@@ -2188,13 +2188,13 @@
       "next_retry_at": "2026-11-18T18:09:24-05:00"
     },
     "https://gleam.io/a6LtX/mylistfultree-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "No sponsor page or rules turned up in four searches: the likely sponsor Listful's site shows no giveaway, the Gleam page never came up in search, and listful.com/terms hit the unanswered PROVENANCE_REQUIRED prompt",
+      "last_attempt_at": "2026-11-16T18:10:36-05:00",
+      "next_retry_at": "2026-11-17T18:10:36-05:00",
+      "name": "#MyListfulTree Giveway"
     },
     "https://gleam.io/b3N1y/logitech-g-rivalries-iv": {
       "attempts": 1,
@@ -2207,13 +2207,13 @@
       "decided_at": "2026-11-05T17:39:30-05:00"
     },
     "https://gleam.io/bDi6g/giveaway-a-squirrely-christmas-hardcover": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "The Gleam page never came up in search and author Megan K Palmer's site has no giveaway or rules page, so nothing about this giveaway could be read",
+      "last_attempt_at": "2026-11-16T18:10:36-05:00",
+      "next_retry_at": "2026-11-17T18:10:36-05:00",
+      "name": "A Squirrely Christmas Book Giveaway"
     },
     "https://gleam.io/bbD7t/find-your-winter-layer-duo-giveaway?gsr=bbD7t-oFnecCz8Oq": {
       "attempts": 1,
@@ -2270,13 +2270,16 @@
       "decided_at": "2026-11-16T17:40:24-05:00"
     },
     "https://gleam.io/e9qBg/20-years-of-rog-oneofakind-rog-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "gleam.io/giveaways/e9qBg came up in search but returned a client error, ASUS's ROG 20th anniversary page links a different Gleam campaign (VeGUF), and no rules from ASUS or a partner turned up",
+      "last_attempt_at": "2026-11-16T18:10:36-05:00",
+      "evidence": [
+        "https://rog.asus.com/us/content/rog-edition-20/"
+      ],
+      "next_retry_at": "2026-11-17T18:10:36-05:00",
+      "name": "20 Years of ROG. One-of-a-Kind ROG Giveaway"
     },
     "https://gleam.io/etBs7/pet-art?gsr=etBs7-oIFcxgKiFg": {
       "attempts": 1,
@@ -2302,13 +2305,13 @@
       "decided_at": "2026-11-14T17:45:13-05:00"
     },
     "https://gleam.io/gACku/victrix-pro-bfg-reloaded-controller-fortnite-drift-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "The host is unknown: the Gleam page never came up in search, and Turtle Beach's product page for the controller has no giveaway or rules",
+      "last_attempt_at": "2026-11-16T18:10:36-05:00",
+      "next_retry_at": "2026-11-17T18:10:36-05:00",
+      "name": "Victrix Pro BFG Reloaded Controller | Fortnite Drift GIVEAWAY"
     },
     "https://gleam.io/gTGES/mitra9s-gear-up-get-moving-giveaway": {
       "attempts": 0,
