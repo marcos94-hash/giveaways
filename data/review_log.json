@@ -291,13 +291,13 @@
       "name": "Year of Better Sleep Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/b39b44-239468?framed=1": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "Three searches, one limited to viralsweep.com, found no sponsor, host page or rules for ViralSweep campaign b39b44-239468",
+      "last_attempt_at": "2026-11-16T18:10:48-05:00",
+      "next_retry_at": "2026-11-17T18:10:48-05:00",
+      "name": "Golden Little Moments Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1": {
       "attempts": 1,
@@ -1826,13 +1826,13 @@
       "name": "Mitra9’s Upgrade Your Everyday Giveaway"
     },
     "https://gleam.io/Je9t0/fall-aegis-x-zenmarket-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page never came up in search, and ZenMarket's Aegis ESports sign-up page and an earlier Aegis x ZenMarket Gleam campaign both returned client errors, so the rules and any ZenMarket account requirement are unknown",
+      "last_attempt_at": "2026-11-16T18:10:48-05:00",
+      "next_retry_at": "2026-11-17T18:10:48-05:00",
+      "name": "Fall Aegis x ZenMarket Giveaway"
     },
     "https://gleam.io/KSc7B/vippori-giveaway": {
       "attempts": 1,
@@ -2990,13 +2990,16 @@
       "name": "Win a $1,000 Gift Certificate to Greg Landry’s Homeschool Science"
     },
     "https://kingsumo.com/g/1wgwnwm/win-2-espresso-streamline-metal-crochet-hooks": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "This KingSumo giveaway's page and rules never came up in search; a sibling Furls Crochet KingSumo giveaway's rules (US entrants 21+, online form, noon ET close, one prize per household) hint at the template but aren't this giveaway's",
+      "last_attempt_at": "2026-11-16T18:10:48-05:00",
+      "evidence": [
+        "https://kingsumo.com/giveaways/m44jj9m/rules"
+      ],
+      "next_retry_at": "2026-11-17T18:10:48-05:00",
+      "name": "Win 2 Espresso Streamline Metal Crochet Hooks"
     },
     "https://kingsumo.com/g/1xqx5nm/a-christmas-romance-giveaway": {
       "attempts": 1,
@@ -3096,13 +3099,13 @@
       "next_retry_at": "2026-11-17T18:01:32-05:00"
     },
     "https://kingsumo.com/g/m7gq88m/level-up-your-game-logitech-g-pro-x-tkl-keyboard-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "Three searches, one limited to kingsumo.com, found no host, rules or KingSumo page for this campaign; the only match was an unrelated 2024 Digital Trends keyboard giveaway",
+      "last_attempt_at": "2026-11-16T18:10:48-05:00",
+      "next_retry_at": "2026-11-17T18:10:48-05:00",
+      "name": "Level Up Your Game: Logitech G Pro X TKL Keyboard Giveaway"
     },
     "https://kitchenaidxcorkciclesweeps.com/home": {
       "attempts": 0,
@@ -3292,13 +3295,13 @@
       "name": "A Year of Concerts Sweepstakes! 101 Winners get Live Nation GC's!"
     },
     "https://m.shortstack.page/fqlwsv?sre=v4BX2kfAMlLmZhA": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "Three searches, one limited to ShortStack, found no sponsor page, rules or ShortStack page for this campaign, and the ShortStack link can't be opened unless search surfaces it",
+      "last_attempt_at": "2026-11-16T18:10:48-05:00",
+      "next_retry_at": "2026-11-17T18:10:48-05:00",
+      "name": "Flex Power Generator Giveaway"
     },
     "https://madisoncreekoutfitters.com/pages/giveaway": {
       "attempts": 0,
