@@ -1,33 +1,33 @@
 {
- "run_at": "2026-11-16T11:17:02+00:00",
+ "run_at": "2026-11-16T21:17:01+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 41,
-   "parsed": 28,
-   "skipped_seen": 13,
-   "kept": 26,
+   "parsed": 22,
+   "skipped_seen": 19,
+   "kept": 20,
    "dropped": {
     "social-media-only entry": 2
    },
    "errors": [],
    "samples": [
     {
-     "title": "AARP Movies for Grownups Sweepstakes and Instant Win",
-     "entry_url": "https://www.aarp.org/membership/sweeps/movies-for-grownups-sweepstakes/",
-     "rules_url": null,
-     "ends_guess": "2026-11-16",
-     "ends_text": "Last day to enter: Mon, Nov 16",
+     "title": "Paulaner “Perfect Stein Stuffer” Sweepstakes",
+     "entry_url": "https://paulanerholidaysweeps.promo-rules.com/",
+     "rules_url": "https://paulanerholidaysweeps.promo-rules.com/",
+     "ends_guess": "2026-12-31",
+     "ends_text": "Last day to enter: Thu, Dec 31",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     },
     {
-     "title": "DarkViperAU's 6767 USD GTA 6 Giveaway",
-     "entry_url": "https://gleam.io/MouPX/darkviperaus-6767-usd-gta-6-giveaway?gsr=MouPX-pgA5V6ql3f",
+     "title": "A Squirrely Christmas Book Giveaway",
+     "entry_url": "https://gleam.io/bDi6g/giveaway-a-squirrely-christmas-hardcover",
      "rules_url": null,
-     "ends_guess": "2026-11-16",
-     "ends_text": "Last day to enter: Mon, Nov 16",
+     "ends_guess": "2026-11-20",
+     "ends_text": "Last day to enter: Fri, Nov 20",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
@@ -36,51 +36,72 @@
   },
   "thefreebieguy": {
    "listing_pages": 2,
-   "detail_links": 258,
-   "parsed": 0,
-   "skipped_seen": 258,
-   "kept": 0,
-   "dropped": {},
-   "errors": [],
-   "samples": []
-  },
-  "winprizesonline": {
-   "listing_pages": 2,
-   "detail_links": 21,
-   "parsed": 8,
-   "skipped_seen": 13,
-   "kept": 1,
+   "detail_links": 265,
+   "parsed": 6,
+   "skipped_seen": 259,
+   "kept": 6,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "November Thankfulness Giveaway",
+     "title": "Win a Rocker in The Cracker Barrel Rockers Across America Sweeps!",
+     "entry_url": "https://www.crackerbarrel.com/rewards/sweepstakes",
+     "rules_url": "https://www.crackerbarrel.com/rewards/sweepstakes/rules",
+     "ends_guess": "2026-11-30",
+     "ends_text": "ENDING – \nNovember 30, 2026",
+     "frequency_guess": "once",
+     "min_age_guess": 18,
+     "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
+    },
+    {
+     "title": "Win $10,000 in Gift Cards + Marvel Avengers Prizes!",
+     "entry_url": "https://www.smirnoff.com/en-us/assembleyournightparty",
+     "rules_url": "https://assets.ctfassets.net/tlircn1cnxbm/6TsM130DjIA4mr6qWtgDWV/d0f5e05001f7843edd03d4953a8d0846/FINAL_-_OFFICAL_-_DIA10468455W_SMIRNOFF_FLYAWAY_SWEEPSTAKES.pdf",
+     "ends_guess": "2026-11-23",
+     "ends_text": "ENDING – \nNovember 23, 2026",
+     "frequency_guess": "once",
+     "min_age_guess": 21,
+     "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
+    }
+   ]
+  },
+  "winprizesonline": {
+   "listing_pages": 2,
+   "detail_links": 21,
+   "parsed": 9,
+   "skipped_seen": 12,
+   "kept": 4,
+   "dropped": {},
+   "errors": [],
+   "samples": [
+    {
+     "title": "GreenPan Cozy Dinner Party Sweepstakes",
+     "entry_url": null,
+     "rules_url": null,
+     "ends_guess": "2026-11-17",
+     "ends_text": "Expires\n 11-17-2026",
+     "frequency_guess": "daily",
+     "min_age_guess": 18,
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n GreenPan"
+    },
+    {
+     "title": "ChappyWrap Favorite Things Sweepstakes",
      "entry_url": null,
      "rules_url": null,
      "ends_guess": "2026-11-20",
      "ends_text": "Expires\n 11-20-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n November"
-    },
-    {
-     "title": "Prima Black Friday VIP Sweepstakes",
-     "entry_url": null,
-     "rules_url": null,
-     "ends_guess": "2026-12-03",
-     "ends_text": "Expires\n 12-03-2026",
-     "frequency_guess": "daily",
-     "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Prima Bl"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n ChappyWr"
     }
    ],
    "retry_later": {
-    "no entry link found": 7
+    "no entry link found": 5
    },
    "no_entry_samples": [
     {
-     "source_url": "https://www.winprizesonline.com/November-Thankfulness-Giveaway/",
-     "title": "November Thankfulness Giveaway",
+     "source_url": "https://www.winprizesonline.com/GreenPan-Cozy-Dinner-Party-Sweepstakes/",
+     "title": "GreenPan Cozy Dinner Party Sweepstakes",
      "entry_link_hints": [
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
@@ -95,19 +116,9 @@
      ]
     },
     {
-     "source_url": "https://www.winprizesonline.com/Prima-Black-Friday-VIP-Sweepstakes/",
-     "title": "Prima Black Friday VIP Sweepstakes",
+     "source_url": "https://www.winprizesonline.com/ChappyWrap-Favorite-Things-Sweepstakes/",
+     "title": "ChappyWrap Favorite Things Sweepstakes",
      "entry_link_hints": [
-      {
-       "href": "https://eatprima.com",
-       "text": "PRIMA",
-       "onsite": false
-      },
-      {
-       "href": "https://eatprima.com",
-       "text": "eatprima.com",
-       "onsite": false
-      },
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
        "text": "Daily Entry",
@@ -123,6 +134,6 @@
    ]
   }
  },
- "total_candidates": 671,
- "details_budget_left": 114
+ "total_candidates": 693,
+ "details_budget_left": 113
 }
