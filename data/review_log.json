@@ -1576,13 +1576,16 @@
       "name": "GigaParts x Anker eufyMake E1 Sweepstakes"
     },
     "https://gingercasa.com/holiday-gift-ideas": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "js_only",
+      "reason": "Ginger Casa's gift guide page shows the page reader no entry form, rules, dates or eligibility, only a giveaway image and a line about giveaways, so the entry widget most likely loads by script",
+      "last_attempt_at": "2026-11-16T18:11:08-05:00",
+      "evidence": [
+        "https://www.gingercasa.com/holiday-gift-ideas/"
+      ],
+      "next_retry_at": "2026-11-17T18:11:08-05:00",
+      "name": "Pulse and Cotton Deep Tissue Massage Gun Giveaway"
     },
     "https://gleam.io/00lF8/retay-drakes-outfitter-tour-kick-off-giveaway": {
       "attempts": 1,
@@ -2473,13 +2476,16 @@
       "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://gleam.io/vxBKz/black-friday-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "incomplete_info",
+      "reason": "Womier's own Black Friday page shows a 2026 L98 ISO keyboard giveaway with an Enter Now button, but the Gleam terms couldn't be read, so eligibility, end time and limit are unknown, and the ISO-layout prize hints it may be meant for UK or European entrants",
+      "last_attempt_at": "2026-11-16T18:11:08-05:00",
+      "evidence": [
+        "https://womierkeyboard.com/pages/womier-black-friday-sale-up-to-50-off-womier-keyboards-keycaps"
+      ],
+      "next_retry_at": "2026-11-17T18:11:08-05:00",
+      "name": "Womier BLACK FRIDAY GIVEAWAY"
     },
     "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse": {
       "attempts": 0,
@@ -2529,12 +2535,16 @@
     },
     "https://gleam.io/yaK6J/moonraker-laser-prop-replica-signed-licensed-troubleshooter-book": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Bond Lifestyle's own contest page confirms the Gleam giveaway and its close before midnight on Nov 17 with no time zone, but it states no eligibility or entry limit, and the Gleam terms couldn't be read.",
+      "last_attempt_at": "2026-11-16T18:11:08-05:00",
+      "evidence": [
+        "https://jamesbondlifestyle.com/bond-lifestyle-contest-99-win-moonraker-laser-prop-replica-signed-licensed-troubleshooter-book"
+      ],
+      "listing_id": "bond-lifestyle-contest-99-moonraker-laser-prop-replica-signe",
+      "decided_at": "2026-11-16T18:11:08-05:00",
+      "next_retry_at": "2026-11-19T18:11:08-05:00"
     },
     "https://gleam.io/yiGZ8/austrian-audio-od505": {
       "attempts": 1,
@@ -4258,13 +4268,17 @@
       "next_retry_at": null
     },
     "https://rules.dja.com/PampersBabyRegistrySweepstakes": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "possible_membership",
+      "reason": "P&G's Nov 12 press release says entrants must be US or DC residents 18+ who include at least one Pampers item on their baby registry (the 50 prizes of $1,500 go to expecting families), entering by an Instagram or TikTok comment or by email, one per person, through 11:59 PM ET Nov 23; the official rules on rules.dja.com are robots-blocked to the page reader",
+      "last_attempt_at": "2026-11-16T18:11:09-05:00",
+      "evidence": [
+        "https://www.bastillepost.com/global/article/6354793-pampers-partners-with-witney-carson-to-launch-baby-registry-sweepstakes",
+        "https://www.stocktitan.net/news/PG/pampers-partners-with-witney-carson-to-launch-baby-registry-dn8064p08bec.html"
+      ],
+      "next_retry_at": "2026-11-17T18:11:09-05:00",
+      "name": "Pampers Baby Registry Sweepstakes"
     },
     "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf": {
       "attempts": 0,
@@ -5345,13 +5359,13 @@
       "decided_at": "2026-11-09T18:14:19-05:00"
     },
     "https://wired2fish.com/giveaways/win-a-coastal-layer-1-4-zip-shirt-from-aftco": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Wired2Fish giveaway page came up in search but returned a client error, and no separate rules page turned up",
+      "last_attempt_at": "2026-11-16T18:11:08-05:00",
+      "next_retry_at": "2026-11-17T18:11:08-05:00",
+      "name": "Win a Coastal Layer 1/4 Zip Shirt from AFTCO"
     },
     "https://wonka.com/us/en/xp/golden-ticket": {
       "attempts": 0,
