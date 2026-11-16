@@ -1,33 +1,33 @@
 {
- "run_at": "2026-11-15T21:17:02+00:00",
+ "run_at": "2026-11-16T11:17:02+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 41,
-   "parsed": 10,
-   "skipped_seen": 31,
-   "kept": 9,
+   "parsed": 28,
+   "skipped_seen": 13,
+   "kept": 26,
    "dropped": {
-    "social-media-only entry": 1
+    "social-media-only entry": 2
    },
    "errors": [],
    "samples": [
     {
-     "title": "Gearwrench 2026 MEGAMOD Sweepstakes",
-     "entry_url": "https://www.megamodsweeps.com/",
+     "title": "AARP Movies for Grownups Sweepstakes and Instant Win",
+     "entry_url": "https://www.aarp.org/membership/sweeps/movies-for-grownups-sweepstakes/",
      "rules_url": null,
-     "ends_guess": "2026-11-15",
-     "ends_text": "Last day to enter: Sun, Nov 15",
+     "ends_guess": "2026-11-16",
+     "ends_text": "Last day to enter: Mon, Nov 16",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     },
     {
-     "title": "Tena Men Take Back Your Game Sweepstakes",
-     "entry_url": "https://takebackyourgame.com/",
+     "title": "DarkViperAU's 6767 USD GTA 6 Giveaway",
+     "entry_url": "https://gleam.io/MouPX/darkviperaus-6767-usd-gta-6-giveaway?gsr=MouPX-pgA5V6ql3f",
      "rules_url": null,
-     "ends_guess": "2026-11-15",
-     "ends_text": "Last day to enter: Sun, Nov 15",
+     "ends_guess": "2026-11-16",
+     "ends_text": "Last day to enter: Mon, Nov 16",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
@@ -36,9 +36,9 @@
   },
   "thefreebieguy": {
    "listing_pages": 2,
-   "detail_links": 274,
+   "detail_links": 258,
    "parsed": 0,
-   "skipped_seen": 274,
+   "skipped_seen": 258,
    "kept": 0,
    "dropped": {},
    "errors": [],
@@ -46,42 +46,68 @@
   },
   "winprizesonline": {
    "listing_pages": 2,
-   "detail_links": 20,
-   "parsed": 5,
-   "skipped_seen": 15,
-   "kept": 4,
+   "detail_links": 21,
+   "parsed": 8,
+   "skipped_seen": 13,
+   "kept": 1,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Rut and Ready Giveaway",
-     "entry_url": "https://www.wyldgear.com/pages/rut-ready-giveaway",
+     "title": "November Thankfulness Giveaway",
+     "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-11-15",
-     "ends_text": "Expires\n 11-15-2026",
+     "ends_guess": "2026-11-20",
+     "ends_text": "Expires\n 11-20-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Rut and "
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n November"
     },
     {
-     "title": "King Crab Legs Sweepstakes",
-     "entry_url": "https://app.viralsweep.com/sweeps/full/01f7db-239094?framed=1",
+     "title": "Prima Black Friday VIP Sweepstakes",
+     "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-11-30",
-     "ends_text": "Expires\n 11-30-2026",
+     "ends_guess": "2026-12-03",
+     "ends_text": "Expires\n 12-03-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n King Cra"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Prima Bl"
     }
    ],
    "retry_later": {
-    "no entry link found": 1
+    "no entry link found": 7
    },
    "no_entry_samples": [
     {
-     "source_url": "https://www.winprizesonline.com/Madhava-x-Starbucks-Giveaway/",
-     "title": "Madhava x Starbucks Giveaway",
+     "source_url": "https://www.winprizesonline.com/November-Thankfulness-Giveaway/",
+     "title": "November Thankfulness Giveaway",
      "entry_link_hints": [
+      {
+       "href": "https://www.winprizesonline.com/daily/sweepstakes/",
+       "text": "Daily Entry",
+       "onsite": true
+      },
+      {
+       "href": "https://www.winprizesonline.com/weekly/sweepstakes/",
+       "text": "Weekly Entry",
+       "onsite": true
+      }
+     ]
+    },
+    {
+     "source_url": "https://www.winprizesonline.com/Prima-Black-Friday-VIP-Sweepstakes/",
+     "title": "Prima Black Friday VIP Sweepstakes",
+     "entry_link_hints": [
+      {
+       "href": "https://eatprima.com",
+       "text": "PRIMA",
+       "onsite": false
+      },
+      {
+       "href": "https://eatprima.com",
+       "text": "eatprima.com",
+       "onsite": false
+      },
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
        "text": "Daily Entry",
@@ -97,6 +123,6 @@
    ]
   }
  },
- "total_candidates": 688,
- "details_budget_left": 135
+ "total_candidates": 671,
+ "details_budget_left": 114
 }
