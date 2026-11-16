@@ -1381,41 +1381,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "The Ultimate KC Holiday Sweepstakes (Chiefs x Hallmark)",
-      "prize": "1 winner: 4 tickets to the Hallmark Christmas Experience + 4 club-level tickets, field passes and post-game field photo at Chiefs vs Patriots on 12/21 (ARV $5,000)",
-      "category": "trip",
-      "entry_url": "https://web.witcontests.com/chiefs/sweepstakes/win/the-ultimate-kc-holiday-261001",
-      "rules_url": "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf",
-      "ends": "2026-11-16T00:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Ends 11:59 PM CT Nov 15. One entry per person/phone number. US residents 18+ (void in Florida and New York). Prize is in Kansas City; travel isn't included per the prize description.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf",
-        "checked_at": "2026-11-04T11:52-05:00",
-        "evidence": [
-          "https://s3.amazonaws.com/wit-challenge-assets-prod/legal/The%20Ultimate%20KC%20Holiday%20Sweepstakes%20Official%20Rules%20FORM.docx%20-%202026-09-16T18:28:26.403.pdf"
-        ],
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        }
-      },
-      "match": [
-        "web.witcontests.com/chiefs/sweepstakes/win/the-ultimate-kc-holiday-261001"
-      ],
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "the-ultimate-kc-holiday-sweepstakes-chiefs-x-hallmark",
-      "rules_checked": "full"
-    },
-    {
       "name": "Fandango Destined for Adventure Sweepstakes",
       "prize": "1 winner: trip for up to 4 to Los Angeles (ARV $4,995)",
       "category": "trip",
@@ -1592,45 +1557,6 @@
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
       "id": "allegiant-double-down-flyaway-sweepstakes-luke-bryan-jason-a",
-      "rules_checked": "full"
-    },
-    {
-      "name": "Delta Faucet $2,100 Hair Care Giveaway",
-      "prize": "1 winner: hair care package (ARV $2,100)",
-      "category": "other",
-      "entry_url": "https://www.deltafaucet.com/giveaways",
-      "rules_url": "https://www.deltafaucet.com/giveaways",
-      "ends": "2026-11-16T02:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "account": "The rules say a social media account is required to enter (Gleam form)"
-      },
-      "notes": "Ends 11:59 PM PT Nov 15. One entry per person. 50 states and DC, 18+. The entry form is an embedded Gleam widget whose exact address isn't known yet, so no embedded form on the page gets your details, even with Fill anyway.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": "https://www.deltafaucet.com/giveaways",
-        "checked_at": "2026-11-04T12:20-05:00",
-        "evidence": [
-          "https://www.deltafaucet.com/giveaways"
-        ],
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "reason": "Sponsor rules (read Nov 4) confirm eligibility (50 states and DC, 18+), free entry, the deadline (11:59 PM PT Nov 15, 2026) and one entry per person, but the entry target still needs checking: the form is an embedded Gleam widget and its exact URL hasn't been identified.",
-        "missing": []
-      },
-      "match": [
-        "deltafaucet.com/giveaways"
-      ],
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "delta-faucet-2-100-hair-care-giveaway",
       "rules_checked": "full"
     },
     {
@@ -2772,79 +2698,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "Honda + Progressive Ride Red and Win Sweepstakes",
-      "prize": "One 2026 Honda CRF450RX motorcycle (ARV $9,999)",
-      "category": "other",
-      "entry_url": "https://cloud.em.honda.com/C10357",
-      "rules_url": "https://content.services.honda.com/ECRM/V10357/2026_Honda-Progressive_Sweeps_Rules_CRF450RX_Sweepstakes.pdf",
-      "match": [
-        "cloud.em.honda.com/C10357"
-      ],
-      "starts": "2026-01-15T12:00:00-05:00",
-      "ends": "2026-11-15T23:00:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Sponsor American Honda Motor Co. Open to the 50 states and DC except RI, NY and FL, 18+. No purchase necessary. Enter on the form at cloud.em.honda.com/C10357; the rules also name powersports.honda.com/crf450rx-rideredandwinsweepstakes. One entry per person for the whole period. The Progressive and Honda marketing opt-in is optional. Winner picked on or about Nov 16, 2026. The rules text was read through a Perplexity lookup of the sponsor's page because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://cloud.em.honda.com/C10357",
-        "checked_at": "2026-11-08T17:55:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://cloud.em.honda.com/C10357"
-        ]
-      },
-      "added": "2026-11-08",
-      "source": "Claude review 2026-11-08",
-      "id": "honda-progressive-ride-red-and-win-sweepstakes",
-      "rules_checked": "full"
-    },
-    {
-      "name": "2026 MEGAMOD Sweepstakes (GEARWRENCH)",
-      "prize": "GEARWRENCH MEGAMOD tool set (exact prize is in the 2026 rules, not read)",
-      "category": "other",
-      "entry_url": "https://www.megamodsweeps.com/",
-      "rules_url": "https://certified.promotrust.com/ApexTools/The2026MEGAMODSweeps/rules.pdf",
-      "match": [
-        "megamodsweeps.com"
-      ],
-      "ends": "2026-11-15T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Check the 2026 rules before entering. Last year's edition (Apex Tool Group) was open to the 48 contiguous states and DC at the age of majority, ended 11:59 PM ET Nov 15, one registration entry per person/email. End time this year is inferred from that.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-08T17:55:00-05:00",
-        "reason": "The 2026 rules PDF and the sweepstakes site couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. The facts come from a listing site (ends Nov 15, 2026) and the 2025 edition's rules.",
-        "evidence": [
-          "https://certified.promotrust.com/ApexTools/The2025MEGAMODSweeps/rules/",
-          "https://thefreebieguy.com/sweepstakes/win-a-huge-tool-set-in-the-2026-megamod-sweepstakes/"
-        ],
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ]
-      },
-      "added": "2026-11-08",
-      "source": "Claude review 2026-11-08",
-      "id": "2026-megamod-sweepstakes-gearwrench",
-      "rules_checked": "partial"
-    },
-    {
       "name": "Arm & Hammer LEGOLAND Trip Sweepstakes",
       "prize": "Trip for four to LEGOLAND (details are in the official rules, not read)",
       "category": "trip",
@@ -2877,115 +2730,6 @@
       "source": "Claude review 2026-11-08",
       "id": "arm-hammer-legoland-trip-sweepstakes",
       "rules_checked": "partial"
-    },
-    {
-      "name": "Mobil 1 O'Reilly Race to Win Sweepstakes",
-      "prize": "Up to 10 VIP NASCAR Cup race trips for two to Charlotte in May 2027 (ARV $5,000 each), plus up to 500 posters",
-      "category": "trip",
-      "entry_url": "https://promotions.mobil.com/offers/23XIracetowin",
-      "rules_url": "https://promotions.mobil.com/offers/23XIracetowin/Info/OfficialRules",
-      "match": [
-        "promotions.mobil.com/offers/23XIracetowin"
-      ],
-      "ends": "2026-11-16T00:59:59-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "marketing": "Submitting the form signs you up for Mobil 1 DR1VRS Club marketing from ExxonMobil."
-      },
-      "notes": "Sponsor ExxonMobil Oil Corporation. Open to the 50 states, DC and Puerto Rico, 18+ (19 in AL and NE); NJ is in. No purchase necessary: the free online entry is the form on this page (name, address, email). The page also has a receipt upload for the O'Reilly purchase offer, which the free entry doesn't need. One entry per person for the whole promotion, plus up to 4 bonus entries by mail-in postcard postmarked by Nov 15. Ends 11:59:59 PM CT Nov 15 (12:59:59 AM ET Nov 16). Grand prizes are drawn for race periods a 23XI car wins; otherwise entries roll over to the final drawing on or about Nov 30.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://promotions.mobil.com/offers/23XIracetowin/Info/OfficialRules",
-        "checked_at": "2026-11-09T18:11:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://promotions.mobil.com/offers/23XIracetowin/Info/OfficialRules",
-          "https://promotions.mobil.com/offers/23XIracetowin"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "mobil-1-o-reilly-race-to-win-sweepstakes",
-      "rules_checked": "full"
-    },
-    {
-      "name": "Herschel Supply Holiday Sweepstakes",
-      "prize": "Herschel travel set: Heritage hardshell carry-on and medium luggage, Kaslo backpack, organizer, packing cubes and travel accessories (ARV $980)",
-      "category": "other",
-      "entry_url": "https://herschel.com/pages/sweepstakes",
-      "rules_url": "https://herschel.com/pages/contest-rules",
-      "match": [
-        "herschel.com/pages/sweepstakes"
-      ],
-      "ends": "2026-11-16T13:00:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Sponsor Herschel Supply Company Ltd. Open to the 50 states and DC except Rhode Island, age of majority (18 in NJ). No purchase necessary: submit your email on the entry form at herschel.com/pages/sweepstakes. One entry per person and per email address for the whole period. Ends 10:00 AM PT Nov 16 (1:00 PM ET). Draw Dec 1. The entry page itself wasn't readable in this run, so check the form for a marketing signup box.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://herschel.com/pages/contest-rules",
-        "checked_at": "2026-11-09T18:13:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://herschel.com/pages/contest-rules"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "herschel-supply-holiday-sweepstakes",
-      "rules_checked": "full"
-    },
-    {
-      "name": "Quilted Northern Home Essentials Sweepstakes",
-      "prize": "A year supply of Quilted Northern toilet paper, as twelve $16 coupons (ARV $192)",
-      "category": "other",
-      "entry_url": "https://www.quiltednorthern.com/win-a-year-supply-sweeps",
-      "rules_url": "https://www.quiltednorthern.com/win-a-year-supply-sweeps/rules",
-      "match": [
-        "quiltednorthern.com/win-a-year-supply-sweeps"
-      ],
-      "ends": "2026-11-15T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Sponsor Georgia-Pacific Consumer Products LP. Open to the 50 states and DC, 18+; NJ is in. No purchase necessary: fill in the form on the page (three short survey questions, name, email, ZIP and the eligibility checkbox). One entry per person for the whole period. Ends 11:59 PM ET Nov 15. The email signup for a $1.50 coupon is optional. Brawny and Vanity Fair run their own separate sweepstakes on the same template. Drawing on or about Nov 30.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.quiltednorthern.com/win-a-year-supply-sweeps/rules",
-        "checked_at": "2026-11-09T18:13:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://www.quiltednorthern.com/win-a-year-supply-sweeps/rules",
-          "https://www.quiltednorthern.com/win-a-year-supply-sweeps"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "quilted-northern-home-essentials-sweepstakes",
-      "rules_checked": "full"
     },
     {
       "name": "Hot Wheels Ram Truck Sweepstakes",
@@ -3059,78 +2803,6 @@
       "source": "Claude review 2026-11-09",
       "id": "harvest-right-freeze-dryer-giveaway",
       "rules_checked": "partial"
-    },
-    {
-      "name": "Brawny Home Essentials Sweepstakes",
-      "prize": "A year supply of Brawny paper towels, as ten $15 coupons (ARV $150)",
-      "category": "other",
-      "entry_url": "https://www.brawny.com/win-a-year-supply-sweeps",
-      "rules_url": "https://www.brawny.com/win-a-year-supply-sweeps/rules",
-      "match": [
-        "brawny.com/win-a-year-supply-sweeps"
-      ],
-      "ends": "2026-11-15T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Sponsor Georgia-Pacific Consumer Products LP. Open to the 50 states and DC, 18+; NJ is in. No purchase necessary: answer 3 quick questions, fill in the short form and check the eligibility box. One entry per person for the whole period. Ends 11:59 PM ET Nov 15. Separate from the Quilted Northern and Vanity Fair sweepstakes. The rules text was read through a Perplexity lookup of the sponsor's rules page; its eligibility section was cut from that extract, so eligibility is from the sponsor's notice on the entry page, which matches the sister rules.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.brawny.com/win-a-year-supply-sweeps/rules",
-        "checked_at": "2026-11-09T18:25:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://www.brawny.com/win-a-year-supply-sweeps/rules",
-          "https://www.brawny.com/win-a-year-supply-sweeps"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "brawny-home-essentials-sweepstakes",
-      "rules_checked": "full"
-    },
-    {
-      "name": "Vanity Fair Home Essentials Sweepstakes",
-      "prize": "A year supply of Vanity Fair napkins, as sixteen $6 coupons (ARV $96)",
-      "category": "other",
-      "entry_url": "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps",
-      "rules_url": "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules",
-      "match": [
-        "vanityfairnapkins.com/win-a-year-supply-sweeps"
-      ],
-      "ends": "2026-11-15T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Sponsor Georgia-Pacific Consumer Products LP. Open to the 50 states and DC, 18+; NJ is in. No purchase necessary: answer 3 quick questions, fill in the short form and check the eligibility box. One entry per person for the whole period. Ends 11:59 PM ET Nov 15. The email signup for a $2.50 coupon is optional. Separate from the Quilted Northern and Brawny sweepstakes. The rules text was read through a Perplexity lookup of the sponsor's rules page.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules",
-        "checked_at": "2026-11-09T18:25:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules",
-          "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "vanity-fair-home-essentials-sweepstakes",
-      "rules_checked": "full"
     },
     {
       "name": "terry's Chocolate Ritual to Remember Sweepstakes",
@@ -3288,46 +2960,6 @@
       "added": "2026-11-09",
       "source": "Claude review 2026-11-09",
       "id": "bare-necessities-28th-birthday-sweepstakes",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "Sioux Falls Sourced Box Sweepstakes (Fall Box)",
-      "prize": "Sioux Falls Sourced Fall Box of local goods: salsa, BBQ sauce, spices, honey, soap, candle, pottery mug, t-shirt and more ($140); 200 boxes a year",
-      "category": "other",
-      "entry_url": "https://www.experiencesiouxfalls.com/sioux-falls-sourced",
-      "rules_url": "https://com-experiencesiouxfalls-cdn-2025.s3.amazonaws.com/general-uploads/2026SFSourced-SweepstakesOfficialRules-9.2026-update.pdf",
-      "match": [
-        "experiencesiouxfalls.com/sioux-falls-sourced",
-        "experiencesiouxfalls.com/sourced"
-      ],
-      "ends": "2026-11-15T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 21,
-      "flags": {
-        "marketing": "Submitting the form consents to emails from Experience Sioux Falls.",
-        "age21": true
-      },
-      "notes": "Run by Experience Sioux Falls, the city's tourism office. Its page lists the Fall Box entry period as Sept 1 to Nov 15 with no end time. Last year's official rules were open to the 50 US states, 21+, with a fresh registration each quarter; multiple entries were accepted but didn't raise the odds, so enter once. The form asks for name, email, mailing address, birth date and a travel question. No alcohol in the box.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-09T18:30:00-05:00",
-        "reason": "The 2026 official rules PDF wasn't readable in this unattended run (its link didn't come up in web search). The Fall Box entry period comes from the sponsor's page, and eligibility (50 US states, 21+) and the entry rule come from last year's official rules.",
-        "evidence": [
-          "https://www.experiencesiouxfalls.com/sioux-falls-sourced",
-          "https://www.experiencesiouxfalls.com/general-uploads/2025SFSourced-SweepstakesOfficialRules.pdf"
-        ],
-        "missing": [
-          "eligibility",
-          "deadline",
-          "entry_limit"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "sioux-falls-sourced-box-sweepstakes-fall-box",
       "rules_checked": "partial"
     },
     {
@@ -3548,83 +3180,6 @@
       "id": "the-general-x-street-fighter-bonus-stage-break-sweepstakes",
       "match": [
         "the-general-x-street-fighter-bonus-stage-break.prod.fooji.com/"
-      ],
-      "rules_checked": "full"
-    },
-    {
-      "name": "Charlotte FC Perks: Playoff Game Experience (American Airlines)",
-      "prize": "Charlotte FC playoff game experience (prize details are in the official rules, not read yet)",
-      "category": "other",
-      "entry_url": "https://www.charlottefcperks.com/",
-      "rules_url": "https://rules.gselive.com/4a30a4ec-4283-4557-9280-e12a6f762ee8",
-      "ends": "2026-11-15T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "account": "Free American Airlines AAdvantage membership required to enter"
-      },
-      "notes": "The page says this one is open to all fans 18+ (19+ in AL and NE) through Nov 15; no end time given. Other sweepstakes on the same site are limited to people within 150 miles of the Rangers' stadium, so pick the Charlotte FC playoff one. The site invites daily entries, but the per-person limit is in the unread rules.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-12T17:53:00-05:00",
-        "reason": "American Airlines' page says this playoff sweepstakes is open to all fans 18+ (19+ in AL and NE) through Nov 15, 2026, no purchase necessary, AAdvantage membership required. Its official rules on rules.gselive.com didn't come up in web search, so the page reader couldn't open them; end time, entry limit and prize details aren't confirmed.",
-        "evidence": [
-          "https://www.charlottefcperks.com/"
-        ],
-        "missing": [
-          "eligibility",
-          "deadline",
-          "entry_limit"
-        ]
-      },
-      "added": "2026-11-12",
-      "source": "Claude review 2026-11-12",
-      "id": "charlotte-fc-perks-playoff-game-experience-american-airlines",
-      "match": [
-        "charlottefcperks.com/"
-      ],
-      "rules_checked": "partial"
-    },
-    {
-      "name": "Jägermeister Loyalty Q4 Sweepstakes",
-      "prize": "Grand prize: branded Jägermeister Adirondack-style chair (ARV $150); 4 first prizes: branded Jägermeister ShotSki (ARV $50)",
-      "category": "other",
-      "entry_url": "https://us.jagermeister.com/join-us",
-      "rules_url": "https://us.jagermeister.com/2026-q4-sweeps-official-rules",
-      "ends": "2026-11-15T23:59:59-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 21,
-      "flags": {
-        "marketing": "Entering subscribes you to Jägermeister's mailing list; the rules require opting in to future marketing emails (you can unsubscribe later).",
-        "age21": true
-      },
-      "notes": "One entry per person. 21+, 50 states and DC; you need a valid US driver's license or government photo ID to claim. The site has a 21+ age gate. Form asks for name, email, zip and birth date. Prizes are branded merchandise, not alcohol. Ends Nov 15, 11:59:59 PM ET.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://us.jagermeister.com/2026-q4-sweeps-official-rules",
-        "checked_at": "2026-11-12T17:54:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://us.jagermeister.com/2026-q4-sweeps-official-rules",
-          "https://us.jagermeister.com/join-us"
-        ],
-        "note": "Rules text read from a Perplexity page extract of the sponsor's rules page; the entry page was read directly."
-      },
-      "added": "2026-11-12",
-      "source": "Claude review 2026-11-12",
-      "id": "j-germeister-loyalty-q4-sweepstakes",
-      "match": [
-        "us.jagermeister.com/join-us"
       ],
       "rules_checked": "full"
     },
@@ -4031,49 +3586,6 @@
       "added": "2026-11-14",
       "source": "Claude review 2026-11-14",
       "id": "schneider-lures-20-000-wahoo-gear-giveaway",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "TempPro Weekly TempSpike Pro Giveaway (Nov 9-15)",
-      "prize": "One TempPro TempSpike Pro Wi-Fi dual-probe meat thermometer",
-      "category": "other",
-      "entry_url": "https://gleam.io/LXGIW/weekly-tempspike-pro-giveaway-nov-915",
-      "match": [
-        "gleam.io/LXGIW"
-      ],
-      "ends": "2026-11-16T02:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "marketing": "Only TempPro email newsletter subscribers are eligible, per the giveaway description."
-      },
-      "notes": "Per a listing site's copy of the Gleam page: North American residents only, newsletter subscribers only, Nov 9 to Nov 16 at 07:59 UTC (2:59 AM ET Nov 16). Gleam lists 19 entry actions (newsletter, a survey question, recipe and blog visits, social follows and views). The winner must give a name and a photo for promotional use.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-14T18:00:00-05:00",
-        "confirmed": {
-          "eligibility": false,
-          "free_entry": false,
-          "deadline": false,
-          "entry_limit": false
-        },
-        "reason": "Facts come from giveaway-list.com's copy of the Gleam page; Gleam returns a client error to the page reader, so the terms weren't read and age and entry limit aren't confirmed.",
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://giveaway-list.com/giveaway/gleam-LXGIW/temppro-weekly-tempspike-pro-giveaway-nov-9-15"
-        ]
-      },
-      "added": "2026-11-14",
-      "source": "Claude review 2026-11-14",
-      "id": "temppro-weekly-tempspike-pro-giveaway-nov-9-15",
       "rules_checked": "partial"
     },
     {
@@ -4488,46 +4000,6 @@
       "added": "2026-11-15",
       "source": "Claude review 2026-11-15",
       "id": "mtn-ops-x-hoyt-early-access-black-friday-2026-giveaway",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "KitchenAid x Corkcicle MindFULLness Sweepstakes",
-      "prize": "Five winners each get a KitchenAid MindFULLness Fridge with Intelligent Auto Fill, a set of three KitchenAid x Corkcicle drinkware pieces and $500 cash, ARV $4,929 each",
-      "category": "mixed",
-      "entry_url": "https://www.kitchenaidxcorkciclesweeps.com/home",
-      "rules_url": "https://www.kitchenaidxcorkciclesweeps.com/rules",
-      "match": [
-        "kitchenaidxcorkciclesweeps.com"
-      ],
-      "ends": "2026-11-15T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Ends tonight, Nov 15 at 11:59 PM ET (a listing site's Nov 22 date is wrong). KitchenAid's short-form rules: legal residents of the 48 contiguous states and DC, 18+, void in Alaska and Hawaii, no purchase necessary. Per a listing site, you register with name and email for one entry, can earn up to 15 bonus entries by sharing, and returning entrants log back in with their email.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": "https://www.kitchenaid.com/major-appliances/partnerships/corkcicle.html",
-        "checked_at": "2026-11-15T18:11:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": false
-        },
-        "reason": "KitchenAid's own promo page and its short-form rules confirm eligibility, free entry and the Nov 15, 11:59 PM ET end, but the full rules at kitchenaidxcorkciclesweeps.com returned a client error to the page reader, so the entry limit comes only from a listing site.",
-        "missing": [
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://www.kitchenaid.com/major-appliances/partnerships/corkcicle.html",
-          "https://www.sweepstakesbible.com/giveaways/kitchenaid-corkcicle-mindfullness-fridge-sweepstakes"
-        ]
-      },
-      "added": "2026-11-15",
-      "source": "Claude review 2026-11-15",
-      "id": "kitchenaid-x-corkcicle-mindfullness-sweepstakes",
       "rules_checked": "partial"
     },
     {
