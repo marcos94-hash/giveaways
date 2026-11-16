@@ -2284,7 +2284,7 @@
     },
     {
       "name": "Heineken Takeoff for Kickoff Sweepstakes",
-      "prize": "Grand prize: trip for 3 to a 2027 regular-season NFL game in Europe with a $500 travel stipend and a $1,500 ticket-service gift card (ARV up to $10,000). 20 first prizes: a $100 e-gift card toward a football viewing subscription",
+      "prize": "Grand prize: a trip for 3 (winner and two guests, all 21+) to a 2027 regular-season NFL game in Europe (Berlin, Dublin, London, Madrid, Munich or Paris) with coach airfare, 3 hotel nights, a $500 travel stipend and a $1,500 ticket-service gift card (ARV up to $10,000). 20 first prizes, five per drawing: a $100 e-gift card toward a football viewing subscription",
       "category": "trip",
       "entry_url": "https://www.heineken.com/us/en/promos/fallfootball",
       "rules_url": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/fallfootball_OfficialRules.html",
@@ -2299,25 +2299,25 @@
       "flags": {
         "age21": true
       },
-      "notes": "From rules text quoted on a listing site: open to the 50 US states and DC, 21+ (NJ is in), limit one entry per person per day, ends Jan 10, 2027 (time not given). No alcohol in the prizes. Check the official rules for the end time, how a day is counted and that the web form is the free entry.",
+      "notes": "Official rules: open to legal residents of the 50 states and DC who are 21+ (NJ is in). No purchase necessary. Enter on Heineken's promo page (it has an age gate) and pick a preferred destination; commenting on a Heineken sweepstakes post on Facebook, Instagram or X is another way in. Limit one entry per person per day, plus the bonus entries the rules describe; the rules don't say when a day starts. Runs 12:01 AM ET Sep 1, 2026 to 11:59 PM ET Jan 10, 2027. First-prize drawings on or about Oct 1, Nov 1, Dec 1 and Jan 11 (five winners each), grand prize drawing on or about Jan 11. The grand prize winner and guests need passports valid 7 months past the trip. One prize per household every six months across all HEINEKEN USA promotions, the Heineken Holiday Promotion listing included. The prizes are a trip and gift cards, no alcohol.",
       "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-06T18:03:00-05:00",
-        "reason": "Facts come from rules text quoted on a listing site; the sponsor rules page on mdmgames.com needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and the entry page didn't come up in search",
+        "status": "verified",
+        "rules_source": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/fallfootball_OfficialRules.html",
+        "checked_at": "2026-11-16T18:15:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
         "evidence": [
-          "https://www.sweepstakestoday.com/sweeps/details/117487/heineken-usa-takeoff-for-kickoff-sweepstakes",
-          "https://thefreebieguy.com/sweepstakes/20-winners-get-a-100-gift-card-in-the-heineken-takeoff-for-kickoff-sweeps/"
-        ],
-        "missing": [
-          "free_entry",
-          "deadline_time"
+          "https://www.mdmgames.com/MDMAdmin/RulesPolicies/fallfootball_OfficialRules.html"
         ]
       },
       "added": "2026-11-06",
       "source": "Claude review 2026-11-06",
       "id": "heineken-takeoff-for-kickoff-sweepstakes",
-      "rules_checked": "partial"
+      "rules_checked": "full"
     },
     {
       "name": "Microsoft Rewards Prize Drop Sweepstakes",
@@ -2360,7 +2360,7 @@
     },
     {
       "name": "Big Sipz $16K Giveaway",
-      "prize": "$16,000 check each month, 12 winners in 2026 (limit one prize per household)",
+      "prize": "$16,000 check each month, 12 winners in 2026 (limit one prize per household); the November and December drawings are still ahead",
       "category": "cash",
       "entry_url": "https://www.2026bigsipz16k.com/home",
       "rules_url": "https://www.2026bigsipz16k.com/pdf/en-US/officialRules.pdf",
@@ -2375,20 +2375,28 @@
       "flags": {
         "age21": true
       },
-      "notes": "Per a listing site: US residents 21+, one online entry per person per day with an email, a $16,000 winner each month, ends Dec 31, 2026 at 11:59 PM ET. The sponsor (Patco Brands, maker of Big Sipz drinks) said last year's version needed no purchase and entries didn't roll over between months. State exclusions weren't checked.",
+      "notes": "Listing sites give legal residents of the US and DC, 21+, one web entry per person per day with an email, Jan 2 to Dec 31, 2026 at 11:59 PM ET, and a $16,000 winner each month. Last year's official rules (bigsipz16k.com/rules, for 2025) match that: open to the 50 states and DC, no purchase necessary, one website entry per person per calendar day in Eastern Time, entries don't carry over between monthly periods, one bonus entry for following Big Sipz on Instagram, and no alcohol in any prize. The 2026 site and rules PDF couldn't be opened, so this year's terms aren't confirmed. The sponsor is MPL Brands NV (Patco Brands).",
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-06T18:04:00-05:00",
-        "reason": "Facts come from a listing site and the sponsor's 2025 press release; the 2026 giveaway site and its rules PDF return a client error to the page reader, so state exclusions, the free entry and the daily limit weren't confirmed",
-        "evidence": [
-          "https://www.sweepsatlas.com/sweeps/215314",
-          "https://thefreebieguy.com/sweepstakes/big-sipz-16k-giveaway-12-winners-get-cash/"
-        ],
+        "checked_at": "2026-11-16T18:15:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "The 2026 giveaway site and its rules PDF return client errors and don't come up in search, so this year's eligibility, free entry, entry limit and end time come from listing sites and last year's official rules, which match them.",
         "missing": [
-          "eligibility_states",
+          "eligibility",
           "free_entry",
+          "deadline",
           "entry_limit"
+        ],
+        "evidence": [
+          "https://www.bigsipz16k.com/rules",
+          "https://www.sweepsatlas.com/sweeps/big-sipz-16k-giveaway",
+          "https://ultracontest.com/contests/big-sipz-16k-giveaway-sweepstakes"
         ]
       },
       "added": "2026-11-06",
@@ -2398,38 +2406,52 @@
     },
     {
       "name": "Food Network Season of Sweetness Sweepstakes",
-      "prize": "$10,000 and VIP tickets to the Museum of Ice Cream",
+      "prize": "$10,000 (paid by check) and four VIP tickets to the Museum of Ice Cream, one winner, ARV $10,356 (per a listing site's copy of the rules)",
       "category": "cash",
       "entry_url": "https://www.foodnetwork.com/shows/holiday-baking-championship/giveaway",
       "match": [
-        "foodnetwork.com/shows/holiday-baking-championship/giveaway"
+        "foodnetwork.com/shows/holiday-baking-championship/giveaway",
+        "foodnetwork.com/sweetgiveaway"
       ],
-      "ends": "2026-12-21T23:59:00-05:00",
+      "ends": "2026-12-21T08:59:00-05:00",
       "limit": {
-        "type": "once"
+        "type": "rolling24"
       },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Food Network lists it under current sweepstakes. The page reader didn't show a rules link or the entry form, so eligibility, minimum age, the end date (Dec 21 is from a listing site) and how often you can enter weren't confirmed.",
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Food Network lists it under Current Sweepstakes with NO PURCHASE NECESSARY, and the entry form loads by script from xd.wayin.com. A listing site's copy of the rules says: legal residents of the 50 states and DC, 21+, one entry per person per day, Nov 6 to Dec 21, 2026, winner drawn Dec 22. It gives no end time, so this listing closes at 8:59 AM ET Dec 21, when Food Network sweepstakes usually end. The rules link is from that listing site and couldn't be opened here.",
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-06T18:04:00-05:00",
-        "reason": "Food Network's own giveaway page and sweepstakes list confirm the promotion and prize, but no official rules were found or readable, so eligibility, deadline and entry limit are unconfirmed",
-        "evidence": [
-          "https://www.foodnetwork.com/shows/holiday-baking-championship/giveaway",
-          "https://www.foodnetwork.com/sweepstakes"
-        ],
+        "checked_at": "2026-11-16T18:15:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": true,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Food Network lists it as current with no purchase necessary, and a listing site's copy of the rules gives 21+, the 50 states and DC, one entry a day and a Dec 21 end, but the official rules on xd.wayin.com couldn't be opened or found in search, so eligibility, the end time and the entry limit aren't confirmed.",
         "missing": [
           "eligibility",
           "deadline",
           "entry_limit"
+        ],
+        "evidence": [
+          "https://www.foodnetwork.com/shows/holiday-baking-championship/giveaway",
+          "https://www.foodnetwork.com/features/articles/sweepstakes-and-contests",
+          "https://www.sweepstakesbible.com/giveaways/food-network-season-of-sweetness-sweepstakes"
         ]
       },
       "added": "2026-11-06",
       "source": "Claude review 2026-11-06",
       "id": "food-network-season-of-sweetness-sweepstakes",
-      "rules_checked": "partial"
+      "rules_checked": "partial",
+      "rules_url": "https://xd.wayin.com/display/container/dc/295f2be6-b9b9-4383-976b-6a6b86efeb24/rules",
+      "frames": [
+        "xd.wayin.com"
+      ]
     },
     {
       "name": "Mike's HARDER Gaming System Sweepstakes",
@@ -2447,20 +2469,26 @@
       "flags": {
         "age21": true
       },
-      "notes": "The sponsor page sits behind a 21+ age gate and says 'Enter for a chance to win an epic gaming set-up', but showed no rules link to the page reader. A listing site says 21+ and ends Dec 31, 2026. Eligible states, the free entry and how often you can enter weren't confirmed. Prizes aren't alcohol.",
+      "notes": "The sponsor page sits behind a 21+ age gate and says 'Enter for a chance to win an epic gaming set-up', but shows the page reader no entry form or rules link. Mike's posts rules for its other promotions on mikeshard.com, but none turned up for this one. A listing site says 21+ and ends Dec 31, 2026. Eligible states, the free entry, the end time and how often you can enter weren't confirmed. Prizes aren't alcohol.",
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-06T18:04:00-05:00",
-        "reason": "Only the sponsor's age-gated landing page and a listing site were readable; no official rules were found, so eligible states, free entry, end time and entry limit are unconfirmed",
-        "evidence": [
-          "https://www.mikeshard.com/sweepstakes/hardergaming26"
-        ],
+        "checked_at": "2026-11-16T18:15:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "The sponsor's age-gated page builds its content by script and shows no rules link, and searches found Mike's rules for other promotions but not this one, so eligibility, free entry, the end time and the entry limit are unconfirmed.",
         "missing": [
           "eligibility",
           "free_entry",
-          "deadline_time",
+          "deadline",
           "entry_limit"
+        ],
+        "evidence": [
+          "https://www.mikeshard.com/sweepstakes/hardergaming26"
         ]
       },
       "added": "2026-11-06",

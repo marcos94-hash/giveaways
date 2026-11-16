@@ -12,35 +12,20 @@
     },
     "https://2026bigsipz16k.com/home": {
       "attempts": 0,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Facts come from a listing site and the sponsor's 2025 press release; the 2026 giveaway site and its rules PDF return a client error to the page reader, so state exclusions, the free entry and the daily limit weren't confirmed",
-      "last_attempt_at": "2026-11-06T18:04:15-05:00",
+      "reason": "The 2026 giveaway site and its rules PDF return client errors and don't come up in search, so this year's eligibility, free entry, entry limit and end time come from listing sites and last year's official rules, which match them.",
+      "last_attempt_at": "2026-11-16T18:14:04-05:00",
       "evidence": [
         "https://thefreebieguy.com/sweepstakes/big-sipz-16k-giveaway-12-winners-get-cash/",
-        "https://www.sweepsatlas.com/sweeps/215314"
+        "https://ultracontest.com/contests/big-sipz-16k-giveaway-sweepstakes",
+        "https://www.bigsipz16k.com/rules",
+        "https://www.sweepsatlas.com/sweeps/215314",
+        "https://www.sweepsatlas.com/sweeps/big-sipz-16k-giveaway"
       ],
       "listing_id": "big-sipz-16k-giveaway",
-      "decided_at": "2026-11-06T18:04:15-05:00",
-      "next_retry_at": "2026-11-09T18:04:15-05:00",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from a listing site and the sponsor's 2025 press release; the 2026 giveaway site and its rules PDF return a client error to the page reader, so state exclusions, the free entry and the daily limit weren't confirmed",
-          "last_attempt_at": "2026-11-06T18:04:15-05:00",
-          "evidence": [
-            "https://thefreebieguy.com/sweepstakes/big-sipz-16k-giveaway-12-winners-get-cash/",
-            "https://www.sweepsatlas.com/sweeps/215314"
-          ],
-          "listing_id": "big-sipz-16k-giveaway",
-          "decided_at": "2026-11-06T18:04:15-05:00",
-          "next_retry_at": "2026-11-09T18:04:15-05:00"
-        }
-      }
+      "decided_at": "2026-11-16T18:14:04-05:00",
+      "next_retry_at": "2026-11-19T18:14:04-05:00"
     },
     "https://aarp.org/membership/sweeps/movies-for-grownups-sweepstakes": {
       "attempts": 0,
@@ -560,26 +545,18 @@
       "next_retry_at": null
     },
     "https://budlight.com/UpgradeYourGamedayRules": {
-      "attempts": 2,
-      "status": "in_progress",
+      "attempts": 3,
+      "status": "needs_review",
       "reason_code": "incomplete_info",
-      "reason": "A listing site quotes the rules: 50 states and DC, 21+, July 20 to Nov 30, 2026 at 11:59:59 PM ET, prizes include NFL tickets and $100 Fanatics gift cards. It says entry is by Instagram or Messenger chat, and the sponsor's rules page isn't readable, so it's unsettled whether there's a free web entry",
-      "last_attempt_at": "2026-11-06T18:04:15-05:00",
-      "next_retry_at": "2026-11-08T18:04:15-05:00",
+      "reason": "Bud Light's entry page says no purchase necessary, open to US residents 21+, Jul 20 to Nov 30, 2026, to click a preferred platform and message #BudLightNFLUpgrade to start, with free entry details in the official rules; a listing site's rules quote gives 11:59:59 PM ET Nov 30, but the 2026 rules page wasn't readable, so it's still unsettled whether there's a website entry (last year's Bud Light NFL tailgate rules had one) or only Instagram and Messenger chat",
+      "last_attempt_at": "2026-11-16T18:14:04-05:00",
+      "next_retry_at": "2026-11-20T18:14:04-05:00",
       "name": "11K+ Will Win in the Bud Light x NFL Game Day Sweeps & IWG",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "needs_review",
-          "reason_code": "incomplete_info",
-          "reason": "A listing site quotes the rules: 50 states and DC, 21+, July 20 to Nov 30, 2026 at 11:59:59 PM ET, prizes include NFL tickets and $100 Fanatics gift cards. It says entry is by Instagram or Messenger chat, and the sponsor's rules page isn't readable, so it's unsettled whether there's a free web entry",
-          "last_attempt_at": "2026-11-06T18:04:15-05:00",
-          "next_retry_at": "2026-11-08T18:04:15-05:00",
-          "name": "11K+ Will Win in the Bud Light x NFL Game Day Sweeps & IWG"
-        }
-      }
+      "evidence": [
+        "https://slickdeals.net/f/19809015-bud-light-upgrade-your-game-day-instant-win-game-ig-or-messenger-11-30-2026",
+        "https://www.budlight.com/NFLOfficialTailgateRules",
+        "https://www.budlight.com/UpgradeYourGameday"
+      ]
     },
     "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes": {
       "attempts": 1,
@@ -1460,35 +1437,19 @@
     },
     "https://foodnetwork.com/shows/holiday-baking-championship/giveaway": {
       "attempts": 0,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Food Network's own giveaway page and sweepstakes list confirm the promotion and prize, but no official rules were found or readable, so eligibility, deadline and entry limit are unconfirmed",
-      "last_attempt_at": "2026-11-06T18:04:15-05:00",
+      "reason": "Food Network lists it as current with no purchase necessary, and a listing site's copy of the rules gives 21+, the 50 states and DC, one entry a day and a Dec 21 end, but the official rules on xd.wayin.com couldn't be opened or found in search, so eligibility, the end time and the entry limit aren't confirmed.",
+      "last_attempt_at": "2026-11-16T18:14:04-05:00",
       "evidence": [
+        "https://www.foodnetwork.com/features/articles/sweepstakes-and-contests",
         "https://www.foodnetwork.com/shows/holiday-baking-championship/giveaway",
-        "https://www.foodnetwork.com/sweepstakes"
+        "https://www.foodnetwork.com/sweepstakes",
+        "https://www.sweepstakesbible.com/giveaways/food-network-season-of-sweetness-sweepstakes"
       ],
       "listing_id": "food-network-season-of-sweetness-sweepstakes",
-      "decided_at": "2026-11-06T18:04:15-05:00",
-      "next_retry_at": "2026-11-09T18:04:15-05:00",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Food Network's own giveaway page and sweepstakes list confirm the promotion and prize, but no official rules were found or readable, so eligibility, deadline and entry limit are unconfirmed",
-          "last_attempt_at": "2026-11-06T18:04:15-05:00",
-          "evidence": [
-            "https://www.foodnetwork.com/shows/holiday-baking-championship/giveaway",
-            "https://www.foodnetwork.com/sweepstakes"
-          ],
-          "listing_id": "food-network-season-of-sweetness-sweepstakes",
-          "decided_at": "2026-11-06T18:04:15-05:00",
-          "next_retry_at": "2026-11-09T18:04:15-05:00"
-        }
-      }
+      "decided_at": "2026-11-16T18:14:04-05:00",
+      "next_retry_at": "2026-11-19T18:14:04-05:00"
     },
     "https://foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays": {
       "name": "Food Network Home for the Holidays",
@@ -2677,35 +2638,18 @@
     },
     "https://heineken.com/us/en/promos/fallfootball": {
       "attempts": 0,
-      "status": "in_progress",
-      "reason_code": "needs_rules_check",
-      "reason": "Facts come from rules text quoted on a listing site; the sponsor rules page on mdmgames.com needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and the entry page didn't come up in search",
-      "last_attempt_at": "2026-11-06T18:03:51-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-16T18:14:04-05:00",
       "evidence": [
         "https://thefreebieguy.com/sweepstakes/20-winners-get-a-100-gift-card-in-the-heineken-takeoff-for-kickoff-sweeps/",
+        "https://www.mdmgames.com/MDMAdmin/RulesPolicies/fallfootball_OfficialRules.html",
         "https://www.sweepstakestoday.com/sweeps/details/117487/heineken-usa-takeoff-for-kickoff-sweepstakes"
       ],
       "listing_id": "heineken-takeoff-for-kickoff-sweepstakes",
-      "decided_at": "2026-11-06T18:03:51-05:00",
-      "next_retry_at": "2026-11-09T18:03:51-05:00",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from rules text quoted on a listing site; the sponsor rules page on mdmgames.com needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and the entry page didn't come up in search",
-          "last_attempt_at": "2026-11-06T18:03:51-05:00",
-          "evidence": [
-            "https://thefreebieguy.com/sweepstakes/20-winners-get-a-100-gift-card-in-the-heineken-takeoff-for-kickoff-sweeps/",
-            "https://www.sweepstakestoday.com/sweeps/details/117487/heineken-usa-takeoff-for-kickoff-sweepstakes"
-          ],
-          "listing_id": "heineken-takeoff-for-kickoff-sweepstakes",
-          "decided_at": "2026-11-06T18:03:51-05:00",
-          "next_retry_at": "2026-11-09T18:03:51-05:00"
-        }
-      }
+      "decided_at": "2026-11-16T18:14:04-05:00",
+      "next_retry_at": null
     },
     "https://heineken.com/us/en/promos/holiday": {
       "attempts": 0,
@@ -3434,33 +3378,16 @@
     },
     "https://mikeshard.com/sweepstakes/hardergaming26": {
       "attempts": 0,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Only the sponsor's age-gated landing page and a listing site were readable; no official rules were found, so eligible states, free entry, end time and entry limit are unconfirmed",
-      "last_attempt_at": "2026-11-06T18:04:15-05:00",
+      "reason": "The sponsor's age-gated page builds its content by script and shows no rules link, and searches found Mike's rules for other promotions but not this one, so eligibility, free entry, the end time and the entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-16T18:14:04-05:00",
       "evidence": [
         "https://www.mikeshard.com/sweepstakes/hardergaming26"
       ],
       "listing_id": "mike-s-harder-gaming-system-sweepstakes",
-      "decided_at": "2026-11-06T18:04:15-05:00",
-      "next_retry_at": "2026-11-09T18:04:15-05:00",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Only the sponsor's age-gated landing page and a listing site were readable; no official rules were found, so eligible states, free entry, end time and entry limit are unconfirmed",
-          "last_attempt_at": "2026-11-06T18:04:15-05:00",
-          "evidence": [
-            "https://www.mikeshard.com/sweepstakes/hardergaming26"
-          ],
-          "listing_id": "mike-s-harder-gaming-system-sweepstakes",
-          "decided_at": "2026-11-06T18:04:15-05:00",
-          "next_retry_at": "2026-11-09T18:04:15-05:00"
-        }
-      }
+      "decided_at": "2026-11-16T18:14:04-05:00",
+      "next_retry_at": "2026-11-19T18:14:04-05:00"
     },
     "https://millerlite.com/GamedayEssentials": {
       "attempts": 0,
