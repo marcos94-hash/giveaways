@@ -587,31 +587,18 @@
     },
     "https://calisqueeze.com/win-a-cali-squeeze-yeti-cooler": {
       "attempts": 2,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "Sponsor page couldn't be opened this run (page-reader approval PROVENANCE_REQUIRED unanswered, and search didn't surface it); last run its ViralSweep widget loaded dates, states and rules only by script",
-      "last_attempt_at": "2026-11-07T17:58:13-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Cali Squeeze's own page loads with a ViralSweep entry widget, but the official rules inside the widget couldn't be read, so eligible states, free entry, the end date and time and the entry limit come only from a listing site.",
+      "last_attempt_at": "2026-11-16T18:14:38-05:00",
       "evidence": [
+        "https://thefreebieguy.com/current-sweepstakes-and-giveaways/",
         "https://www.calisqueeze.com/win-a-cali-squeeze-yeti-cooler/"
       ],
-      "next_retry_at": "2026-11-09T17:58:13-05:00",
+      "next_retry_at": "2026-11-19T18:14:38-05:00",
       "name": "Win a Custom Cali Squeeze YETI Cooler!",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Sponsor page couldn't be opened this run (page-reader approval PROVENANCE_REQUIRED unanswered, and search didn't surface it); last run its ViralSweep widget loaded dates, states and rules only by script",
-          "last_attempt_at": "2026-11-07T17:58:13-05:00",
-          "evidence": [
-            "https://www.calisqueeze.com/win-a-cali-squeeze-yeti-cooler/"
-          ],
-          "next_retry_at": "2026-11-09T17:58:13-05:00",
-          "name": "Win a Custom Cali Squeeze YETI Cooler!"
-        }
-      }
+      "listing_id": "win-a-custom-cali-squeeze-yeti-cooler",
+      "decided_at": "2026-11-16T18:14:38-05:00"
     },
     "https://camel.com/?resource=%2Fsecure%2Fpromotions%2Fouttheregiveaway.html": {
       "attempts": 0,
@@ -2569,32 +2556,16 @@
       "decided_at": "2026-11-10T17:39:28-05:00"
     },
     "https://happyholi-lays.com/rules": {
-      "attempts": 2,
-      "status": "in_progress",
+      "attempts": 3,
+      "status": "blocked",
       "reason_code": "robots_blocked",
-      "reason": "happyholi-lays.com disallows automated readers. PepsiCo's Oct 19 press release says you can scan a bag code or visit HappyHoli-Lays.com to enter from Oct 26, but eligibility, the end date and limits weren't readable",
-      "last_attempt_at": "2026-11-06T18:03:51-05:00",
+      "reason": "The rules are only on happyholi-lays.com, which disallows automated readers, and no other copy turned up (campaign-rules.rtm.com hosts other Lay's rules but not this one); PepsiCo's press release confirms entry from Oct 26 by scanning a bag code or visiting the site",
+      "last_attempt_at": "2026-11-16T18:14:38-05:00",
       "evidence": [
         "https://www.pepsico.com/newsroom/press-releases/2026/lays-brings-the-holi-lays-with-five-new-limited-time-flavors-inspired-by-holiday-dishes"
       ],
-      "next_retry_at": "2026-11-08T18:03:51-05:00",
-      "name": "1,279 Will Win Lay's Merch + More in the Happy Holi",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "robots_blocked",
-          "reason": "happyholi-lays.com disallows automated readers. PepsiCo's Oct 19 press release says you can scan a bag code or visit HappyHoli-Lays.com to enter from Oct 26, but eligibility, the end date and limits weren't readable",
-          "last_attempt_at": "2026-11-06T18:03:51-05:00",
-          "evidence": [
-            "https://www.pepsico.com/newsroom/press-releases/2026/lays-brings-the-holi-lays-with-five-new-limited-time-flavors-inspired-by-holiday-dishes"
-          ],
-          "next_retry_at": "2026-11-08T18:03:51-05:00",
-          "name": "1,279 Will Win Lay's Merch + More in the Happy Holi"
-        }
-      }
+      "next_retry_at": "2026-11-20T18:14:38-05:00",
+      "name": "1,279 Will Win Lay's Merch + More in the Happy Holi"
     },
     "https://harvestright.com/contest": {
       "attempts": 0,
@@ -3347,34 +3318,18 @@
       "name": "Miami Dream Sweepstakes! 818 WINNERS!"
     },
     "https://michelobultra.com/rules": {
-      "attempts": 2,
-      "status": "in_progress",
+      "attempts": 3,
+      "status": "blocked",
       "reason_code": "robots_blocked",
-      "reason": "michelobultra.com/rules disallows automated readers (robots.txt, last run) and this run's page reader only opens links found by web search; search found only NHL team Rinkside ticket sweepstakes (Red Wings, Rangers), not this Fanatics gift card one",
-      "last_attempt_at": "2026-11-07T17:54:29-05:00",
-      "next_retry_at": "2026-11-09T17:54:29-05:00",
+      "reason": "michelobultra.com, which hosts the rules and the entry page (superioraccess/rinkside27 per a listing site), disallows automated readers; a listing index shows 54 winners of hockey tickets or Fanatics gift cards through June 20, 2027, but NJ eligibility, the entry method and the limit are unconfirmed",
+      "last_attempt_at": "2026-11-16T18:14:38-05:00",
+      "next_retry_at": "2026-11-20T18:14:38-05:00",
       "name": "Win a Fanatics Gift Card in The Michelob Ultra Rinkside ’26",
       "evidence": [
+        "https://thefreebieguy.com/current-sweepstakes-and-giveaways/",
         "https://www.nhl.com/rangers/fans/sweepstakes/michelob-ultra-rinkside",
         "https://www.nhl.com/redwings/fans/michelob-ultra-rinkside-sweepstakes"
-      ],
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "robots_blocked",
-          "reason": "michelobultra.com/rules disallows automated readers (robots.txt, last run) and this run's page reader only opens links found by web search; search found only NHL team Rinkside ticket sweepstakes (Red Wings, Rangers), not this Fanatics gift card one",
-          "last_attempt_at": "2026-11-07T17:54:29-05:00",
-          "next_retry_at": "2026-11-09T17:54:29-05:00",
-          "name": "Win a Fanatics Gift Card in The Michelob Ultra Rinkside ’26",
-          "evidence": [
-            "https://www.nhl.com/rangers/fans/sweepstakes/michelob-ultra-rinkside",
-            "https://www.nhl.com/redwings/fans/michelob-ultra-rinkside-sweepstakes"
-          ]
-        }
-      }
+      ]
     },
     "https://mikeshard.com/sweepstakes/hardergaming26": {
       "attempts": 0,
@@ -3454,12 +3409,17 @@
     },
     "https://motosport.com/win": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The holiday sweepstakes' facts come from a listing site; the sponsor page returned only the rules of its ended ClubMX sweepstakes, so this one's eligibility, free entry, end time and entry limit aren't confirmed.",
+      "last_attempt_at": "2026-11-16T18:14:38-05:00",
+      "evidence": [
+        "https://sweepsinvasion.com/motosport-com-triple-threat-holiday-sweepstakes/",
+        "https://www.motosport.com/win"
+      ],
+      "listing_id": "2026-motosport-com-triple-treat-holiday-sweepstakes",
+      "decided_at": "2026-11-16T18:14:38-05:00",
+      "next_retry_at": "2026-11-19T18:14:38-05:00"
     },
     "https://mtb.com/killingtonsweepstakes": {
       "attempts": 0,
@@ -4704,12 +4664,16 @@
     },
     "https://sweepwidget.com/c/103273-7395jk0s": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-16",
-        "expires_at": "2026-11-16T20:42:00-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "SweepWidget's own page shows a live $250 Visa gift card giveaway with no purchase needed, ending Nov 23 at 6:00 AM with no time zone, but it has no rules, eligibility terms or entry limit, and the entry steps may be social follows.",
+      "last_attempt_at": "2026-11-16T18:14:38-05:00",
+      "evidence": [
+        "https://sweepwidget.com/giveaways/103273-7395jk0s"
+      ],
+      "listing_id": "brushe-law-thanksgiving-250-visa-gift-card-giveaway",
+      "decided_at": "2026-11-16T18:14:38-05:00",
+      "next_retry_at": "2026-11-19T18:14:38-05:00"
     },
     "https://sweepwidget.com/c/103274-vozqwf42": {
       "attempts": 1,

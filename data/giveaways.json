@@ -4204,6 +4204,139 @@
       "source": "Claude review 2026-11-16",
       "id": "bond-lifestyle-contest-99-moonraker-laser-prop-replica-signe",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Win a Custom Cali Squeeze YETI Cooler",
+      "prize": "One custom Cali Squeeze YETI cooler (one winner per a listing site; value not stated)",
+      "category": "other",
+      "entry_url": "https://www.calisqueeze.com/win-a-cali-squeeze-yeti-cooler/",
+      "match": [
+        "calisqueeze.com/win-a-cali-squeeze-yeti-cooler"
+      ],
+      "frames": [
+        "app.viralsweep.com/sweeps/widget/2b9510-227236"
+      ],
+      "ends": "2026-12-31T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Cali Squeeze (a Firestone Walker beer brand) runs this on its own page: a 21+ prompt, then 'Enter below' with a ViralSweep entry widget. The page shows no rules link, dates, eligible states or entry limit, and the rules inside the widget couldn't be read. A listing site gives Jan 1, 2027 as the end with no time, so this listing closes at 11:59 PM ET Dec 31, and it says one entry per person. The prize is the cooler; the page doesn't mention beer in the prize.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-16T18:17:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "Cali Squeeze's own page loads with a ViralSweep entry widget, but the official rules inside the widget couldn't be read, so eligible states, free entry, the end date and time and the entry limit come only from a listing site.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.calisqueeze.com/win-a-cali-squeeze-yeti-cooler/",
+          "https://thefreebieguy.com/current-sweepstakes-and-giveaways/"
+        ]
+      },
+      "added": "2026-11-16",
+      "source": "Claude review 2026-11-16",
+      "id": "win-a-custom-cali-squeeze-yeti-cooler",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "2026 MotoSport.com Triple Treat Holiday Sweepstakes",
+      "prize": "Grand prize: a VIP trip for two to Anaheim 1 Supercross with suite tickets, a MotoSport headquarters tour, a meet-and-greet, hotel, airfare, riding gear and a gear bag set; second prize: an electric bike and gear bag package; third prize: head-to-toe riding apparel and a gear bag package (per a listing site)",
+      "category": "trip",
+      "entry_url": "https://www.motosport.com/win",
+      "rules_url": "https://www.motosport.com/win",
+      "match": [
+        "motosport.com/win"
+      ],
+      "ends": "2026-11-23T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "MotoSport runs its sweepstakes on this page with a name and email form, and search indexes title the page 2026 Triple Treat Holiday Sweepstakes. A listing site says it launched Nov 12, is open to US residents 18+ except Florida, New York and Rhode Island (NJ is in), allows a daily entry and ends Nov 23, 2026. No end time is given, so this listing closes at 11:59 PM ET (MotoSport's earlier sweepstakes ended on Pacific time). The page reader only saw the rules of MotoSport's ended spring ClubMX sweepstakes on this page, so check the holiday rules there.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-16T18:17:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": false,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "The holiday sweepstakes' facts come from a listing site; the sponsor page returned only the rules of its ended ClubMX sweepstakes, so this one's eligibility, free entry, end time and entry limit aren't confirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.motosport.com/win",
+          "https://sweepsinvasion.com/motosport-com-triple-threat-holiday-sweepstakes/"
+        ]
+      },
+      "added": "2026-11-16",
+      "source": "Claude review 2026-11-16",
+      "id": "2026-motosport-com-triple-treat-holiday-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Brushe Law Thanksgiving $250 Visa Gift Card Giveaway",
+      "prize": "One $250 Visa gift card",
+      "category": "gift_card",
+      "entry_url": "https://sweepwidget.com/c/103273-7395jk0s",
+      "match": [
+        "sweepwidget.com/c/103273-7395jk0s",
+        "sweepwidget.com/giveaways/103273-7395jk0s"
+      ],
+      "ends": "2026-11-23T06:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "The giveaway's description says its entry steps are to like, follow and tag a friend on social media; which steps are required wasn't visible."
+      },
+      "notes": "SweepWidget's page for this giveaway says Brushe Law sponsors it, no purchase or payment is required, it runs Nov 4 to Nov 23, 2026 at 6:00 AM (no time zone given, so this listing uses 6 AM ET), and one winner is drawn Nov 23 and contacted through the sponsor's Messenger account. It states no eligibility (country, state or age) and no entry limit, and the sponsor's location wasn't found, so it may be meant for a local audience. Entry steps may include social follows. The page warns that the sponsor will only ask a winner for an email address.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-16T18:17:00-05:00",
+        "confirmed": {
+          "eligibility": false,
+          "free_entry": true,
+          "deadline": false,
+          "entry_limit": false
+        },
+        "reason": "SweepWidget's own page shows a live $250 Visa gift card giveaway with no purchase needed, ending Nov 23 at 6:00 AM with no time zone, but it has no rules, eligibility terms or entry limit, and the entry steps may be social follows.",
+        "missing": [
+          "eligibility",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://sweepwidget.com/giveaways/103273-7395jk0s"
+        ]
+      },
+      "added": "2026-11-16",
+      "source": "Claude review 2026-11-16",
+      "id": "brushe-law-thanksgiving-250-visa-gift-card-giveaway",
+      "rules_checked": "partial"
     }
   ]
 }
