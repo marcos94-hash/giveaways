@@ -1488,41 +1488,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "Lucky Golf Four Sets of Golf Clubs Giveaway",
-      "prize": "4 full sets of Lucky Golf clubs: one for the winner and three for guests the winner picks (ARV $927 each, $3,708 total)",
-      "category": "other",
-      "entry_url": "https://luckygolf.com/pages/giveaway",
-      "rules_url": "https://www.luckygolf.com/pages/giveaway",
-      "ends": "2026-11-17T01:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Ends 11:59 PM Mountain Nov 16. One email entry per person; an optional public Instagram/TikTok video of your clubs adds 10 bonus entries. 50 states and DC, 18+.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.luckygolf.com/pages/giveaway",
-        "checked_at": "2026-11-04T11:55-05:00",
-        "evidence": [
-          "https://www.luckygolf.com/pages/giveaway"
-        ],
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        }
-      },
-      "match": [
-        "luckygolf.com/pages/giveaway"
-      ],
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "lucky-golf-four-sets-of-golf-clubs-giveaway",
-      "rules_checked": "full"
-    },
-    {
       "name": "Allegiant Double Down Flyaway Sweepstakes (Luke Bryan & Jason Aldean)",
       "prize": "1 winner: 2 tickets to the Double Down Tour (Dec 11, Allegiant Stadium, Las Vegas) + round-trip flights and hotel (ARV $2,258)",
       "category": "trip",
@@ -1817,41 +1782,6 @@
         "avon.com/sweepstakes/beauty--cheer-sweepstakes"
       ],
       "rules_checked": "partial"
-    },
-    {
-      "name": "Big Sky Brands Far Out Flavors Contest",
-      "prize": "23 prizes: grand (CAD $682), second (CAD $354), third (CAD $118) and 20 swag boxes (about CAD $68)",
-      "category": "other",
-      "entry_url": "https://bigskybrands.com/pages/far-out-flavors",
-      "rules_url": "https://bigskybrands.com/pages/contest-rules",
-      "ends": "2026-11-16T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Random draw; winners must answer a math skill-testing question. Submit your email on the contest page; Instagram comments on the pinned post also count, up to 10 unique entries per person for the contest period. US and Canada, 18+.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://bigskybrands.com/pages/contest-rules",
-        "checked_at": "2026-11-04T12:09-05:00",
-        "evidence": [
-          "https://bigskybrands.com/pages/contest-rules"
-        ],
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        }
-      },
-      "match": [
-        "bigskybrands.com/pages/far-out-flavors"
-      ],
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "big-sky-brands-far-out-flavors-contest",
-      "rules_checked": "full"
     },
     {
       "name": "Fancy Feast Little Gem Micro Bag Sweepstakes",
@@ -2797,42 +2727,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "Harvest Right Freeze Dryer Giveaway",
-      "prize": "One Medium Home Freeze Dryer (ARV $2,895; winner pays shipping)",
-      "category": "other",
-      "entry_url": "https://harvestright.com/pages/contest",
-      "rules_url": "https://harvestright.com/pages/contest",
-      "match": [
-        "harvestright.com/pages/contest",
-        "harvestright.com/contest"
-      ],
-      "ends": "2026-11-16T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "marketing": "Entering signs you up for Harvest Right emails and texts; a phone number is required."
-      },
-      "notes": "Sponsor Harvest Right (Salt Lake City). Open to the 50 states and DC (and some places abroad), 18+; NJ is in. No purchase necessary: the entry form opens from the button on the contest page (first and last name, phone, email). One entry per person for the whole contest. The rules give only the end date, 11-16-26, with no time, so this listing ends at 11:59 PM ET that day. Drawing on or about Nov 17; the winner must answer within 24 hours.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": "https://harvestright.com/pages/contest",
-        "checked_at": "2026-11-09T18:13:00-05:00",
-        "reason": "Sponsor's rules confirm eligibility (50 states and DC, 18+), free online entry and one entry per person, but give only an end date (11-16-26) with no time or time zone.",
-        "evidence": [
-          "https://harvestright.com/pages/contest"
-        ],
-        "missing": [
-          "deadline"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "harvest-right-freeze-dryer-giveaway",
-      "rules_checked": "partial"
-    },
-    {
       "name": "terry's Chocolate Ritual to Remember Sweepstakes",
       "prize": "4-day, 3-night trip for two to a European city with airfare, hotel and $500 spending cash (ARV $4,999)",
       "category": "trip",
@@ -2950,80 +2844,6 @@
       "added": "2026-11-09",
       "source": "Claude review 2026-11-09",
       "id": "miller-lite-legendary-gameday-essentials-sweepstakes",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "Bare Necessities 28th Birthday Sweepstakes",
-      "prize": "Two $500 bra wardrobes (Wacoal), one Empreinte bra ($150) and 28 Bare minimizer bra and panty sets ($60)",
-      "category": "other",
-      "entry_url": "https://www.barenecessities.com/pages/28-years-of-fit-expertise",
-      "rules_url": null,
-      "match": [
-        "barenecessities.com/pages/28-years-of-fit-expertise"
-      ],
-      "ends": "2026-11-16T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "From listing sites: open to the US and DC, 18+, Oct 23 to Nov 16, 2026 11:59 PM ET, one entry per person by email on the sponsor's page, which also has the rules. Bonus entries for agreeing to texts, the newsletter, or sharing your band and cup size are optional.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-09T18:30:00-05:00",
-        "reason": "Facts come from two listing sites. The sponsor's entry and rules page needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and the scraper's daily guess conflicts with the listings' one entry per person.",
-        "evidence": [
-          "https://www.sweepsatlas.com/sweeps/bare-necessities-birthday-sweepstakes",
-          "https://sweepsinvasion.com/bare-necessities-28th-birthday-sweepstakes/",
-          "https://www.barenecessities.com/pages/28-years-of-fit-expertise"
-        ],
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "bare-necessities-28th-birthday-sweepstakes",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "Produce Like A Pro Audeze LCD-S20 Giveaway",
-      "prize": "Audeze LCD-S20 closed-back planar magnetic studio headphones",
-      "category": "electronics",
-      "entry_url": "https://gleam.io/O0xwX/audeze-lcds20",
-      "rules_url": null,
-      "match": [
-        "gleam.io/O0xwX/audeze-lcds20"
-      ],
-      "ends": "2026-11-17T02:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "From a listing site: run by Produce Like A Pro, open worldwide to 18+, single entry, ends 11:59 PM PT Nov 16 (2:59 AM ET Nov 17). Gleam's terms weren't readable. An earlier Produce Like A Pro LCD-S20 giveaway on Gleam required an email subscription and offered follow, share and referral bonus actions, so expect the same.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-09T18:30:00-05:00",
-        "reason": "Facts come from one listing site. Gleam pages returned client errors to the page reader, this one didn't come up in web search, and a Perplexity lookup of gleam.io found nothing, so eligibility, free entry, end time and the entry limit are unconfirmed.",
-        "evidence": [
-          "https://online-sweepstakes.com/audeze-lcd-s20-giveaway/"
-        ],
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ]
-      },
-      "added": "2026-11-09",
-      "source": "Claude review 2026-11-09",
-      "id": "produce-like-a-pro-audeze-lcd-s20-giveaway",
       "rules_checked": "partial"
     },
     {
