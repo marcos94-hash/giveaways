@@ -4284,6 +4284,155 @@
       "source": "Claude review 2026-11-17",
       "id": "5-years-of-aitum-giveaway-2",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Buck Knives Winter Giveaway",
+      "prize": "Two prize packs, one to keep and one to gift: a limited Buck 791 Range Titanium Winterhawk knife, Buck X Huk hoodie, beanie and Yeti tumbler, Pelican dry bag and waist pack, Klymit sleeping pad and WaterPORT water tank (over $1,000 MSRP; 1 winner)",
+      "category": "other",
+      "entry_url": "https://www.buckknives.com/about/company/partner-giveaway/",
+      "match": [
+        "buckknives.com/about/company/partner-giveaway"
+      ],
+      "frames": [
+        "app.viralsweep.com/sweeps/full/3139fc-241563"
+      ],
+      "ends": "2026-11-23T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "notes": "Buck Knives' giveaway page, with Lynch Northwest, Pelican, Klymit and WaterPORT, describes the prize packs and says to enter now; the form looks like a ViralSweep widget (campaign 3139fc-241563) embedded on that page. The Nov 23 end date is from a listing site. Eligibility and the entry limit aren't confirmed; an earlier Buck Knives Winter Giveaway (Feb 2026) on the same page was open to the 50 states and DC, 18+, one entry per person.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-17T18:05:00-05:00",
+        "reason": "Buck Knives' own giveaway page confirms the giveaway and prize packs but shows no rules, dates or eligibility, and the ViralSweep entry form and its rules didn't come up in web search, so eligibility, free entry, the end date (Nov 23 is from a listing site) and the entry limit are unconfirmed",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.buckknives.com/about/company/partner-giveaway/",
+          "https://www.freestufftimes.com/contests/16/buck-knives-winter-giveaway-2/"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-17",
+      "source": "Claude review 2026-11-17",
+      "id": "buck-knives-winter-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "AD x Gozney Giveaway",
+      "prize": "Gozney Dome XL (Gen 2) Ultimate Bundle pizza oven, or another Gozney oven of equal or lesser value, up to $4,114.92 (1 winner)",
+      "category": "other",
+      "entry_url": "https://www.architecturaldigest.com/story/ad-gozney-sweepstakes-2026",
+      "rules_url": "https://www.architecturaldigest.com/story/ad-x-gozney-giveaway-terms-and-conditions",
+      "match": [
+        "architecturaldigest.com/story/ad-gozney-sweepstakes-2026"
+      ],
+      "starts": "2026-11-14T00:00:00-05:00",
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "The entry form signs you up for the AD Daily newsletter and Gozney's newsletter, and the rules say entrants agree to emails from the sponsor and administrator about the promotion."
+      },
+      "notes": "Per AD's official rules: open to the 50 states and DC, 18+, Nov 14 to Nov 22, 2026, 11:59 PM EST. Enter with the form on AD's giveaway page (signing up for both newsletters earns one entry), or email adinbox@architecturaldigest.com with \"AD X Gozney Giveaway\" in the subject and your full legal name in the body. The part of the rules that was read states no per-person entry limit. Winner drawn on or about Nov 23.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-17T18:10:00-05:00",
+        "reason": "AD's official rules, read through a Perplexity extract (the AD pages didn't come up in web search and searches limited to architecturaldigest.com were rejected), confirm eligibility, free entry and the Nov 22, 11:59 PM EST end, but the extract shows no entry limit; the giveaway page says the newsletter signup earns one entry",
+        "missing": [
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.architecturaldigest.com/story/ad-x-gozney-giveaway-terms-and-conditions",
+          "https://www.architecturaldigest.com/story/ad-gozney-sweepstakes-2026",
+          "https://giveario.com/"
+        ]
+      },
+      "added": "2026-11-17",
+      "source": "Claude review 2026-11-17",
+      "id": "ad-x-gozney-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "The Bobby Bones Show Holiday Dinner Sweepstakes",
+      "prize": "$2,500 cash toward a holiday dinner, thanks to Hershey (per the promotion page)",
+      "category": "cash",
+      "entry_url": "https://bobbybones.iheart.com/promotions/holiday-dinner-sweepstakes-1933714/",
+      "match": [
+        "bobbybones.iheart.com/promotions/holiday-dinner-sweepstakes-1933714"
+      ],
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "notes": "The Bobby Bones Show's promotion page (Premiere Networks, iHeartMedia) describes $2,500 cash toward a holiday dinner thanks to Hershey. Listing sites say Premiere Networks' Holiday Dinner Sweepstakes awards one $2,500 check, can be entered daily and ends Nov 22. After MidNite and On with Mario Lopez run their own Holiday Dinner pages. The specific rules weren't read; iHeart's general contest rules limit contests to the station's listening area unless a contest's own rules say otherwise, so check eligibility and the entry limit before entering.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-17T18:10:00-05:00",
+        "reason": "The promotion page shows the page reader only its description, and no rules for this sweepstakes came up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit come from listing sites; iHeart's general rules default to the station's listening area unless the specific rules say otherwise",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://bobbybones.iheart.com/promotions/holiday-dinner-sweepstakes-1933714/",
+          "https://bobbybones.iheart.com/content/general-contesting-guidelines/",
+          "https://www.sweepstakestoday.com/sweeps/date/20261116",
+          "https://www.freestufftimes.com/contests/17/the-bobby-bones-show-holiday-dinner-sweepstakes/"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-17",
+      "source": "Claude review 2026-11-17",
+      "id": "the-bobby-bones-show-holiday-dinner-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "After MidNite Holiday Dinner Sweepstakes",
+      "prize": "$2,500 check (1 winner), from Premiere Networks per listing sites",
+      "category": "cash",
+      "entry_url": "https://aftermidnite.iheart.com/promotions/holiday-dinner-sweepstakes-1933715/",
+      "match": [
+        "aftermidnite.iheart.com/promotions/holiday-dinner-sweepstakes-1933715",
+        "aftermidnite.iheart.com/promotions/holiday-dinner-sweepstakes-1933709"
+      ],
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "notes": "Per listing sites (WinPrizesOnline, Sweepstakes Today): Premiere Networks' Holiday Dinner Sweepstakes on After MidNite awards one $2,500 check, can be entered daily, 18+, ends Nov 22. The show's promotions page lists it under two IDs (1933715 and 1933709). The Bobby Bones Show and On with Mario Lopez run their own Holiday Dinner pages. The rules weren't read; iHeart's general contest rules limit contests to the station's listening area unless a contest's own rules say otherwise.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-17T18:10:00-05:00",
+        "reason": "The promotion page didn't come up in web search, the show's promotions index shows only the site shell, and no rules for this sweepstakes came up in web search or a Perplexity lookup, so the facts come from listing sites",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.winprizesonline.com/Holiday-Dinner-Sweepstakes/",
+          "https://www.sweepstakestoday.com/sweeps/date/20261116",
+          "https://aftermidnite.iheart.com/promotions/"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-17",
+      "source": "Claude review 2026-11-17",
+      "id": "after-midnite-holiday-dinner-sweepstakes",
+      "rules_checked": "partial"
     }
   ]
 }

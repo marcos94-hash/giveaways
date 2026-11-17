@@ -65,12 +65,18 @@
     },
     "https://aftermidnite.iheart.com/promotions/holiday-dinner-sweepstakes-1933715": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The promotion page didn't come up in web search, the show's promotions index shows only the site shell, and no rules for this sweepstakes came up in web search or a Perplexity lookup, so the facts come from listing sites",
+      "last_attempt_at": "2026-11-17T17:59:46-05:00",
+      "evidence": [
+        "https://aftermidnite.iheart.com/promotions/",
+        "https://www.sweepstakestoday.com/sweeps/date/20261116",
+        "https://www.winprizesonline.com/Holiday-Dinner-Sweepstakes/"
+      ],
+      "listing_id": "after-midnite-holiday-dinner-sweepstakes",
+      "decided_at": "2026-11-17T17:59:46-05:00",
+      "next_retry_at": "2026-11-20T17:59:46-05:00"
     },
     "https://ahxlegoland.com/en/gate": {
       "attempts": 1,
@@ -216,12 +222,17 @@
     },
     "https://app.viralsweep.com/sweeps/full/3139fc-241563?framed=1": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Buck Knives' own giveaway page confirms the giveaway and prize packs but shows no rules, dates or eligibility, and the ViralSweep entry form and its rules didn't come up in web search, so eligibility, free entry, the end date (Nov 23 is from a listing site) and the entry limit are unconfirmed",
+      "last_attempt_at": "2026-11-17T17:59:46-05:00",
+      "evidence": [
+        "https://www.buckknives.com/about/company/partner-giveaway/",
+        "https://www.freestufftimes.com/contests/16/buck-knives-winter-giveaway-2/"
+      ],
+      "listing_id": "buck-knives-winter-giveaway",
+      "decided_at": "2026-11-17T17:59:46-05:00",
+      "next_retry_at": "2026-11-20T17:59:46-05:00"
     },
     "https://app.viralsweep.com/sweeps/full/4b1c4c-240297?framed=1": {
       "attempts": 0,
@@ -373,12 +384,18 @@
     },
     "https://architecturaldigest.com/story/ad-gozney-sweepstakes-2026": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "AD's official rules, read through a Perplexity extract (the AD pages didn't come up in web search and searches limited to architecturaldigest.com were rejected), confirm eligibility, free entry and the Nov 22, 11:59 PM EST end, but the extract shows no entry limit; the giveaway page says the newsletter signup earns one entry",
+      "last_attempt_at": "2026-11-17T17:59:46-05:00",
+      "evidence": [
+        "https://giveario.com/",
+        "https://www.architecturaldigest.com/story/ad-gozney-sweepstakes-2026",
+        "https://www.architecturaldigest.com/story/ad-x-gozney-giveaway-terms-and-conditions"
+      ],
+      "listing_id": "ad-x-gozney-giveaway",
+      "decided_at": "2026-11-17T17:59:46-05:00",
+      "next_retry_at": "2026-11-20T17:59:46-05:00"
     },
     "https://au.pcmag.com/mobile-payment-apps/100935/pcmag-readers-choice-sweepstakes-rules": {
       "name": "PCMag Readers' Choice: Phones & Carriers survey",
@@ -539,12 +556,19 @@
     },
     "https://bobbybones.iheart.com/promotions/holiday-dinner-sweepstakes-1933714": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The promotion page shows the page reader only its description, and no rules for this sweepstakes came up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit come from listing sites; iHeart's general rules default to the station's listening area unless the specific rules say otherwise",
+      "last_attempt_at": "2026-11-17T17:59:46-05:00",
+      "evidence": [
+        "https://bobbybones.iheart.com/content/general-contesting-guidelines/",
+        "https://bobbybones.iheart.com/promotions/holiday-dinner-sweepstakes-1933714/",
+        "https://www.freestufftimes.com/contests/17/the-bobby-bones-show-holiday-dinner-sweepstakes/",
+        "https://www.sweepstakestoday.com/sweeps/date/20261116"
+      ],
+      "listing_id": "the-bobby-bones-show-holiday-dinner-sweepstakes",
+      "decided_at": "2026-11-17T17:59:46-05:00",
+      "next_retry_at": "2026-11-20T17:59:46-05:00"
     },
     "https://bookthrone.com/post/the-cursed-heart-series": {
       "attempts": 0,
@@ -591,6 +615,20 @@
       "listing_id": "brawny-home-essentials-sweepstakes",
       "decided_at": "2026-11-16T17:40:24-05:00",
       "next_retry_at": null
+    },
+    "https://buckknives.com/about/company/partner-giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Buck Knives' own giveaway page confirms the giveaway and prize packs but shows no rules, dates or eligibility, and the ViralSweep entry form and its rules didn't come up in web search, so eligibility, free entry, the end date (Nov 23 is from a listing site) and the entry limit are unconfirmed",
+      "last_attempt_at": "2026-11-17T17:59:46-05:00",
+      "evidence": [
+        "https://www.buckknives.com/about/company/partner-giveaway/",
+        "https://www.freestufftimes.com/contests/16/buck-knives-winter-giveaway-2/"
+      ],
+      "listing_id": "buck-knives-winter-giveaway",
+      "decided_at": "2026-11-17T17:59:46-05:00",
+      "next_retry_at": "2026-11-20T17:59:46-05:00"
     },
     "https://budlight.com/UpgradeYourGamedayRules": {
       "attempts": 3,
@@ -1340,13 +1378,13 @@
       "decided_at": "2026-11-15T17:40:05-05:00"
     },
     "https://elvisduran.iheart.com/promotions/elvis-duran-and-the-morning-show-s-wisecode-jingle-ball-sweepstakes-1933720": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "The promotion page didn't come up in web search, the show's promotions index (site shell only) lists only a Bahamas flyaway, and no rules for a WiseCode or Jingle Ball flyaway sweepstakes turned up (Z100's rules list names other Jingle Ball contests), so the entry method, which may need an on-air code, and the rules weren't read",
+      "last_attempt_at": "2026-11-17T17:59:46-05:00",
+      "next_retry_at": "2026-11-18T17:59:46-05:00",
+      "name": "Elvis Duran and the Morning Show’s Jingle Ball Flyaway Sweepstakes"
     },
     "https://engl-usa.com/pages/engl-ravager-ir-sweepstakes": {
       "attempts": 0,
