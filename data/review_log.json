@@ -2152,13 +2152,13 @@
       "decided_at": "2026-11-15T17:40:05-05:00"
     },
     "https://gleam.io/UGLuA/weekly-tempspike-pro-giveaway-nov-1622": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "The Gleam page for the Nov 16-22 week didn't come up in web search (only other TempSpike weeks did), and no listing-site copy or rules page turned up, so the terms weren't read",
+      "last_attempt_at": "2026-11-17T17:56:06-05:00",
+      "next_retry_at": "2026-11-18T17:56:06-05:00",
+      "name": "TempPro  TempSpike Pro Giveaway"
     },
     "https://gleam.io/V8HvZ/5-years-of-aitum-giveaway-2": {
       "attempts": 0,
@@ -2493,13 +2493,16 @@
       "name": "Bob & Brad's iNeck Go Shoulder & Back Massager Giveaway"
     },
     "https://gleam.io/kxT8i/ultrean-thanksgiving-giveaway-?gsr=kxT8i-oOJudrH5aQ": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "incomplete_info",
+      "reason": "giveaway-list.com's copy of the Gleam page (offered by Vanguard Innovation, brand Ultrean, Nov 10 to Nov 25 at 07:59 UTC) lists only social entry actions (follows, shares, tagging friends, Facebook group joins, likes and comments) and a country list that is cut off, with no prize or terms; Gleam's own page didn't come up in search, so a non-social entry and US eligibility are unsettled",
+      "last_attempt_at": "2026-11-17T17:56:07-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-kxT8i/ultrean-thanksgiving-giveaway"
+      ],
+      "next_retry_at": "2026-11-18T17:56:07-05:00",
+      "name": "Ultrean Thanksgiving Giveaway"
     },
     "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026": {
       "attempts": 2,
@@ -3041,13 +3044,13 @@
       "name": "Win 2 Poppy Odyssey II Crochet Hooks"
     },
     "https://kingsumo.com/g/107jnv3/verus-pet-foods-cat-gift-basket-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "The KingSumo page and its rules didn't come up in web search (searches limited to kingsumo.com, veruspetfoods.com and giveaway-list.com showed only older VeRUS giveaways), so the rules weren't read",
+      "last_attempt_at": "2026-11-17T17:56:06-05:00",
+      "next_retry_at": "2026-11-18T17:56:06-05:00",
+      "name": "VeRUS Pet Foods Cat Gift Basket Giveaway"
     },
     "https://kingsumo.com/g/107jyv3/win-a-vato-tuned-honda-obd1-pnp-standalone-ecu": {
       "attempts": 0,
@@ -3120,13 +3123,13 @@
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
     "https://kingsumo.com/g/36qg6e1/blessings-before-the-holidays-giveaway/g829k20": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "Six searches, including ones limited to kingsumo.com and giveaway-list.com, found no copy of this KingSumo giveaway, so the sponsor, prize and rules are unknown",
+      "last_attempt_at": "2026-11-17T17:56:06-05:00",
+      "next_retry_at": "2026-11-18T17:56:06-05:00",
+      "name": "Blessings Before The Holidays Giveaway"
     },
     "https://kingsumo.com/g/36qgr41/carolina-pottery-cardinal-christmas-theme-giveaway/jxrg8ye": {
       "attempts": 1,
@@ -5155,13 +5158,13 @@
       "attempts": 0
     },
     "https://theneighborgoods.com/pages/hostess-with-the-mostess-holiday-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "Eight searches, five limited to theneighborgoods.com, returned only product and blog pages, so the giveaway page and its rules couldn't be opened",
+      "last_attempt_at": "2026-11-17T17:56:07-05:00",
+      "next_retry_at": "2026-11-18T17:56:07-05:00",
+      "name": "The Neighborgoods Hostess With The Mostess Holiday Giveaway"
     },
     "https://thenorthface.com/en-us/xplr-pass/xplr-pass-sweepstakes": {
       "attempts": 0,
