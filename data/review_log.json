@@ -2073,13 +2073,16 @@
       "decided_at": "2026-11-14T17:45:13-05:00"
     },
     "https://gleam.io/QV71V/giggleland-rory-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page (gleam.io/giveaways/QV71V) came up in search but returned a client error, and no listing-site copy or Youtooz rules page turned up, so the prize, eligibility and terms weren't read",
+      "last_attempt_at": "2026-11-17T17:55:40-05:00",
+      "evidence": [
+        "https://gleam.io/giveaways/QV71V"
+      ],
+      "next_retry_at": "2026-11-18T17:55:40-05:00",
+      "name": "Youtooz Giggleland - Rory Giveaway"
     },
     "https://gleam.io/RGgHD/better-living-giveaway": {
       "attempts": 1,
@@ -2365,13 +2368,13 @@
       "decided_at": "2026-11-16T17:40:24-05:00"
     },
     "https://gleam.io/dsdUy/nzxt-h5-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "The Gleam page didn't come up in web search, no listing-site copy turned up (giveaway-list.com's NZXT page is months out of date), and NZXT's site shows only a different NZXT x Intel Club giveaway, so the terms weren't read",
+      "last_attempt_at": "2026-11-17T17:55:41-05:00",
+      "next_retry_at": "2026-11-18T17:55:41-05:00",
+      "name": "NZXT H5 Giveaway"
     },
     "https://gleam.io/e9qBg/20-years-of-rog-oneofakind-rog-giveaway": {
       "attempts": 1,
@@ -2481,13 +2484,13 @@
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
     "https://gleam.io/kHtDX/bob-brads-ineck-go-shoulder-back-massager": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "The Gleam page didn't come up in web search, which showed only older Bob and Brad giveaways, and no listing-site copy or rules page turned up, so the terms weren't read",
+      "last_attempt_at": "2026-11-17T17:55:41-05:00",
+      "next_retry_at": "2026-11-18T17:55:41-05:00",
+      "name": "Bob & Brad's iNeck Go Shoulder & Back Massager Giveaway"
     },
     "https://gleam.io/kxT8i/ultrean-thanksgiving-giveaway-?gsr=kxT8i-oOJudrH5aQ": {
       "attempts": 0,
@@ -3374,17 +3377,18 @@
     "https://lowes.com/events/register/sweepstakes/home-for-the-holidays-sweepstakes": {
       "attempts": 0,
       "status": "listed",
-      "reason_code": "needs_rules_check",
-      "reason": "Facts come from listing sites (Sweeps Atlas, Sweepstakes Advantage, The Freebie Guy) found with a Perplexity lookup. Lowe's official rules weren't found by search, and the Lowe's short link disallowed automated readers last run, so eligibility, the end time and the entry limit are unconfirmed.",
-      "last_attempt_at": "2026-11-07T17:56:39-05:00",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-17T17:55:40-05:00",
       "evidence": [
         "https://thefreebieguy.com/sweepstakes/win-a-500000-prize-in-the-lowes-home-for-the-holidays-sweeps/",
+        "https://www.lowes.com/pdf/Lowes_Home_for_the_Holidays.pdf",
         "https://www.sweepsadvantage.com/home-for-the-holiday-sweepstakes",
         "https://www.sweepsatlas.com/sweeps/lowe-s-home-for-the-holidays-sweepstakes"
       ],
       "listing_id": "lowe-s-home-for-the-holidays-sweepstakes",
-      "decided_at": "2026-11-07T17:56:39-05:00",
-      "next_retry_at": "2026-11-10T17:56:39-05:00"
+      "decided_at": "2026-11-17T17:55:40-05:00",
+      "next_retry_at": null
     },
     "https://lpga.com/ford-tee-to-trail-sweepstakes": {
       "attempts": 0,
@@ -3705,13 +3709,16 @@
       "decided_at": "2026-11-08T17:50:42-05:00"
     },
     "https://mynavyexchange.com/sweepstakes": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "possible_membership",
+      "reason": "The NEX Holiday Dinner page and its rules didn't come up in web search. NEX's sweepstakes rules page still shows an older promotion (Signature Scent, Oct 2025) whose rules limit entry to authorized Navy Exchange patrons 18+ and use social comment entry, so this one is likely limited to authorized patrons, but that isn't confirmed",
+      "last_attempt_at": "2026-11-17T17:55:40-05:00",
+      "evidence": [
+        "https://www.mynavyexchange.com/sweepstakes/rules"
+      ],
+      "next_retry_at": "2026-11-18T17:55:40-05:00",
+      "name": "NEX Holiday Dinner Sweepstakes"
     },
     "https://myweego.com/pages/fall-giveaway": {
       "attempts": 0,
@@ -4523,39 +4530,20 @@
     },
     "https://shoplowes.me/3WZLa2y": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "needs_rules_check",
-      "reason": "Facts come from listing sites (Sweeps Atlas, Sweepstakes Advantage, The Freebie Guy) found with a Perplexity lookup. Lowe's official rules weren't found by search, and the Lowe's short link disallowed automated readers last run, so eligibility, the end time and the entry limit are unconfirmed.",
-      "last_attempt_at": "2026-11-07T17:56:39-05:00",
-      "next_retry_at": "2026-11-10T17:56:39-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-17T17:55:40-05:00",
+      "next_retry_at": null,
       "name": "Win a House in Lowe's A Home for the Holidays Sweepstakes!",
       "evidence": [
         "https://thefreebieguy.com/sweepstakes/win-a-500000-prize-in-the-lowes-home-for-the-holidays-sweeps/",
+        "https://www.lowes.com/pdf/Lowes_Home_for_the_Holidays.pdf",
         "https://www.sweepsadvantage.com/home-for-the-holiday-sweepstakes",
         "https://www.sweepsatlas.com/sweeps/lowe-s-home-for-the-holidays-sweepstakes"
       ],
       "listing_id": "lowe-s-home-for-the-holidays-sweepstakes",
-      "decided_at": "2026-11-07T17:56:39-05:00",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from listing sites (Sweeps Atlas, Sweepstakes Advantage, The Freebie Guy) found with a Perplexity lookup. Lowe's official rules weren't found by search, and the Lowe's short link disallowed automated readers last run, so eligibility, the end time and the entry limit are unconfirmed.",
-          "last_attempt_at": "2026-11-07T17:56:39-05:00",
-          "next_retry_at": "2026-11-10T17:56:39-05:00",
-          "name": "Win a House in Lowe's A Home for the Holidays Sweepstakes!",
-          "evidence": [
-            "https://thefreebieguy.com/sweepstakes/win-a-500000-prize-in-the-lowes-home-for-the-holidays-sweeps/",
-            "https://www.sweepsadvantage.com/home-for-the-holiday-sweepstakes",
-            "https://www.sweepsatlas.com/sweeps/lowe-s-home-for-the-holidays-sweepstakes"
-          ],
-          "listing_id": "lowe-s-home-for-the-holidays-sweepstakes",
-          "decided_at": "2026-11-07T17:56:39-05:00"
-        }
-      }
+      "decided_at": "2026-11-17T17:55:40-05:00"
     },
     "https://shoppingcentersweepstakes.com/": {
       "attempts": 0,

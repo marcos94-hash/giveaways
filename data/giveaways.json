@@ -2541,41 +2541,41 @@
     },
     {
       "name": "Lowe's Home for the Holidays Sweepstakes",
-      "prize": "Winner's choice: $500,000 credit toward building a new home, or a $300,000 check (1 winner)",
+      "prize": "Winner's choice: a $500,000 credit toward building a new home through an approved builder, or a $300,000 check (1 winner)",
       "category": "cash",
       "entry_url": "https://www.lowes.com/events/register/sweepstakes/home-for-the-holidays-sweepstakes",
       "match": [
         "lowes.com/events/register/sweepstakes/home-for-the-holidays-sweepstakes"
       ],
-      "ends": "2026-12-15T23:59:00-05:00",
+      "ends": "2026-12-15T23:59:59-05:00",
       "limit": {
         "type": "once"
       },
       "min_age": 18,
       "flags": {
-        "account": "Free MyLowe's Rewards membership required; enter signed in on lowes.com or in the Lowe's app (Member Events)."
+        "account": "Free MyLowe's Rewards membership required, and the rules say the one free entry must be made in the Lowe's App (Member Events dashboard) while signed in."
       },
-      "notes": "Per listing sites: open to the 50 states and DC, 18+ (and age of majority), MyLowe's Rewards members only (free to join). One free entry per person. Extra daily bonus entries come only from a $50+ purchase or a mailed card, plus a one-time share bonus in the app. Ends Dec 15, 2026 11:59 PM ET; winner drawn about Jan 4, 2027. Needs a free MyLowe's Rewards account. The sponsor's rules weren't read.",
+      "notes": "Per Lowe's official rules: open to the 50 states and DC, 18+ and the age of majority, MyLowe's Rewards members only (free to join). One free Initial Entry per person, made in the Lowe's App: sign in, open Member Events and enter. The lowes.com events page here comes from listing sites and may only point you to the app. After that first entry you can earn at most 1 bonus entry per day (a $50+ purchase, or a mailed 3x5 card postmarked by Dec 15) plus one share bonus in the app; nothing needs to be bought. If no builder serves the winner's area, the prize is the $300,000 check. Ends 11:59:59 PM ET Dec 15, 2026; winner drawn on or about Jan 4, 2027.",
       "verification": {
-        "status": "needs_rules_check",
-        "checked_at": "2026-11-07T17:56:00-05:00",
-        "reason": "Facts come from listing sites (Sweeps Atlas, Sweepstakes Advantage, The Freebie Guy) found with a Perplexity lookup. Lowe's official rules weren't found by search, and the Lowe's short link disallowed automated readers last run, so eligibility, the end time and the entry limit are unconfirmed.",
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ],
+        "status": "verified",
+        "rules_source": "https://www.lowes.com/pdf/Lowes_Home_for_the_Holidays.pdf",
+        "checked_at": "2026-11-17T17:54:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
         "evidence": [
-          "https://www.sweepsatlas.com/sweeps/lowe-s-home-for-the-holidays-sweepstakes",
-          "https://www.sweepsadvantage.com/home-for-the-holiday-sweepstakes",
-          "https://thefreebieguy.com/sweepstakes/win-a-500000-prize-in-the-lowes-home-for-the-holidays-sweeps/"
+          "https://www.lowes.com/pdf/Lowes_Home_for_the_Holidays.pdf"
         ]
       },
       "added": "2026-11-07",
       "source": "Claude review 2026-11-07",
       "id": "lowe-s-home-for-the-holidays-sweepstakes",
-      "rules_checked": "partial"
+      "rules_checked": "full",
+      "rules_url": "https://www.lowes.com/pdf/Lowes_Home_for_the_Holidays.pdf",
+      "starts": "2026-10-30T06:00:00-04:00"
     },
     {
       "name": "Starbucks Customer Experience Sweepstakes (Oct 2026 to Sep 2027)",
