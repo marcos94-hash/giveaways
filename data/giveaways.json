@@ -3998,47 +3998,6 @@
       "rules_checked": "partial"
     },
     {
-      "name": "Bond Lifestyle Contest #99: Moonraker Laser Prop Replica + Signed Licensed Troubleshooter",
-      "prize": "A custom-made fan replica of the Moonraker laser prop plus a signed copy of the book Licensed Troubleshooter (number of winners and value not stated)",
-      "category": "other",
-      "entry_url": "https://gleam.io/yaK6J/moonraker-laser-prop-replica-signed-licensed-troubleshooter-book",
-      "match": [
-        "gleam.io/yaK6J"
-      ],
-      "ends": "2026-11-17T18:00:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Bond Lifestyle's contest page links its Click to enter giveaway button to this Gleam page and says to enter before midnight on 17 November 2026, with no time zone, so this listing closes at 6 PM ET (midnight Central European Time) to be safe. The page gives no eligibility, entry limit or rules, and the Gleam widget, which holds the terms and the entry actions, couldn't be read, so check who can enter and which actions are required on the Gleam page. The prize is a movie prop replica, not a real weapon.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-16T18:12:00-05:00",
-        "confirmed": {
-          "eligibility": false,
-          "free_entry": false,
-          "deadline": false,
-          "entry_limit": false
-        },
-        "reason": "Bond Lifestyle's own contest page confirms the Gleam giveaway and its close before midnight on Nov 17 with no time zone, but it states no eligibility or entry limit, and the Gleam terms couldn't be read.",
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://jamesbondlifestyle.com/bond-lifestyle-contest-99-win-moonraker-laser-prop-replica-signed-licensed-troubleshooter-book"
-        ]
-      },
-      "added": "2026-11-16",
-      "source": "Claude review 2026-11-16",
-      "id": "bond-lifestyle-contest-99-moonraker-laser-prop-replica-signe",
-      "rules_checked": "partial"
-    },
-    {
       "name": "Win a Custom Cali Squeeze YETI Cooler",
       "prize": "One custom Cali Squeeze YETI cooler (one winner per a listing site; value not stated)",
       "category": "other",
