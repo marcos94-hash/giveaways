@@ -2470,24 +2470,27 @@
     },
     {
       "name": "Pepsi x Off Season Can Jacket Sweepstakes",
-      "prize": "Mini NFL puffer can jacket (about $30 each), 14,000 winners",
+      "prize": "Mini NFL puffer can jacket (about $30 each), 14,000 winners across 16 prize pools (15 NFL teams plus a Pepsi-Cola x Off Season design)",
       "category": "other",
       "entry_url": "https://offseasonpepsisweeps.com/",
       "rules_url": "https://offseasonpepsisweeps.com/",
       "match": [
         "offseasonpepsisweeps.com"
       ],
-      "ends": "2026-11-30T23:59:00-05:00",
+      "ends": "2026-11-30T23:59:59-05:00",
       "limit": {
-        "type": "rolling24"
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
       },
       "min_age": 18,
       "flags": {},
-      "notes": "PepsiCo's press release says entries run through Nov 30, 2026 and points to the sweeps site for the official rules. A deal site says no purchase, enter once a day and pick an NFL team's jacket; winners are picked around Dec 1 and told by email. Eligibility, minimum age and the end time are unconfirmed.",
+      "notes": "Per listing sites that quote the rules (Freebie Mom, I Love Giveaways): open to the 50 states and DC, 18+ (19+ in AL and NE), physically in the US; Oct 15 to Nov 30, 2026, closing 11:59:59 PM ET; one entry per person per day across all prize pools, with days resetting at midnight ET; each entry picks one prize pool (email, birth date, ZIP and team). PepsiCo's press release confirms the sweepstakes through Nov 30 and points to the sweeps site for the official rules. Winners are emailed around Dec 1 and must claim within 72 hours.",
       "verification": {
         "status": "needs_rules_check",
-        "checked_at": "2026-11-07T17:54:00-05:00",
-        "reason": "The sponsor's press release confirms the promotion and the Nov 30 end date, but the official rules on offseasonpepsisweeps.com needed a page-reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer (last run the site loaded only by script), so eligibility, the end time and the daily limit are unconfirmed.",
+        "checked_at": "2026-11-17T18:05:00-05:00",
+        "reason": "Rechecked Nov 17: offseasonpepsisweeps.com, which holds the official rules, returns a server error to the page reader and no other copy of the rules came up, so eligibility, the end time and the daily limit come from listing sites that quote the rules; PepsiCo's press release confirms the promotion and the Nov 30 end date",
         "missing": [
           "eligibility",
           "deadline_time",
@@ -2495,17 +2498,20 @@
         ],
         "evidence": [
           "https://www.pepsico.com/newsroom/press-releases/2026/pepsi-and-off-season-give-great-taste-a-one-of-a-kind-tailgate-fit-with-mini-nfl-puffer-can-jackets",
+          "https://freebiemom.com/pepsi-off-season-nfl-can-jacket-sweepstakes/",
+          "https://ilovegiveaways.com/sweepstakes/pepsi-nfl-can-jacket-sweepstakes-2026/",
           "https://hip2save.com/deals/pepsi-mini-nfl-puffer-jackets-sweepstakes/"
         ]
       },
       "added": "2026-11-07",
       "source": "Claude review 2026-11-07",
       "id": "pepsi-x-off-season-can-jacket-sweepstakes",
-      "rules_checked": "partial"
+      "rules_checked": "partial",
+      "starts": "2026-10-15T00:00:00-04:00"
     },
     {
       "name": "Always Discreet Protect the Moment Sweepstakes",
-      "prize": "Trip for two to Super Bowl LXI: 2 game tickets, 3 hotel nights and a $5,000 travel check (ARV $12,950; airfare not included)",
+      "prize": "Trip for two to Super Bowl LXI: 2 game tickets, 3 hotel nights and a $5,000 travel e-check (ARV $12,950; airfare not included)",
       "category": "trip",
       "entry_url": "https://alwaysdiscreetsweepstakes.com/",
       "rules_url": "https://alwaysdiscreetsweepstakes.com/",
@@ -2519,11 +2525,11 @@
       },
       "min_age": 18,
       "flags": {},
-      "notes": "Per a listing site: Procter & Gamble sweepstakes for the 48 contiguous states and DC, 18+, one entry per person, Sep 1 to Dec 31, 2026 11:59 PM ET. The main entry uploads a receipt from a qualifying purchase; the listing says a no-purchase alternate method is described on the official site but not whether it is online. Don't buy anything for this; check the alternate method first.",
+      "notes": "Per listing sites that quote the rules (Sweepstakes Lovers, Sweepstakes Bible, Moneys My Life): Procter & Gamble sweepstakes for the 48 contiguous states and DC (void in AK and HI), 18+, Sep 1, 10:00 AM ET to Dec 31, 2026, 11:59 PM ET; drawing Jan 4, 2027. The form on the sweepstakes site is for uploading a receipt from an Always Discreet purchase; don't buy anything. The free way is one entry by email to alwaysdiscreetsweeps@dja.com with your first and last name, mailing address, phone number and month and year of birth. One entry per person.",
       "verification": {
         "status": "needs_rules_check",
-        "checked_at": "2026-11-07T17:54:00-05:00",
-        "reason": "Facts come from a listing site. The sweepstakes site disallowed automated readers last run and needed a page-reader approval (PROVENANCE_REQUIRED) this run, so the free entry method (online or mail), eligibility, deadline and limit are unconfirmed.",
+        "checked_at": "2026-11-17T18:05:00-05:00",
+        "reason": "Rechecked Nov 17: alwaysdiscreetsweepstakes.com, which holds the official rules, refuses automated readers (robots.txt), so the free email entry, eligibility, deadline and limit come from listing sites that quote the rules",
         "missing": [
           "eligibility",
           "free_entry",
@@ -2531,7 +2537,10 @@
           "entry_limit"
         ],
         "evidence": [
-          "https://www.moneysmylife.com/always-discreet-protect-the-moment-sweepstakes/"
+          "https://www.sweepstakeslovers.com/trips/always-discreet-super-bowl-lxi-sweepstakes/",
+          "https://www.sweepstakesbible.com/giveaways/always-discreet-super-bowl-sweepstakes",
+          "https://www.moneysmylife.com/always-discreet-protect-the-moment-sweepstakes/",
+          "https://alwaysdiscreet.com/en-us/protect-the-moment"
         ]
       },
       "added": "2026-11-07",
@@ -4198,6 +4207,83 @@
       "source": "Claude review 2026-11-17",
       "id": "k-love-great-gobble-glow-up-sweepstakes",
       "rules_checked": "full"
+    },
+    {
+      "name": "Sapporo Flyaway to Japan Sweepstakes",
+      "prize": "Grand prize: trip for two to Tokyo with round-trip airfare, 4 hotel nights and a $1,500 check (up to $7,100); 5 first prizes of a custom Onimusha fan kit (ARV $1,000 each); total ARV $12,100",
+      "category": "trip",
+      "entry_url": "https://www.sapporotojapan.com/",
+      "rules_url": "https://www.sapporotojapan.com/rules.aspx",
+      "match": [
+        "sapporotojapan.com"
+      ],
+      "starts": "2026-09-01T00:00:01-04:00",
+      "ends": "2026-12-31T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Sapporo USA sweepstakes run by Million Dollar Media. Open to the 50 states and DC, 21+, with a valid US driver's license or government photo ID. One entry per person in total, by the online form on SapporoToJapan.com (the QR code on store displays leads there too): name, email, phone, birth date, state, and a required question about which store you saw the contest in; the newsletter box is optional. No purchase. No alcohol is part of any prize. The grand prize winner and a 21+ guest need valid passports, and travel must happen within 6 months on dates Sapporo picks. Drawing on or about Jan 3, 2027.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/sapporotojapan_OfficialRules.html",
+        "checked_at": "2026-11-17T18:05:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.mdmgames.com/MDMAdmin/RulesPolicies/sapporotojapan_OfficialRules.html",
+          "https://www.sapporobeer.com/onimusha",
+          "https://www.sapporotojapan.com/"
+        ]
+      },
+      "added": "2026-11-17",
+      "source": "Claude review 2026-11-17",
+      "id": "sapporo-flyaway-to-japan-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "5 Years of Aitum Giveaway 2",
+      "prize": "One of 4 Aitum mousepads",
+      "category": "other",
+      "entry_url": "https://gleam.io/V8HvZ/5-years-of-aitum-giveaway-2",
+      "match": [
+        "gleam.io/V8HvZ"
+      ],
+      "starts": "2026-11-16T15:00:00-05:00",
+      "ends": "2026-11-19T18:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "Most entry actions are follows: AitumTV on X, Bluesky, Instagram and Twitch, a repost on X and joining Aitum's Discord; two actions only visit Aitum's Nexus page and YouTube."
+      },
+      "notes": "Per giveaway-list.com's copy of the Gleam page: offered by Aitum, worldwide, Nov 16 to Nov 19, 2026. The copy's timestamp is 11:59:59 PM UTC on Nov 19, which is 6:59:59 PM ET, so this listing uses that. No terms were shown, so the age limit and entry rules are unconfirmed.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-17T18:05:00-05:00",
+        "reason": "Facts come from giveaway-list.com's copy of the Gleam page, which shows no terms; the Gleam page didn't come up in search and Gleam returns a client error to the page reader, so eligibility details, age, the end time and the entry limit aren't confirmed",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://giveaway-list.com/giveaway/gleam-V8HvZ/5-years-of-aitum-giveaway-2"
+        ]
+      },
+      "added": "2026-11-17",
+      "source": "Claude review 2026-11-17",
+      "id": "5-years-of-aitum-giveaway-2",
+      "rules_checked": "partial"
     }
   ]
 }

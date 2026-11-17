@@ -127,35 +127,20 @@
     },
     "https://alwaysdiscreetsweepstakes.com/": {
       "attempts": 1,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Facts come from a listing site. The sweepstakes site disallowed automated readers last run and needed a page-reader approval (PROVENANCE_REQUIRED) this run, so the free entry method (online or mail), eligibility, deadline and limit are unconfirmed.",
-      "last_attempt_at": "2026-11-07T17:54:29-05:00",
-      "next_retry_at": "2026-11-10T17:54:29-05:00",
+      "reason": "Rechecked Nov 17: alwaysdiscreetsweepstakes.com, which holds the official rules, refuses automated readers (robots.txt), so the free email entry, eligibility, deadline and limit come from listing sites that quote the rules",
+      "last_attempt_at": "2026-11-17T17:59:12-05:00",
+      "next_retry_at": "2026-11-20T17:59:12-05:00",
       "name": "Win a Trip to Super Bowl LXI!",
       "evidence": [
-        "https://www.moneysmylife.com/always-discreet-protect-the-moment-sweepstakes/"
+        "https://alwaysdiscreet.com/en-us/protect-the-moment",
+        "https://www.moneysmylife.com/always-discreet-protect-the-moment-sweepstakes/",
+        "https://www.sweepstakesbible.com/giveaways/always-discreet-super-bowl-sweepstakes",
+        "https://www.sweepstakeslovers.com/trips/always-discreet-super-bowl-lxi-sweepstakes/"
       ],
       "listing_id": "always-discreet-protect-the-moment-sweepstakes",
-      "decided_at": "2026-11-07T17:54:29-05:00",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from a listing site. The sweepstakes site disallowed automated readers last run and needed a page-reader approval (PROVENANCE_REQUIRED) this run, so the free entry method (online or mail), eligibility, deadline and limit are unconfirmed.",
-          "last_attempt_at": "2026-11-07T17:54:29-05:00",
-          "next_retry_at": "2026-11-10T17:54:29-05:00",
-          "name": "Win a Trip to Super Bowl LXI!",
-          "evidence": [
-            "https://www.moneysmylife.com/always-discreet-protect-the-moment-sweepstakes/"
-          ],
-          "listing_id": "always-discreet-protect-the-moment-sweepstakes",
-          "decided_at": "2026-11-07T17:54:29-05:00"
-        }
-      }
+      "decided_at": "2026-11-17T17:59:12-05:00"
     },
     "https://amoe.t-mobiletuesdays.com/": {
       "name": "T-Mobile Tuesdays Week #544 Sweepstakes (free entry page)",
@@ -2162,12 +2147,16 @@
     },
     "https://gleam.io/V8HvZ/5-years-of-aitum-giveaway-2": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from giveaway-list.com's copy of the Gleam page, which shows no terms; the Gleam page didn't come up in search and Gleam returns a client error to the page reader, so eligibility details, age, the end time and the entry limit aren't confirmed",
+      "last_attempt_at": "2026-11-17T17:59:12-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-V8HvZ/5-years-of-aitum-giveaway-2"
+      ],
+      "listing_id": "5-years-of-aitum-giveaway-2",
+      "decided_at": "2026-11-17T17:59:12-05:00",
+      "next_retry_at": "2026-11-20T17:59:12-05:00"
     },
     "https://gleam.io/VYkGR/audiotechnica-athr50x": {
       "attempts": 1,
@@ -3814,37 +3803,20 @@
     },
     "https://offseasonpepsisweeps.com/": {
       "attempts": 1,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "The sponsor's press release confirms the promotion and the Nov 30 end date, but the official rules on offseasonpepsisweeps.com needed a page-reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer (last run the site loaded only by script), so eligibility, the end time and the daily limit are unconfirmed.",
-      "last_attempt_at": "2026-11-07T17:54:29-05:00",
-      "next_retry_at": "2026-11-10T17:54:29-05:00",
+      "reason": "Rechecked Nov 17: offseasonpepsisweeps.com, which holds the official rules, returns a server error to the page reader and no other copy of the rules came up, so eligibility, the end time and the daily limit come from listing sites that quote the rules; PepsiCo's press release confirms the promotion and the Nov 30 end date",
+      "last_attempt_at": "2026-11-17T17:59:11-05:00",
+      "next_retry_at": "2026-11-20T17:59:11-05:00",
       "name": "14,000 Win a Mini Can Jacket in The Pepsi x Off Season Can Jacket Sweeps!",
       "evidence": [
+        "https://freebiemom.com/pepsi-off-season-nfl-can-jacket-sweepstakes/",
         "https://hip2save.com/deals/pepsi-mini-nfl-puffer-jackets-sweepstakes/",
+        "https://ilovegiveaways.com/sweepstakes/pepsi-nfl-can-jacket-sweepstakes-2026/",
         "https://www.pepsico.com/newsroom/press-releases/2026/pepsi-and-off-season-give-great-taste-a-one-of-a-kind-tailgate-fit-with-mini-nfl-puffer-can-jackets"
       ],
       "listing_id": "pepsi-x-off-season-can-jacket-sweepstakes",
-      "decided_at": "2026-11-07T17:54:29-05:00",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "The sponsor's press release confirms the promotion and the Nov 30 end date, but the official rules on offseasonpepsisweeps.com needed a page-reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer (last run the site loaded only by script), so eligibility, the end time and the daily limit are unconfirmed.",
-          "last_attempt_at": "2026-11-07T17:54:29-05:00",
-          "next_retry_at": "2026-11-10T17:54:29-05:00",
-          "name": "14,000 Win a Mini Can Jacket in The Pepsi x Off Season Can Jacket Sweeps!",
-          "evidence": [
-            "https://hip2save.com/deals/pepsi-mini-nfl-puffer-jackets-sweepstakes/",
-            "https://www.pepsico.com/newsroom/press-releases/2026/pepsi-and-off-season-give-great-taste-a-one-of-a-kind-tailgate-fit-with-mini-nfl-puffer-can-jackets"
-          ],
-          "listing_id": "pepsi-x-off-season-can-jacket-sweepstakes",
-          "decided_at": "2026-11-07T17:54:29-05:00"
-        }
-      }
+      "decided_at": "2026-11-17T17:59:11-05:00"
     },
     "https://ojbirthday.com/login": {
       "attempts": 2,
@@ -4167,32 +4139,18 @@
       "name": "Win $4200 For Groceries and More!"
     },
     "https://qr.sapporobeer.com/c/OK40": {
-      "attempts": 2,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Sapporo QR link and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
-      "last_attempt_at": "2026-11-08T17:51:25-05:00",
-      "next_retry_at": "2026-11-10T17:51:25-05:00",
+      "attempts": 3,
+      "status": "needs_review",
+      "reason_code": "conflicting_info",
+      "reason": "The listing's 30-winner Sapporo x Onimusha bottle opener giveaway ending Nov 20 couldn't be found: Sapporo's Onimusha page and the official rules describe only the Sapporo Flyaway to Japan sweepstakes (a Tokyo trip and 5 fan kits, 21+, open to Dec 31), now listed on its own, and the QR link itself didn't come up in search",
+      "last_attempt_at": "2026-11-17T17:59:11-05:00",
+      "next_retry_at": "2026-11-21T17:59:11-05:00",
       "name": "30 Will Win in the Sapporo x Onimusha Bottle Opener Giveaway!",
       "evidence": [
-        "https://qr.sapporobeer.com/c/OK40"
-      ],
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Sapporo QR link and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
-          "last_attempt_at": "2026-11-08T17:51:25-05:00",
-          "next_retry_at": "2026-11-10T17:51:25-05:00",
-          "name": "30 Will Win in the Sapporo x Onimusha Bottle Opener Giveaway!",
-          "evidence": [
-            "https://qr.sapporobeer.com/c/OK40"
-          ]
-        }
-      }
+        "https://qr.sapporobeer.com/c/OK40",
+        "https://www.mdmgames.com/MDMAdmin/RulesPolicies/sapporotojapan_OfficialRules.html",
+        "https://www.sapporobeer.com/onimusha"
+      ]
     },
     "https://quiltednorthern.com/win-a-year-supply-sweeps": {
       "attempts": 0,
@@ -4480,6 +4438,21 @@
       ],
       "listing_id": "santa-margherita-uncork-extraordinary-moments-holiday-sweeps",
       "decided_at": "2026-11-04T12:12:35-05:00",
+      "next_retry_at": null
+    },
+    "https://sapporotojapan.com/": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-17T17:59:11-05:00",
+      "evidence": [
+        "https://www.mdmgames.com/MDMAdmin/RulesPolicies/sapporotojapan_OfficialRules.html",
+        "https://www.sapporobeer.com/onimusha",
+        "https://www.sapporotojapan.com/"
+      ],
+      "listing_id": "sapporo-flyaway-to-japan-sweepstakes",
+      "decided_at": "2026-11-17T17:59:11-05:00",
       "next_retry_at": null
     },
     "https://schaefferseason.com/direct/schaeffer-seasons-2026-entry": {
