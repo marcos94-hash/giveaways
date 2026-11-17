@@ -3238,12 +3238,17 @@
     },
     "https://klove.com/experiences/the-great-gobble-glow-up": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-17T17:55:15-05:00",
+      "evidence": [
+        "https://www.klove.com/experiences/the-great-gobble-glow-up",
+        "https://www.klove.com/experiences/the-great-gobble-glow-up/contest-rules"
+      ],
+      "listing_id": "k-love-great-gobble-glow-up-sweepstakes",
+      "decided_at": "2026-11-17T17:55:15-05:00",
+      "next_retry_at": null
     },
     "https://kohls.com/": {
       "name": "Kohl's Black Friday $10k",
@@ -3278,31 +3283,17 @@
     },
     "https://larryscoffee.com/pages/moccamaster-giveaway": {
       "attempts": 2,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Larry's Coffee page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
-      "last_attempt_at": "2026-11-08T17:51:25-05:00",
+      "status": "rejected",
+      "reason_code": "ended",
+      "reason": "Larry's Coffee's own Moccamaster Giveaway Terms say the promotion ran Sep 28 to Nov 5, 2026, ending 11:59:59 PM ET, so it has ended",
+      "last_attempt_at": "2026-11-17T17:54:43-05:00",
       "evidence": [
-        "https://larryscoffee.com/pages/moccamaster-giveaway"
+        "https://larryscoffee.com/pages/moccamaster-giveaway",
+        "https://larryscoffee.com/pages/moccamaster-giveaway-terms-and-conditions"
       ],
-      "next_retry_at": "2026-11-10T17:51:25-05:00",
+      "next_retry_at": null,
       "name": "Win The Ultimate Home Brew Setup!",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The page reader asked for an access approval (WebFetch permission prompt, PROVENANCE_REQUIRED) for the Larry's Coffee page and nobody answered it in this unattended run; web search did not surface the page, so the rules were not read",
-          "last_attempt_at": "2026-11-08T17:51:25-05:00",
-          "evidence": [
-            "https://larryscoffee.com/pages/moccamaster-giveaway"
-          ],
-          "next_retry_at": "2026-11-10T17:51:25-05:00",
-          "name": "Win The Ultimate Home Brew Setup!"
-        }
-      }
+      "decided_at": "2026-11-17T17:54:43-05:00"
     },
     "https://legendairymilk.com/pages/thankful-for-you-registry-giveaway-terms": {
       "attempts": 0,
@@ -3590,63 +3581,33 @@
     },
     "https://modelousa.com/pages/cfp-2026": {
       "attempts": 0,
-      "status": "in_progress",
-      "reason_code": "needs_rules_check",
-      "reason": "Facts come from a listing site (moneysmylife). The sponsor's entry and rules pages on modelousa.com needed a page-reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, so eligibility, free entry, the end time and the daily limit are unconfirmed.",
-      "last_attempt_at": "2026-11-07T17:54:10-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-17T17:55:15-05:00",
       "evidence": [
+        "https://www.modelousa.com/pages/cfp-2026",
+        "https://www.modelousa.com/pages/cfp-or-2026",
         "https://www.moneysmylife.com/modelo-college-football-playoff-2026-sweepstakes/"
       ],
       "listing_id": "modelo-college-football-playoff-2026-sweepstakes",
-      "decided_at": "2026-11-07T17:54:10-05:00",
-      "next_retry_at": "2026-11-10T17:54:10-05:00",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from a listing site (moneysmylife). The sponsor's entry and rules pages on modelousa.com needed a page-reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, so eligibility, free entry, the end time and the daily limit are unconfirmed.",
-          "last_attempt_at": "2026-11-07T17:54:10-05:00",
-          "evidence": [
-            "https://www.moneysmylife.com/modelo-college-football-playoff-2026-sweepstakes/"
-          ],
-          "listing_id": "modelo-college-football-playoff-2026-sweepstakes",
-          "decided_at": "2026-11-07T17:54:10-05:00",
-          "next_retry_at": "2026-11-10T17:54:10-05:00"
-        }
-      }
+      "decided_at": "2026-11-17T17:55:15-05:00",
+      "next_retry_at": null
     },
     "https://modelousa.com/pages/cfp-or-2026": {
       "attempts": 0,
-      "status": "in_progress",
-      "reason_code": "needs_rules_check",
-      "reason": "Facts come from a listing site (moneysmylife). The sponsor's entry and rules pages on modelousa.com needed a page-reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, so eligibility, free entry, the end time and the daily limit are unconfirmed.",
-      "last_attempt_at": "2026-11-07T17:54:10-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-17T17:55:15-05:00",
       "evidence": [
+        "https://www.modelousa.com/pages/cfp-2026",
+        "https://www.modelousa.com/pages/cfp-or-2026",
         "https://www.moneysmylife.com/modelo-college-football-playoff-2026-sweepstakes/"
       ],
       "listing_id": "modelo-college-football-playoff-2026-sweepstakes",
-      "decided_at": "2026-11-07T17:54:10-05:00",
-      "next_retry_at": "2026-11-10T17:54:10-05:00",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from a listing site (moneysmylife). The sponsor's entry and rules pages on modelousa.com needed a page-reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, so eligibility, free entry, the end time and the daily limit are unconfirmed.",
-          "last_attempt_at": "2026-11-07T17:54:10-05:00",
-          "evidence": [
-            "https://www.moneysmylife.com/modelo-college-football-playoff-2026-sweepstakes/"
-          ],
-          "listing_id": "modelo-college-football-playoff-2026-sweepstakes",
-          "decided_at": "2026-11-07T17:54:10-05:00",
-          "next_retry_at": "2026-11-10T17:54:10-05:00"
-        }
-      }
+      "decided_at": "2026-11-17T17:55:15-05:00",
+      "next_retry_at": null
     },
     "https://molekule.com/pages/longevity": {
       "attempts": 0,
@@ -4386,35 +4347,19 @@
     },
     "https://rewards.bing.com/sweeps/promotion": {
       "attempts": 0,
-      "status": "in_progress",
-      "reason_code": "needs_rules_check",
-      "reason": "Microsoft's promotion and entry pages show a free entry form and the prizes, but the official rules link (aka.ms) disallows automated readers, so eligibility, the end date and the entry limit weren't read; the Jan 15, 2027 end date is from a listing site",
-      "last_attempt_at": "2026-11-06T18:04:15-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-17T17:55:15-05:00",
       "evidence": [
+        "https://promos.microsoftrewards.com/US/en/IW/16/rules",
+        "https://promos.microsoftrewards.com/US/en/MS/18/rules",
         "https://rewards.bing.com/sweeps/promotion",
         "https://rewards.bing.com/sweeps/signup"
       ],
       "listing_id": "microsoft-rewards-prize-drop-sweepstakes",
-      "decided_at": "2026-11-06T18:04:15-05:00",
-      "next_retry_at": "2026-11-09T18:04:15-05:00",
-      "claim": {
-        "run": "review-2026-11-17",
-        "expires_at": "2026-11-17T20:40:37-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Microsoft's promotion and entry pages show a free entry form and the prizes, but the official rules link (aka.ms) disallows automated readers, so eligibility, the end date and the entry limit weren't read; the Jan 15, 2027 end date is from a listing site",
-          "last_attempt_at": "2026-11-06T18:04:15-05:00",
-          "evidence": [
-            "https://rewards.bing.com/sweeps/promotion",
-            "https://rewards.bing.com/sweeps/signup"
-          ],
-          "listing_id": "microsoft-rewards-prize-drop-sweepstakes",
-          "decided_at": "2026-11-06T18:04:15-05:00",
-          "next_retry_at": "2026-11-09T18:04:15-05:00"
-        }
-      }
+      "decided_at": "2026-11-17T17:55:15-05:00",
+      "next_retry_at": null
     },
     "https://ritualtoremember.terryschocolate.com/": {
       "attempts": 0,

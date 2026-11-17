@@ -2251,42 +2251,44 @@
     },
     {
       "name": "Microsoft Rewards Prize Drop Sweepstakes",
-      "prize": "$1,000,000 cash grand prize, Mercedes-Benz cars and thousands of instant prizes (Xbox Ally, Dyson vacuum, Oura ring, Sonos speaker, Windows PCs, Game Pass); $2,000,000 total",
+      "prize": "$1,000,000 cash grand prize and two $175,000 Mercedes-Benz vehicle budgets (3 winners in the drawing, total ARV $1,350,000); a separate instant win game has 3,321 prizes (ARV $650,000) such as an ROG Xbox Ally, Dyson V8, AirPods Pro 3, laptops and Microsoft gift cards",
       "category": "cash",
       "entry_url": "https://rewards.bing.com/sweeps/promotion",
-      "rules_url": "https://aka.ms/win-Sweeps-Rules",
+      "rules_url": "https://promos.microsoftrewards.com/US/en/MS/18/rules",
       "match": [
         "rewards.bing.com/sweeps"
       ],
-      "ends": "2027-01-15T23:59:00-05:00",
+      "ends": "2027-01-16T02:59:59-05:00",
       "limit": {
         "type": "once"
       },
       "min_age": 18,
       "flags": {
-        "account": "The promo page says to sign in to claim the free entry, so a free Microsoft account may be needed.",
+        "account": "A free Microsoft account and Microsoft Rewards membership are required for every entry method, and the rules ask for an active mobile number and email.",
         "marketing": "Entering signs you up for Microsoft Rewards emails, including partner offers."
       },
-      "notes": "Free entry form on rewards.bing.com (legal name, email, phone, country, age of majority checkbox); the United States is in the country list. Extra entries come from redeeming Rewards points and installing the Rewards app, browser extension or Bing Wallpaper, plus a daily instant win for searching Bing. The free entry looks like a single entry. Check eligibility, the end date and the entry limit in the official rules.",
+      "notes": "Open in the 50 states, DC and Puerto Rico to people who have reached the age of majority. Register once on the rewards.bing.com sweepstakes page for 1 free entry (true legal name, mailing address, mobile number and email). Extra free entries: 1 per day for searching with Bing as your default search engine (a day runs midnight to 11:59:59 PM PT), and mail-in requests worth 15 entries each (P.O. Box 8554, Big Sandy, TX 75755-8554, postmarked by Jan 15; a Rewards account is still needed). Points redemptions also earn entries. Maximum 636 entries per person. Ends 11:59:59 PM PT Jan 15, 2027, which is 2:59:59 AM ET Jan 16; drawing Jan 28, 2027. The instant win game has its own rules (one check per day).",
       "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-06T18:04:00-05:00",
-        "reason": "Microsoft's promotion and entry pages show a free entry form and the prizes, but the official rules link (aka.ms) disallows automated readers, so eligibility, the end date and the entry limit weren't read; the Jan 15, 2027 end date is from a listing site",
+        "status": "verified",
+        "rules_source": "https://promos.microsoftrewards.com/US/en/MS/18/rules",
+        "checked_at": "2026-11-17T17:54:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
         "evidence": [
-          "https://rewards.bing.com/sweeps/promotion",
-          "https://rewards.bing.com/sweeps/signup"
-        ],
-        "missing": [
-          "eligibility",
-          "deadline",
-          "entry_limit"
+          "https://promos.microsoftrewards.com/US/en/MS/18/rules",
+          "https://promos.microsoftrewards.com/US/en/IW/16/rules",
+          "https://rewards.bing.com/sweeps/promotion"
         ]
       },
       "added": "2026-11-06",
       "source": "Claude review 2026-11-06",
       "id": "microsoft-rewards-prize-drop-sweepstakes",
-      "rules_checked": "partial"
+      "rules_checked": "full",
+      "starts": "2026-11-03T12:00:00-05:00"
     },
     {
       "name": "Big Sipz $16K Giveaway",
@@ -2428,12 +2430,13 @@
     },
     {
       "name": "Modelo College Football Playoff 2026 Sweepstakes",
-      "prize": "Grand prize: trip for two to the 2028 CFP National Championship (ARV about $7,245). Also 5 bowl trips for two and about 275 fan packs (per a listing site)",
+      "prize": "Grand prize: trip for two to the 2028 CFP National Championship plus a fan pack (ARV $7,244.50). Also 5 regional bowl trips for two (ARV $6,944.50 each), 225 fan packs ($284.94 to $636.75) in weekly drawings and 50 bonus fan packs for AL, IN, OK and TX residents; 281 winners",
       "category": "trip",
       "entry_url": "https://www.modelousa.com/pages/cfp-2026",
       "rules_url": "https://www.modelousa.com/pages/cfp-or-2026",
       "match": [
-        "modelousa.com/pages/cfp-2026"
+        "modelousa.com/pages/cfp-2026",
+        "campaign-forms.modelousa.com/campaigns/modelousa/email-validation/modelo_cfp_2026"
       ],
       "starts": "2026-08-03T10:00:00-04:00",
       "ends": "2027-01-25T23:59:00-05:00",
@@ -2444,25 +2447,26 @@
       "flags": {
         "age21": true
       },
-      "notes": "Per a listing site: open to the 50 states and DC, 21+, one online entry per person or email per day, Aug 3, 2026 to Jan 25, 2027 11:59 PM ET. Prizes listed are trips and fan packs. The sponsor's rules weren't read, so treat the free entry, states and limit as unconfirmed.",
+      "notes": "Open to the 50 states and DC, 21+. The Enter Now button on the promo page opens Modelo's campaign form, which validates your email first and then shows the entry form. One website entry per person and email per day; the rules don't define a day. No purchase. Weekly fan-pack drawings carry entries forward to later weeks and to the Grand Prize drawing on or about Jan 28, 2027; the next weekly deadline is Nov 21. The rules conflict on the regional bowl-trip drawing (Rule 3 says entries by Nov 1, the prize table says Nov 29), so that tier may already be closed. No alcohol is awarded. The promo page also has a separate merch email signup that isn't the entry form. Ends 11:59 PM ET Jan 25, 2027.",
       "verification": {
-        "status": "needs_rules_check",
-        "checked_at": "2026-11-07T17:54:00-05:00",
-        "reason": "Facts come from a listing site (moneysmylife). The sponsor's entry and rules pages on modelousa.com needed a page-reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, so eligibility, free entry, the end time and the daily limit are unconfirmed.",
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ],
+        "status": "verified",
+        "rules_source": "https://www.modelousa.com/pages/cfp-or-2026",
+        "checked_at": "2026-11-17T17:54:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
         "evidence": [
-          "https://www.moneysmylife.com/modelo-college-football-playoff-2026-sweepstakes/"
+          "https://www.modelousa.com/pages/cfp-or-2026",
+          "https://www.modelousa.com/pages/cfp-2026"
         ]
       },
       "added": "2026-11-07",
       "source": "Claude review 2026-11-07",
       "id": "modelo-college-football-playoff-2026-sweepstakes",
-      "rules_checked": "partial"
+      "rules_checked": "full"
     },
     {
       "name": "Pepsi x Off Season Can Jacket Sweepstakes",
@@ -4157,6 +4161,43 @@
       "source": "Claude review 2026-11-16",
       "id": "brushe-law-thanksgiving-250-visa-gift-card-giveaway",
       "rules_checked": "partial"
+    },
+    {
+      "name": "K-LOVE Great Gobble Glow-Up Sweepstakes",
+      "prize": "$5,000 digital Visa gift card (1 winner)",
+      "category": "gift_card",
+      "entry_url": "https://www.klove.com/experiences/the-great-gobble-glow-up",
+      "rules_url": "https://www.klove.com/experiences/the-great-gobble-glow-up/contest-rules",
+      "match": [
+        "klove.com/experiences/the-great-gobble-glow-up"
+      ],
+      "starts": "2026-11-09T00:01:00-05:00",
+      "ends": "2026-11-22T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Open to the 50 states and DC, 18+. One entry per person for the whole sweepstakes, using the form on K-LOVE's page (first and last name, email, phone and a box confirming you are a US resident 18+). No purchase. The email opt-in on the form is optional. The rules say it ends 11:59 PM PT Nov 22 while the page says 11:59 PM ET, so this listing uses the earlier ET time. Winner drawn on or about Nov 23.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.klove.com/experiences/the-great-gobble-glow-up/contest-rules",
+        "checked_at": "2026-11-17T17:54:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.klove.com/experiences/the-great-gobble-glow-up/contest-rules",
+          "https://www.klove.com/experiences/the-great-gobble-glow-up"
+        ]
+      },
+      "added": "2026-11-17",
+      "source": "Claude review 2026-11-17",
+      "id": "k-love-great-gobble-glow-up-sweepstakes",
+      "rules_checked": "full"
     }
   ]
 }
