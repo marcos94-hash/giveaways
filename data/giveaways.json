@@ -1745,45 +1745,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "AVON Beauty & Cheer Sweepstakes",
-      "prize": "Avon beauty prize pack (listing sites say $500+)",
-      "category": "other",
-      "entry_url": "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes",
-      "rules_url": null,
-      "ends": "2026-11-17T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Avon's monthly beauty sweepstakes (the prize pack changes each month). The form asks for name, email and mailing address; the marketing-email checkbox is optional.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-13T17:57:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": false
-        },
-        "reason": "Rechecked Nov 13: Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the official rules still weren't read (the page reader didn't get the rules link's address, and the rules didn't turn up in web search or Perplexity), so the entry limit and prize details aren't confirmed.",
-        "missing": [
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes"
-        ]
-      },
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "avon-beauty-cheer-sweepstakes",
-      "match": [
-        "avon.com/sweepstakes/beauty--cheer-sweepstakes"
-      ],
-      "rules_checked": "partial"
-    },
-    {
       "name": "Fancy Feast Little Gem Micro Bag Sweepstakes",
       "prize": "25 winners: Little Gem micro bag (ARV $500 each)",
       "category": "other",
@@ -2858,44 +2819,6 @@
       "source": "Claude review 2026-11-09",
       "id": "miller-lite-legendary-gameday-essentials-sweepstakes",
       "rules_checked": "partial"
-    },
-    {
-      "name": "Hoselink Win Your Dream Garden Setup",
-      "prize": "Garden setup worth $1,715: Hoselink retractable hose reel, 2 metal raised garden beds, wall trellis, greenhouse, tool set, 12 solar path lights and a $150 Southern Living Plant Collection gift card",
-      "category": "other",
-      "entry_url": "https://www.hoselink.com/pages/win",
-      "rules_url": "https://www.hoselink.com/pages/win",
-      "match": [
-        "hoselink.com/pages/win"
-      ],
-      "ends": "2026-11-17T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "follow": "Follow @hoselinkusa on Instagram (required by the terms)",
-        "marketing": "Entering subscribes you to Hoselink USA marketing emails"
-      },
-      "notes": "One entry per person. US residents 18+, except Hawaii, Alaska and territories. The terms list two entry steps: join the Hoselink USA mailing list and follow @hoselinkusa on Instagram. SMS signup is optional and adds nothing. The page banner says 11:59pm EDT, but the terms say 23:59 ET on Nov 17. Winner drawn Nov 18.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.hoselink.com/pages/win",
-        "checked_at": "2026-11-10T17:52:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://www.hoselink.com/pages/win"
-        ]
-      },
-      "added": "2026-11-10",
-      "source": "Claude review 2026-11-10",
-      "id": "hoselink-win-your-dream-garden-setup",
-      "rules_checked": "full"
     },
     {
       "name": "Corona Football 2026 Sweepstakes",

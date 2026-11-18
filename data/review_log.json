@@ -419,7 +419,7 @@
     },
     "https://avon.com/sweepstakes/beauty--cheer-sweepstakes": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Rechecked Nov 13: Avon's entry page says no purchase necessary, 50 states and DC, 18+, ends 11:59 PM ET Nov 17, 2026, but the official rules still weren't read (the page reader didn't get the rules link's address, and the rules didn't turn up in web search or Perplexity), so the entry limit and prize details aren't confirmed.",
       "last_attempt_at": "2026-11-13T17:58:16-05:00",
@@ -427,8 +427,8 @@
         "https://www.avon.com/sweepstakes/beauty--cheer-sweepstakes"
       ],
       "listing_id": "avon-beauty-cheer-sweepstakes",
-      "decided_at": "2026-11-13T17:58:16-05:00",
-      "next_retry_at": "2026-11-16T17:58:16-05:00"
+      "decided_at": "2026-11-18T17:39:11-05:00",
+      "next_retry_at": null
     },
     "https://ballarddesigns.attn.tv/p/Kn3/landing-page": {
       "attempts": 0,
@@ -1182,6 +1182,15 @@
       "decided_at": "2026-11-14T17:45:13-05:00",
       "next_retry_at": null
     },
+    "https://debbie-macomber.myflodesk.com/november-special-giveaway": {
+      "attempts": 0,
+      "name": "Debbie Macomber November Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-18T17:39:11-05:00"
+    },
     "https://deltafaucet.com/giveaways": {
       "attempts": 0,
       "status": "ended",
@@ -1772,15 +1781,16 @@
     },
     "https://gleam.io/8G8Uo/knifesaga-x4-pro-15piece-knife-set": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Gleam page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Terms not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-12T17:55:45-05:00",
       "evidence": [
         "https://gleam.io/8G8Uo/knifesaga-x4-pro-15piece-knife-set"
       ],
-      "next_retry_at": "2026-11-13T17:55:45-05:00",
-      "name": "Win A KnifeSaga X4 Pro 15-Piece Knife Set With Wood Block"
+      "next_retry_at": null,
+      "name": "Win A KnifeSaga X4 Pro 15-Piece Knife Set With Wood Block",
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://gleam.io/8KDbS/utterance-200-steam-credit-giveaway-playtest": {
       "attempts": 1,
@@ -1955,12 +1965,13 @@
     },
     "https://gleam.io/LiYQ4/win-a-year-of-wild-woman-box-5-holiday-boxes-to-give?gsr=LiYQ4-pfuzVdDRl9": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "This Gleam page didn't come up in web search (only Wild Woman Box shop pages did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-11T17:59:43-05:00",
-      "next_retry_at": "2026-11-12T17:59:43-05:00",
-      "name": "Win a Year of Wild Woman Box + 5 Holiday Boxes to Give"
+      "next_retry_at": null,
+      "name": "Win a Year of Wild Woman Box + 5 Holiday Boxes to Give",
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://gleam.io/LzhLd/-win-the-christian-louboutin-venus-bag-an-icon-of-parisian-glamour-?gsr=LzhLd-pfKSQmO9jB": {
       "attempts": 0,
@@ -1973,24 +1984,26 @@
     },
     "https://gleam.io/Lzq1j/primary-x-zazzle-holiday-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The Gleam page didn't come up in web search, Gleam pages return a client error to the page reader, and no listing-site copy turned up, so the terms weren't read (its gsr= share-link key is blocked for the same reason)",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-14T18:01:32-05:00",
-      "next_retry_at": "2026-11-15T18:01:32-05:00",
-      "name": "Primary Kids x Zazzle Holiday Giveaway"
+      "next_retry_at": null,
+      "name": "Primary Kids x Zazzle Holiday Giveaway",
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://gleam.io/Lzq1j/primary-x-zazzle-holiday-giveaway?gsr=Lzq1j-pfL16sLUn0": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Gleam page didn't come up in web search, Gleam returns a client error to the page reader, and Perplexity had no copy, so the terms weren't read. This key is a Gleam share link (gsr= parameter).",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-13T17:57:23-05:00",
       "evidence": [
         "https://gleam.io/Lzq1j/primary-x-zazzle-holiday-giveaway?gsr=Lzq1j-pfL16sLUn0"
       ],
-      "next_retry_at": "2026-11-14T17:57:23-05:00",
-      "name": "Primary Zazzle $1,000 Giveaway"
+      "next_retry_at": null,
+      "name": "Primary Zazzle $1,000 Giveaway",
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://gleam.io/MMlbX/attack-shark-black-friday-warmup-giveaway": {
       "attempts": 1,
@@ -2488,14 +2501,24 @@
       "name": "SOUNDPEATS Air6 Pro| New Launch Giveaway",
       "decided_at": "2026-11-15T17:40:05-05:00"
     },
+    "https://gleam.io/j2bPg/home-for-the-holidays-giveaway": {
+      "attempts": 0,
+      "name": "Palmetto Moon Home for the Holidays Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-18T17:39:11-05:00"
+    },
     "https://gleam.io/jA6ng/enter-to-win-utv-stereos-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "This Gleam page didn't come up in web search, and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers); Gleam pages that do come up return client errors. Terms not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-11T17:59:13-05:00",
-      "next_retry_at": "2026-11-12T17:59:13-05:00",
-      "name": "UTV Stereo's Giveaway"
+      "next_retry_at": null,
+      "name": "UTV Stereo's Giveaway",
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://gleam.io/jjlbM/endix-elgato-giveaway?gsr=jjlbM-oNuWgV4ix4": {
       "attempts": 1,
@@ -2530,6 +2553,15 @@
       ],
       "next_retry_at": "2026-11-18T17:56:07-05:00",
       "name": "Ultrean Thanksgiving Giveaway"
+    },
+    "https://gleam.io/nwk6J/sarthe-console-giveaway-every-month?gsr=nwk6J-oRHVbSWQft": {
+      "attempts": 0,
+      "name": "Sarthe Console Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://gleam.io/oCBkf/attack-shark-weekly-giveaway-week-45-of-2026": {
       "attempts": 2,
@@ -2668,12 +2700,13 @@
     },
     "https://gleam.io/wl09e/a-drive-to-the-305-sweepstakes": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "This Gleam page didn't come up in web search (only unrelated racing promotions did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers), so the sponsor, prize and terms weren't read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-11T18:06:30-05:00",
-      "next_retry_at": "2026-11-12T18:06:30-05:00",
-      "name": "A Drive to the 305 Sweepstakes"
+      "next_retry_at": null,
+      "name": "A Drive to the 305 Sweepstakes",
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://gleam.io/woiZw/giveaway-bear-nutriease-stainless-steel-all-stage-baby-food-maker": {
       "attempts": 1,
@@ -2907,7 +2940,7 @@
     },
     "https://hoselink.com/pages/win": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-10T17:52:03-05:00",
@@ -2915,7 +2948,7 @@
         "https://www.hoselink.com/pages/win"
       ],
       "listing_id": "hoselink-win-your-dream-garden-setup",
-      "decided_at": "2026-11-10T17:52:03-05:00",
+      "decided_at": "2026-11-18T17:39:11-05:00",
       "next_retry_at": null
     },
     "https://hydrateandwin2026.com/": {
@@ -4509,16 +4542,17 @@
     },
     "https://sdqk.me/p/turtle-beach-suitcase-giveaway-6KWLRC1k": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "robots_blocked",
-      "reason": "The entry page on sdqk.me refuses automated readers (robots.txt), so the giveaway and its rules couldn't be read. Turtle Beach's own giveaway terms page is a generic 2020 page for social giveaways and doesn't cover this one.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-13T17:54:21-05:00",
       "evidence": [
         "https://sdqk.me/p/turtle-beach-suitcase-giveaway-6KWLRC1k",
         "https://www.turtlebeach.com/blog/giveaway-terms-and-conditions"
       ],
-      "next_retry_at": "2026-11-14T17:54:21-05:00",
-      "name": "Turtle Beach Suitcase Giveaway"
+      "next_retry_at": null,
+      "name": "Turtle Beach Suitcase Giveaway",
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://share.hsforms.com/14yPjMyU5Saq21KL7XAHYKg9qem": {
       "attempts": 1,
@@ -4594,6 +4628,15 @@
       "next_retry_at": null,
       "name": "Win a Blackstone Griddle, Accessories & a Cookbook!",
       "decided_at": "2026-11-16T17:40:24-05:00"
+    },
+    "https://simonandschuster.com/p/click-clack-books-sweepstakes": {
+      "attempts": 0,
+      "name": "Win an 8-Book Click Clack Children's Book Collection!",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://sites.prh.com/fallintocozysweeps": {
       "attempts": 0,
@@ -4988,15 +5031,16 @@
     },
     "https://sweepwidget.com/c/103325-ui2nv0jf": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-12T17:55:43-05:00",
       "evidence": [
         "https://sweepwidget.com/c/103325-ui2nv0jf"
       ],
-      "next_retry_at": "2026-11-13T17:55:43-05:00",
-      "name": "Cafecito Filled Holidays: Part 1"
+      "next_retry_at": null,
+      "name": "Cafecito Filled Holidays: Part 1",
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://sweepwidget.com/c/103391-6b4sow3e": {
       "attempts": 1,
@@ -5033,15 +5077,16 @@
     },
     "https://sweepwidget.com/c/103450-aoc1l3zm": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-12T17:55:43-05:00",
       "evidence": [
         "https://sweepwidget.com/c/103450-aoc1l3zm"
       ],
-      "next_retry_at": "2026-11-13T17:55:43-05:00",
-      "name": "stphmoto 10k Giveaway"
+      "next_retry_at": null,
+      "name": "stphmoto 10k Giveaway",
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://sweepwidget.com/c/103457-di2na1be": {
       "attempts": 1,
@@ -5514,12 +5559,13 @@
     },
     "https://wetflyswing.com/win-an-alaska-trophy-trout-fly-fishing-trip-and-gear-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The Wet Fly Swing entry page didn't come up in web search (only an ended Montana trip giveaway from the same site did), and the page reader only opens links that came from web search in this unattended run (others wait on a PROVENANCE_REQUIRED approval prompt that nobody answers), so the rules weren't read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-11T17:59:13-05:00",
-      "next_retry_at": "2026-11-12T17:59:13-05:00",
-      "name": "Fly Fishing Gear Giveaway"
+      "next_retry_at": null,
+      "name": "Fly Fishing Gear Giveaway",
+      "decided_at": "2026-11-18T17:39:11-05:00"
     },
     "https://wheeloffortune.com/win": {
       "attempts": 1,
