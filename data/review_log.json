@@ -2006,14 +2006,35 @@
       "next_retry_at": "2026-11-17T18:10:36-05:00",
       "name": "Black Friday 2026 Giveaway"
     },
+    "https://gleam.io/Izf4A/2026-pmgc-redmagic-giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing-site copies of the Gleam page. The Gleam page and its terms return client errors or wait on a page reader approval (PROVENANCE_REQUIRED), so US eligibility, age and the terms are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:11:35-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-Izf4A/2026-pmgc-redmagic-giveaway",
+        "https://www.freestufftimes.com/contests/16/2026-pmgc-redmagic-giveaway/",
+        "https://www.ozbargain.com.au/node/983558"
+      ],
+      "listing_id": "2026-pmgc-redmagic-giveaway",
+      "decided_at": "2026-11-18T18:11:35-05:00",
+      "next_retry_at": "2026-11-21T18:11:35-05:00"
+    },
     "https://gleam.io/Izf4A/2026-pmgc-redmagic-giveaway?gsr=Izf4A-pcKQ9JILOE": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing-site copies of the Gleam page. The Gleam page and its terms return client errors or wait on a page reader approval (PROVENANCE_REQUIRED), so US eligibility, age and the terms are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:11:35-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-Izf4A/2026-pmgc-redmagic-giveaway",
+        "https://www.freestufftimes.com/contests/16/2026-pmgc-redmagic-giveaway/",
+        "https://www.ozbargain.com.au/node/983558"
+      ],
+      "listing_id": "2026-pmgc-redmagic-giveaway",
+      "decided_at": "2026-11-18T18:11:35-05:00",
+      "next_retry_at": "2026-11-21T18:11:35-05:00"
     },
     "https://gleam.io/JT7f5/mitra9s-upgrade-your-everyday-giveaway": {
       "attempts": 1,
@@ -2270,14 +2291,33 @@
       "decided_at": "2026-11-10T17:52:11-05:00",
       "name": "Flooret Better Living Giveaway"
     },
+    "https://gleam.io/RU1um/oho-sunshine-smart-glasses-special-giveaways": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from an OzBargain listing and freestufftimes. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), so eligibility, the end time and the terms are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:11:35-05:00",
+      "evidence": [
+        "https://www.freestufftimes.com/contests/12/oho-sunshine-smart-glasses-special-giveaways/",
+        "https://www.ozbargain.com.au/node/982866"
+      ],
+      "listing_id": "oho-sunshine-smart-glasses-special-giveaways",
+      "decided_at": "2026-11-18T18:11:35-05:00",
+      "next_retry_at": "2026-11-21T18:11:35-05:00"
+    },
     "https://gleam.io/RU1um/oho-sunshine-smart-glasses-special-giveaways?gsr=RU1um-pm5Czvr5mZ": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from an OzBargain listing and freestufftimes. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), so eligibility, the end time and the terms are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:11:35-05:00",
+      "evidence": [
+        "https://www.freestufftimes.com/contests/12/oho-sunshine-smart-glasses-special-giveaways/",
+        "https://www.ozbargain.com.au/node/982866"
+      ],
+      "listing_id": "oho-sunshine-smart-glasses-special-giveaways",
+      "decided_at": "2026-11-18T18:11:35-05:00",
+      "next_retry_at": "2026-11-21T18:11:35-05:00"
     },
     "https://gleam.io/RVTMH/mambasnake-giveaway-round-83": {
       "attempts": 1,
@@ -3307,12 +3347,17 @@
     },
     "https://kingsumo.com/g/1gl98zm/when-the-holidays-feel-heavy": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a giveaway-list.com copy of the KingSumo page. The KingSumo page waits on a page reader approval (PROVENANCE_REQUIRED), the two end dates disagree, and no entry limit is stated.",
+      "last_attempt_at": "2026-11-18T18:11:35-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/kingsumo-1gl98zm/when-the-holidays-feel-heavy",
+        "https://www.freestufftimes.com/contests/17/when-the-holidays-feel-heavy-giveaway/"
+      ],
+      "listing_id": "when-the-holidays-feel-heavy-giveaway",
+      "decided_at": "2026-11-18T18:11:35-05:00",
+      "next_retry_at": "2026-11-21T18:11:35-05:00"
     },
     "https://kingsumo.com/g/1vj8gz1/win-a-1000-gift-certificate-to-greg-landrys-homeschool-science": {
       "attempts": 1,
@@ -4069,6 +4114,21 @@
       "name": "Northern Rose Amethyst Dangle Earrings Giveaway",
       "decided_at": "2026-11-12T17:39:47-05:00"
     },
+    "https://officedepot.com/l/marketing/giveaways": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-18T18:11:35-05:00",
+      "evidence": [
+        "https://slickdeals.net/f/20280798-the-office-depot-12-days-of-giveaways-11-25-2026",
+        "https://www.officedepot.com/l/help/giveawaypromotions",
+        "https://www.officedepot.com/l/marketing/giveaways"
+      ],
+      "listing_id": "the-office-depot-12-days-of-giveaways",
+      "decided_at": "2026-11-18T18:11:35-05:00",
+      "next_retry_at": null
+    },
     "https://offseasonpepsisweeps.com/": {
       "attempts": 1,
       "status": "listed",
@@ -4116,12 +4176,18 @@
     },
     "https://on.ltk.com/+heKuyFzMfxlSfwvDezjV-A": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-18T18:11:35-05:00",
+      "evidence": [
+        "https://slickdeals.net/f/20280798-the-office-depot-12-days-of-giveaways-11-25-2026",
+        "https://www.officedepot.com/l/help/giveawaypromotions",
+        "https://www.officedepot.com/l/marketing/giveaways"
+      ],
+      "listing_id": "the-office-depot-12-days-of-giveaways",
+      "decided_at": "2026-11-18T18:11:35-05:00",
+      "next_retry_at": null
     },
     "https://outback.com/best-steaks-ever": {
       "attempts": 0,
@@ -6028,12 +6094,18 @@
     },
     "https://zebrapen.com/pages/steel-box-sweeps-2026": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The 2026 entry page is live but shows no rules or dates; the rules are probably in the embedded campaign form, which waited on a page reader approval (PROVENANCE_REQUIRED). Eligibility, the end and the limit come from the sponsor's 2024 and 2025 rules and a listing site.",
+      "last_attempt_at": "2026-11-18T18:11:35-05:00",
+      "evidence": [
+        "https://www.freestufftimes.com/contests/16/zebra-pen-manga-starter-kit-sweepstakes/",
+        "https://www.zebrapen.com/pages/steel-box-sweeps-2026",
+        "https://www.zebrapen.com/pages/zen-s-steel-artist-box-giveaway-2025-official-rules"
+      ],
+      "listing_id": "zebra-pen-manga-starter-kit-sweepstakes",
+      "decided_at": "2026-11-18T18:11:35-05:00",
+      "next_retry_at": "2026-11-21T18:11:35-05:00"
     }
   }
 }

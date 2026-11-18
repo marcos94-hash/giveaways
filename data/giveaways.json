@@ -4463,6 +4463,197 @@
       "source": "Claude review 2026-11-18",
       "id": "bedinabox-x-lazy-one-giveaway",
       "rules_checked": "partial"
+    },
+    {
+      "name": "2026 PMGC REDMAGIC Giveaway",
+      "prize": "3 REDMAGIC 12 Pro phones (16GB + 512GB), drawn from entrants who correctly pick the PUBG Mobile Global Championship 2026 winner",
+      "category": "electronics",
+      "entry_url": "https://gleam.io/Izf4A/2026-pmgc-redmagic-giveaway",
+      "match": [
+        "gleam.io/Izf4A"
+      ],
+      "ends": "2026-11-25T07:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "Gleam actions include REDMAGIC and PUBG Mobile esports follows on Facebook, X, Instagram, YouTube and TikTok; which ones are required isn't shown.",
+        "marketing": "One Gleam action is subscribing to the REDMAGIC newsletter."
+      },
+      "notes": "From giveaway-list.com and OzBargain copies of the Gleam page: pick the team you think will win PMGC 2026, and only correct picks go into the draw for 3 winners. Free; once per person, with referral bonus entries; Nov 4 to Nov 25, 2026 at 12:00 UTC (7:00 AM ET). OzBargain lists it as open internationally; US eligibility and age aren't shown.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-18T18:25:00-05:00",
+        "reason": "Facts come from listing-site copies of the Gleam page. The Gleam page and its terms return client errors or wait on a page reader approval (PROVENANCE_REQUIRED), so US eligibility, age and the terms are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://giveaway-list.com/giveaway/gleam-Izf4A/2026-pmgc-redmagic-giveaway",
+          "https://www.ozbargain.com.au/node/983558",
+          "https://www.freestufftimes.com/contests/16/2026-pmgc-redmagic-giveaway/"
+        ]
+      },
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "2026-pmgc-redmagic-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "OHO Sunshine Smart Glasses Special Giveaways",
+      "prize": "5 winners: a pair of Brave 4K camera glasses, a pair of Touch 1080P camera glasses and 3 pairs of Elite Bluetooth smart glasses",
+      "category": "electronics",
+      "entry_url": "https://gleam.io/RU1um/oho-sunshine-smart-glasses-special-giveaways",
+      "match": [
+        "gleam.io/RU1um"
+      ],
+      "ends": "2026-11-25T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "The listed entry steps are like, follow, comment and share on OHO Sunshine's social accounts."
+      },
+      "notes": "From an OzBargain listing: open internationally; enter on the Gleam page or through OHO Sunshine's Facebook or Instagram posts; once per person; winners picked at random and emailed. OzBargain says entry ends November 26 (27/11 in Australia) and freestufftimes gives Nov 25 as the last day, so this is set to 11:59 PM ET Nov 25. Age and the Gleam terms weren't read.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-18T18:25:00-05:00",
+        "reason": "Facts come from an OzBargain listing and freestufftimes. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), so eligibility, the end time and the terms are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.ozbargain.com.au/node/982866",
+          "https://www.freestufftimes.com/contests/12/oho-sunshine-smart-glasses-special-giveaways/"
+        ]
+      },
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "oho-sunshine-smart-glasses-special-giveaways",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "When the Holidays Feel Heavy Giveaway",
+      "prize": "Every entrant gets a free collection of 10 practical digital resources (breath prayer guides, burnout strategies and more) from 10 contributors; one random winner is drawn Nov 20, and what the winner gets beyond that isn't stated",
+      "category": "other",
+      "entry_url": "https://kingsumo.com/g/1gl98zm/when-the-holidays-feel-heavy",
+      "match": [
+        "kingsumo.com/g/1gl98zm"
+      ],
+      "ends": "2026-11-19T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "marketing": "Entering adds you to the email lists of all the contributing authors (you can unsubscribe).",
+        "follow": "The entry actions are Instagram follows of the 10 contributors; whether they're required isn't shown.",
+        "age21": true
+      },
+      "notes": "From a giveaway-list.com copy of the KingSumo page and its rules: hosted by author Amber Ginter Johnson; US and Canada residents, 21+; no purchase; winners must confirm their email through KingSumo's message. The rules text says it runs Nov 17 to 19, while the KingSumo timer runs to Nov 20, 12:00 PM ET, so this uses the end of Nov 19. No entry limit is stated.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-18T18:25:00-05:00",
+        "reason": "Facts come from a giveaway-list.com copy of the KingSumo page. The KingSumo page waits on a page reader approval (PROVENANCE_REQUIRED), the two end dates disagree, and no entry limit is stated.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://giveaway-list.com/giveaway/kingsumo-1gl98zm/when-the-holidays-feel-heavy",
+          "https://www.freestufftimes.com/contests/17/when-the-holidays-feel-heavy-giveaway/"
+        ]
+      },
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "when-the-holidays-feel-heavy-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Zebra Pen Manga Starter Kit Sweepstakes",
+      "prize": "A Zebra Manga Starter Kit of pens, markers, pencils and G-nibs (number of winners and ARV not shown; last year's kit went to one winner, ARV $332)",
+      "category": "other",
+      "entry_url": "https://www.zebrapen.com/pages/steel-box-sweeps-2026",
+      "match": [
+        "zebrapen.com/pages/steel-box-sweeps-2026"
+      ],
+      "frames": [
+        "m.cmpgn.page/261Z23"
+      ],
+      "ends": "2026-11-24T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "notes": "The entry form on Zebra Pen's page is embedded from m.cmpgn.page, a campaign form host. No 2026 rules, dates or eligibility were found. Zebra Pen's 2024 and 2025 rules for this yearly sweepstakes: 50 states, 18+, online entry only, one entry per person, Nov 10 to Nov 24 at 11:59 PM ET in 2025, marketing opt-in optional. A listing site gives Nov 24 as the last day for 2026.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-18T18:25:00-05:00",
+        "reason": "The 2026 entry page is live but shows no rules or dates; the rules are probably in the embedded campaign form, which waited on a page reader approval (PROVENANCE_REQUIRED). Eligibility, the end and the limit come from the sponsor's 2024 and 2025 rules and a listing site.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.zebrapen.com/pages/steel-box-sweeps-2026",
+          "https://www.zebrapen.com/pages/zen-s-steel-artist-box-giveaway-2025-official-rules",
+          "https://www.freestufftimes.com/contests/16/zebra-pen-manga-starter-kit-sweepstakes/"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "zebra-pen-manga-starter-kit-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "The Office Depot 12 Days of Giveaways",
+      "prize": "12 separate sweepstakes, one winner each, for themed office prize bundles (tech, furniture and supplies) worth about $358 to $1,270 each, about $7,300 in all",
+      "category": "mixed",
+      "entry_url": "https://www.officedepot.com/l/marketing/giveaways",
+      "rules_url": "https://www.officedepot.com/l/help/12daysSweepstakes",
+      "match": [
+        "officedepot.com/l/marketing/giveaways"
+      ],
+      "ends": "2026-11-25T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "notes": "Sponsor Office Depot, LLC. Short rules on the giveaway page: open to legal residents of the 50 states and DC who are 18 or the age of majority (NJ is in); no purchase; complete the form on the page and pick the prize bundle you want; limit 1 entry per sweepstakes per person; all entries close 11:59:59 PM ET Nov 25. The 12 bundles were revealed one a day from Nov 9 to Nov 20, and each is its own sweepstakes, so one entry per bundle appears allowed (up to 12). This listing tracks one entry; come back for other bundles. Bundles run from The Art Lover ($358) to The Next Big Streamer ($1,270). The full 12 Days rules page wasn't read; the page's short rules and Office Depot's general giveaway rules cover eligibility, entry, deadline and limit.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.officedepot.com/l/marketing/giveaways",
+        "checked_at": "2026-11-18T18:25:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.officedepot.com/l/marketing/giveaways",
+          "https://www.officedepot.com/l/help/giveawaypromotions",
+          "https://slickdeals.net/f/20280798-the-office-depot-12-days-of-giveaways-11-25-2026"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "the-office-depot-12-days-of-giveaways",
+      "rules_checked": "full"
     }
   ]
 }
