@@ -1,20 +1,20 @@
 {
- "run_at": "2026-11-17T21:17:01+00:00",
+ "run_at": "2026-11-18T11:17:02+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 41,
-   "parsed": 28,
-   "skipped_seen": 13,
-   "kept": 27,
+   "parsed": 22,
+   "skipped_seen": 19,
+   "kept": 19,
    "dropped": {
-    "social-media-only entry": 1
+    "social-media-only entry": 3
    },
    "errors": [],
    "samples": [
     {
-     "title": "The Spruce Black Fri-yay Giveaway",
-     "entry_url": "https://www.thespruce.com/sweepstakes/entry?brandId=thespruce&sweepId=spr-flash-blkfri-1126-eo",
+     "title": "CovrPrice Cyber Monday 2026 Giveaway",
+     "entry_url": "https://gleam.io/xNCfQ/covrprice-cyber-monday-2026-giveaway",
      "rules_url": null,
      "ends_guess": "2026-11-30",
      "ends_text": "Last day to enter: Mon, Nov 30",
@@ -23,8 +23,8 @@
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     },
     {
-     "title": "The Groovy Grove Giveaway",
-     "entry_url": "https://groovygrover.myshopify.com/pages/groovy-grove-giveaway",
+     "title": "Fragrance Calendar Giveaway",
+     "entry_url": "https://sweepwidget.com/c/103462-clvd86aw",
      "rules_url": null,
      "ends_guess": "2026-11-30",
      "ends_text": "Last day to enter: Mon, Nov 30",
@@ -36,73 +36,83 @@
   },
   "thefreebieguy": {
    "listing_pages": 2,
-   "detail_links": 270,
-   "parsed": 7,
-   "skipped_seen": 263,
-   "kept": 7,
+   "detail_links": 271,
+   "parsed": 2,
+   "skipped_seen": 269,
+   "kept": 2,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Win an 8-Book Click Clack Children's Book Collection!",
-     "entry_url": "https://www.simonandschuster.com/p/click-clack-books-sweepstakes",
-     "rules_url": "https://www.simonandschuster.com/rules/32d24b81-8f06-411b-9154-0c372265d068",
-     "ends_guess": "2026-11-18",
-     "ends_text": "ENDING – \nNovember 18, 2026",
-     "frequency_guess": "once",
-     "min_age_guess": 18,
+     "title": "Win Up To $100,000 Cash in the Chime Holiday 2026 Sweepstakes!",
+     "entry_url": "https://www.chime.com/holiday-sweeps-2026/",
+     "rules_url": "https://www.chime.com/policies/terms/holiday-sweeps-2026/#how-to-enter",
+     "ends_guess": "2026-12-31",
+     "ends_text": "ENDING – \nDecember 31, 2026",
+     "frequency_guess": "unknown",
+     "min_age_guess": 19,
      "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
     },
     {
-     "title": "Win a Pair of Altra Running Shoes!",
-     "entry_url": "https://www.altrarunning.com/en-us/pages/giveaway",
-     "rules_url": "https://www.altrarunning.com/en-us/pages/altra-15th-anniversary-giveaway-official-rules",
-     "ends_guess": "2026-11-26",
-     "ends_text": "ENDING – \nNovember 26, 2026",
+     "title": "Win an All-Inclusive Sandals or Beaches Caribbean Vacation!",
+     "entry_url": "https://elvisduran.iheart.com/promotions/elvis-duran-and-the-morning-show-s-sandals-and-beaches-sweepstakes-1933655/",
+     "rules_url": "https://elvisduran.iheart.com/rules/",
+     "ends_guess": "2026-11-22",
+     "ends_text": "ENDING – \nNovember 22, 2026",
      "frequency_guess": "daily",
-     "min_age_guess": 18,
+     "min_age_guess": null,
      "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
     }
    ]
   },
   "winprizesonline": {
    "listing_pages": 2,
-   "detail_links": 21,
-   "parsed": 10,
-   "skipped_seen": 11,
-   "kept": 7,
+   "detail_links": 18,
+   "parsed": 9,
+   "skipped_seen": 9,
+   "kept": 5,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Milwaukee Deal Days Giveaway",
-     "entry_url": "https://www.fleetfarm.com/p/sweepstakes/milwaukee-deal-days",
+     "title": "Dove Men Holiday Playbook Sweepstakes",
+     "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-11-22",
-     "ends_text": "Expires\n 11-22-2026",
+     "ends_guess": "2027-01-18",
+     "ends_text": "Expires\n 01-18-2027",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Milwauke"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Dove Men"
     },
     {
-     "title": "Trans-Siberian Orchestra Live Sweepstakes",
-     "entry_url": "https://news.iheart.com/promotions/win-a-trip-for-four-to-1934597/",
+     "title": "Free Rent for a Year Sweepstakes",
+     "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-11-29",
-     "ends_text": "Expires\n 11-29-2026",
+     "ends_guess": "2026-12-31",
+     "ends_text": "Expires\n 12-31-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Trans-Si"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Free Ren"
     }
    ],
    "retry_later": {
-    "no entry link found": 3
+    "no entry link found": 4
    },
    "no_entry_samples": [
     {
-     "source_url": "https://www.winprizesonline.com/Huxley-Whole-Foods-Market-Giveaway/",
-     "title": "Huxley Whole Foods Market Giveaway",
+     "source_url": "https://www.winprizesonline.com/Dove-Men-Holiday-Playbook-Sweepstakes/",
+     "title": "Dove Men Holiday Playbook Sweepstakes",
      "entry_link_hints": [
+      {
+       "href": "https://dovemenholidayplaybook.com",
+       "text": "Dove Men",
+       "onsite": false
+      },
+      {
+       "href": "https://dovemenholidayplaybook.com",
+       "text": "dovemenholidayplaybook.com",
+       "onsite": false
+      },
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
        "text": "Daily Entry",
@@ -116,9 +126,19 @@
      ]
     },
     {
-     "source_url": "https://www.winprizesonline.com/Thanksgiving-Cheese-Giveaway/",
-     "title": "Thanksgiving Cheese Giveaway",
+     "source_url": "https://www.winprizesonline.com/Free-Rent-for-a-Year-Sweepstakes/",
+     "title": "Free Rent for a Year Sweepstakes",
      "entry_link_hints": [
+      {
+       "href": "https://apartments.com",
+       "text": "Apartments.com",
+       "onsite": false
+      },
+      {
+       "href": "https://apartments.com",
+       "text": "apartments.com",
+       "onsite": false
+      },
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
        "text": "Daily Entry",
@@ -135,5 +155,5 @@
   }
  },
  "total_candidates": 728,
- "details_budget_left": 105
+ "details_budget_left": 117
 }
