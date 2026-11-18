@@ -281,6 +281,17 @@ def printed_url(href, txt):
     return sp.path.strip("/") != "" or h.count(".") >= 2
 
 
+# Giveaway platforms' own homepages and hubs. A link to one of these with no path (hub.sweeppea.com) names
+# no single giveaway, and as a candidate key it would merge every giveaway the platform hosts.
+PLATFORM_ROOTS = {"gleam.io", "viralsweep.com", "app.viralsweep.com", "sweepwidget.com", "kingsumo.com", "woobox.com",
+                  "wishpond.com", "rafflecopter.com", "sweeppea.com", "hub.sweeppea.com", "shortstack.com"}
+
+
+def platform_root(href):
+    sp = urllib.parse.urlsplit(href)
+    return host(href) in PLATFORM_ROOTS and sp.path.strip("/") == "" and not sp.query
+
+
 def pick_links(page, source_host):
     enter = rules = enter_rules = None
     outbound = []
@@ -288,7 +299,7 @@ def pick_links(page, source_host):
         if not href.startswith("http") or any(s in href.lower() for s in SHARE):
             continue
         h = host(href)
-        if h == source_host or h.endswith("." + source_host):
+        if h == source_host or h.endswith("." + source_host) or platform_root(href):
             continue
         outbound.append((href, txt))
         tl = txt.lower()

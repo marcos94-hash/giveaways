@@ -190,6 +190,22 @@ def test_wpo_printed_website_link_is_entry():
     both = WPO_WEBSITE.replace("</body>", "<a href='https://gleam.io/x/holiday'>gleam</a></body>")
     assert finder.extract("https://www.winprizesonline.com/x-Sweepstakes/", both, "winprizesonline.com", TODAY)["entry_url"] == "https://gleam.io/x/holiday"
 
+def test_platform_homepage_is_not_entry():
+    # Scrape report (Nov 18): winprizesonline's Garrison Brothers page gave the bare hub.sweeppea.com, the
+    # platform's hub rather than the giveaway. As a candidate key it would merge every Sweeppea giveaway.
+    page = WPO_WEBSITE.replace("freshholiday.brandmoverscf.com", "hub.sweeppea.com")
+    c = finder.extract("https://www.winprizesonline.com/Garrison-Brothers-Holiday-Sweepstakes/", page, "winprizesonline.com", TODAY)
+    assert c["entry_url"] is None, c["entry_url"]
+    assert finder.keep(c, TODAY)[0] == "retry"
+    assert any("hub.sweeppea.com" in x["href"] for x in c["entry_link_hints"]), c["entry_link_hints"]
+    enter_root = "<html><body><h1>X Sweepstakes</h1><p><a href='https://gleam.io/'>Enter here</a></p></body></html>"
+    assert finder.extract("https://www.freestufftimes.com/contests/18/x/", enter_root, "freestufftimes.com", TODAY)["entry_url"] is None
+    # A giveaway page on the same platform is still the entry link.
+    deep = WPO_WEBSITE.replace("freshholiday.brandmoverscf.com", "hub.sweeppea.com/hosted/abc123")
+    c2 = finder.extract("https://www.winprizesonline.com/Garrison-Brothers-Holiday-Sweepstakes/", deep, "winprizesonline.com", TODAY)
+    assert c2["entry_url"] == "https://hub.sweeppea.com/hosted/abc123", c2["entry_url"]
+    assert not finder.platform_root("https://gleam.io/x/holiday") and finder.platform_root("https://www.gleam.io/")
+
 def test_enter_button_to_rules_page_is_last_resort():
     # Report hints (Nov 13): freestufftimes' "Enter giveaway" button for Regal opens the sponsor's rules page.
     rules = "https://www.regmovies.com/promotions/animated-la-premier-sweepstakes-rules"
