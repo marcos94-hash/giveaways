@@ -2757,22 +2757,23 @@
         "marketing": "Shore Club membership means White Claw marketing emails; you can unsubscribe without losing your entries.",
         "age21": true
       },
-      "notes": "From rules text quoted on listing sites: sponsor Mark Anthony Brands; open to the 50 states and DC, 21+ (no states excluded, so NJ is in); no purchase necessary; enter on the form after the age check (name, state, email); one entry per person per day; Aug 17 to Dec 31, 2026 11:59:59 PM ET. Alaska and Hawaii winners get the cash value. The prize is the truck, not alcohol. One commenter said the captcha was hard to get past.",
+      "notes": "From rules text quoted on listing sites: sponsor Mark Anthony Brands; open to the 50 states and DC, 21+ (no states excluded, so NJ is in); no purchase necessary; enter on the form after the age check (name, state, email), or scan the QR code on in-store displays, which leads to the form; one entry per person per day; Aug 17 to Dec 31, 2026 11:59:59 PM ET; drawing on or about Jan 4, 2027 by HP2 Promotions. Entering joins the free White Claw Shore Club if you aren't a member. Alaska and Hawaii winners get the cash value. The prize is the truck and the check, not alcohol. One commenter said the captcha was hard to get past.",
       "verification": {
         "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-09T18:25:00-05:00",
-        "reason": "Facts come from rules text quoted on listing sites. The sponsor's rules and entry page needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and a Perplexity lookup of whiteclaw.com only returned the 21+ age gate.",
-        "evidence": [
-          "https://slickdeals.net/f/19993293-white-claw-hard-seltzer-surge-ultimate-tailgate-pickup-truck-sweepstakes-12-31-2026",
-          "https://www.moneysmylife.com/white-claw-surge-ultimate-tailgate-sweepstakes/",
-          "https://www.whiteclaw.com/sweepstakes/surgetailgate"
-        ],
+        "checked_at": "2026-11-18T18:35:00-05:00",
+        "reason": "Facts come from rules text quoted on listing sites. The sponsor's rules and entry page wait on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of whiteclaw.com again returned only the 21+ age gate.",
         "missing": [
           "eligibility",
           "free_entry",
           "deadline",
           "entry_limit"
+        ],
+        "evidence": [
+          "https://slickdeals.net/f/19993293-white-claw-hard-seltzer-surge-ultimate-tailgate-pickup-truck-sweepstakes-12-31-2026",
+          "https://www.moneysmylife.com/white-claw-surge-ultimate-tailgate-sweepstakes/",
+          "https://www.sweepstakesbible.com/giveaways/white-claw-surge-pickup-truck-sweepstakes",
+          "https://www.sweepstakestoday.com/sweeps/details/117602/mark-anthony-brands-white-claw-hard-seltzer-surge-ultimate-tailgate-pickup-truck-sweepstakes",
+          "https://www.whiteclaw.com/sweepstakes/surgetailgate"
         ]
       },
       "added": "2026-11-09",
@@ -2797,22 +2798,23 @@
       "flags": {
         "age21": true
       },
-      "notes": "From listing sites quoting the rules: sponsor Molson Coors Beverage Company USA LLC; open to the 50 states and DC, 21+ (no states excluded, so NJ is in); no purchase necessary; enter at millerlite.com/GamedayEssentials after the date-of-birth check (name, email, home address, birth date); one entry per person per day across methods; Aug 27, 2026 to Jan 8, 2027 11:59 PM CT. One listing's Enter button goes to mc.beveragepromo.com/263472 instead. No alcohol in the prizes. One prize per household.",
+      "notes": "From listing sites quoting the rules: sponsor Molson Coors Beverage Company USA LLC; open to the 50 states and DC, 21+ (no states excluded, so NJ is in); no purchase necessary; enter at millerlite.com/GamedayEssentials after the date-of-birth check (name, email, home address, birth date); one entry per person per day across methods (some people also get an entry link in sponsored Facebook or Instagram ads); Aug 27, 2026 to Jan 8, 2027 11:59 PM CT; drawing on or around Jan 15, 2027. Listing sites' Enter buttons go to mc.beveragepromo.com/263472, which may host the form. No alcohol in the prizes. One prize per household.",
       "verification": {
         "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-09T18:25:00-05:00",
-        "reason": "Facts come from listing sites quoting the rules. The official rules at promorules.com/MK263472 returned a client error to the page reader again, a Perplexity lookup of promorules.com found nothing, and the entry page didn't come up in web search.",
-        "evidence": [
-          "https://www.promorules.com/MK263472",
-          "https://www.moneysmylife.com/miller-lite-legendary-sweepstakes/",
-          "https://www.sweepstakesbible.com/giveaways/miller-lite-legendary-gameday-essentials-sweepstakes"
-        ],
+        "checked_at": "2026-11-18T18:35:00-05:00",
+        "reason": "Facts come from listing sites quoting the rules. promorules.com/MK263472 returned a client error again, and the millerlite.com and mc.beveragepromo.com pages waited on a page reader approval (PROVENANCE_REQUIRED).",
         "missing": [
           "eligibility",
           "free_entry",
           "deadline",
           "entry_limit"
+        ],
+        "evidence": [
+          "https://www.promorules.com/MK263472",
+          "https://www.moneysmylife.com/miller-lite-legendary-sweepstakes/",
+          "https://www.sweepstakesbible.com/giveaways/miller-lite-legendary-gameday-essentials-sweepstakes",
+          "https://justfreestuff.com/categories/contests/miller-lite-legendary-gameday-essentials-sweepstakes/",
+          "https://www.sweepsadvantage.com/miller-lite-sweepstakes"
         ]
       },
       "added": "2026-11-09",
@@ -4654,6 +4656,84 @@
       "source": "Claude review 2026-11-18",
       "id": "the-office-depot-12-days-of-giveaways",
       "rules_checked": "full"
+    },
+    {
+      "name": "Adorama Weekly Holiday Giveaway: Panasonic LUMIX S5II with 24-60mm f/2.8 Lens",
+      "prize": "A Panasonic LUMIX S5II mirrorless camera with the LUMIX S 24-60mm f/2.8 lens (number of winners and ARV not shown)",
+      "category": "electronics",
+      "entry_url": "https://gleam.io/lyjEF/adorama-weekly-holiday-giveaway-win-a-panasonic-lumix-s5ii-withs-2460mm-f28-lens",
+      "match": [
+        "gleam.io/lyjEF"
+      ],
+      "ends": "2026-11-23T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "Gleam bonus actions include following Adorama and LUMIX on Instagram, TikTok, YouTube, Facebook, X, Threads and LinkedIn; none is shown as required."
+      },
+      "notes": "From a giveaway-list.com copy of the Gleam page: only open to US residents 18+; no purchase mentioned; the contest ends 11/23/2026 at 11:59 PM ET (Gleam's timer runs to 11:59 PM PT, so this uses the ET time); winners contacted by 11/28. Bonus entries for clicks and referrals. No entry limit, winner count or state exclusions are shown, and Adorama has no rules page for it on adorama.com.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-18T18:35:00-05:00",
+        "reason": "Facts come from a giveaway-list.com copy of the Gleam page. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of adorama.com found no rules page for this giveaway, so state exclusions, the entry limit and the terms are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://giveaway-list.com/giveaway/gleam-lyjEF/adorama-weekly-holiday-giveaway",
+          "https://www.freestufftimes.com/contests/17/adorama-holiday-giveaway-2/"
+        ]
+      },
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "adorama-weekly-holiday-giveaway-panasonic-lumix-s5ii-with-24",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Keystone Light Hunt Sweepstakes and Instant Win Game 2026",
+      "prize": "516 prizes: a custom Keystone Light x Big Buck Hunter arcade game (ARV $12,000), 15 Realtree gear packs (backpack, sweatshirt, T-shirt and hat, $205), 100 Realtree hat and T-shirt sets ($44) and 400 Realtree hats ($18) as instant wins",
+      "category": "electronics",
+      "entry_url": "https://www.keystonelight.com/hunt",
+      "rules_url": "https://www.promorules.com/MK262790",
+      "match": [
+        "keystonelight.com/hunt"
+      ],
+      "ends": "2026-12-01T00:59:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "notes": "From listing sites quoting the rules: sponsor Molson Coors; open to the 50 states and DC, 21+ (no states excluded, so NJ is in); enter at keystonelight.com/hunt after the date-of-birth check with name, email, home address and birth date for one sweepstakes entry and one instant win play; one game play and one sweepstakes entry per person per day; Aug 3 to Nov 30, 2026 11:59 PM CT (12:59 AM ET Dec 1); drawing Dec 2. Earlier editions of The Hunt were about finding orange cans in packs, so check that the online form doesn't ask for a code. The arcade game is a video game with toy controllers, and no prize includes beer.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-18T18:35:00-05:00",
+        "reason": "Facts come from listing sites quoting the rules. promorules.com pages return client errors, keystonelight.com/hunt waited on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of keystonelight.com and promorules.com found no rules, so free entry and the daily limit are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.promorules.com/MK262790",
+          "https://www.sweepstakestoday.com/sweeps/details/117140/molson-coors-keystone-light-hunt-promotion-2026-sweepstakes",
+          "https://www.sweepstakeslovers.com/consoles-video-games/keystone-light-hunt-sweepstakes/",
+          "https://www.sweepsadvantage.com/keystone-light-hunt-instant-win-game-promotion-2026-516-prizes-sweepstakes",
+          "https://www.keystonelight.com/passion-points"
+        ]
+      },
+      "flags": {
+        "age21": true
+      },
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "keystone-light-hunt-sweepstakes-and-instant-win-game-2026",
+      "rules_checked": "partial"
     }
   ]
 }

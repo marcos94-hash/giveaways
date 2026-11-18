@@ -2742,14 +2742,33 @@
       "next_retry_at": "2026-11-18T17:56:07-05:00",
       "name": "Ultrean Thanksgiving Giveaway"
     },
+    "https://gleam.io/lyjEF/adorama-weekly-holiday-giveaway-win-a-panasonic-lumix-s5ii-withs-2460mm-f28-lens": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a giveaway-list.com copy of the Gleam page. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of adorama.com found no rules page for this giveaway, so state exclusions, the entry limit and the terms are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:12:39-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-lyjEF/adorama-weekly-holiday-giveaway",
+        "https://www.freestufftimes.com/contests/17/adorama-holiday-giveaway-2/"
+      ],
+      "listing_id": "adorama-weekly-holiday-giveaway-panasonic-lumix-s5ii-with-24",
+      "decided_at": "2026-11-18T18:12:39-05:00",
+      "next_retry_at": "2026-11-21T18:12:39-05:00"
+    },
     "https://gleam.io/lyjEF/adorama-weekly-holiday-giveaway-win-a-panasonic-lumix-s5ii-withs-2460mm-f28-lens?gsr=lyjEF-oPJUJOZg73": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a giveaway-list.com copy of the Gleam page. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of adorama.com found no rules page for this giveaway, so state exclusions, the entry limit and the terms are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:12:39-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-lyjEF/adorama-weekly-holiday-giveaway",
+        "https://www.freestufftimes.com/contests/17/adorama-holiday-giveaway-2/"
+      ],
+      "listing_id": "adorama-weekly-holiday-giveaway-panasonic-lumix-s5ii-with-24",
+      "decided_at": "2026-11-18T18:12:39-05:00",
+      "next_retry_at": "2026-11-21T18:12:39-05:00"
     },
     "https://gleam.io/nwk6J/sarthe-console-giveaway-every-month?gsr=nwk6J-oRHVbSWQft": {
       "attempts": 0,
@@ -3271,6 +3290,23 @@
       "decided_at": "2026-11-12T17:56:21-05:00",
       "next_retry_at": "2026-11-15T17:56:21-05:00"
     },
+    "https://keystonelight.com/hunt": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites quoting the rules. promorules.com pages return client errors, keystonelight.com/hunt waited on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of keystonelight.com and promorules.com found no rules, so free entry and the daily limit are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:12:39-05:00",
+      "evidence": [
+        "https://www.keystonelight.com/passion-points",
+        "https://www.promorules.com/MK262790",
+        "https://www.sweepsadvantage.com/keystone-light-hunt-instant-win-game-promotion-2026-516-prizes-sweepstakes",
+        "https://www.sweepstakeslovers.com/consoles-video-games/keystone-light-hunt-sweepstakes/",
+        "https://www.sweepstakestoday.com/sweeps/details/117140/molson-coors-keystone-light-hunt-promotion-2026-sweepstakes"
+      ],
+      "listing_id": "keystone-light-hunt-sweepstakes-and-instant-win-game-2026",
+      "decided_at": "2026-11-18T18:12:39-05:00",
+      "next_retry_at": "2026-11-21T18:12:39-05:00"
+    },
     "https://kiisfm.iheart.com/promotions": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
       "status": "listed",
@@ -3416,36 +3452,19 @@
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
     "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11": {
-      "attempts": 2,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "The KingSumo page https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11 needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, so the #11 rules weren't read. A participating artist's blog says the giveaway lasts one week starting Oct 30, so it may already have ended; edition #10's rules were 21+ with some countries excluded.",
-      "last_attempt_at": "2026-11-09T18:15:32-05:00",
+      "attempts": 3,
+      "status": "needs_review",
+      "reason_code": "incomplete_info",
+      "reason": "A participating artist's Oct 30 post says the giveaway lasts one week from that day (to about Nov 6) and the sponsor's art-giveaway page gives no dates, so it has probably ended, but the KingSumo page and its rules waited on a page reader approval (PROVENANCE_REQUIRED) and the end isn't confirmed. Edition #10 was 21+ with some countries excluded.",
+      "last_attempt_at": "2026-11-18T18:12:39-05:00",
       "evidence": [
         "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11",
         "https://kingsumo.com/giveaways/m5ggzx3/rules",
+        "https://www.art.bundlesforgood.com/art-giveaway/",
         "https://www.glimmerbug.com/blog/art-bundles-for-good-11-giveaway"
       ],
-      "next_retry_at": "2026-11-11T18:15:32-05:00",
-      "name": "Art Bundles for Good #11 Giveaway",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "The KingSumo page https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11 needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, so the #11 rules weren't read. A participating artist's blog says the giveaway lasts one week starting Oct 30, so it may already have ended; edition #10's rules were 21+ with some countries excluded.",
-          "last_attempt_at": "2026-11-09T18:15:32-05:00",
-          "evidence": [
-            "https://kingsumo.com/g/3ee9lk3/art-bundles-for-good-11",
-            "https://kingsumo.com/giveaways/m5ggzx3/rules",
-            "https://www.glimmerbug.com/blog/art-bundles-for-good-11-giveaway"
-          ],
-          "next_retry_at": "2026-11-11T18:15:32-05:00",
-          "name": "Art Bundles for Good #11 Giveaway"
-        }
-      }
+      "next_retry_at": "2026-11-22T18:12:39-05:00",
+      "name": "Art Bundles for Good #11 Giveaway"
     },
     "https://kingsumo.com/g/3ee9qw3/verus-pet-foods-dog-gift-basket-giveaway": {
       "attempts": 1,
@@ -3851,16 +3870,18 @@
       "attempts": 0,
       "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Facts come from listing sites quoting the rules. The official rules at promorules.com/MK263472 returned a client error to the page reader again, a Perplexity lookup of promorules.com found nothing, and the entry page didn't come up in web search.",
-      "last_attempt_at": "2026-11-09T18:14:19-05:00",
+      "reason": "Facts come from listing sites quoting the rules. promorules.com/MK263472 returned a client error again, and the millerlite.com and mc.beveragepromo.com pages waited on a page reader approval (PROVENANCE_REQUIRED).",
+      "last_attempt_at": "2026-11-18T18:12:39-05:00",
       "evidence": [
+        "https://justfreestuff.com/categories/contests/miller-lite-legendary-gameday-essentials-sweepstakes/",
         "https://www.moneysmylife.com/miller-lite-legendary-sweepstakes/",
         "https://www.promorules.com/MK263472",
+        "https://www.sweepsadvantage.com/miller-lite-sweepstakes",
         "https://www.sweepstakesbible.com/giveaways/miller-lite-legendary-gameday-essentials-sweepstakes"
       ],
       "listing_id": "miller-lite-legendary-gameday-essentials-sweepstakes",
-      "decided_at": "2026-11-09T18:14:19-05:00",
-      "next_retry_at": "2026-11-12T18:14:19-05:00"
+      "decided_at": "2026-11-18T18:12:39-05:00",
+      "next_retry_at": "2026-11-21T18:12:39-05:00"
     },
     "https://misen.com/pages/giadzy-holiday-giveaway": {
       "attempts": 0,
@@ -4367,31 +4388,21 @@
     },
     "https://promorules.com/MK262790": {
       "attempts": 2,
-      "status": "in_progress",
-      "reason_code": "unreadable_page",
-      "reason": "Second try: the official rules at promorules.com/MK262790 did not come up in web search (only older Keystone Light rules did), and a Perplexity lookup of promorules.com and keystonelight.com found nothing, so the rules, prize list and any purchase or code requirement were not read. The excluded-prize hint is from the word Hunt; title prizes are swag and arcade machines, 21+",
-      "last_attempt_at": "2026-11-10T17:58:34-05:00",
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites quoting the rules. promorules.com pages return client errors, keystonelight.com/hunt waited on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of keystonelight.com and promorules.com found no rules, so free entry and the daily limit are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:12:39-05:00",
       "evidence": [
-        "https://www.promorules.com/MK262790"
+        "https://www.keystonelight.com/passion-points",
+        "https://www.promorules.com/MK262790",
+        "https://www.sweepsadvantage.com/keystone-light-hunt-instant-win-game-promotion-2026-516-prizes-sweepstakes",
+        "https://www.sweepstakeslovers.com/consoles-video-games/keystone-light-hunt-sweepstakes/",
+        "https://www.sweepstakestoday.com/sweeps/details/117140/molson-coors-keystone-light-hunt-promotion-2026-sweepstakes"
       ],
-      "next_retry_at": "2026-11-12T17:58:34-05:00",
+      "next_retry_at": "2026-11-21T18:12:39-05:00",
       "name": "516 Win Swag, Arcade Machines and More in The Keystone Light Hunt Sweeps & IWG!",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": {
-          "attempts": 2,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Second try: the official rules at promorules.com/MK262790 did not come up in web search (only older Keystone Light rules did), and a Perplexity lookup of promorules.com and keystonelight.com found nothing, so the rules, prize list and any purchase or code requirement were not read. The excluded-prize hint is from the word Hunt; title prizes are swag and arcade machines, 21+",
-          "last_attempt_at": "2026-11-10T17:58:34-05:00",
-          "evidence": [
-            "https://www.promorules.com/MK262790"
-          ],
-          "next_retry_at": "2026-11-12T17:58:34-05:00",
-          "name": "516 Win Swag, Arcade Machines and More in The Keystone Light Hunt Sweeps & IWG!"
-        }
-      }
+      "listing_id": "keystone-light-hunt-sweepstakes-and-instant-win-game-2026",
+      "decided_at": "2026-11-18T18:12:39-05:00"
     },
     "https://promorules.com/MK262939": {
       "attempts": 0,
@@ -4409,39 +4420,21 @@
     },
     "https://promorules.com/MK263472": {
       "attempts": 1,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Facts come from listing sites quoting the rules. The official rules at promorules.com/MK263472 returned a client error to the page reader again, a Perplexity lookup of promorules.com found nothing, and the entry page didn't come up in web search.",
-      "last_attempt_at": "2026-11-09T18:14:19-05:00",
+      "reason": "Facts come from listing sites quoting the rules. promorules.com/MK263472 returned a client error again, and the millerlite.com and mc.beveragepromo.com pages waited on a page reader approval (PROVENANCE_REQUIRED).",
+      "last_attempt_at": "2026-11-18T18:12:39-05:00",
       "evidence": [
+        "https://justfreestuff.com/categories/contests/miller-lite-legendary-gameday-essentials-sweepstakes/",
         "https://www.moneysmylife.com/miller-lite-legendary-sweepstakes/",
         "https://www.promorules.com/MK263472",
+        "https://www.sweepsadvantage.com/miller-lite-sweepstakes",
         "https://www.sweepstakesbible.com/giveaways/miller-lite-legendary-gameday-essentials-sweepstakes"
       ],
-      "next_retry_at": "2026-11-12T18:14:19-05:00",
+      "next_retry_at": "2026-11-21T18:12:39-05:00",
       "name": "Win a Gameday Lounge Bundle From Miller Lite!",
       "listing_id": "miller-lite-legendary-gameday-essentials-sweepstakes",
-      "decided_at": "2026-11-09T18:14:19-05:00",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from listing sites quoting the rules. The official rules at promorules.com/MK263472 returned a client error to the page reader again, a Perplexity lookup of promorules.com found nothing, and the entry page didn't come up in web search.",
-          "last_attempt_at": "2026-11-09T18:14:19-05:00",
-          "evidence": [
-            "https://www.moneysmylife.com/miller-lite-legendary-sweepstakes/",
-            "https://www.promorules.com/MK263472",
-            "https://www.sweepstakesbible.com/giveaways/miller-lite-legendary-gameday-essentials-sweepstakes"
-          ],
-          "next_retry_at": "2026-11-12T18:14:19-05:00",
-          "name": "Win a Gameday Lounge Bundle From Miller Lite!",
-          "listing_id": "miller-lite-legendary-gameday-essentials-sweepstakes",
-          "decided_at": "2026-11-09T18:14:19-05:00"
-        }
-      }
+      "decided_at": "2026-11-18T18:12:39-05:00"
     },
     "https://promotions.mobil.com/offers/23XIracetowin": {
       "attempts": 0,
@@ -5986,39 +5979,21 @@
     },
     "https://whiteclaw.com/sweepstakes/surgetailgate": {
       "attempts": 1,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Facts come from rules text quoted on listing sites. The sponsor's rules and entry page needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and a Perplexity lookup of whiteclaw.com only returned the 21+ age gate.",
-      "last_attempt_at": "2026-11-09T18:14:19-05:00",
+      "reason": "Facts come from rules text quoted on listing sites. The sponsor's rules and entry page wait on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of whiteclaw.com again returned only the 21+ age gate.",
+      "last_attempt_at": "2026-11-18T18:12:39-05:00",
       "evidence": [
         "https://slickdeals.net/f/19993293-white-claw-hard-seltzer-surge-ultimate-tailgate-pickup-truck-sweepstakes-12-31-2026",
         "https://www.moneysmylife.com/white-claw-surge-ultimate-tailgate-sweepstakes/",
+        "https://www.sweepstakesbible.com/giveaways/white-claw-surge-pickup-truck-sweepstakes",
+        "https://www.sweepstakestoday.com/sweeps/details/117602/mark-anthony-brands-white-claw-hard-seltzer-surge-ultimate-tailgate-pickup-truck-sweepstakes",
         "https://www.whiteclaw.com/sweepstakes/surgetailgate"
       ],
-      "next_retry_at": "2026-11-12T18:14:19-05:00",
+      "next_retry_at": "2026-11-21T18:12:39-05:00",
       "name": "Ultimate Tailgate Pickup Truck Sweepstakes",
       "listing_id": "white-claw-surge-ultimate-tailgate-pickup-truck-sweepstakes",
-      "decided_at": "2026-11-09T18:14:19-05:00",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from rules text quoted on listing sites. The sponsor's rules and entry page needed a page reader approval (PROVENANCE_REQUIRED) that this unattended run couldn't answer, and a Perplexity lookup of whiteclaw.com only returned the 21+ age gate.",
-          "last_attempt_at": "2026-11-09T18:14:19-05:00",
-          "evidence": [
-            "https://slickdeals.net/f/19993293-white-claw-hard-seltzer-surge-ultimate-tailgate-pickup-truck-sweepstakes-12-31-2026",
-            "https://www.moneysmylife.com/white-claw-surge-ultimate-tailgate-sweepstakes/",
-            "https://www.whiteclaw.com/sweepstakes/surgetailgate"
-          ],
-          "next_retry_at": "2026-11-12T18:14:19-05:00",
-          "name": "Ultimate Tailgate Pickup Truck Sweepstakes",
-          "listing_id": "white-claw-surge-ultimate-tailgate-pickup-truck-sweepstakes",
-          "decided_at": "2026-11-09T18:14:19-05:00"
-        }
-      }
+      "decided_at": "2026-11-18T18:12:39-05:00"
     },
     "https://wired2fish.com/giveaways/win-a-coastal-layer-1-4-zip-shirt-from-aftco": {
       "attempts": 1,
