@@ -2562,28 +2562,28 @@
       },
       "min_age": 18,
       "flags": {},
-      "notes": "Listing sites quoting the current rules: 50 states and DC, 18+, no purchase; the free way in is the online form on the promotion site (name, email, home address). One entry per person per calendar month (Pacific time), 100 winners drawn each month, runs to Sep 30, 2027 11:59 PM PT. The limit is set to 30 days here, so enter early in each month to avoid skipping one. Last year's sponsor rules (Oct 2025 to Sep 2026) had the same terms.",
+      "notes": "Official rules (Oct 1, 2026 to Sep 30, 2027 at 11:59 PM PT): open to legal residents of the 50 states and DC, 18+ (NJ is in); no purchase necessary. The free way in is the Online Alternate Method of Entry, the registration form on the promotion site (first and last name, email, home address; no P.O. boxes). The other way is an emailed survey invitation. One entry per Monthly Entry Period (each calendar month, 12:00 AM to 11:59 PM PT) regardless of method; 100 winners of a $100 Starbucks gift card are drawn each month, about two weeks after it ends (November's drawing is about Dec 11). The limit here is 30 days, so enter early in each month to avoid skipping one.",
       "verification": {
-        "status": "needs_rules_check",
-        "checked_at": "2026-11-07T17:56:00-05:00",
-        "reason": "The sponsor rules read (Starbucks, administered by Merkle) cover the period that ended Sep 30, 2026. Listing sites quote the same terms for the new Oct 2026 to Sep 2027 period, but the current rules weren't read.",
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ],
+        "status": "verified",
+        "rules_source": "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2026.pdf",
+        "checked_at": "2026-11-18T18:45:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
         "evidence": [
-          "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2025.pdf",
-          "https://starbucks.survoxinc.com/star01/insights/ce101/rules_2026.pdf",
-          "https://www.sweepstakestoday.com/sweeps/details/117997/starbucks-customer-experience-sweepstakes",
-          "https://www.sweepsadvantage.com/starbucks-sweepstakes"
+          "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2026.pdf",
+          "https://www.sweepstakeslovers.com/gift-cards/starbucks-customer-experience-sweepstakes/",
+          "https://hip2save.com/deals/starbucks-sweepstakes/"
         ]
       },
       "added": "2026-11-07",
       "source": "Claude review 2026-11-07",
       "id": "starbucks-customer-experience-sweepstakes-oct-2026-to-sep-20",
-      "rules_checked": "partial"
+      "rules_checked": "full",
+      "rules_url": "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2026.pdf"
     },
     {
       "name": "Frito-Lay Gameday Experiences Sweepstakes (Tostitos)",
@@ -2631,7 +2631,7 @@
     },
     {
       "name": "Arm & Hammer LEGOLAND Trip Sweepstakes",
-      "prize": "Trip for four to LEGOLAND (details are in the official rules, not read)",
+      "prize": "Trip for four to LEGOLAND California, Florida or New York with airfare, 2 hotel nights, 4 park tickets and ground transportation (ARV about $5,000)",
       "category": "trip",
       "entry_url": "https://www.ahxlegoland.com/en/gate",
       "rules_url": null,
@@ -2644,18 +2644,20 @@
       },
       "min_age": 18,
       "flags": {},
-      "notes": "Sponsor's page says no purchase necessary, open to the 50 states and DC, 18+, runs Oct 1 to 11:59 PM ET Dec 31, 2026, and mentions an alternate method of entry and message and data rates. Read the official rules for how to enter and the entry limit before entering.",
+      "notes": "Sponsor Church & Dwight (Arm & Hammer). The sponsor's gate page: no purchase necessary, 50 states and DC, 18+, Oct 1 to 11:59 PM ET Dec 31, 2026, with an alternate method of entry in the official rules. The sponsor's press release and listing sites say the main way in is buying three qualifying Arm & Hammer Baking Soda products and uploading the receipt on this site; the free way, per listing sites, is an emailed entry (address and subject line in the official rules), not a web form. One entry per person for the whole promotion, any method. Drawing on or about Jan 5, 2027. A separate buy-one-get-one LEGOLAND ticket offer isn't a prize.",
       "verification": {
         "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-08T17:55:00-05:00",
-        "reason": "Sponsor's gate page (read through a Perplexity lookup) confirms eligibility and the end date, but the official rules couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. How to enter, whether a free online entry exists and the entry limit are unconfirmed.",
-        "evidence": [
-          "https://ahxlegoland.com/en/gate"
-        ],
+        "checked_at": "2026-11-18T18:45:00-05:00",
+        "reason": "The official rules weren't read: the gate page links them, but the rules and entry pages wait on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search found only the gate page. Listing sites say the web form needs a receipt and the free entry is by email, so a free online entry and the one-entry limit are unconfirmed.",
         "missing": [
           "free_entry",
           "entry_limit"
+        ],
+        "evidence": [
+          "https://ahxlegoland.com/en/gate",
+          "https://finance.yahoo.com/media-advertising/articles/arm-hammer-baking-soda-legoland-212800575.html",
+          "https://www.sweepstakeslovers.com/trips/arm-hammer-legoland-sweepstakes/",
+          "https://www.sweepstakesbible.com/giveaways/arm-hammer-legoland-family-trip-sweepstakes"
         ]
       },
       "added": "2026-11-08",
@@ -2717,20 +2719,21 @@
       "flags": {
         "account": "Register on the Ritual to Remember site (it has a login page) to play the game."
       },
-      "notes": "Sponsor's short rules: no purchase necessary; continental US only (no Alaska or Hawaii), age of majority; register and play the web memory game, where each level earns an entry, up to 25 entries per day per email address; Oct 1, 2026 12:00:01 AM ET to Feb 14, 2027 11:59:59 PM ET. Sharing gives bonus entries. Odds depend on entries and game performance. The receipt upload on liveevent.terryschocolate.com is a separate $50 live-event credit offer and isn't needed. Terry's press release says the US promotion runs until Feb 1, 2027, so finish entering by then to be safe.",
+      "notes": "Sponsor's short rules and listing sites quoting the rules: no purchase necessary; contiguous US and DC (no Alaska or Hawaii), 18+; register on the site (it has a login page) and play the web memory game, where each level earns an entry, up to 25 entries per day per email address including bonus entries for sharing; Oct 1, 2026 12:00:01 AM ET to Feb 14, 2027 11:59:59 PM ET. Terry's Nov 5 press release says the US promotion runs until Feb 1, 2027, so finish entering by then to be safe. Drawing about 5 business days after the end. The receipt upload on liveevent.terryschocolate.com is a separate $50 live-event credit offer and isn't needed.",
       "day_note": "The short rules don't say when a day starts, so this waits a full 24 hours between game sessions.",
       "verification": {
         "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-09T18:25:00-05:00",
-        "reason": "The sponsor's short rules (on its live-event offer page, read through a Perplexity lookup) cover eligibility, free entry, the Feb 14, 2027 end and 25 entries a day, but the full official rules page needed a page reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer, and the sponsor's press release gives Feb 1, 2027 as the US end.",
+        "checked_at": "2026-11-18T18:45:00-05:00",
+        "reason": "The full official rules page waits on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of terryschocolate.com found only Terry's other prize-draw terms. The short rules and listing sites give Feb 14, 2027 as the end, but Terry's press release says Feb 1, and no source says when a day starts.",
+        "missing": [
+          "deadline"
+        ],
         "evidence": [
           "https://liveevent.terryschocolate.com/home",
           "https://www.einpresswire.com/article/954278995/terry-s-chocolate-launches-ritual-to-remember-holiday-sweepstakes-with-a-trip-for-two-to-europe",
-          "https://ritualtoremember.terryschocolate.com/rules"
-        ],
-        "missing": [
-          "deadline"
+          "https://ritualtoremember.terryschocolate.com/rules",
+          "https://www.sweepstakeslovers.com/trips/terrys-chocolate-ritual-to-remember-sweepstakes/",
+          "https://www.sweepstakesbible.com/giveaways/terrys-chocolate-ritual-to-remember-europe-trip-sweepstakes"
         ]
       },
       "added": "2026-11-09",

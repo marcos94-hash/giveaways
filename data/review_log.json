@@ -80,35 +80,20 @@
     },
     "https://ahxlegoland.com/en/gate": {
       "attempts": 1,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Sponsor's gate page (read through a Perplexity lookup) confirms eligibility and the end date, but the official rules couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. How to enter, whether a free online entry exists and the entry limit are unconfirmed.",
-      "last_attempt_at": "2026-11-08T17:50:42-05:00",
+      "reason": "The official rules weren't read: the gate page links them, but the rules and entry pages wait on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search found only the gate page. Listing sites say the web form needs a receipt and the free entry is by email, so a free online entry and the one-entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:13:30-05:00",
       "evidence": [
-        "https://ahxlegoland.com/en/gate"
+        "https://ahxlegoland.com/en/gate",
+        "https://finance.yahoo.com/media-advertising/articles/arm-hammer-baking-soda-legoland-212800575.html",
+        "https://www.sweepstakesbible.com/giveaways/arm-hammer-legoland-family-trip-sweepstakes",
+        "https://www.sweepstakeslovers.com/trips/arm-hammer-legoland-sweepstakes/"
       ],
-      "next_retry_at": "2026-11-11T17:50:42-05:00",
+      "next_retry_at": "2026-11-21T18:13:30-05:00",
       "name": "Win a Trip for Four to Legoland!",
       "listing_id": "arm-hammer-legoland-trip-sweepstakes",
-      "decided_at": "2026-11-08T17:50:42-05:00",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Sponsor's gate page (read through a Perplexity lookup) confirms eligibility and the end date, but the official rules couldn't be read because the page reader's approval prompt (PROVENANCE_REQUIRED) went unanswered in this unattended run. How to enter, whether a free online entry exists and the entry limit are unconfirmed.",
-          "last_attempt_at": "2026-11-08T17:50:42-05:00",
-          "evidence": [
-            "https://ahxlegoland.com/en/gate"
-          ],
-          "next_retry_at": "2026-11-11T17:50:42-05:00",
-          "name": "Win a Trip for Four to Legoland!",
-          "listing_id": "arm-hammer-legoland-trip-sweepstakes",
-          "decided_at": "2026-11-08T17:50:42-05:00"
-        }
-      }
+      "decided_at": "2026-11-18T18:13:30-05:00"
     },
     "https://airbaton.net/l/nutrlcollegefootballsweeps": {
       "attempts": 0,
@@ -4705,56 +4690,38 @@
       "attempts": 0,
       "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "The sponsor's short rules (on its live-event offer page, read through a Perplexity lookup) cover eligibility, free entry, the Feb 14, 2027 end and 25 entries a day, but the full official rules page needed a page reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer, and the sponsor's press release gives Feb 1, 2027 as the US end.",
-      "last_attempt_at": "2026-11-09T18:14:19-05:00",
+      "reason": "The full official rules page waits on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of terryschocolate.com found only Terry's other prize-draw terms. The short rules and listing sites give Feb 14, 2027 as the end, but Terry's press release says Feb 1, and no source says when a day starts.",
+      "last_attempt_at": "2026-11-18T18:13:30-05:00",
       "evidence": [
         "https://liveevent.terryschocolate.com/home",
         "https://ritualtoremember.terryschocolate.com/rules",
-        "https://www.einpresswire.com/article/954278995/terry-s-chocolate-launches-ritual-to-remember-holiday-sweepstakes-with-a-trip-for-two-to-europe"
+        "https://www.einpresswire.com/article/954278995/terry-s-chocolate-launches-ritual-to-remember-holiday-sweepstakes-with-a-trip-for-two-to-europe",
+        "https://www.sweepstakesbible.com/giveaways/terrys-chocolate-ritual-to-remember-europe-trip-sweepstakes",
+        "https://www.sweepstakeslovers.com/trips/terrys-chocolate-ritual-to-remember-sweepstakes/"
       ],
       "listing_id": "terry-s-chocolate-ritual-to-remember-sweepstakes",
-      "decided_at": "2026-11-09T18:14:19-05:00",
-      "next_retry_at": "2026-11-12T18:14:19-05:00"
+      "decided_at": "2026-11-18T18:13:30-05:00",
+      "next_retry_at": "2026-11-21T18:13:30-05:00"
     },
     "https://ritualtoremember.terryschocolate.com/login": {
       "attempts": 1,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "The sponsor's short rules (on its live-event offer page, read through a Perplexity lookup) cover eligibility, free entry, the Feb 14, 2027 end and 25 entries a day, but the full official rules page needed a page reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer, and the sponsor's press release gives Feb 1, 2027 as the US end.",
-      "last_attempt_at": "2026-11-09T18:14:19-05:00",
+      "reason": "The full official rules page waits on a page reader approval (PROVENANCE_REQUIRED), and a Perplexity search of terryschocolate.com found only Terry's other prize-draw terms. The short rules and listing sites give Feb 14, 2027 as the end, but Terry's press release says Feb 1, and no source says when a day starts.",
+      "last_attempt_at": "2026-11-18T18:13:30-05:00",
       "evidence": [
         "https://liveevent.terryschocolate.com/home",
         "https://ritualtoremember.terryschocolate.com/",
         "https://ritualtoremember.terryschocolate.com/rules",
         "https://www.einpresswire.com/article/954278995/terry-s-chocolate-launches-ritual-to-remember-holiday-sweepstakes-with-a-trip-for-two-to-europe",
+        "https://www.sweepstakesbible.com/giveaways/terrys-chocolate-ritual-to-remember-europe-trip-sweepstakes",
+        "https://www.sweepstakeslovers.com/trips/terrys-chocolate-ritual-to-remember-sweepstakes/",
         "https://www.terryschocolate.com/terrys-usa-terms-conditions/"
       ],
-      "next_retry_at": "2026-11-12T18:14:19-05:00",
+      "next_retry_at": "2026-11-21T18:13:30-05:00",
       "name": "terry's Chocolate Ritual to Remember Sweepstakes",
       "listing_id": "terry-s-chocolate-ritual-to-remember-sweepstakes",
-      "decided_at": "2026-11-09T18:14:19-05:00",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "The sponsor's short rules (on its live-event offer page, read through a Perplexity lookup) cover eligibility, free entry, the Feb 14, 2027 end and 25 entries a day, but the full official rules page needed a page reader approval (PROVENANCE_REQUIRED) this unattended run couldn't answer, and the sponsor's press release gives Feb 1, 2027 as the US end.",
-          "last_attempt_at": "2026-11-09T18:14:19-05:00",
-          "evidence": [
-            "https://liveevent.terryschocolate.com/home",
-            "https://ritualtoremember.terryschocolate.com/",
-            "https://ritualtoremember.terryschocolate.com/rules",
-            "https://www.einpresswire.com/article/954278995/terry-s-chocolate-launches-ritual-to-remember-holiday-sweepstakes-with-a-trip-for-two-to-europe",
-            "https://www.terryschocolate.com/terrys-usa-terms-conditions/"
-          ],
-          "next_retry_at": "2026-11-12T18:14:19-05:00",
-          "name": "terry's Chocolate Ritual to Remember Sweepstakes",
-          "listing_id": "terry-s-chocolate-ritual-to-remember-sweepstakes",
-          "decided_at": "2026-11-09T18:14:19-05:00"
-        }
-      }
+      "decided_at": "2026-11-18T18:13:30-05:00"
     },
     "https://roadrangerusa.com/BigGameSweepstakes": {
       "attempts": 0,
@@ -5111,77 +5078,42 @@
     },
     "https://starbucks-survey2.promo.eprize.com/": {
       "attempts": 0,
-      "status": "in_progress",
-      "reason_code": "needs_rules_check",
-      "reason": "The sponsor rules read (Starbucks, administered by Merkle) cover the period that ended Sep 30, 2026. Listing sites quote the same terms for the new Oct 2026 to Sep 2027 period, but the current rules weren't read.",
-      "last_attempt_at": "2026-11-07T17:56:39-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-18T18:13:30-05:00",
       "evidence": [
+        "https://hip2save.com/deals/starbucks-sweepstakes/",
         "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2025.pdf",
+        "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2026.pdf",
         "https://starbucks.survoxinc.com/star01/insights/ce101/rules_2026.pdf",
         "https://www.sweepsadvantage.com/starbucks-sweepstakes",
+        "https://www.sweepstakeslovers.com/gift-cards/starbucks-customer-experience-sweepstakes/",
         "https://www.sweepstakestoday.com/sweeps/details/117997/starbucks-customer-experience-sweepstakes"
       ],
       "listing_id": "starbucks-customer-experience-sweepstakes-oct-2026-to-sep-20",
-      "decided_at": "2026-11-07T17:56:39-05:00",
-      "next_retry_at": "2026-11-10T17:56:39-05:00",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": {
-          "attempts": 0,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "The sponsor rules read (Starbucks, administered by Merkle) cover the period that ended Sep 30, 2026. Listing sites quote the same terms for the new Oct 2026 to Sep 2027 period, but the current rules weren't read.",
-          "last_attempt_at": "2026-11-07T17:56:39-05:00",
-          "evidence": [
-            "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2025.pdf",
-            "https://starbucks.survoxinc.com/star01/insights/ce101/rules_2026.pdf",
-            "https://www.sweepsadvantage.com/starbucks-sweepstakes",
-            "https://www.sweepstakestoday.com/sweeps/details/117997/starbucks-customer-experience-sweepstakes"
-          ],
-          "listing_id": "starbucks-customer-experience-sweepstakes-oct-2026-to-sep-20",
-          "decided_at": "2026-11-07T17:56:39-05:00",
-          "next_retry_at": "2026-11-10T17:56:39-05:00"
-        }
-      }
+      "decided_at": "2026-11-18T18:13:30-05:00",
+      "next_retry_at": null
     },
     "https://starbucks.promo.eprize.com/survey/public/COMPILED/en/fulfillment/rules_2021.ae83bf2ad04b5fa42cfdec81f0c8479d.pdf": {
       "attempts": 1,
-      "status": "in_progress",
-      "reason_code": "needs_rules_check",
-      "reason": "The sponsor rules read (Starbucks, administered by Merkle) cover the period that ended Sep 30, 2026. Listing sites quote the same terms for the new Oct 2026 to Sep 2027 period, but the current rules weren't read.",
-      "last_attempt_at": "2026-11-07T17:56:39-05:00",
-      "next_retry_at": "2026-11-10T17:56:39-05:00",
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-18T18:13:30-05:00",
+      "next_retry_at": null,
       "name": "1.2K Win a GC in The Starbucks Customer Experience Sweeps!",
       "evidence": [
+        "https://hip2save.com/deals/starbucks-sweepstakes/",
         "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2025.pdf",
+        "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2026.pdf",
         "https://starbucks.survoxinc.com/star01/insights/ce101/rules_2026.pdf",
         "https://www.sweepsadvantage.com/starbucks-sweepstakes",
+        "https://www.sweepstakeslovers.com/gift-cards/starbucks-customer-experience-sweepstakes/",
         "https://www.sweepstakestoday.com/sweeps/details/117997/starbucks-customer-experience-sweepstakes"
       ],
       "listing_id": "starbucks-customer-experience-sweepstakes-oct-2026-to-sep-20",
-      "decided_at": "2026-11-07T17:56:39-05:00",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "The sponsor rules read (Starbucks, administered by Merkle) cover the period that ended Sep 30, 2026. Listing sites quote the same terms for the new Oct 2026 to Sep 2027 period, but the current rules weren't read.",
-          "last_attempt_at": "2026-11-07T17:56:39-05:00",
-          "next_retry_at": "2026-11-10T17:56:39-05:00",
-          "name": "1.2K Win a GC in The Starbucks Customer Experience Sweeps!",
-          "evidence": [
-            "https://starbucks.promo.eprize.com/survey3/public/fulfillment/rules_2025.pdf",
-            "https://starbucks.survoxinc.com/star01/insights/ce101/rules_2026.pdf",
-            "https://www.sweepsadvantage.com/starbucks-sweepstakes",
-            "https://www.sweepstakestoday.com/sweeps/details/117997/starbucks-customer-experience-sweepstakes"
-          ],
-          "listing_id": "starbucks-customer-experience-sweepstakes-oct-2026-to-sep-20",
-          "decided_at": "2026-11-07T17:56:39-05:00"
-        }
-      }
+      "decided_at": "2026-11-18T18:13:30-05:00"
     },
     "https://straighttalkracingtour.com/mustang-giveaway": {
       "attempts": 1,
@@ -5257,13 +5189,16 @@
       "decided_at": "2026-11-13T17:58:16-05:00"
     },
     "https://sweepwidget.com/c/103001-h02bwi63": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "This SweepWidget campaign didn't come up in web search or SweepWidget's directory, so its page and rules weren't read (unsearched links wait on a page reader approval, PROVENANCE_REQUIRED). The sponsor is a Minnesota cannabis dispensary chain, so check the prize (cannabis products or dispensary credit would be an excluded prize) and whether entry is limited to Minnesota.",
+      "last_attempt_at": "2026-11-18T18:13:30-05:00",
+      "evidence": [
+        "https://www.freestufftimes.com/contests/04/rise-dispensaries-mn-thanksgiving-sweepstakes/"
+      ],
+      "next_retry_at": "2026-11-19T18:13:30-05:00",
+      "name": "RISE Dispensaries MN Thanksgiving Sweepstakes"
     },
     "https://sweepwidget.com/c/103029-ct8hafeo": {
       "attempts": 1,
