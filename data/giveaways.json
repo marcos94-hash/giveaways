@@ -4315,6 +4315,154 @@
       "source": "Claude review 2026-11-17",
       "id": "after-midnite-holiday-dinner-sweepstakes",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Misen x Giadzy Holiday Sweepstakes",
+      "prize": "One grand prize: a Misen 9-piece stainless cookware set ($754), 5-piece knife set ($489) and 6-piece Misenware set ($99), plus a Giadzy Taste of Italy package (signed Giada cookbook, olive oil kit, pasta and spices); about $1,500 or more in all",
+      "category": "other",
+      "entry_url": "https://misen.com/pages/giadzy-holiday-giveaway",
+      "rules_url": "https://misen.com/pages/giadzy-holiday-giveaway",
+      "match": [
+        "misen.com/pages/giadzy-holiday-giveaway"
+      ],
+      "ends": "2026-11-24T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering agrees to marketing emails from Misen and Giadzy (the rules' consent section names Misen, ButcherBox and Wildgrain)."
+      },
+      "notes": "Sponsor Misen, Inc. The official rules are on the giveaway page: open to legal residents of the 48 contiguous states, 18+ (NJ is in); no purchase; enter with name and email on the page; one entry per person and email address for the whole sweepstakes; Nov 10, 12:00 AM ET to Nov 24, 11:59 PM ET; drawing on or about Nov 25, and the winner must reply by Nov 30. Entering means agreeing to marketing emails. The rules read like a partly filled template (a [LANDING PAGE URL] placeholder, total ARV $TBD, and the Giadzy part at $400 vs $231 on the page), but eligibility, entry, dates and the limit are stated plainly.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://misen.com/pages/giadzy-holiday-giveaway",
+        "checked_at": "2026-11-18T18:10:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://misen.com/pages/giadzy-holiday-giveaway"
+        ]
+      },
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "misen-x-giadzy-holiday-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "ATTACK SHARK Weekly Giveaway, Week 47 of 2026",
+      "prize": "3 ATTACK SHARK F1 Air gaming mice (3 winners)",
+      "category": "electronics",
+      "entry_url": "https://gleam.io/gmx6q/attack-shark-weekly-giveaway-week-47-of-2026",
+      "match": [
+        "gleam.io/gmx6q"
+      ],
+      "ends": "2026-11-25T02:59:59-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "Gleam actions include follows on X, TikTok and Instagram, joining Discord and Telegram, and posting on X; which ones are required isn't shown."
+      },
+      "notes": "From a giveaway-list.com copy of the Gleam page: open to the world; free Gleam actions; Nov 17, 12:00 AM PT to Nov 24, 11:59 PM PT (2:59 AM ET Nov 25); winners drawn Nov 25. No age or entry limit is shown. Listing sites describe earlier weekly rounds as once per day, so this waits 24 hours between entries.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-18T18:10:00-05:00",
+        "reason": "Facts come from a giveaway-list.com copy of the Gleam page. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED) or return client errors, so age, the entry limit and the terms are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://giveaway-list.com/giveaway/gleam-gmx6q/attack-shark-weekly-giveaway-week-47-of-2026",
+          "https://online-sweepstakes.com/attack-shark-weekly-giveaway/",
+          "https://www.freestufftimes.com/contests/18/attack-shark-weekly-giveaway-week-47-of-2026/"
+        ]
+      },
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "attack-shark-weekly-giveaway-week-47-of-2026",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Roborock Thanksgiving 2026 Giveaway",
+      "prize": "3 winners, one each: Roborock Qrevo S Pro, F25 XT and H60 Hub Ultra floor cleaners",
+      "category": "electronics",
+      "entry_url": "https://gleam.io/50blq/roborock-thanksgiving-2026-giveaway-",
+      "match": [
+        "gleam.io/50blq"
+      ],
+      "ends": "2026-11-24T23:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "follow": "Gleam actions include following Roborock on Instagram and TikTok and posting with #RoborockThanksgiving; which ones are required isn't shown."
+      },
+      "notes": "From a giveaway-list.com copy of the Gleam page: open to the US and Canada; free to enter, starting with 'Tell us your favorite Thanksgiving tradition'; Nov 17, 12:00 AM ET to Nov 24, 11:59:59 PM ET; winners announced Nov 27. Age, any state exclusions and the entry limit aren't shown.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-18T18:10:00-05:00",
+        "reason": "Facts come from a giveaway-list.com copy of the Gleam page. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), so age, state exclusions and the entry limit are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://giveaway-list.com/giveaway/gleam-50blq/roborock-thanksgiving-2026-giveaway",
+          "https://www.freestufftimes.com/contests/17/roborock-thanksgiving-2026-giveaway/"
+        ]
+      },
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "roborock-thanksgiving-2026-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "BedInABox x Lazy One Giveaway",
+      "prize": "A BedInABox Original mattress, 2 plush pillows and matching Lazy One pajamas for the family",
+      "category": "other",
+      "entry_url": "https://gleam.io/9WzIa/bedinabox-x-lazy-one-giveaway",
+      "match": [
+        "gleam.io/9WzIa"
+      ],
+      "ends": "2026-11-25T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "notes": "BedInABox's own giveaways page links this Gleam page. Listing sites say US only and Nov 25 as the last day (no time given, so set to 11:59 PM ET). Age, the entry steps and the entry limit weren't found. BedInABox's 'Contest Rules' page is for a different customer gift-card program, not this giveaway.",
+      "verification": {
+        "status": "needs_rules_check",
+        "checked_at": "2026-11-18T18:10:00-05:00",
+        "reason": "Facts come from listing sites and BedInABox's giveaways page, which only links the Gleam page. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), so eligibility details, the end time and the entry limit are unconfirmed.",
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ],
+        "evidence": [
+          "https://www.bedinabox.com/pages/giveaways",
+          "https://sweepsdb.com/",
+          "https://www.freestufftimes.com/contests/17/bedinabox-x-lazy-one-giveaway/"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-18",
+      "source": "Claude review 2026-11-18",
+      "id": "bedinabox-x-lazy-one-giveaway",
+      "rules_checked": "partial"
     }
   ]
 }

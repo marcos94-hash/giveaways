@@ -1775,12 +1775,17 @@
     },
     "https://gleam.io/50blq/roborock-thanksgiving-2026-giveaway-": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a giveaway-list.com copy of the Gleam page. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), so age, state exclusions and the entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:09:15-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-50blq/roborock-thanksgiving-2026-giveaway",
+        "https://www.freestufftimes.com/contests/17/roborock-thanksgiving-2026-giveaway/"
+      ],
+      "listing_id": "roborock-thanksgiving-2026-giveaway",
+      "decided_at": "2026-11-18T18:09:15-05:00",
+      "next_retry_at": "2026-11-21T18:09:15-05:00"
     },
     "https://gleam.io/5ZgiH/prebf-giveaway-2026": {
       "attempts": 1,
@@ -1844,14 +1849,35 @@
       "next_retry_at": "2026-11-14T17:57:23-05:00",
       "name": "Utterance: $200 Steam Credit Giveaway"
     },
+    "https://gleam.io/9WzIa/bedinabox-x-lazy-one-giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites and BedInABox's giveaways page, which only links the Gleam page. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), so eligibility details, the end time and the entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:09:15-05:00",
+      "evidence": [
+        "https://sweepsdb.com/",
+        "https://www.bedinabox.com/pages/giveaways",
+        "https://www.freestufftimes.com/contests/17/bedinabox-x-lazy-one-giveaway/"
+      ],
+      "listing_id": "bedinabox-x-lazy-one-giveaway",
+      "decided_at": "2026-11-18T18:09:15-05:00",
+      "next_retry_at": "2026-11-21T18:09:15-05:00"
+    },
     "https://gleam.io/9WzIa/bedinabox-x-lazy-one-giveaway?gsr=9WzIa-oE8aNjvOT4": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites and BedInABox's giveaways page, which only links the Gleam page. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED), so eligibility details, the end time and the entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:09:15-05:00",
+      "evidence": [
+        "https://sweepsdb.com/",
+        "https://www.bedinabox.com/pages/giveaways",
+        "https://www.freestufftimes.com/contests/17/bedinabox-x-lazy-one-giveaway/"
+      ],
+      "listing_id": "bedinabox-x-lazy-one-giveaway",
+      "decided_at": "2026-11-18T18:09:15-05:00",
+      "next_retry_at": "2026-11-21T18:09:15-05:00"
     },
     "https://gleam.io/9b3up/duck-hunters-christmas-giveaway": {
       "attempts": 0,
@@ -2035,13 +2061,18 @@
       "name": "Cornbread Spritz Holiday Giveaway"
     },
     "https://gleam.io/LBk93/attack-shark-black-friday-giveaway-round-2": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "conflicting_info",
+      "reason": "A giveaway-list.com copy of the Gleam page shows only free social and visit actions for 3 X60 headsets, open worldwide, Nov 17 to Nov 22 11:59 PM PT, but Attack Shark's own Black Friday sale FAQ ties the 3 X60 headsets to orders placed Nov 18 to 22, so whether entry is free is unsettled; the Gleam terms couldn't be read (PROVENANCE_REQUIRED).",
+      "last_attempt_at": "2026-11-18T18:09:15-05:00",
+      "evidence": [
+        "https://attackshark.com/blogs/news/black-friday-gaming-gear-deals-giveaways",
+        "https://attackshark.com/pages/black-friday-mega-sale",
+        "https://giveaway-list.com/giveaway/gleam-LBk93/attack-shark-black-friday-giveaway-round-2"
+      ],
+      "next_retry_at": "2026-11-19T18:09:15-05:00",
+      "name": "ATTACK SHARK Black Friday Giveaway Round 2"
     },
     "https://gleam.io/LXGIW/weekly-tempspike-pro-giveaway-nov-915": {
       "attempts": 0,
@@ -2573,12 +2604,18 @@
     },
     "https://gleam.io/gmx6q/attack-shark-weekly-giveaway-week-47-of-2026": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a giveaway-list.com copy of the Gleam page. The Gleam page and its terms wait on a page reader approval (PROVENANCE_REQUIRED) or return client errors, so age, the entry limit and the terms are unconfirmed.",
+      "last_attempt_at": "2026-11-18T18:09:15-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/gleam-gmx6q/attack-shark-weekly-giveaway-week-47-of-2026",
+        "https://online-sweepstakes.com/attack-shark-weekly-giveaway/",
+        "https://www.freestufftimes.com/contests/18/attack-shark-weekly-giveaway-week-47-of-2026/"
+      ],
+      "listing_id": "attack-shark-weekly-giveaway-week-47-of-2026",
+      "decided_at": "2026-11-18T18:09:15-05:00",
+      "next_retry_at": "2026-11-21T18:09:15-05:00"
     },
     "https://gleam.io/hgGjz/gadgetguy-levoit-tower-fan-giveaway": {
       "attempts": 0,
@@ -3782,12 +3819,16 @@
     },
     "https://misen.com/pages/giadzy-holiday-giveaway": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-18",
-        "expires_at": "2026-11-18T20:41:09-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-18T18:09:15-05:00",
+      "evidence": [
+        "https://misen.com/pages/giadzy-holiday-giveaway"
+      ],
+      "listing_id": "misen-x-giadzy-holiday-sweepstakes",
+      "decided_at": "2026-11-18T18:09:15-05:00",
+      "next_retry_at": null
     },
     "https://mishimoto.com/alum-rad-giveaway-oct-2026": {
       "attempts": 1,
