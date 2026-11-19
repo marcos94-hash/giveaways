@@ -1037,37 +1037,22 @@
     },
     "https://coffeematesweeps.snipp.us/": {
       "attempts": 1,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "The sponsor's short rules on the entry site give 50 US + DC, 18+, no purchase, one entry and one instant-win play per day and the Nov 22 11:59:59 PM ET end, but the full official rules (a snipp.us short link to a PDF) did not come up in web search or a Perplexity lookup, so they were not read.",
-      "last_attempt_at": "2026-11-10T17:57:25-05:00",
+      "reason": "The sponsor's short rules on the entry site (re-read Nov 19) give 50 US + DC, 18+, no purchase, one sweepstakes entry and one instant-win play per day and the Nov 22 11:59:59 PM ET end, but the full official rules (the site's snipp.us rules link and the PDF) hit the unanswered PROVENANCE_REQUIRED approval prompt and a Perplexity lookup found only the short rules and listing-site summaries, so how a day is defined is unconfirmed.",
+      "last_attempt_at": "2026-11-19T18:10:28-05:00",
       "evidence": [
+        "https://morningsweeps.com/sweeps/nestle-usa-coffee-mate-year-of-flavor-giveaway-805-winners-sweepstakes/",
         "https://snippdocs.blob.core.windows.net/docs/Nestle/Coffee-Mate-Sweeps/sweeps-rules.pdf",
-        "https://www.coffeematesweeps.snipp.us/"
+        "https://www.coffeematesweeps.snipp.us/",
+        "https://www.coffeematesweeps.snipp.us/Prizes",
+        "https://www.coffeematesweeps.snipp.us/Support",
+        "https://www.sweepstakesbible.com/giveaways/coffee-mate-year-of-flavor-sweepstakes"
       ],
-      "next_retry_at": "2026-11-13T17:57:25-05:00",
+      "next_retry_at": "2026-11-22T18:10:28-05:00",
       "name": "100 Instantly Win Coffee Mate + $200 in The Coffee mate Year of Flavor Sweeps & IWG!",
       "listing_id": "coffee-mate-year-of-flavor-sweepstakes-and-instant-win-game",
-      "decided_at": "2026-11-10T17:57:25-05:00",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "The sponsor's short rules on the entry site give 50 US + DC, 18+, no purchase, one entry and one instant-win play per day and the Nov 22 11:59:59 PM ET end, but the full official rules (a snipp.us short link to a PDF) did not come up in web search or a Perplexity lookup, so they were not read.",
-          "last_attempt_at": "2026-11-10T17:57:25-05:00",
-          "evidence": [
-            "https://snippdocs.blob.core.windows.net/docs/Nestle/Coffee-Mate-Sweeps/sweeps-rules.pdf",
-            "https://www.coffeematesweeps.snipp.us/"
-          ],
-          "next_retry_at": "2026-11-13T17:57:25-05:00",
-          "name": "100 Instantly Win Coffee Mate + $200 in The Coffee mate Year of Flavor Sweeps & IWG!",
-          "listing_id": "coffee-mate-year-of-flavor-sweepstakes-and-instant-win-game",
-          "decided_at": "2026-11-10T17:57:25-05:00"
-        }
-      }
+      "decided_at": "2026-11-19T18:10:28-05:00"
     },
     "https://coldstonecreamery.com/sweepstakes": {
       "attempts": 0,
@@ -1726,12 +1711,19 @@
     },
     "https://freshholiday.brandmoverscf.com/": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites (UltraContest, Sweeps Atlas, Freebies Lovers, SweepsAdvantage). The entry site and its rules page didn't come up in web search or a Perplexity lookup, so the sponsor's rules weren't read.",
+      "last_attempt_at": "2026-11-19T18:10:28-05:00",
+      "evidence": [
+        "https://freebieslovers.com/free-clothing/win-fresh-express-ugly-sweater/",
+        "https://ultracontest.com/contests/fresh-express-ugly-sweater-sweepstakes",
+        "https://www.sweepsadvantage.com/picks.php",
+        "https://www.sweepsatlas.com/sweeps/fresh-express-ugly-sweater-sweepstakes"
+      ],
+      "listing_id": "fresh-express-ugly-sweater-sweepstakes",
+      "decided_at": "2026-11-19T18:10:28-05:00",
+      "next_retry_at": "2026-11-22T18:10:28-05:00"
     },
     "https://fs22.formsite.com/roundisnow/wbcgrwjjxd/index": {
       "attempts": 0,
@@ -2208,12 +2200,17 @@
     },
     "https://gleam.io/K1Wcw/thankstactical-giveaway?gsr=K1Wcw-pedxhFM0lr": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "status": "rejected",
+      "reason_code": "excluded_prize",
+      "reason": "Guns.com's Thanks-Tactical prize package includes a Ruger RXM pistol and a Gemtech suppressor, an excluded firearm prize (listing sites also show it 21+ and void in NJ).",
+      "last_attempt_at": "2026-11-19T18:10:28-05:00",
+      "evidence": [
+        "https://theoutdoorwire.com/releases/2026/11/gunscom-launches-thanks-tactical-holiday-giveaway-featuring-more-than-3550-in-prizes/",
+        "https://www.sweepsatlas.com/sweeps/guns-com-thanks-tactical-giveaway"
+      ],
+      "next_retry_at": null,
+      "decided_at": "2026-11-19T18:10:28-05:00",
+      "name": "THANKS-TACTICAL GIVEAWAY"
     },
     "https://gleam.io/KSc7B/vippori-giveaway": {
       "attempts": 1,
@@ -2984,41 +2981,24 @@
     },
     "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes": {
       "attempts": 1,
-      "status": "in_progress",
+      "status": "listed",
       "reason_code": "needs_rules_check",
-      "reason": "Facts come from a listing site and last year's MLF rules. The Gleam page and every majorleaguefishing.com page (rules, promo page, press release) returned client errors to the page reader, and a Perplexity lookup only found the 2025 rules, so this year's eligibility, end time and entry limit are unconfirmed.",
-      "last_attempt_at": "2026-11-10T17:57:25-05:00",
+      "reason": "MLF's own announcement (reposted by The Bass Cast) confirms 48 states + DC, 18+, no purchase and one entry per person per day through Nov 20, and listing sites quoting the rules give 11:59:59 PM CT, but this year's official rules weren't read: MLF's promo page hit the unanswered PROVENANCE_REQUIRED approval prompt, its rules page and press release returned client errors, and the Gleam page didn't come up in search.",
+      "last_attempt_at": "2026-11-19T18:10:28-05:00",
       "evidence": [
         "https://gleam.io/giveaways/r8CSA",
         "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
         "https://majorleaguefishing.com/promorules/",
-        "https://thefreebieguy.com/sweepstakes/2026-mlf-bass-pro-shops-z19-sweepstakes/"
+        "https://sweepsatlas.com/sweeps/major-league-fishing-bass-pro-shops-nitro-z19-sweepstakes-224716",
+        "https://thebasscast.com/2026/05/20/major-league-fishing-announces-2026-mlf-bass-pro-shops-z19-sweepstakes",
+        "https://thefreebieguy.com/sweepstakes/2026-mlf-bass-pro-shops-z19-sweepstakes/",
+        "https://winthatwhip.com/giveaway/mlf-bass-pro-shops-nitro-z19-sweepstakes",
+        "https://www.worldfreeprizes.com/giveaways/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes/"
       ],
-      "next_retry_at": "2026-11-13T17:57:25-05:00",
+      "next_retry_at": "2026-11-22T18:10:28-05:00",
       "name": "Win a New Boat in The 2026 MLF Bass Pro Shops Z19 Sweepstakes!!",
       "listing_id": "2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
-      "decided_at": "2026-11-10T17:57:25-05:00",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "listed",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from a listing site and last year's MLF rules. The Gleam page and every majorleaguefishing.com page (rules, promo page, press release) returned client errors to the page reader, and a Perplexity lookup only found the 2025 rules, so this year's eligibility, end time and entry limit are unconfirmed.",
-          "last_attempt_at": "2026-11-10T17:57:25-05:00",
-          "evidence": [
-            "https://gleam.io/giveaways/r8CSA",
-            "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
-            "https://majorleaguefishing.com/promorules/",
-            "https://thefreebieguy.com/sweepstakes/2026-mlf-bass-pro-shops-z19-sweepstakes/"
-          ],
-          "next_retry_at": "2026-11-13T17:57:25-05:00",
-          "name": "Win a New Boat in The 2026 MLF Bass Pro Shops Z19 Sweepstakes!!",
-          "listing_id": "2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
-          "decided_at": "2026-11-10T17:57:25-05:00"
-        }
-      }
+      "decided_at": "2026-11-19T18:10:28-05:00"
     },
     "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway": {
       "attempts": 1,
@@ -4611,12 +4591,17 @@
     },
     "https://percy-jackson-s3-premiere.prod.fooji.com/": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from listing sites (The Freebie Guy, Freebie Shark). The Fooji entry page and its rules PDF didn't come up in web search or a Perplexity lookup, so they weren't opened, and eligibility, the entry method, the end time and the limit are unconfirmed.",
+      "last_attempt_at": "2026-11-19T18:10:28-05:00",
+      "evidence": [
+        "https://thefreebieguy.com/sweepstakes/win-a-312-percy-jackson-season-3-prize-pack/",
+        "https://www.freebieshark.com/2026/11/disney-hulu-percy-jackson-sweepstakes-230-winners.html"
+      ],
+      "listing_id": "disney-hulu-percy-jackson-season-3-premiere-sweepstakes",
+      "decided_at": "2026-11-19T18:10:28-05:00",
+      "next_retry_at": "2026-11-22T18:10:28-05:00"
     },
     "https://perdue.com/giveaway": {
       "attempts": 0,

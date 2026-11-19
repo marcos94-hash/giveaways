@@ -2831,27 +2831,30 @@
     },
     {
       "name": "Coffee mate Year of Flavor Sweepstakes and Instant Win Game",
-      "prize": "5 grand prizes of groceries for a year, 100 year's supplies of Coffee mate creamer, and 700 daily instant-win Coffee mate mugs",
-      "category": "other",
+      "prize": "5 grand prizes of 'groceries for a year' (listing sites quoting the rules say a $15,000 check plus a $6,000 tax payment), 100 first prizes of a year's supply of Coffee mate creamer ($200 check per listing sites), and 700 daily instant-win Coffee mate mugs",
+      "category": "cash",
       "entry_url": "https://www.coffeematesweeps.snipp.us/",
       "rules_url": "https://snippdocs.blob.core.windows.net/docs/Nestle/Coffee-Mate-Sweeps/sweeps-rules.pdf",
       "match": [
         "coffeematesweeps.snipp.us"
       ],
-      "ends": "2026-11-22T23:59:00-05:00",
+      "ends": "2026-11-22T23:59:59-05:00",
       "limit": {
         "type": "rolling24"
       },
       "min_age": 18,
       "flags": {},
-      "notes": "One sweepstakes entry plus one instant-win play per day: sign in with your email and submit the form. 50 US + DC, 18+, no purchase. Ends Nov 22 at 11:59:59 PM ET. The $2 creamer coupon on the site is separate and not needed.",
+      "notes": "One sweepstakes entry plus one instant-win play per day. New entrants register at /Register; returning entrants sign in with their email at /SignIn. Registration asks for state, date of birth and a mobile number, then texts a one-time code to type in. 50 US + DC, 18+, no purchase. Ends 11:59:59 PM ET Nov 22. The Nestle marketing box is optional, and the $2 creamer coupon on the site isn't needed.",
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-10T17:57:00-05:00",
-        "reason": "The sponsor's short rules on the entry site give 50 US + DC, 18+, no purchase, one entry and one instant-win play per day and the Nov 22 11:59:59 PM ET end, but the full official rules (a snipp.us short link to a PDF) did not come up in web search or a Perplexity lookup, so they were not read.",
+        "checked_at": "2026-11-19T18:35:00-05:00",
+        "reason": "The sponsor's short rules on the entry site (re-read Nov 19) give 50 US + DC, 18+, no purchase, one sweepstakes entry and one instant-win play per day and the Nov 22 11:59:59 PM ET end, but the full official rules (the site's snipp.us rules link and the PDF) hit the unanswered PROVENANCE_REQUIRED approval prompt and a Perplexity lookup found only the short rules and listing-site summaries, so how a day is defined is unconfirmed.",
         "evidence": [
-          "https://www.coffeematesweeps.snipp.us/"
+          "https://www.coffeematesweeps.snipp.us/Prizes",
+          "https://www.coffeematesweeps.snipp.us/Support",
+          "https://www.sweepstakesbible.com/giveaways/coffee-mate-year-of-flavor-sweepstakes",
+          "https://morningsweeps.com/sweeps/nestle-usa-coffee-mate-year-of-flavor-giveaway-805-winners-sweepstakes/"
         ],
         "missing": [
           "full_official_rules"
@@ -2864,35 +2867,33 @@
     },
     {
       "name": "2026 MLF Bass Pro Shops Nitro Z19 Sweepstakes",
-      "prize": "A Nitro Z19 bass boat (last year's boat, trailer and Mercury motor package was valued at $52,740)",
+      "prize": "Nitro Z19 bass boat with a 200 L Pro XS Mercury package (ARV $57,995); runner-up prizes are a $2,500 Rapala.com gift card, a Champion 2400W dual fuel inverter and a BUBBA prize package",
       "category": "other",
       "entry_url": "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
       "rules_url": "https://majorleaguefishing.com/promorules/",
       "match": [
         "gleam.io/r8CSA"
       ],
-      "ends": "2026-11-20T23:59:00-05:00",
+      "ends": "2026-11-21T00:59:59-05:00",
       "limit": {
         "type": "rolling24"
       },
       "min_age": 18,
       "flags": {},
-      "notes": "Listing site: ends Nov 20, daily entries, 18+. Last year's MLF rules allowed one entry per person per day for residents of the 48 contiguous states and DC, 18+, on Central time, so read this year's terms on the Gleam page first. MLF also shows it at majorleaguefishing.com/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes/.",
+      "notes": "MLF's announcement: open to legal residents of the 48 contiguous states and DC, 18+, no purchase, one entry per person per day at MajorLeagueFishing.com/promos (a Gleam form) through Nov 20. Listing sites quoting the rules give 11:59:59 PM CT Nov 20 as the end and say extra email addresses don't add entries. Per a listing site, the Gleam form asks for name, email and ZIP plus terms and 18+ checkboxes, and the marketing box is optional. Drawing about Nov 24.",
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-10T17:57:00-05:00",
-        "reason": "Facts come from a listing site and last year's MLF rules. The Gleam page and every majorleaguefishing.com page (rules, promo page, press release) returned client errors to the page reader, and a Perplexity lookup only found the 2025 rules, so this year's eligibility, end time and entry limit are unconfirmed.",
+        "checked_at": "2026-11-19T18:35:00-05:00",
+        "reason": "MLF's own announcement (reposted by The Bass Cast) confirms 48 states + DC, 18+, no purchase and one entry per person per day through Nov 20, and listing sites quoting the rules give 11:59:59 PM CT, but this year's official rules weren't read: MLF's promo page hit the unanswered PROVENANCE_REQUIRED approval prompt, its rules page and press release returned client errors, and the Gleam page didn't come up in search.",
         "evidence": [
-          "https://thefreebieguy.com/sweepstakes/2026-mlf-bass-pro-shops-z19-sweepstakes/",
-          "https://majorleaguefishing.com/promorules/",
-          "https://gleam.io/giveaways/r8CSA"
+          "https://thebasscast.com/2026/05/20/major-league-fishing-announces-2026-mlf-bass-pro-shops-z19-sweepstakes",
+          "https://www.worldfreeprizes.com/giveaways/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes/",
+          "https://winthatwhip.com/giveaway/mlf-bass-pro-shops-nitro-z19-sweepstakes",
+          "https://sweepsatlas.com/sweeps/major-league-fishing-bass-pro-shops-nitro-z19-sweepstakes-224716"
         ],
         "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
+          "full_official_rules"
         ]
       },
       "added": "2026-11-10",
@@ -4745,6 +4746,82 @@
       "source": "Claude review 2026-11-19",
       "id": "comfort-zone-pets-heated-pet-bed-giveaway",
       "rules_checked": "full"
+    },
+    {
+      "name": "Disney+ Hulu Percy Jackson Season 3 Premiere Sweepstakes",
+      "prize": "Percy Jackson season 3 premiere prize pack (camp shirt, woven blanket, constellation projector and other merchandise; ARV $312 each), 230 winners",
+      "category": "other",
+      "entry_url": "https://percy-jackson-s3-premiere.prod.fooji.com/",
+      "rules_url": "https://images.prod.fooji.com/original/organizations/20/campaigns/3695/published/click_for_official_rules-ab8550d.pdf",
+      "match": [
+        "percy-jackson-s3-premiere.prod.fooji.com"
+      ],
+      "ends": "2026-11-20T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "notes": "Type this form by hand: a listing site warns that entries made with phone or browser autofill are disqualified, so don't use Fill anyway. Listing sites: 50 US + DC, 18+, one entry per person, 230 winners. One listing site gives the end as 1:00 AM Nov 21 and another as Nov 20, so this listing ends at 11:59 PM ET Nov 20.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-19T18:35:00-05:00",
+        "reason": "Facts come from listing sites (The Freebie Guy, Freebie Shark). The Fooji entry page and its rules PDF didn't come up in web search or a Perplexity lookup, so they weren't opened, and eligibility, the entry method, the end time and the limit are unconfirmed.",
+        "evidence": [
+          "https://thefreebieguy.com/sweepstakes/win-a-312-percy-jackson-season-3-prize-pack/",
+          "https://www.freebieshark.com/2026/11/disney-hulu-percy-jackson-sweepstakes-230-winners.html"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-19",
+      "source": "Claude review 2026-11-19",
+      "id": "disney-hulu-percy-jackson-season-3-premiere-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Fresh Express Ugly Sweater Sweepstakes",
+      "prize": "10 Fresh Express ugly holiday sweaters (ARV up to $45.29 each) and 45 holiday ornaments (ARV up to $3.95 each)",
+      "category": "other",
+      "entry_url": "https://freshholiday.brandmoverscf.com/",
+      "rules_url": "https://freshholiday.brandmoverscf.com/rules",
+      "match": [
+        "freshholiday.brandmoverscf.com"
+      ],
+      "ends": "2026-11-23T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "notes": "Listing sites quoting the rules: sponsor Fresh Express, LLC, run by Brandmovers; 50 US + DC, 18+ (19 in AL and NE); one entry per person and email; ends 11:59 PM ET Nov 23; drawing about Nov 24. The form asks for name, contact details, mailing address and three short questions about Fresh Express products; joining the marketing list is optional. Winners have 48 hours to respond.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-19T18:35:00-05:00",
+        "reason": "Facts come from listing sites (UltraContest, Sweeps Atlas, Freebies Lovers, SweepsAdvantage). The entry site and its rules page didn't come up in web search or a Perplexity lookup, so the sponsor's rules weren't read.",
+        "evidence": [
+          "https://ultracontest.com/contests/fresh-express-ugly-sweater-sweepstakes",
+          "https://www.sweepsatlas.com/sweeps/fresh-express-ugly-sweater-sweepstakes",
+          "https://freebieslovers.com/free-clothing/win-fresh-express-ugly-sweater/",
+          "https://www.sweepsadvantage.com/picks.php"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "flags": {},
+      "added": "2026-11-19",
+      "source": "Claude review 2026-11-19",
+      "id": "fresh-express-ugly-sweater-sweepstakes",
+      "rules_checked": "partial"
     }
   ]
 }
