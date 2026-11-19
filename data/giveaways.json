@@ -1745,41 +1745,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "Fancy Feast Little Gem Micro Bag Sweepstakes",
-      "prize": "25 winners: Little Gem micro bag (ARV $500 each)",
-      "category": "other",
-      "entry_url": "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes",
-      "rules_url": "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules",
-      "ends": "2026-11-19T00:59:59-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Ends 11:59:59 PM CT Nov 18. One entry per method per person (web form or myPurina app). 50 states and DC, 18+.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules",
-        "checked_at": "2026-11-04T12:09-05:00",
-        "evidence": [
-          "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules"
-        ],
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        }
-      },
-      "match": [
-        "purina.com/s/fancy-feast-little-gem-microbag-sweepstakes"
-      ],
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "fancy-feast-little-gem-micro-bag-sweepstakes",
-      "rules_checked": "full"
-    },
-    {
       "name": "Dixxon Free Flannels for a Year Giveaway",
       "prize": "1 winner: 52 Dixxon flannels (one a week for a year)",
       "category": "other",
@@ -2936,77 +2901,6 @@
       "rules_checked": "partial"
     },
     {
-      "name": "The General x Street Fighter: Bonus Stage Break Sweepstakes",
-      "prize": "1994 Lexus LS400 (ARV $69,716) plus $25,400.69 cash by ACH; 1 winner",
-      "category": "mixed",
-      "entry_url": "https://the-general-x-street-fighter-bonus-stage-break.prod.fooji.com/",
-      "rules_url": "https://images.prod.fooji.com/original/organizations/449/campaigns/3681/published/click_here_for_official_rules-62220d4.pdf",
-      "ends": "2026-11-19T00:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "marketing": "The rules say entry info may be used for future marketing and that the sponsor (Fooji) will sell the personal information submitted with the entry form."
-      },
-      "notes": "One entry per person for the whole promotion. You must be a licensed driver at entry and when accepting the prize. Not open in AK, HI, IN, KY, ME, MN, WA or PR; NJ is fine. Form asks for name, address, email and phone. Ends Nov 18, 11:59 PM CT.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://images.prod.fooji.com/original/organizations/449/campaigns/3681/published/click_here_for_official_rules-62220d4.pdf",
-        "checked_at": "2026-11-12T17:48:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://images.prod.fooji.com/original/organizations/449/campaigns/3681/published/click_here_for_official_rules-62220d4.pdf"
-        ]
-      },
-      "added": "2026-11-12",
-      "source": "Claude review 2026-11-12",
-      "id": "the-general-x-street-fighter-bonus-stage-break-sweepstakes",
-      "match": [
-        "the-general-x-street-fighter-bonus-stage-break.prod.fooji.com/"
-      ],
-      "rules_checked": "full"
-    },
-    {
-      "name": "FREESKIER Holiday Gift Guide 2026 Giveaway",
-      "prize": "Ski accessories bundle worth nearly $2,000 (Hyperice Normatec Elite legs, Benchmade Bugout knife, Purl Wax tuning kit, QEJA socks, Kinco mitts, Gravity Grabber, a James Niehues book and more); 1 winner",
-      "category": "other",
-      "entry_url": "https://www.freeskier.com/freeskier-holiday-gift-guide-2026-27",
-      "ends": "2026-11-19T01:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "notes": "The Enter button on FREESKIER's page goes to a ul.ink short link (ul.ink/1150PG); that entry page and any rules weren't opened. Deadline on the page: Nov 18, 11:59 PM MST.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-12T17:54:00-05:00",
-        "reason": "FREESKIER's giveaway page gives the prize and the Nov 18, 11:59 PM MST deadline but no official rules, eligibility or entry limit; the entry form sits behind a ul.ink short link that couldn't be opened.",
-        "evidence": [
-          "https://www.freeskier.com/freeskier-holiday-gift-guide-2026-27"
-        ],
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "entry_limit"
-        ]
-      },
-      "flags": {},
-      "added": "2026-11-12",
-      "source": "Claude review 2026-11-12",
-      "id": "freeskier-holiday-gift-guide-2026-giveaway",
-      "match": [
-        "freeskier.com/freeskier-holiday-gift-guide-2026-27"
-      ],
-      "rules_checked": "partial"
-    },
-    {
       "name": "Wedderspoon Winter Wellness Giveaway",
       "prize": "1 winner: KitchenAid Artisan stand mixer, two 250g jars of raw Manuka honey (MGO 1100+ and 850+), a candle and a kitchen towel (ARV $720)",
       "category": "other",
@@ -3088,48 +2982,6 @@
       "source": "Claude review 2026-11-13",
       "id": "olipop-holiday-helper-giveaway",
       "rules_checked": "full"
-    },
-    {
-      "name": "Explore La Crosse Rotary Lights Getaway Sweepstakes 2026",
-      "prize": "La Crosse, Wisconsin getaway package worth $1,400+: a night at the Charmant Hotel, 2 La Crosse Symphony tickets and T-shirts (Mar 13, 2027 concert), a horse-drawn carriage ride at Rotary Holiday Lights, and local gift cards",
-      "category": "trip",
-      "entry_url": "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse",
-      "match": [
-        "gleam.io/wSFp4"
-      ],
-      "ends": "2026-11-18T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "notes": "Run by Explore La Crosse, the La Crosse, Wisconsin visitors bureau; its blog post links to this Gleam form. Using the prize means travel to Wisconsin. Eligibility, age and the entry limit are in Gleam's terms, which weren't read.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-13T17:57:00-05:00",
-        "confirmed": {
-          "eligibility": false,
-          "free_entry": false,
-          "deadline": false,
-          "entry_limit": false
-        },
-        "reason": "Explore La Crosse's own page gives the prize and says entries are valid Nov 4-19, 2026 (no time), with entry on Gleam. Gleam's terms couldn't be read (Gleam returns a client error to the page reader), so eligibility, free entry, end time and entry limit aren't confirmed. A listing site gives Nov 18 as the last day, so the listing ends then.",
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://explorelacrosse.com/blog/rotary-lights-getaway-sweepstake-2026/",
-          "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse"
-        ]
-      },
-      "flags": {},
-      "added": "2026-11-13",
-      "source": "Claude review 2026-11-13",
-      "id": "explore-la-crosse-rotary-lights-getaway-sweepstakes-2026",
-      "rules_checked": "partial"
     },
     {
       "name": "Peeler's Seafood Ultimate Montana Giveaway 2026",

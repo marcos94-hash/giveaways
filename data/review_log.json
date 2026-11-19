@@ -108,6 +108,15 @@
       "decided_at": "2026-11-06T18:00:22-05:00",
       "next_retry_at": null
     },
+    "https://allamericans.org/brent-faiyaz": {
+      "attempts": 0,
+      "name": "AAV (All Americans Vote) Brent Faiyaz Premium Experience Sweepstakes",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-19T17:39:39-05:00"
+    },
     "https://allegiantair.com/DoubleDownFlyawaySweepstakes": {
       "attempts": 0,
       "status": "listed",
@@ -1469,7 +1478,7 @@
     },
     "https://explorelacrosse.com/blog/rotary-lights-getaway-sweepstake-2026": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Explore La Crosse's own page gives the prize and says entries are valid Nov 4-19, 2026 (no time), with entry on Gleam. Gleam's terms couldn't be read (Gleam returns a client error to the page reader), so eligibility, free entry, end time and entry limit aren't confirmed. A listing site gives Nov 18 as the last day, so the listing ends then.",
       "last_attempt_at": "2026-11-13T17:58:16-05:00",
@@ -1478,8 +1487,8 @@
         "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse"
       ],
       "listing_id": "explore-la-crosse-rotary-lights-getaway-sweepstakes-2026",
-      "decided_at": "2026-11-13T17:58:16-05:00",
-      "next_retry_at": "2026-11-16T17:58:16-05:00"
+      "decided_at": "2026-11-19T17:39:39-05:00",
+      "next_retry_at": null
     },
     "https://ferrerorocher.com/us/en/xp/raise-a-rocher/lead/register/amoe": {
       "attempts": 0,
@@ -1547,6 +1556,15 @@
       "next_retry_at": null,
       "decided_at": "2026-11-15T17:40:05-05:00"
     },
+    "https://floordecorhomemakeover.com/register.aspx?AspxAutoDetectCookieSupport=1": {
+      "attempts": 0,
+      "name": "Floor and Decor Home Makeover Sweepstakes",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-19T17:39:39-05:00"
+    },
     "https://foodnetwork.com/shows/holiday-baking-championship/giveaway": {
       "attempts": 0,
       "status": "listed",
@@ -1602,7 +1620,7 @@
     },
     "https://freeskier.com/freeskier-holiday-gift-guide-2026-27": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "FREESKIER's giveaway page gives the prize and the Nov 18, 11:59 PM MST deadline but no official rules, eligibility or entry limit; the entry form sits behind a ul.ink short link that couldn't be opened.",
       "last_attempt_at": "2026-11-12T17:55:06-05:00",
@@ -1610,8 +1628,8 @@
         "https://www.freeskier.com/freeskier-holiday-gift-guide-2026-27"
       ],
       "listing_id": "freeskier-holiday-gift-guide-2026-giveaway",
-      "decided_at": "2026-11-12T17:55:06-05:00",
-      "next_retry_at": "2026-11-15T17:55:06-05:00"
+      "decided_at": "2026-11-19T17:39:39-05:00",
+      "next_retry_at": null
     },
     "https://fs22.formsite.com/roundisnow/wbcgrwjjxd/index": {
       "attempts": 0,
@@ -1799,15 +1817,16 @@
     },
     "https://gleam.io/83D2Q/mas-laws-thanksgiving-giveaway-2-100-visa-gift-cards?gsr=83D2Q-oCfe7ZfaFQ": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Web search surfaced MAS Law's earlier Gleam giveaways but not this Thanksgiving one, so the page reader couldn't open it (unsearched links hit the PROVENANCE_REQUIRED prompt), and Perplexity had no copy. Terms not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-12T17:55:06-05:00",
       "evidence": [
         "https://gleam.io/83D2Q/mas-laws-thanksgiving-giveaway-2-100-visa-gift-cards"
       ],
-      "next_retry_at": "2026-11-13T17:55:06-05:00",
-      "name": "MAS Law’s Thanksgiving Giveaway"
+      "next_retry_at": null,
+      "name": "MAS Law’s Thanksgiving Giveaway",
+      "decided_at": "2026-11-19T17:39:39-05:00"
     },
     "https://gleam.io/8G8Uo/knifesaga-x4-pro-15piece-knife-set": {
       "attempts": 1,
@@ -1886,6 +1905,15 @@
       "reason": "ended before it could be verified",
       "next_retry_at": null,
       "decided_at": "2026-11-14T17:45:13-05:00"
+    },
+    "https://gleam.io/B1lYq/virginia-adventure-giveaway?gsr=B1lYq-p5cX3z0pbP": {
+      "attempts": 0,
+      "name": "Hardywood Park Craft Brewery Virginia Adventure Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-19T17:39:39-05:00"
     },
     "https://gleam.io/C6rsJ/win-a-clarifion-dstx-20-air-purifier-6pack-": {
       "attempts": 3,
@@ -1984,12 +2012,13 @@
     },
     "https://gleam.io/IuUqy/black-friday-2026-giveaway?gsr=IuUqy-pcGvvHtbP4": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "no_rules_found",
-      "reason": "The sponsor is unknown and four searches found neither it nor any rules; the Gleam page never came up in search, and the AppSumo and ATK GEAR Black Friday 2026 promotions checked are different giveaways",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-16T18:10:36-05:00",
-      "next_retry_at": "2026-11-17T18:10:36-05:00",
-      "name": "Black Friday 2026 Giveaway"
+      "next_retry_at": null,
+      "name": "Black Friday 2026 Giveaway",
+      "decided_at": "2026-11-19T17:39:39-05:00"
     },
     "https://gleam.io/Izf4A/2026-pmgc-redmagic-giveaway": {
       "attempts": 0,
@@ -2195,15 +2224,16 @@
     },
     "https://gleam.io/ODwDg/beacon-x-she-helps-momma-houston-night-nanny-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Gleam page didn't come up in web search, so the page reader couldn't open it (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Terms not read; the night-nanny prize looks local to Houston, so check for a local restriction.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-12T17:55:45-05:00",
       "evidence": [
         "https://gleam.io/ODwDg/beacon-x-she-helps-momma-houston-night-nanny-giveaway"
       ],
-      "next_retry_at": "2026-11-13T17:55:45-05:00",
-      "name": "Win 3 Nights of Sleep + a Year of Beacon Premium"
+      "next_retry_at": null,
+      "name": "Win 3 Nights of Sleep + a Year of Beacon Premium",
+      "decided_at": "2026-11-19T17:39:39-05:00"
     },
     "https://gleam.io/OHkOh/double-trouble-giveaway-mossberg-mc2sc-gift-card": {
       "attempts": 0,
@@ -2874,7 +2904,7 @@
     },
     "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Explore La Crosse's own page gives the prize and says entries are valid Nov 4-19, 2026 (no time), with entry on Gleam. Gleam's terms couldn't be read (Gleam returns a client error to the page reader), so eligibility, free entry, end time and entry limit aren't confirmed. A listing site gives Nov 18 as the last day, so the listing ends then.",
       "last_attempt_at": "2026-11-13T17:58:16-05:00",
@@ -2883,8 +2913,8 @@
         "https://gleam.io/wSFp4/rotary-lights-getaway-sweepstakes-with-explore-la-crosse"
       ],
       "listing_id": "explore-la-crosse-rotary-lights-getaway-sweepstakes-2026",
-      "decided_at": "2026-11-13T17:58:16-05:00",
-      "next_retry_at": "2026-11-16T17:58:16-05:00"
+      "decided_at": "2026-11-19T17:39:39-05:00",
+      "next_retry_at": null
     },
     "https://gleam.io/wU0im/gadgetguy-eero-7-3pack-giveaway": {
       "attempts": 1,
@@ -3311,15 +3341,16 @@
     },
     "https://kingsumo.com/g/107jkv3/win-2-poppy-odyssey-ii-crochet-hooks": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "KingSumo page and its rules page didn't come up in web search (only other Furls Crochet KingSumo giveaways did), so the page reader couldn't open them (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-13T17:57:07-05:00",
       "evidence": [
         "https://kingsumo.com/g/107jkv3/win-2-poppy-odyssey-ii-crochet-hooks"
       ],
-      "next_retry_at": "2026-11-14T17:57:07-05:00",
-      "name": "Win 2 Poppy Odyssey II Crochet Hooks"
+      "next_retry_at": null,
+      "name": "Win 2 Poppy Odyssey II Crochet Hooks",
+      "decided_at": "2026-11-19T17:39:39-05:00"
     },
     "https://kingsumo.com/g/107jnv3/verus-pet-foods-cat-gift-basket-giveaway": {
       "attempts": 1,
@@ -3382,27 +3413,29 @@
     },
     "https://kingsumo.com/g/1vj8gz1/win-a-1000-gift-certificate-to-greg-landrys-homeschool-science": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "KingSumo page and its rules didn't come up in web search, so the page reader couldn't open them (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-12T17:55:45-05:00",
       "evidence": [
         "https://kingsumo.com/g/1vj8gz1/win-a-1000-gift-certificate-to-greg-landrys-homeschool-science"
       ],
-      "next_retry_at": "2026-11-13T17:55:45-05:00",
-      "name": "Win a $1,000 Gift Certificate to Greg Landry’s Homeschool Science"
+      "next_retry_at": null,
+      "name": "Win a $1,000 Gift Certificate to Greg Landry’s Homeschool Science",
+      "decided_at": "2026-11-19T17:39:39-05:00"
     },
     "https://kingsumo.com/g/1wgwnwm/win-2-espresso-streamline-metal-crochet-hooks": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "no_rules_found",
-      "reason": "This KingSumo giveaway's page and rules never came up in search; a sibling Furls Crochet KingSumo giveaway's rules (US entrants 21+, online form, noon ET close, one prize per household) hint at the template but aren't this giveaway's",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-16T18:10:48-05:00",
       "evidence": [
         "https://kingsumo.com/giveaways/m44jj9m/rules"
       ],
-      "next_retry_at": "2026-11-17T18:10:48-05:00",
-      "name": "Win 2 Espresso Streamline Metal Crochet Hooks"
+      "next_retry_at": null,
+      "name": "Win 2 Espresso Streamline Metal Crochet Hooks",
+      "decided_at": "2026-11-19T17:39:39-05:00"
     },
     "https://kingsumo.com/g/1xqx5nm/a-christmas-romance-giveaway": {
       "attempts": 1,
@@ -3747,6 +3780,15 @@
       "decided_at": "2026-11-04T11:54:33-05:00",
       "next_retry_at": null
     },
+    "https://mariniskinsolutions.com/pages/skin-care-giveaway": {
+      "attempts": 0,
+      "name": "Jet Set Glow Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-19T17:39:39-05:00"
+    },
     "https://marketprohdq.com/grader.html": {
       "attempts": 1,
       "status": "ended",
@@ -4077,6 +4119,15 @@
       "next_retry_at": null,
       "decided_at": "2026-11-15T17:40:05-05:00"
     },
+    "https://news.iheart.com/promotions/iheartradio-alter-ego-presented-by-capital-1931237": {
+      "attempts": 0,
+      "name": "iHeartRadio ALTer Ego Capital One Ultimate Fan Sweepstakes",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-19T17:39:39-05:00"
+    },
     "https://news.iheart.com/promotions/ultimate-iheartcountry-christmas-vacation-2026-national-1928322": {
       "attempts": 0,
       "name": "Win a Las Vegas Country Music Vacation for Two!",
@@ -4109,6 +4160,15 @@
         "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
         "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
       ]
+    },
+    "https://newyorkjets.com/fans/sweepstakes/26carnival": {
+      "attempts": 0,
+      "name": "New York Jets Your Ticket to Sail with Carnival Sweepstakes",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-19T17:39:39-05:00"
     },
     "https://northernrosejewelry.com/blogs/articles/giveaway": {
       "attempts": 1,
@@ -4446,7 +4506,7 @@
     },
     "https://purina.com/s/fancy-feast-little-gem-microbag-sweepstakes": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-04T12:09:45-05:00",
@@ -4454,12 +4514,12 @@
         "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules"
       ],
       "listing_id": "fancy-feast-little-gem-micro-bag-sweepstakes",
-      "decided_at": "2026-11-04T12:09:45-05:00",
+      "decided_at": "2026-11-19T17:39:39-05:00",
       "next_retry_at": null
     },
     "https://purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-04T12:09:45-05:00",
@@ -4467,7 +4527,7 @@
         "https://www.purina.com/s/fancy-feast-little-gem-microbag-sweepstakes/rules"
       ],
       "listing_id": "fancy-feast-little-gem-micro-bag-sweepstakes",
-      "decided_at": "2026-11-04T12:09:45-05:00",
+      "decided_at": "2026-11-19T17:39:39-05:00",
       "next_retry_at": null
     },
     "https://qr.health-ade.com/c/Y3WM": {
@@ -5422,15 +5482,16 @@
     },
     "https://sweepwidget.com/c/103457-di2na1be": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-13T17:57:07-05:00",
       "evidence": [
         "https://sweepwidget.com/c/103457-di2na1be"
       ],
-      "next_retry_at": "2026-11-14T17:57:07-05:00",
-      "name": "GTA 6 GIVEAWAY"
+      "next_retry_at": null,
+      "name": "GTA 6 GIVEAWAY",
+      "decided_at": "2026-11-19T17:39:39-05:00"
     },
     "https://sweepwidget.com/c/103466-acu4r7nh": {
       "attempts": 1,
@@ -5513,7 +5574,7 @@
     },
     "https://the-general-x-street-fighter-bonus-stage-break.prod.fooji.com/": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-12T17:49:04-05:00",
@@ -5521,7 +5582,7 @@
         "https://images.prod.fooji.com/original/organizations/449/campaigns/3681/published/click_here_for_official_rules-62220d4.pdf"
       ],
       "listing_id": "the-general-x-street-fighter-bonus-stage-break-sweepstakes",
-      "decided_at": "2026-11-12T17:49:04-05:00",
+      "decided_at": "2026-11-19T17:39:39-05:00",
       "next_retry_at": null
     },
     "https://thechasefordpromo.nascar.com/": {
@@ -5606,7 +5667,7 @@
     },
     "https://ul.ink/1150PG-PQFBF": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "FREESKIER's giveaway page gives the prize and the Nov 18, 11:59 PM MST deadline but no official rules, eligibility or entry limit; the entry form sits behind a ul.ink short link that couldn't be opened.",
       "last_attempt_at": "2026-11-12T17:55:06-05:00",
@@ -5614,8 +5675,8 @@
         "https://www.freeskier.com/freeskier-holiday-gift-guide-2026-27"
       ],
       "listing_id": "freeskier-holiday-gift-guide-2026-giveaway",
-      "decided_at": "2026-11-12T17:55:06-05:00",
-      "next_retry_at": "2026-11-15T17:55:06-05:00"
+      "decided_at": "2026-11-19T17:39:39-05:00",
+      "next_retry_at": null
     },
     "https://ul.ink/185EMB-TQM8S6": {
       "attempts": 3,
