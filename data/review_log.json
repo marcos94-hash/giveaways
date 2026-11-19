@@ -352,32 +352,17 @@
       "name": "Golden Little Moments Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "ViralSweep page didn't come up in web search (nor on jerrygarcia.com), so the page reader couldn't open it (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
-      "last_attempt_at": "2026-11-13T17:57:23-05:00",
+      "reason": "The ViralSweep page still didn't come up in web search, so the rules weren't read. SweepsDB lists a GarciaLive Vol. 8 LP box set prize and tags the giveaway Canada, so check eligibility.",
+      "last_attempt_at": "2026-11-19T18:11:55-05:00",
       "evidence": [
-        "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1"
+        "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1",
+        "https://sweepsdb.com/endingsoon"
       ],
-      "next_retry_at": "2026-11-14T17:57:23-05:00",
-      "name": "GarciaLive Volume 8 Beat The Line Giveaway",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "ViralSweep page didn't come up in web search (nor on jerrygarcia.com), so the page reader couldn't open it (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
-          "last_attempt_at": "2026-11-13T17:57:23-05:00",
-          "evidence": [
-            "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1"
-          ],
-          "next_retry_at": "2026-11-14T17:57:23-05:00",
-          "name": "GarciaLive Volume 8 Beat The Line Giveaway"
-        }
-      }
+      "next_retry_at": "2026-11-21T18:11:55-05:00",
+      "name": "GarciaLive Volume 8 Beat The Line Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
       "attempts": 2,
@@ -565,13 +550,17 @@
       "next_retry_at": null
     },
     "https://blackhawktireusa.com/contests/winter/en-us": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The US contest page didn't come up in web search and isn't linked from blackhawktireusa.com's other pages, so it wasn't opened; the Canadian twin page loads only a JavaScript shell, and a listing site says entry runs through Instagram (follow, like, comment) plus a form, so the entry method and eligibility are unconfirmed.",
+      "last_attempt_at": "2026-11-19T18:11:55-05:00",
+      "evidence": [
+        "https://blackhawktirecanada.ca/contests/winter/en/",
+        "https://www.contestscoop.com/blackhawk-tire-canada-contest/"
+      ],
+      "next_retry_at": "2026-11-20T18:11:55-05:00",
+      "name": "Blackhawk Winter Contest"
     },
     "https://blisterreview.com/blister-gear-giveaway/win-a-gear-tote-from-kitworks": {
       "attempts": 1,
@@ -1891,32 +1880,17 @@
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
     "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway": {
-      "attempts": 1,
-      "status": "in_progress",
+      "attempts": 2,
+      "status": "blocked",
       "reason_code": "unreadable_page",
-      "reason": "Gleam page didn't come up in web search (nor on shunnarah.com) and Gleam returns a client error to the page reader, so the terms weren't read. Shunnarah is an Alabama law firm, so check for an Alabama-only restriction.",
-      "last_attempt_at": "2026-11-13T17:57:23-05:00",
+      "reason": "The Gleam page still didn't come up in web search, so the terms weren't read. SweepsDB lists Alexander Shunnarah Trial Attorneys as host and Iron Bowl tickets (Nov 28, Alabama vs Auburn) as the prize, so check for an Alabama-only limit.",
+      "last_attempt_at": "2026-11-19T18:11:55-05:00",
       "evidence": [
-        "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway"
+        "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway",
+        "https://sweepsdb.com/contest/shunnarahs-iron-bowl-giveaway/10265907"
       ],
-      "next_retry_at": "2026-11-14T17:57:23-05:00",
-      "name": "Shunnarah's Iron Bowl Giveaway",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": {
-          "attempts": 1,
-          "status": "blocked",
-          "reason_code": "unreadable_page",
-          "reason": "Gleam page didn't come up in web search (nor on shunnarah.com) and Gleam returns a client error to the page reader, so the terms weren't read. Shunnarah is an Alabama law firm, so check for an Alabama-only restriction.",
-          "last_attempt_at": "2026-11-13T17:57:23-05:00",
-          "evidence": [
-            "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway"
-          ],
-          "next_retry_at": "2026-11-14T17:57:23-05:00",
-          "name": "Shunnarah's Iron Bowl Giveaway"
-        }
-      }
+      "next_retry_at": "2026-11-21T18:11:55-05:00",
+      "name": "Shunnarah's Iron Bowl Giveaway"
     },
     "https://gleam.io/83D2Q/mas-laws-thanksgiving-giveaway-2-100-visa-gift-cards?gsr=83D2Q-oCfe7ZfaFQ": {
       "attempts": 1,
@@ -3622,13 +3596,16 @@
       "next_retry_at": "2026-11-21T18:11:35-05:00"
     },
     "https://kingsumo.com/g/1j2ngq3/win-a-deluxe-narnia-the-magicians-nephew-box": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The KingSumo page and its rules didn't come up in web search, so they weren't opened (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt); the sponsor, prize details and terms weren't read.",
+      "last_attempt_at": "2026-11-19T18:11:55-05:00",
+      "evidence": [
+        "https://kingsumo.com/g/1j2ngq3/win-a-deluxe-narnia-the-magicians-nephew-box"
+      ],
+      "next_retry_at": "2026-11-20T18:11:55-05:00",
+      "name": "Win a Deluxe Narnia, The Magician's Nephew Box"
     },
     "https://kingsumo.com/g/1vj8gz1/win-a-1000-gift-certificate-to-greg-landrys-homeschool-science": {
       "attempts": 1,
