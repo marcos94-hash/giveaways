@@ -177,8 +177,8 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-10T17:57:00-05:00",
-        "reason": "Facts come from listing sites. The promotion page loads only the site shell for the page reader, and KIIS-FM's rules list names this sweepstakes, but its rules document and the aptivada terms page did not come up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit are unconfirmed.",
+        "checked_at": "2026-11-19T18:40:00-05:00",
+        "reason": "Facts come from listing sites. KIIS-FM's rules list still names this sweepstakes and its promotion page shows only the title (the entry form seems to load from aptivada.com), but the official rules (the aptivada terms page) didn't come up in web search, so eligibility, the end time and the entry limit are unconfirmed.",
         "evidence": [
           "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
           "https://kiisfm.iheart.com/rules/",
@@ -700,8 +700,8 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-11T18:05:00-05:00",
-        "reason": "The sponsor's short rules on takeflightwithpepsi.com (read through a Perplexity page extract) give 50 US + DC, 18+ (19 in AL and NE), no purchase, one entry per person per day and the Jan 10, 2027 11:59:59 PM ET end, but the full Official Rules didn't come up in web search or Perplexity, so the day definition and other terms are unconfirmed.",
+        "checked_at": "2026-11-19T18:40:00-05:00",
+        "reason": "The sponsor's short rules on takeflightwithpepsi.com (read Nov 11 through a Perplexity page extract) give 50 US + DC, 18+ (19 in AL and NE), no purchase, one entry per person per day and the Jan 10, 2027 11:59:59 PM ET end, but the full Official Rules still haven't turned up: the site refuses the page reader by robots.txt and web search finds no copy, so the day definition and other terms are unconfirmed.",
         "evidence": [
           "https://takeflightwithpepsi.com/",
           "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes"

@@ -752,41 +752,20 @@
     },
     "https://campaign.aptivada.com/terms/1923861": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
-      "status": "in_progress",
-      "decided_at": "2026-11-10T17:57:26-05:00",
+      "status": "listed",
+      "decided_at": "2026-11-19T18:11:18-05:00",
       "attempts": 0,
       "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
       "reason_code": "needs_rules_check",
-      "reason": "Facts come from listing sites. The promotion page loads only the site shell for the page reader, and KIIS-FM's rules list names this sweepstakes, but its rules document and the aptivada terms page did not come up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit are unconfirmed.",
-      "next_retry_at": "2026-11-13T17:57:26-05:00",
-      "last_attempt_at": "2026-11-10T17:57:26-05:00",
+      "reason": "Facts come from listing sites. KIIS-FM's rules list still names this sweepstakes and its promotion page shows only the title (the entry form seems to load from aptivada.com), but the official rules (the aptivada terms page) didn't come up in web search, so eligibility, the end time and the entry limit are unconfirmed.",
+      "next_retry_at": "2026-11-22T18:11:18-05:00",
+      "last_attempt_at": "2026-11-19T18:11:18-05:00",
       "evidence": [
         "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
         "https://kiisfm.iheart.com/rules/",
         "https://www.sweepsadvantage.com/japan-sweepstakes",
         "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
-      ],
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": {
-          "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
-          "status": "listed",
-          "decided_at": "2026-11-10T17:57:26-05:00",
-          "attempts": 0,
-          "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from listing sites. The promotion page loads only the site shell for the page reader, and KIIS-FM's rules list names this sweepstakes, but its rules document and the aptivada terms page did not come up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit are unconfirmed.",
-          "next_retry_at": "2026-11-13T17:57:26-05:00",
-          "last_attempt_at": "2026-11-10T17:57:26-05:00",
-          "evidence": [
-            "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
-            "https://kiisfm.iheart.com/rules/",
-            "https://www.sweepsadvantage.com/japan-sweepstakes",
-            "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
-          ]
-        }
-      }
+      ]
     },
     "https://campaign.aptivada.com/terms/1927140": {
       "attempts": 2,
@@ -3034,13 +3013,16 @@
       "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://gleam.io/uYsTW/-lincplus-black-friday-giveaway?gsr=uYsTW-oZa3Z56Udl": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page didn't come up in web search, so it wasn't opened (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt); the prize and terms weren't read.",
+      "last_attempt_at": "2026-11-19T18:11:18-05:00",
+      "evidence": [
+        "https://gleam.io/uYsTW/-lincplus-black-friday-giveaway"
+      ],
+      "next_retry_at": "2026-11-20T18:11:18-05:00",
+      "name": "LincPlus BLACK FRIDAY GIVEAWAY"
     },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 3,
@@ -3066,13 +3048,16 @@
       "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://gleam.io/vXlX2/logitech-g-game-day": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page didn't come up in web search (Logitech results were other campaigns) or a Perplexity lookup, so it wasn't opened; the prize details, eligibility and terms weren't read.",
+      "last_attempt_at": "2026-11-19T18:11:18-05:00",
+      "evidence": [
+        "https://gleam.io/vXlX2/logitech-g-game-day"
+      ],
+      "next_retry_at": "2026-11-20T18:11:18-05:00",
+      "name": "win a Logitech G ASTRO Headset"
     },
     "https://gleam.io/vxBKz/black-friday-giveaway": {
       "attempts": 1,
@@ -3532,41 +3517,20 @@
     },
     "https://kiisfm.iheart.com/promotions": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
-      "status": "in_progress",
-      "decided_at": "2026-11-10T17:57:26-05:00",
+      "status": "listed",
+      "decided_at": "2026-11-19T18:11:18-05:00",
       "attempts": 0,
       "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
       "reason_code": "needs_rules_check",
-      "reason": "Facts come from listing sites. The promotion page loads only the site shell for the page reader, and KIIS-FM's rules list names this sweepstakes, but its rules document and the aptivada terms page did not come up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit are unconfirmed.",
-      "next_retry_at": "2026-11-13T17:57:26-05:00",
-      "last_attempt_at": "2026-11-10T17:57:26-05:00",
+      "reason": "Facts come from listing sites. KIIS-FM's rules list still names this sweepstakes and its promotion page shows only the title (the entry form seems to load from aptivada.com), but the official rules (the aptivada terms page) didn't come up in web search, so eligibility, the end time and the entry limit are unconfirmed.",
+      "next_retry_at": "2026-11-22T18:11:18-05:00",
+      "last_attempt_at": "2026-11-19T18:11:18-05:00",
       "evidence": [
         "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
         "https://kiisfm.iheart.com/rules/",
         "https://www.sweepsadvantage.com/japan-sweepstakes",
         "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
-      ],
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": {
-          "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
-          "status": "listed",
-          "decided_at": "2026-11-10T17:57:26-05:00",
-          "attempts": 0,
-          "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
-          "reason_code": "needs_rules_check",
-          "reason": "Facts come from listing sites. The promotion page loads only the site shell for the page reader, and KIIS-FM's rules list names this sweepstakes, but its rules document and the aptivada terms page did not come up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit are unconfirmed.",
-          "next_retry_at": "2026-11-13T17:57:26-05:00",
-          "last_attempt_at": "2026-11-10T17:57:26-05:00",
-          "evidence": [
-            "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
-            "https://kiisfm.iheart.com/rules/",
-            "https://www.sweepsadvantage.com/japan-sweepstakes",
-            "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
-          ]
-        }
-      }
+      ]
     },
     "https://kingsumo.com/g/107jkv3/win-2-poppy-odyssey-ii-crochet-hooks": {
       "attempts": 1,
@@ -4494,13 +4458,17 @@
       "next_retry_at": null
     },
     "https://on.ltk.com/+mJDjMo96jruYUYras0awVA": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "incomplete_info",
+      "reason": "Columbia's press release quotes short rules for a judged video contest (submit a survival-skills video on Instagram or at columbia.com/bunker; 48 contiguous states + DC, 18+ (19 in AL and NE); no purchase; ends 11:59 PM ET Nov 24; prize a 40 ft modified shipping container plus $35,000), but the full rules (dontpanicroom.com/rules) and columbia.com's contest page hit the unanswered PROVENANCE_REQUIRED approval prompt, so the entry page and entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-19T18:11:18-05:00",
+      "evidence": [
+        "https://finviz.com/news/409711/columbia-sportswear-to-give-away-survival-bunker-with-launch-of-the-dont-panic-room",
+        "https://gearjunkie.com/outdoor/columbia-giveaway-tech-bro-apocalypse"
+      ],
+      "next_retry_at": "2026-11-20T18:11:18-05:00",
+      "name": "Win a Columbia Don't Panic Room Survival Shelter and Cash Prize Package!"
     },
     "https://outback.com/best-steaks-ever": {
       "attempts": 0,
@@ -5834,37 +5802,18 @@
     },
     "https://takeflightwithpepsi.com/": {
       "name": "Take Flight with Pepsi Sweepstakes",
-      "status": "in_progress",
-      "decided_at": "2026-11-11T17:56:59-05:00",
+      "status": "listed",
+      "decided_at": "2026-11-19T18:11:18-05:00",
       "attempts": 0,
       "listing_id": "take-flight-with-pepsi-sweepstakes",
       "reason_code": "needs_rules_check",
-      "reason": "The sponsor's short rules on takeflightwithpepsi.com (read through a Perplexity page extract) give 50 US + DC, 18+ (19 in AL and NE), no purchase, one entry per person per day and the Jan 10, 2027 11:59:59 PM ET end, but the full Official Rules didn't come up in web search or Perplexity, so the day definition and other terms are unconfirmed.",
-      "next_retry_at": "2026-11-14T17:56:59-05:00",
-      "last_attempt_at": "2026-11-11T17:56:59-05:00",
+      "reason": "The sponsor's short rules on takeflightwithpepsi.com (read Nov 11 through a Perplexity page extract) give 50 US + DC, 18+ (19 in AL and NE), no purchase, one entry per person per day and the Jan 10, 2027 11:59:59 PM ET end, but the full Official Rules still haven't turned up: the site refuses the page reader by robots.txt and web search finds no copy, so the day definition and other terms are unconfirmed.",
+      "next_retry_at": "2026-11-22T18:11:18-05:00",
+      "last_attempt_at": "2026-11-19T18:11:18-05:00",
       "evidence": [
         "https://takeflightwithpepsi.com/",
         "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes"
-      ],
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": {
-          "name": "Take Flight with Pepsi Sweepstakes",
-          "status": "listed",
-          "decided_at": "2026-11-11T17:56:59-05:00",
-          "attempts": 0,
-          "listing_id": "take-flight-with-pepsi-sweepstakes",
-          "reason_code": "needs_rules_check",
-          "reason": "The sponsor's short rules on takeflightwithpepsi.com (read through a Perplexity page extract) give 50 US + DC, 18+ (19 in AL and NE), no purchase, one entry per person per day and the Jan 10, 2027 11:59:59 PM ET end, but the full Official Rules didn't come up in web search or Perplexity, so the day definition and other terms are unconfirmed.",
-          "next_retry_at": "2026-11-14T17:56:59-05:00",
-          "last_attempt_at": "2026-11-11T17:56:59-05:00",
-          "evidence": [
-            "https://takeflightwithpepsi.com/",
-            "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes"
-          ]
-        }
-      }
+      ]
     },
     "https://the-general-x-street-fighter-bonus-stage-break.prod.fooji.com/": {
       "attempts": 0,
