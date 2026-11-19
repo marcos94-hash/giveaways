@@ -1806,13 +1806,16 @@
       "decided_at": "2026-11-08T17:38:38-05:00"
     },
     "https://gleam.io/3EV31/disney-magic-kingdoms-magic-on-ice-sweepstakes": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page (gleam.io/giveaways/3EV31) came up in search but returned a client error to the page reader, so the sponsor, prize and terms weren't read.",
+      "last_attempt_at": "2026-11-19T18:11:41-05:00",
+      "evidence": [
+        "https://gleam.io/giveaways/3EV31"
+      ],
+      "next_retry_at": "2026-11-20T18:11:41-05:00",
+      "name": "Disney Magic Kingdoms: Magic on Ice Sweepstakes"
     },
     "https://gleam.io/4JkLI/electroharmonix-bender-royale-germanium-fuzz-giveaway": {
       "attempts": 1,
@@ -2041,13 +2044,16 @@
       "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://gleam.io/ERJQO/frank-abraham-music-holiday-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page (gleam.io/giveaways/ERJQO) came up in search, but the page read was refused with 'Permission for this action was denied by the Claude Code auto mode classifier. Reason: [Unauthorized Access]', so the prize and terms weren't read.",
+      "last_attempt_at": "2026-11-19T18:11:41-05:00",
+      "evidence": [
+        "https://gleam.io/giveaways/ERJQO"
+      ],
+      "next_retry_at": "2026-11-20T18:11:41-05:00",
+      "name": "Frank Abraham Music -Holiday Giveaway"
     },
     "https://gleam.io/FOZj9/free-lat-trigger?gsr=FOZj9-pa0Aoi29Hn": {
       "attempts": 0,
@@ -2382,13 +2388,17 @@
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
     "https://gleam.io/PpE0Z/bfcm?gsr=PpE0Z-pjBf68SGdU": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page (gleam.io/giveaways/PpE0Z, titled Black Friday Giveaway) returned a client error to the page reader, and isinwheel.com's giveaway page shows no giveaway content, so the prize and terms weren't read.",
+      "last_attempt_at": "2026-11-19T18:11:40-05:00",
+      "evidence": [
+        "https://gleam.io/giveaways/PpE0Z",
+        "https://www.isinwheel.com/pages/giveaway"
+      ],
+      "next_retry_at": "2026-11-20T18:11:40-05:00",
+      "name": "Isinwheel Black Friday Giveaway"
     },
     "https://gleam.io/Pu5DH/denniscw-tesla-wall-connector-giveaway-november-2026": {
       "attempts": 1,
@@ -2715,13 +2725,16 @@
       "decided_at": "2026-11-07T17:40:01-05:00"
     },
     "https://gleam.io/dJAuJ/win-ufc-335-vip-tickets": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page didn't come up in web search, so it wasn't opened. Search shows UFC 335 VIP ticket giveaways from Stake.us and bet365 (their pages returned client errors), so check the sponsor and whether entry needs a gambling-site account.",
+      "last_attempt_at": "2026-11-19T18:11:41-05:00",
+      "evidence": [
+        "https://gleam.io/dJAuJ/win-ufc-335-vip-tickets"
+      ],
+      "next_retry_at": "2026-11-20T18:11:41-05:00",
+      "name": "Win UFC 335 VIP Tickets"
     },
     "https://gleam.io/dpZFp/anker-solix-s5000-giveaway": {
       "attempts": 2,
@@ -3119,13 +3132,17 @@
       "decided_at": "2026-11-13T17:39:55-05:00"
     },
     "https://gleam.io/wpXux/bfcm?gsr=wpXux-p0ByzGdPcH": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-19",
-        "expires_at": "2026-11-19T20:41:05-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "The Gleam page didn't come up in web search and iScooter's sale page doesn't link it, so it wasn't opened; the prize and terms weren't read.",
+      "last_attempt_at": "2026-11-19T18:11:41-05:00",
+      "evidence": [
+        "https://gleam.io/wpXux/bfcm",
+        "https://www.iscooterglobal.com/pages/sale"
+      ],
+      "next_retry_at": "2026-11-20T18:11:41-05:00",
+      "name": "iScooter Black Friday Giveaway"
     },
     "https://gleam.io/yaK6J/moonraker-laser-prop-replica-signed-licensed-troubleshooter-book": {
       "attempts": 0,

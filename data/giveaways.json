@@ -177,7 +177,7 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-19T18:40:00-05:00",
+        "checked_at": "2026-11-19T18:11:00-05:00",
         "reason": "Facts come from listing sites. KIIS-FM's rules list still names this sweepstakes and its promotion page shows only the title (the entry form seems to load from aptivada.com), but the official rules (the aptivada terms page) didn't come up in web search, so eligibility, the end time and the entry limit are unconfirmed.",
         "evidence": [
           "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
@@ -700,7 +700,7 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-19T18:40:00-05:00",
+        "checked_at": "2026-11-19T18:11:00-05:00",
         "reason": "The sponsor's short rules on takeflightwithpepsi.com (read Nov 11 through a Perplexity page extract) give 50 US + DC, 18+ (19 in AL and NE), no purchase, one entry per person per day and the Jan 10, 2027 11:59:59 PM ET end, but the full Official Rules still haven't turned up: the site refuses the page reader by robots.txt and web search finds no copy, so the day definition and other terms are unconfirmed.",
         "evidence": [
           "https://takeflightwithpepsi.com/",
@@ -2848,7 +2848,7 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-19T18:35:00-05:00",
+        "checked_at": "2026-11-19T18:09:00-05:00",
         "reason": "The sponsor's short rules on the entry site (re-read Nov 19) give 50 US + DC, 18+, no purchase, one sweepstakes entry and one instant-win play per day and the Nov 22 11:59:59 PM ET end, but the full official rules (the site's snipp.us rules link and the PDF) hit the unanswered PROVENANCE_REQUIRED approval prompt and a Perplexity lookup found only the short rules and listing-site summaries, so how a day is defined is unconfirmed.",
         "evidence": [
           "https://www.coffeematesweeps.snipp.us/Prizes",
@@ -2884,7 +2884,7 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-19T18:35:00-05:00",
+        "checked_at": "2026-11-19T18:09:00-05:00",
         "reason": "MLF's own announcement (reposted by The Bass Cast) confirms 48 states + DC, 18+, no purchase and one entry per person per day through Nov 20, and listing sites quoting the rules give 11:59:59 PM CT, but this year's official rules weren't read: MLF's promo page hit the unanswered PROVENANCE_REQUIRED approval prompt, its rules page and press release returned client errors, and the Gleam page didn't come up in search.",
         "evidence": [
           "https://thebasscast.com/2026/05/20/major-league-fishing-announces-2026-mlf-bass-pro-shops-z19-sweepstakes",
@@ -4765,7 +4765,7 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-19T18:35:00-05:00",
+        "checked_at": "2026-11-19T18:09:00-05:00",
         "reason": "Facts come from listing sites (The Freebie Guy, Freebie Shark). The Fooji entry page and its rules PDF didn't come up in web search or a Perplexity lookup, so they weren't opened, and eligibility, the entry method, the end time and the limit are unconfirmed.",
         "evidence": [
           "https://thefreebieguy.com/sweepstakes/win-a-312-percy-jackson-season-3-prize-pack/",
@@ -4802,7 +4802,7 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-19T18:35:00-05:00",
+        "checked_at": "2026-11-19T18:09:00-05:00",
         "reason": "Facts come from listing sites (UltraContest, Sweeps Atlas, Freebies Lovers, SweepsAdvantage). The entry site and its rules page didn't come up in web search or a Perplexity lookup, so the sponsor's rules weren't read.",
         "evidence": [
           "https://ultracontest.com/contests/fresh-express-ugly-sweater-sweepstakes",
