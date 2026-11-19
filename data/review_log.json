@@ -143,6 +143,20 @@
       "decided_at": "2026-11-04T11:58:07-05:00",
       "next_retry_at": null
     },
+    "https://altrarunning.com/en-us/pages/giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-19T18:07:39-05:00",
+      "evidence": [
+        "https://www.altrarunning.com/en-ca/pages/altra-15th-anniversary-giveaway-official-rules",
+        "https://www.altrarunning.com/en-us/pages/altra-15th-anniversary-giveaway-official-rules"
+      ],
+      "listing_id": "altra-15th-anniversary-giveaway",
+      "decided_at": "2026-11-19T18:07:39-05:00",
+      "next_retry_at": null
+    },
     "https://alwaysdiscreetsweepstakes.com/": {
       "attempts": 1,
       "status": "listed",
@@ -339,7 +353,7 @@
     },
     "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "unreadable_page",
       "reason": "ViralSweep page didn't come up in web search (nor on jerrygarcia.com), so the page reader couldn't open it (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
       "last_attempt_at": "2026-11-13T17:57:23-05:00",
@@ -347,7 +361,23 @@
         "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1"
       ],
       "next_retry_at": "2026-11-14T17:57:23-05:00",
-      "name": "GarciaLive Volume 8 Beat The Line Giveaway"
+      "name": "GarciaLive Volume 8 Beat The Line Giveaway",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "unreadable_page",
+          "reason": "ViralSweep page didn't come up in web search (nor on jerrygarcia.com), so the page reader couldn't open it (unsearched links hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+          "last_attempt_at": "2026-11-13T17:57:23-05:00",
+          "evidence": [
+            "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1"
+          ],
+          "next_retry_at": "2026-11-14T17:57:23-05:00",
+          "name": "GarciaLive Volume 8 Beat The Line Giveaway"
+        }
+      }
     },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
       "attempts": 2,
@@ -534,6 +564,15 @@
       "decided_at": "2026-11-17T17:40:20-05:00",
       "next_retry_at": null
     },
+    "https://blackhawktireusa.com/contests/winter/en-us": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
+    },
     "https://blisterreview.com/blister-gear-giveaway/win-a-gear-tote-from-kitworks": {
       "attempts": 1,
       "status": "blocked",
@@ -713,7 +752,7 @@
     },
     "https://campaign.aptivada.com/terms/1923861": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
-      "status": "listed",
+      "status": "in_progress",
       "decided_at": "2026-11-10T17:57:26-05:00",
       "attempts": 0,
       "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
@@ -726,7 +765,28 @@
         "https://kiisfm.iheart.com/rules/",
         "https://www.sweepsadvantage.com/japan-sweepstakes",
         "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
-      ]
+      ],
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": {
+          "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
+          "status": "listed",
+          "decided_at": "2026-11-10T17:57:26-05:00",
+          "attempts": 0,
+          "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
+          "reason_code": "needs_rules_check",
+          "reason": "Facts come from listing sites. The promotion page loads only the site shell for the page reader, and KIIS-FM's rules list names this sweepstakes, but its rules document and the aptivada terms page did not come up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit are unconfirmed.",
+          "next_retry_at": "2026-11-13T17:57:26-05:00",
+          "last_attempt_at": "2026-11-10T17:57:26-05:00",
+          "evidence": [
+            "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
+            "https://kiisfm.iheart.com/rules/",
+            "https://www.sweepsadvantage.com/japan-sweepstakes",
+            "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
+          ]
+        }
+      }
     },
     "https://campaign.aptivada.com/terms/1927140": {
       "attempts": 2,
@@ -977,7 +1037,7 @@
     },
     "https://coffeematesweeps.snipp.us/": {
       "attempts": 1,
-      "status": "listed",
+      "status": "in_progress",
       "reason_code": "needs_rules_check",
       "reason": "The sponsor's short rules on the entry site give 50 US + DC, 18+, no purchase, one entry and one instant-win play per day and the Nov 22 11:59:59 PM ET end, but the full official rules (a snipp.us short link to a PDF) did not come up in web search or a Perplexity lookup, so they were not read.",
       "last_attempt_at": "2026-11-10T17:57:25-05:00",
@@ -988,7 +1048,26 @@
       "next_retry_at": "2026-11-13T17:57:25-05:00",
       "name": "100 Instantly Win Coffee Mate + $200 in The Coffee mate Year of Flavor Sweeps & IWG!",
       "listing_id": "coffee-mate-year-of-flavor-sweepstakes-and-instant-win-game",
-      "decided_at": "2026-11-10T17:57:25-05:00"
+      "decided_at": "2026-11-10T17:57:25-05:00",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "listed",
+          "reason_code": "needs_rules_check",
+          "reason": "The sponsor's short rules on the entry site give 50 US + DC, 18+, no purchase, one entry and one instant-win play per day and the Nov 22 11:59:59 PM ET end, but the full official rules (a snipp.us short link to a PDF) did not come up in web search or a Perplexity lookup, so they were not read.",
+          "last_attempt_at": "2026-11-10T17:57:25-05:00",
+          "evidence": [
+            "https://snippdocs.blob.core.windows.net/docs/Nestle/Coffee-Mate-Sweeps/sweeps-rules.pdf",
+            "https://www.coffeematesweeps.snipp.us/"
+          ],
+          "next_retry_at": "2026-11-13T17:57:25-05:00",
+          "name": "100 Instantly Win Coffee Mate + $200 in The Coffee mate Year of Flavor Sweeps & IWG!",
+          "listing_id": "coffee-mate-year-of-flavor-sweepstakes-and-instant-win-game",
+          "decided_at": "2026-11-10T17:57:25-05:00"
+        }
+      }
     },
     "https://coldstonecreamery.com/sweepstakes": {
       "attempts": 0,
@@ -1015,6 +1094,20 @@
       "next_retry_at": null,
       "name": "Cole-tac's Varmint Wrangling Giveaway",
       "decided_at": "2026-11-15T17:40:05-05:00"
+    },
+    "https://comfortzonestore.com/pages/giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-19T18:07:40-05:00",
+      "evidence": [
+        "https://www.comfortzonestore.com/pages/giveaway",
+        "https://www.comfortzonestore.com/pages/giveaway-rules"
+      ],
+      "listing_id": "comfort-zone-pets-heated-pet-bed-giveaway",
+      "decided_at": "2026-11-19T18:07:40-05:00",
+      "next_retry_at": null
     },
     "https://contest.gunnisoncopper.com/": {
       "attempts": 0,
@@ -1631,6 +1724,15 @@
       "decided_at": "2026-11-19T17:39:39-05:00",
       "next_retry_at": null
     },
+    "https://freshholiday.brandmoverscf.com/": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
+    },
     "https://fs22.formsite.com/roundisnow/wbcgrwjjxd/index": {
       "attempts": 0,
       "name": "Twisted Tea KEEP YOUR RIDE TWISTED 2026 SWEEPSTAKES",
@@ -1693,15 +1795,17 @@
     },
     "https://gleam.io/00lF8/retay-drakes-outfitter-tour-kick-off-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Gleam page didn't come up in web search and Gleam returns a client error to the page reader, so the prize and terms weren't read. RETAY makes shotguns and Drake's is a waterfowl hunting brand, so check whether the prize is a firearm (excluded) before listing.",
-      "last_attempt_at": "2026-11-13T17:57:23-05:00",
+      "status": "rejected",
+      "reason_code": "excluded_prize",
+      "reason": "The prize includes a custom Drake-branded RETAY ACE-R Gamekeeper shotgun (with Drake waders), per its entry in freestufftimes' Guns & Knives prize category; firearms are excluded.",
+      "last_attempt_at": "2026-11-19T18:07:40-05:00",
       "evidence": [
-        "https://gleam.io/00lF8/retay-drakes-outfitter-tour-kick-off-giveaway"
+        "https://gleam.io/00lF8/retay-drakes-outfitter-tour-kick-off-giveaway",
+        "https://www.freestufftimes.com/contests/prize/guns-knives/"
       ],
-      "next_retry_at": "2026-11-14T17:57:23-05:00",
-      "name": "RETAY & Drake's Outfitter Tour Kick Off Giveaway"
+      "next_retry_at": null,
+      "name": "RETAY & Drake's Outfitter Tour Kick Off Giveaway",
+      "decided_at": "2026-11-19T18:07:40-05:00"
     },
     "https://gleam.io/05YZf/the-bee-folks-great-honey-haul": {
       "attempts": 0,
@@ -1729,6 +1833,15 @@
       "reason": "ended before it could be verified",
       "next_retry_at": null,
       "decided_at": "2026-11-08T17:38:38-05:00"
+    },
+    "https://gleam.io/3EV31/disney-magic-kingdoms-magic-on-ice-sweepstakes": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/4JkLI/electroharmonix-bender-royale-germanium-fuzz-giveaway": {
       "attempts": 1,
@@ -1805,7 +1918,7 @@
     },
     "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway": {
       "attempts": 1,
-      "status": "blocked",
+      "status": "in_progress",
       "reason_code": "unreadable_page",
       "reason": "Gleam page didn't come up in web search (nor on shunnarah.com) and Gleam returns a client error to the page reader, so the terms weren't read. Shunnarah is an Alabama law firm, so check for an Alabama-only restriction.",
       "last_attempt_at": "2026-11-13T17:57:23-05:00",
@@ -1813,7 +1926,23 @@
         "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway"
       ],
       "next_retry_at": "2026-11-14T17:57:23-05:00",
-      "name": "Shunnarah's Iron Bowl Giveaway"
+      "name": "Shunnarah's Iron Bowl Giveaway",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "blocked",
+          "reason_code": "unreadable_page",
+          "reason": "Gleam page didn't come up in web search (nor on shunnarah.com) and Gleam returns a client error to the page reader, so the terms weren't read. Shunnarah is an Alabama law firm, so check for an Alabama-only restriction.",
+          "last_attempt_at": "2026-11-13T17:57:23-05:00",
+          "evidence": [
+            "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway"
+          ],
+          "next_retry_at": "2026-11-14T17:57:23-05:00",
+          "name": "Shunnarah's Iron Bowl Giveaway"
+        }
+      }
     },
     "https://gleam.io/83D2Q/mas-laws-thanksgiving-giveaway-2-100-visa-gift-cards?gsr=83D2Q-oCfe7ZfaFQ": {
       "attempts": 1,
@@ -1939,6 +2068,15 @@
         "https://gleam.io/EEb9t/giveaway-elfie-the-owl-bundle"
       ],
       "decided_at": "2026-11-13T17:39:55-05:00"
+    },
+    "https://gleam.io/ERJQO/frank-abraham-music-holiday-giveaway": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/FOZj9/free-lat-trigger?gsr=FOZj9-pa0Aoi29Hn": {
       "attempts": 0,
@@ -2067,6 +2205,15 @@
       "last_attempt_at": "2026-11-16T18:10:48-05:00",
       "next_retry_at": "2026-11-17T18:10:48-05:00",
       "name": "Fall Aegis x ZenMarket Giveaway"
+    },
+    "https://gleam.io/K1Wcw/thankstactical-giveaway?gsr=K1Wcw-pedxhFM0lr": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/KSc7B/vippori-giveaway": {
       "attempts": 1,
@@ -2257,6 +2404,15 @@
       "next_retry_at": null,
       "name": "WWE & Zenni Survivor Series Sweepstakes",
       "decided_at": "2026-11-09T17:40:08-05:00"
+    },
+    "https://gleam.io/PpE0Z/bfcm?gsr=PpE0Z-pjBf68SGdU": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/Pu5DH/denniscw-tesla-wall-connector-giveaway-november-2026": {
       "attempts": 1,
@@ -2582,6 +2738,15 @@
       "next_retry_at": null,
       "decided_at": "2026-11-07T17:40:01-05:00"
     },
+    "https://gleam.io/dJAuJ/win-ufc-335-vip-tickets": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/dpZFp/anker-solix-s5000-giveaway": {
       "attempts": 2,
       "status": "ended",
@@ -2819,7 +2984,7 @@
     },
     "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes": {
       "attempts": 1,
-      "status": "listed",
+      "status": "in_progress",
       "reason_code": "needs_rules_check",
       "reason": "Facts come from a listing site and last year's MLF rules. The Gleam page and every majorleaguefishing.com page (rules, promo page, press release) returned client errors to the page reader, and a Perplexity lookup only found the 2025 rules, so this year's eligibility, end time and entry limit are unconfirmed.",
       "last_attempt_at": "2026-11-10T17:57:25-05:00",
@@ -2832,7 +2997,28 @@
       "next_retry_at": "2026-11-13T17:57:25-05:00",
       "name": "Win a New Boat in The 2026 MLF Bass Pro Shops Z19 Sweepstakes!!",
       "listing_id": "2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
-      "decided_at": "2026-11-10T17:57:25-05:00"
+      "decided_at": "2026-11-10T17:57:25-05:00",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": {
+          "attempts": 1,
+          "status": "listed",
+          "reason_code": "needs_rules_check",
+          "reason": "Facts come from a listing site and last year's MLF rules. The Gleam page and every majorleaguefishing.com page (rules, promo page, press release) returned client errors to the page reader, and a Perplexity lookup only found the 2025 rules, so this year's eligibility, end time and entry limit are unconfirmed.",
+          "last_attempt_at": "2026-11-10T17:57:25-05:00",
+          "evidence": [
+            "https://gleam.io/giveaways/r8CSA",
+            "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
+            "https://majorleaguefishing.com/promorules/",
+            "https://thefreebieguy.com/sweepstakes/2026-mlf-bass-pro-shops-z19-sweepstakes/"
+          ],
+          "next_retry_at": "2026-11-13T17:57:25-05:00",
+          "name": "Win a New Boat in The 2026 MLF Bass Pro Shops Z19 Sweepstakes!!",
+          "listing_id": "2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
+          "decided_at": "2026-11-10T17:57:25-05:00"
+        }
+      }
     },
     "https://gleam.io/tLZt3/dinner-in-paris-steelite-giveaway": {
       "attempts": 1,
@@ -2867,6 +3053,15 @@
       "name": "Mitra9’s Ultimate E-Bike Giveaway",
       "decided_at": "2026-11-13T17:39:55-05:00"
     },
+    "https://gleam.io/uYsTW/-lincplus-black-friday-giveaway?gsr=uYsTW-oZa3Z56Udl": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/uoAYj/black-friday-mystery-box-enter-more-win-more?gsr=uoAYj-oYAc3saOJZ": {
       "attempts": 3,
       "status": "blocked",
@@ -2889,6 +3084,15 @@
       "next_retry_at": null,
       "name": "2026 Topps Cosmic Chrome Baseball Hobby Box Giveaway",
       "decided_at": "2026-11-13T17:39:55-05:00"
+    },
+    "https://gleam.io/vXlX2/logitech-g-game-day": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
     },
     "https://gleam.io/vxBKz/black-friday-giveaway": {
       "attempts": 1,
@@ -2949,6 +3153,15 @@
       "name": "Bear NutriEase Stainless Steel All Stage Baby Food Maker Giveaway",
       "decided_at": "2026-11-13T17:39:55-05:00"
     },
+    "https://gleam.io/wpXux/bfcm?gsr=wpXux-p0ByzGdPcH": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
+    },
     "https://gleam.io/yaK6J/moonraker-laser-prop-replica-signed-licensed-troubleshooter-book": {
       "attempts": 0,
       "status": "ended",
@@ -2999,6 +3212,21 @@
       "listing_id": "chewy-claus-2026-pet-holiday-letter-sweepstakes",
       "decided_at": "2026-11-13T17:51:28-05:00",
       "next_retry_at": "2026-11-16T17:51:28-05:00"
+    },
+    "https://gobowling.com/2026macys": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-19T18:07:39-05:00",
+      "evidence": [
+        "https://gobowling.com/1000-shopping-spree-official-rules/",
+        "https://gobowling.com/2026macys/",
+        "https://gobowling.com/gobowling-news/go-bowling-takes-part-in-historic-100th-macys-thanksgiving-day-parade/"
+      ],
+      "listing_id": "go-bowling-2026-1-000-holiday-shopping-spree-sweepstakes",
+      "decided_at": "2026-11-19T18:07:39-05:00",
+      "next_retry_at": null
     },
     "https://goldbelly.com/spotlight/thanksgiving-sweepstakes": {
       "attempts": 2,
@@ -3324,7 +3552,7 @@
     },
     "https://kiisfm.iheart.com/promotions": {
       "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
-      "status": "listed",
+      "status": "in_progress",
       "decided_at": "2026-11-10T17:57:26-05:00",
       "attempts": 0,
       "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
@@ -3337,7 +3565,28 @@
         "https://kiisfm.iheart.com/rules/",
         "https://www.sweepsadvantage.com/japan-sweepstakes",
         "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
-      ]
+      ],
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": {
+          "name": "Kewpie Japan Experience Sweepstakes (iHeart)",
+          "status": "listed",
+          "decided_at": "2026-11-10T17:57:26-05:00",
+          "attempts": 0,
+          "listing_id": "kewpie-japan-experience-sweepstakes-iheart",
+          "reason_code": "needs_rules_check",
+          "reason": "Facts come from listing sites. The promotion page loads only the site shell for the page reader, and KIIS-FM's rules list names this sweepstakes, but its rules document and the aptivada terms page did not come up in web search or a Perplexity lookup, so eligibility, the end time and the entry limit are unconfirmed.",
+          "next_retry_at": "2026-11-13T17:57:26-05:00",
+          "last_attempt_at": "2026-11-10T17:57:26-05:00",
+          "evidence": [
+            "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
+            "https://kiisfm.iheart.com/rules/",
+            "https://www.sweepsadvantage.com/japan-sweepstakes",
+            "https://www.sweepstakestoday.com/sweeps/details/118388/iheart-kewpie-japan-experience-sweepstakes"
+          ]
+        }
+      }
     },
     "https://kingsumo.com/g/107jkv3/win-2-poppy-odyssey-ii-crochet-hooks": {
       "attempts": 1,
@@ -3410,6 +3659,15 @@
       "listing_id": "when-the-holidays-feel-heavy-giveaway",
       "decided_at": "2026-11-18T18:11:35-05:00",
       "next_retry_at": "2026-11-21T18:11:35-05:00"
+    },
+    "https://kingsumo.com/g/1j2ngq3/win-a-deluxe-narnia-the-magicians-nephew-box": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
     },
     "https://kingsumo.com/g/1vj8gz1/win-a-1000-gift-certificate-to-greg-landrys-homeschool-science": {
       "attempts": 1,
@@ -4255,6 +4513,15 @@
       "decided_at": "2026-11-18T18:11:35-05:00",
       "next_retry_at": null
     },
+    "https://on.ltk.com/+mJDjMo96jruYUYras0awVA": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
+    },
     "https://outback.com/best-steaks-ever": {
       "attempts": 0,
       "status": "listed",
@@ -4341,6 +4608,15 @@
       "listing_id": "2026-pepsi-knicks-sweepstakes",
       "decided_at": "2026-11-04T01:29:53-05:00",
       "next_retry_at": null
+    },
+    "https://percy-jackson-s3-premiere.prod.fooji.com/": {
+      "attempts": 0,
+      "status": "in_progress",
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": null
+      }
     },
     "https://perdue.com/giveaway": {
       "attempts": 0,
@@ -4528,6 +4804,20 @@
       ],
       "listing_id": "fancy-feast-little-gem-micro-bag-sweepstakes",
       "decided_at": "2026-11-19T17:39:39-05:00",
+      "next_retry_at": null
+    },
+    "https://purina.com/s/petivity-dog-cat-bundle-sweepstakes": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "verified",
+      "reason": "",
+      "last_attempt_at": "2026-11-19T18:07:40-05:00",
+      "evidence": [
+        "https://www.purina.com/s/petivity-dog-cat-bundle-sweepstakes",
+        "https://www.purina.com/s/petivity-dog-cat-bundle-sweepstakes/rules"
+      ],
+      "listing_id": "purina-petivity-paws-claws-sweepstakes",
+      "decided_at": "2026-11-19T18:07:40-05:00",
       "next_retry_at": null
     },
     "https://qr.health-ade.com/c/Y3WM": {
@@ -5559,7 +5849,7 @@
     },
     "https://takeflightwithpepsi.com/": {
       "name": "Take Flight with Pepsi Sweepstakes",
-      "status": "listed",
+      "status": "in_progress",
       "decided_at": "2026-11-11T17:56:59-05:00",
       "attempts": 0,
       "listing_id": "take-flight-with-pepsi-sweepstakes",
@@ -5570,7 +5860,26 @@
       "evidence": [
         "https://takeflightwithpepsi.com/",
         "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes"
-      ]
+      ],
+      "claim": {
+        "run": "review-2026-11-19",
+        "expires_at": "2026-11-19T20:41:05-05:00",
+        "prev": {
+          "name": "Take Flight with Pepsi Sweepstakes",
+          "status": "listed",
+          "decided_at": "2026-11-11T17:56:59-05:00",
+          "attempts": 0,
+          "listing_id": "take-flight-with-pepsi-sweepstakes",
+          "reason_code": "needs_rules_check",
+          "reason": "The sponsor's short rules on takeflightwithpepsi.com (read through a Perplexity page extract) give 50 US + DC, 18+ (19 in AL and NE), no purchase, one entry per person per day and the Jan 10, 2027 11:59:59 PM ET end, but the full Official Rules didn't come up in web search or Perplexity, so the day definition and other terms are unconfirmed.",
+          "next_retry_at": "2026-11-14T17:56:59-05:00",
+          "last_attempt_at": "2026-11-11T17:56:59-05:00",
+          "evidence": [
+            "https://takeflightwithpepsi.com/",
+            "https://www.sweepstakestoday.com/sweeps/details/118437/pepsi-cola-take-flight-with-pepsi-sweepstakes"
+          ]
+        }
+      }
     },
     "https://the-general-x-street-fighter-bonus-stage-break.prod.fooji.com/": {
       "attempts": 0,

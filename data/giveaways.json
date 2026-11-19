@@ -4589,6 +4589,162 @@
       "source": "Claude review 2026-11-18",
       "id": "keystone-light-hunt-sweepstakes-and-instant-win-game-2026",
       "rules_checked": "partial"
+    },
+    {
+      "name": "Altra 15th Anniversary Giveaway",
+      "prize": "A pair of Altra running shoes (ARV $145); 15 winners drawn for each day of the sweepstakes",
+      "category": "other",
+      "entry_url": "https://www.altrarunning.com/en-us/pages/giveaway",
+      "rules_url": "https://www.altrarunning.com/en-us/pages/altra-15th-anniversary-giveaway-official-rules",
+      "match": [
+        "altrarunning.com/en-us/pages/giveaway"
+      ],
+      "ends": "2026-11-26T23:59:59-05:00",
+      "limit": {
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering subscribes you to Altra's marketing emails (you can opt out without affecting the entry)."
+      },
+      "notes": "One entry per person per day; each day runs 12:00:00 AM to 11:59:59 PM ET and has its own drawing of 15 winners, and entries don't carry over to later days, so enter daily. Open to legal US residents 18+. Ends 11:59:59 PM ET Nov 26. One prize per household. The rules name altrarunning.com/en-us/pages/giveaway as the entry page, which the page reader couldn't open, so the form layout is unchecked.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.altrarunning.com/en-us/pages/altra-15th-anniversary-giveaway-official-rules",
+        "checked_at": "2026-11-19T18:10:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.altrarunning.com/en-us/pages/altra-15th-anniversary-giveaway-official-rules",
+          "https://www.altrarunning.com/en-ca/pages/altra-15th-anniversary-giveaway-official-rules"
+        ]
+      },
+      "added": "2026-11-19",
+      "source": "Claude review 2026-11-19",
+      "id": "altra-15th-anniversary-giveaway",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Go Bowling 2026 $1,000 Holiday Shopping Spree Sweepstakes",
+      "prize": "$1,000 check (promoted as a Macy's holiday shopping spree)",
+      "category": "cash",
+      "entry_url": "https://gobowling.com/2026macys/",
+      "rules_url": "https://gobowling.com/1000-shopping-spree-official-rules/",
+      "match": [
+        "gobowling.com/2026macys"
+      ],
+      "ends": "2026-11-26T20:00:00-05:00",
+      "limit": {
+        "type": "rolling24"
+      },
+      "min_age": 21,
+      "flags": {
+        "age21": true
+      },
+      "notes": "Open to legal US residents 21+ (the entry page also says 18+, but the rules say 21). One entry per person and per household per calendar day; the rules don't say which time zone the day uses, so wait 24 hours between entries. Online entries must be time-stamped by 8:00 PM ET Nov 26, though the rules give 11:59 PM as the end of the period, so this listing uses 8:00 PM. The form asks for name, email, phone and a 21+ checkbox. One winner gets a $1,000 check; drawing about Dec 2.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://gobowling.com/1000-shopping-spree-official-rules/",
+        "checked_at": "2026-11-19T18:10:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://gobowling.com/1000-shopping-spree-official-rules/",
+          "https://gobowling.com/2026macys/",
+          "https://gobowling.com/gobowling-news/go-bowling-takes-part-in-historic-100th-macys-thanksgiving-day-parade/"
+        ]
+      },
+      "added": "2026-11-19",
+      "source": "Claude review 2026-11-19",
+      "id": "go-bowling-2026-1-000-holiday-shopping-spree-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Purina Petivity Paws & Claws Sweepstakes",
+      "prize": "Petivity pet-health bundle: dog prize (GPS and activity monitor with a 1-year plan plus health test kits, ARV $514.95) or cat prize (smart litter box monitor, smart feeder and test kits, ARV $654.95)",
+      "category": "other",
+      "entry_url": "https://www.purina.com/s/petivity-dog-cat-bundle-sweepstakes",
+      "rules_url": "https://www.purina.com/s/petivity-dog-cat-bundle-sweepstakes/rules",
+      "match": [
+        "purina.com/s/petivity-dog-cat-bundle-sweepstakes"
+      ],
+      "ends": "2026-11-26T00:59:59-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "The one required checkbox also agrees to Purina marketing emails, so entering opts you in."
+      },
+      "notes": "One online entry per person for the whole sweepstakes. 50 US + DC, 18+ (19 in AL and NE). Ends 11:59:59 PM CT Nov 25. One optional bonus entry through the myPurina app with a Purina Rewards login. The rules disagree on one vs two grand prize winners (dog and cat). Drawing about Dec 2.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.purina.com/s/petivity-dog-cat-bundle-sweepstakes/rules",
+        "checked_at": "2026-11-19T18:10:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.purina.com/s/petivity-dog-cat-bundle-sweepstakes/rules",
+          "https://www.purina.com/s/petivity-dog-cat-bundle-sweepstakes"
+        ]
+      },
+      "added": "2026-11-19",
+      "source": "Claude review 2026-11-19",
+      "id": "purina-petivity-paws-claws-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Comfort Zone Pets Heated Pet Bed Giveaway",
+      "prize": "Premium heated pet bed in the winner's choice of size (ARV $120); 3 runner-up dog or cat winter jackets (ARV up to $23.36 each)",
+      "category": "other",
+      "entry_url": "https://www.comfortzonestore.com/pages/giveaway",
+      "rules_url": "https://www.comfortzonestore.com/pages/giveaway-rules",
+      "match": [
+        "comfortzonestore.com/pages/giveaway"
+      ],
+      "ends": "2026-11-26T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering signs you up for Comfort Zone Pets promotional emails (you can unsubscribe)."
+      },
+      "notes": "One entry per person and email. 50 US + DC, 18+ (19 in AL and NE, 21 in MS). The form asks for first name, email, pet type and pet name. Ends 11:59 PM ET Nov 26; winners are emailed about Nov 27 and must reply within 72 hours. To receive the prize, a winner must post a video review of it (15 seconds or longer, within 15 days of delivery).",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.comfortzonestore.com/pages/giveaway-rules",
+        "checked_at": "2026-11-19T18:10:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.comfortzonestore.com/pages/giveaway-rules",
+          "https://www.comfortzonestore.com/pages/giveaway"
+        ]
+      },
+      "added": "2026-11-19",
+      "source": "Claude review 2026-11-19",
+      "id": "comfort-zone-pets-heated-pet-bed-giveaway",
+      "rules_checked": "full"
     }
   ]
 }
