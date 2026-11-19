@@ -1,33 +1,33 @@
 {
- "run_at": "2026-11-19T11:17:02+00:00",
+ "run_at": "2026-11-19T21:17:02+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 41,
-   "parsed": 17,
-   "skipped_seen": 24,
-   "kept": 15,
+   "parsed": 18,
+   "skipped_seen": 23,
+   "kept": 14,
    "dropped": {
-    "social-media-only entry": 2
+    "social-media-only entry": 4
    },
    "errors": [],
    "samples": [
     {
-     "title": "Floor and Decor Home Makeover Sweepstakes",
-     "entry_url": "https://www.floordecorhomemakeover.com/register.aspx?AspxAutoDetectCookieSupport=1",
+     "title": "Dunham's Sports Champion Giveaway",
+     "entry_url": "https://www.dunhamssports.com/champion-sweepstakes-111526",
      "rules_url": null,
-     "ends_guess": "2026-11-19",
-     "ends_text": "Last day to enter: Thu, Nov 19",
+     "ends_guess": "2026-12-14",
+     "ends_text": "Last day to enter: Mon, Dec 14",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     },
     {
-     "title": "AAV (All Americans Vote) Brent Faiyaz Premium Experience Sweepstakes",
-     "entry_url": "https://www.allamericans.org/brent-faiyaz",
+     "title": "b.tan Walmart Giveaway",
+     "entry_url": "https://us.shop.minetanbodyskin.com/pages/glow-your-own-way-competition",
      "rules_url": null,
-     "ends_guess": "2026-11-19",
-     "ends_text": "Last day to enter: Thu, Nov 19",
+     "ends_guess": "2026-12-03",
+     "ends_text": "Last day to enter: Thu, Dec 3",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
@@ -36,63 +36,63 @@
   },
   "thefreebieguy": {
    "listing_pages": 2,
-   "detail_links": 272,
+   "detail_links": 275,
    "parsed": 2,
-   "skipped_seen": 270,
+   "skipped_seen": 273,
    "kept": 2,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Win $500 Travel Credits, Phones, Movie Tickets & More!",
-     "entry_url": "https://www.cricketsweepstakes.com/vhh",
+     "title": "Win a Prize Pack in The 2026 Keurig Green Mountain Holiday Coffee-mergency Sweeps!",
+     "entry_url": "https://keurig-tyycbf.myklpages.com/l/Xk5EFC",
      "rules_url": null,
-     "ends_guess": "2026-12-06",
-     "ends_text": "ENDING – \nDecember 6, 2026",
-     "frequency_guess": "once",
+     "ends_guess": "2026-12-10",
+     "ends_text": "ENDING – \nDecember 10, 2026",
+     "frequency_guess": "daily",
      "min_age_guess": 18,
      "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
     },
     {
-     "title": "Win a $312 Percy Jackson Season 3 Prize Pack!",
-     "entry_url": "https://percy-jackson-s3-premiere.prod.fooji.com/",
-     "rules_url": "https://images.prod.fooji.com/original/organizations/20/campaigns/3695/published/click_for_official_rules-ab8550d.pdf",
-     "ends_guess": "2026-11-21",
-     "ends_text": "ENDING – \nNovember 21, 2026",
-     "frequency_guess": "once",
-     "min_age_guess": 18,
+     "title": "Win an Ugly Sweater in The Dos Equis Most Interesting Man Holiday Sweater Sweeps!",
+     "entry_url": "https://www.dosequis.com/en-us/xx-sweepstakes/uglysweater/",
+     "rules_url": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/uglysweater_OfficialRules.html",
+     "ends_guess": "2026-12-31",
+     "ends_text": "ENDING – \nDecember 31, 2026",
+     "frequency_guess": "daily",
+     "min_age_guess": 21,
      "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
     }
    ]
   },
   "winprizesonline": {
    "listing_pages": 2,
-   "detail_links": 19,
-   "parsed": 10,
-   "skipped_seen": 9,
-   "kept": 6,
+   "detail_links": 20,
+   "parsed": 9,
+   "skipped_seen": 11,
+   "kept": 5,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Dove Men Holiday Playbook Sweepstakes",
-     "entry_url": null,
+     "title": "Official Crimson Dynasty Sweepstakes",
+     "entry_url": "https://www.crimsondynastywine.com/crimson-dynasty-sweepstakes/",
      "rules_url": null,
-     "ends_guess": "2027-01-18",
-     "ends_text": "Expires\n 01-18-2027",
+     "ends_guess": "2026-12-20",
+     "ends_text": "Expires\n 12-20-2026",
      "frequency_guess": "daily",
-     "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Dove Men"
+     "min_age_guess": 21,
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Official"
     },
     {
-     "title": "Free Rent for a Year Sweepstakes",
-     "entry_url": null,
+     "title": "The ALP Bronco Bash Sweepstakes",
+     "entry_url": "https://alppouch.com/pages/alp-bronco-bash-sweepstakes",
      "rules_url": null,
-     "ends_guess": "2026-12-31",
-     "ends_text": "Expires\n 12-31-2026",
+     "ends_guess": "2026-12-04",
+     "ends_text": "Expires\n 12-04-2026",
      "frequency_guess": "daily",
-     "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Free Ren"
+     "min_age_guess": 21,
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n The ALP "
     }
    ],
    "retry_later": {
@@ -100,19 +100,9 @@
    },
    "no_entry_samples": [
     {
-     "source_url": "https://www.winprizesonline.com/Dove-Men-Holiday-Playbook-Sweepstakes/",
-     "title": "Dove Men Holiday Playbook Sweepstakes",
+     "source_url": "https://www.winprizesonline.com/Cozy-Season-Care-Package-Giveaway/",
+     "title": "Cozy Season Care Package Giveaway",
      "entry_link_hints": [
-      {
-       "href": "https://dovemenholidayplaybook.com",
-       "text": "Dove Men",
-       "onsite": false
-      },
-      {
-       "href": "https://dovemenholidayplaybook.com",
-       "text": "dovemenholidayplaybook.com",
-       "onsite": false
-      },
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
        "text": "Daily Entry",
@@ -126,18 +116,13 @@
      ]
     },
     {
-     "source_url": "https://www.winprizesonline.com/Free-Rent-for-a-Year-Sweepstakes/",
-     "title": "Free Rent for a Year Sweepstakes",
+     "source_url": "https://www.winprizesonline.com/Fall-Snack-Kit-Giveaway/",
+     "title": "Fall Snack Kit Giveaway",
      "entry_link_hints": [
       {
-       "href": "https://apartments.com",
-       "text": "Apartments.com",
-       "onsite": false
-      },
-      {
-       "href": "https://apartments.com",
-       "text": "apartments.com",
-       "onsite": false
+       "href": "https://www.winprizesonline.com/profile.php?u=40000",
+       "text": "@TimothyIng...",
+       "onsite": true
       },
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
@@ -154,6 +139,6 @@
    ]
   }
  },
- "total_candidates": 743,
+ "total_candidates": 761,
  "details_budget_left": 121
 }
