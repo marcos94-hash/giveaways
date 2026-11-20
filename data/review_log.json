@@ -353,16 +353,17 @@
     },
     "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1": {
       "attempts": 2,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The ViralSweep page still didn't come up in web search, so the rules weren't read. SweepsDB lists a GarciaLive Vol. 8 LP box set prize and tags the giveaway Canada, so check eligibility.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-19T18:11:55-05:00",
       "evidence": [
         "https://app.viralsweep.com/sweeps/full/caeed1-241639?framed=1",
         "https://sweepsdb.com/endingsoon"
       ],
-      "next_retry_at": "2026-11-21T18:11:55-05:00",
-      "name": "GarciaLive Volume 8 Beat The Line Giveaway"
+      "next_retry_at": null,
+      "name": "GarciaLive Volume 8 Beat The Line Giveaway",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://app.viralsweep.com/sweeps/full/d236fa-234894?framed=1": {
       "attempts": 2,
@@ -564,15 +565,16 @@
     },
     "https://blisterreview.com/blister-gear-giveaway/win-a-gear-tote-from-kitworks": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Blister's giveaway page came up in web search, but blisterreview.com returned a client error to the page reader, so the prize, eligibility, dates and entry limit weren't read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-14T17:53:19-05:00",
       "evidence": [
         "https://blisterreview.com/blister-gear-giveaway/win-a-gear-tote-from-kitworks"
       ],
-      "next_retry_at": "2026-11-15T17:53:19-05:00",
-      "name": "win a Ski + Snowboard Gear Tote from Kitworks"
+      "next_retry_at": null,
+      "name": "win a Ski + Snowboard Gear Tote from Kitworks",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://blisterreview.com/blister-gear-giveaway/win-a-sports-nutrition-package-from-tailwind": {
       "attempts": 1,
@@ -1203,7 +1205,7 @@
     },
     "https://daddario.com/pages/los-tigres-giveaway": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "The rules on D'Addario's page (read from the en-au copy, which states US, DC and Canada eligibility; the US page didn't come up in search) confirm eligibility, a free online form and one entry per person, but their entry period reads Feb 25 to Mar 17, 2026, which conflicts with the page's 'Enter by November 19, 2026' and a Nov 20 drawing. The listing ends Nov 19 at 11:59 PM ET, the page's date with the rules' 23:59 ET time.",
       "last_attempt_at": "2026-11-14T17:53:19-05:00",
@@ -1211,8 +1213,8 @@
         "https://www.daddario.com/en-au/pages/los-tigres-giveaway"
       ],
       "listing_id": "d-addario-los-tigres-del-norte-bajo-quinto-giveaway",
-      "decided_at": "2026-11-14T17:53:19-05:00",
-      "next_retry_at": "2026-11-17T17:53:19-05:00"
+      "decided_at": "2026-11-20T17:39:35-05:00",
+      "next_retry_at": null
     },
     "https://davidsbridal.attn.tv/p/Vyh": {
       "attempts": 0,
@@ -1331,7 +1333,7 @@
     },
     "https://drinkolipop.com/pages/holiday-helper-giveaway": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "verified",
       "reason": "",
       "last_attempt_at": "2026-11-13T17:54:32-05:00",
@@ -1340,7 +1342,7 @@
         "https://drinkolipop.com/pages/holiday-helper-giveaway-official-rules-2026"
       ],
       "listing_id": "olipop-holiday-helper-giveaway",
-      "decided_at": "2026-11-13T17:54:32-05:00",
+      "decided_at": "2026-11-20T17:39:35-05:00",
       "next_retry_at": null
     },
     "https://drpeppersweeps.com/holiday": {
@@ -1468,15 +1470,16 @@
     },
     "https://envisionp.com/holiday-traditions-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "js_only",
-      "reason": "Envision Promotions' page came up in web search and was read, but its entry widget and rules load by script, so only the title and \"$4,700+ in prizes\" were visible: no dates, eligibility or rules. Neither web search nor Perplexity found the rules.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-13T17:58:16-05:00",
       "evidence": [
         "https://www.envisionp.com/holiday-traditions-giveaway/"
       ],
-      "next_retry_at": "2026-11-14T17:58:16-05:00",
-      "name": "Holiday Traditions Sweepstakes"
+      "next_retry_at": null,
+      "name": "Win a Springfree Trampoline, Little Tikes Toys & More!",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://exmark.com/America250": {
       "attempts": 0,
@@ -1881,16 +1884,17 @@
     },
     "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway": {
       "attempts": 2,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The Gleam page still didn't come up in web search, so the terms weren't read. SweepsDB lists Alexander Shunnarah Trial Attorneys as host and Iron Bowl tickets (Nov 28, Alabama vs Auburn) as the prize, so check for an Alabama-only limit.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-19T18:11:55-05:00",
       "evidence": [
         "https://gleam.io/6OWi0/shunnarahs-iron-bowl-giveaway",
         "https://sweepsdb.com/contest/shunnarahs-iron-bowl-giveaway/10265907"
       ],
-      "next_retry_at": "2026-11-21T18:11:55-05:00",
-      "name": "Shunnarah's Iron Bowl Giveaway"
+      "next_retry_at": null,
+      "name": "Shunnarah's Iron Bowl Giveaway",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://gleam.io/83D2Q/mas-laws-thanksgiving-giveaway-2-100-visa-gift-cards?gsr=83D2Q-oCfe7ZfaFQ": {
       "attempts": 1,
@@ -1920,15 +1924,16 @@
     },
     "https://gleam.io/8KDbS/utterance-200-steam-credit-giveaway-playtest": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Gleam page didn't come up in web search and Gleam returns a client error to the page reader, so the terms weren't read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-13T17:57:23-05:00",
       "evidence": [
         "https://gleam.io/8KDbS/utterance-200-steam-credit-giveaway-playtest"
       ],
-      "next_retry_at": "2026-11-14T17:57:23-05:00",
-      "name": "Utterance: $200 Steam Credit Giveaway"
+      "next_retry_at": null,
+      "name": "Utterance: $200 Steam Credit Giveaway",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://gleam.io/9WzIa/bedinabox-x-lazy-one-giveaway": {
       "attempts": 0,
@@ -2056,7 +2061,7 @@
     },
     "https://gleam.io/Hqexi/mambasnake-giveaway-round-84": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Facts come from giveaway-list.com's copy of the Gleam page; Gleam returns a client error to the page reader, so the terms weren't read and age, winners and entry limit aren't confirmed.",
       "last_attempt_at": "2026-11-14T18:00:46-05:00",
@@ -2064,8 +2069,8 @@
         "https://giveaway-list.com/giveaway/gleam-Hqexi/giveaway-round-84"
       ],
       "listing_id": "mambasnake-giveaway-round-84",
-      "decided_at": "2026-11-14T18:00:46-05:00",
-      "next_retry_at": "2026-11-17T18:00:46-05:00"
+      "decided_at": "2026-11-20T17:39:35-05:00",
+      "next_retry_at": null
     },
     "https://gleam.io/IYfl0/2026-10k-sparkle-spree": {
       "attempts": 0,
@@ -2141,12 +2146,13 @@
     },
     "https://gleam.io/JT7f5/mitra9s-upgrade-your-everyday-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "Gleam returns client errors to the page reader, and neither a giveaway-list.com copy nor a Mitra9 page came up in web search, so the sponsor's terms, prize and dates are unknown",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-15T18:08:59-05:00",
-      "next_retry_at": "2026-11-16T18:08:59-05:00",
-      "name": "Mitra9’s Upgrade Your Everyday Giveaway"
+      "next_retry_at": null,
+      "name": "Mitra9 Upgrade Your Everyday Giveaway",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://gleam.io/Je9t0/fall-aegis-x-zenmarket-giveaway": {
       "attempts": 1,
@@ -2386,15 +2392,16 @@
     },
     "https://gleam.io/QV71V/giggleland-rory-giveaway": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The Gleam page (gleam.io/giveaways/QV71V) came up in search but returned a client error, and no listing-site copy or Youtooz rules page turned up, so the prize, eligibility and terms weren't read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-17T17:55:40-05:00",
       "evidence": [
         "https://gleam.io/giveaways/QV71V"
       ],
-      "next_retry_at": "2026-11-18T17:55:40-05:00",
-      "name": "Youtooz Giggleland - Rory Giveaway"
+      "next_retry_at": null,
+      "name": "Youtooz Giggleland - Rory Giveaway",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://gleam.io/RGgHD/better-living-giveaway": {
       "attempts": 1,
@@ -2462,12 +2469,13 @@
     },
     "https://gleam.io/RY4fs/crownful-x-nutriscale-thanksgiving-giveaway-": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The Gleam page didn't come up in web search (only an older Crownful Thanksgiving giveaway, gleam.io/2fwz4, did), Gleam pages return a client error to the page reader, and no listing-site copy turned up, so the prize and terms weren't read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-14T18:01:32-05:00",
-      "next_retry_at": "2026-11-15T18:01:32-05:00",
-      "name": "Crownful x Nutriscale Thanksgiving Giveaway"
+      "next_retry_at": null,
+      "name": "Crownful x Nutriscale Thanksgiving Giveaway",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://gleam.io/RoevG/sandisk-optimus-san-diego-giveaway-2026": {
       "attempts": 1,
@@ -2502,7 +2510,7 @@
     },
     "https://gleam.io/V8HvZ/5-years-of-aitum-giveaway-2": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Facts come from giveaway-list.com's copy of the Gleam page, which shows no terms; the Gleam page didn't come up in search and Gleam returns a client error to the page reader, so eligibility details, age, the end time and the entry limit aren't confirmed",
       "last_attempt_at": "2026-11-17T17:59:12-05:00",
@@ -2510,8 +2518,8 @@
         "https://giveaway-list.com/giveaway/gleam-V8HvZ/5-years-of-aitum-giveaway-2"
       ],
       "listing_id": "5-years-of-aitum-giveaway-2",
-      "decided_at": "2026-11-17T17:59:12-05:00",
-      "next_retry_at": "2026-11-20T17:59:12-05:00"
+      "decided_at": "2026-11-20T17:39:35-05:00",
+      "next_retry_at": null
     },
     "https://gleam.io/VYkGR/audiotechnica-athr50x": {
       "attempts": 1,
@@ -2650,12 +2658,13 @@
     },
     "https://gleam.io/bDi6g/giveaway-a-squirrely-christmas-hardcover": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "no_rules_found",
-      "reason": "The Gleam page never came up in search and author Megan K Palmer's site has no giveaway or rules page, so nothing about this giveaway could be read",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-16T18:10:36-05:00",
-      "next_retry_at": "2026-11-17T18:10:36-05:00",
-      "name": "A Squirrely Christmas Book Giveaway"
+      "next_retry_at": null,
+      "name": "A Squirrely Christmas Book Giveaway",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://gleam.io/bbD7t/find-your-winter-layer-duo-giveaway?gsr=bbD7t-oFnecCz8Oq": {
       "attempts": 1,
@@ -3036,15 +3045,16 @@
     },
     "https://gleam.io/vXlX2/logitech-g-game-day": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "The Gleam page didn't come up in web search (Logitech results were other campaigns) or a Perplexity lookup, so it wasn't opened; the prize details, eligibility and terms weren't read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-19T18:11:18-05:00",
       "evidence": [
         "https://gleam.io/vXlX2/logitech-g-game-day"
       ],
-      "next_retry_at": "2026-11-20T18:11:18-05:00",
-      "name": "win a Logitech G ASTRO Headset"
+      "next_retry_at": null,
+      "name": "Logitech ASTRO A50 Gen 5 Giveaway",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://gleam.io/vxBKz/black-friday-giveaway": {
       "attempts": 1,
@@ -3583,7 +3593,7 @@
     },
     "https://kingsumo.com/g/1gl98zm/when-the-holidays-feel-heavy": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Facts come from a giveaway-list.com copy of the KingSumo page. The KingSumo page waits on a page reader approval (PROVENANCE_REQUIRED), the two end dates disagree, and no entry limit is stated.",
       "last_attempt_at": "2026-11-18T18:11:35-05:00",
@@ -3592,8 +3602,8 @@
         "https://www.freestufftimes.com/contests/17/when-the-holidays-feel-heavy-giveaway/"
       ],
       "listing_id": "when-the-holidays-feel-heavy-giveaway",
-      "decided_at": "2026-11-18T18:11:35-05:00",
-      "next_retry_at": "2026-11-21T18:11:35-05:00"
+      "decided_at": "2026-11-20T17:39:35-05:00",
+      "next_retry_at": null
     },
     "https://kingsumo.com/g/1j2ngq3/win-a-deluxe-narnia-the-magicians-nephew-box": {
       "attempts": 1,
@@ -3643,14 +3653,24 @@
       "name": "A Christmas Romance Giveaway",
       "decided_at": "2026-11-09T17:40:08-05:00"
     },
+    "https://kingsumo.com/g/36qg6e1/blessings-before-the-holidays-giveaway": {
+      "attempts": 0,
+      "name": "Blessings Before the Holidays Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-20T17:39:35-05:00"
+    },
     "https://kingsumo.com/g/36qg6e1/blessings-before-the-holidays-giveaway/g829k20": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "no_rules_found",
-      "reason": "Six searches, including ones limited to kingsumo.com and giveaway-list.com, found no copy of this KingSumo giveaway, so the sponsor, prize and rules are unknown",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-17T17:56:06-05:00",
-      "next_retry_at": "2026-11-18T17:56:06-05:00",
-      "name": "Blessings Before The Holidays Giveaway"
+      "next_retry_at": null,
+      "name": "Blessings Before The Holidays Giveaway",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://kingsumo.com/g/36qgr41/carolina-pottery-cardinal-christmas-theme-giveaway/jxrg8ye": {
       "attempts": 1,
@@ -4794,17 +4814,18 @@
     },
     "https://qr.sapporobeer.com/c/OK40": {
       "attempts": 3,
-      "status": "needs_review",
-      "reason_code": "conflicting_info",
-      "reason": "The listing's 30-winner Sapporo x Onimusha bottle opener giveaway ending Nov 20 couldn't be found: Sapporo's Onimusha page and the official rules describe only the Sapporo Flyaway to Japan sweepstakes (a Tokyo trip and 5 fan kits, 21+, open to Dec 31), now listed on its own, and the QR link itself didn't come up in search",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-17T17:59:11-05:00",
-      "next_retry_at": "2026-11-21T17:59:11-05:00",
+      "next_retry_at": null,
       "name": "30 Will Win in the Sapporo x Onimusha Bottle Opener Giveaway!",
       "evidence": [
         "https://qr.sapporobeer.com/c/OK40",
         "https://www.mdmgames.com/MDMAdmin/RulesPolicies/sapporotojapan_OfficialRules.html",
         "https://www.sapporobeer.com/onimusha"
-      ]
+      ],
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://quiltednorthern.com/win-a-year-supply-sweeps": {
       "attempts": 0,
@@ -4939,7 +4960,7 @@
     },
     "https://refer.tatcha.com/october2026sweepstakes": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Rechecked Nov 13: Tatcha's entry page asks only for an email and links no rules, and its home page says the giveaway ends 11/19 with no time. No official rules turned up in web search or Perplexity, so eligibility, free entry, end time and limit aren't confirmed.",
       "last_attempt_at": "2026-11-13T17:58:16-05:00",
@@ -4949,12 +4970,12 @@
         "https://tatcha.com/"
       ],
       "listing_id": "tatcha-advent-calendar-giveaway",
-      "decided_at": "2026-11-13T17:58:16-05:00",
-      "next_retry_at": "2026-11-16T17:58:16-05:00"
+      "decided_at": "2026-11-20T17:39:35-05:00",
+      "next_retry_at": null
     },
     "https://refer.tatcha.com/zone/terms?journey.campaign_id=7683240859871022640": {
       "attempts": 0,
-      "status": "listed",
+      "status": "ended",
       "reason_code": "needs_rules_check",
       "reason": "Rechecked Nov 13: Tatcha's entry page asks only for an email and links no rules, and its home page says the giveaway ends 11/19 with no time. No official rules turned up in web search or Perplexity, so eligibility, free entry, end time and limit aren't confirmed.",
       "last_attempt_at": "2026-11-13T17:58:16-05:00",
@@ -4964,8 +4985,8 @@
         "https://tatcha.com/"
       ],
       "listing_id": "tatcha-advent-calendar-giveaway",
-      "decided_at": "2026-11-13T17:58:16-05:00",
-      "next_retry_at": "2026-11-16T17:58:16-05:00"
+      "decided_at": "2026-11-20T17:39:35-05:00",
+      "next_retry_at": null
     },
     "https://rewards.bing.com/sweeps/promotion": {
       "attempts": 0,
@@ -4982,6 +5003,15 @@
       "listing_id": "microsoft-rewards-prize-drop-sweepstakes",
       "decided_at": "2026-11-17T17:55:15-05:00",
       "next_retry_at": null
+    },
+    "https://ring.com/appchallenge": {
+      "attempts": 0,
+      "name": "Ring $500K Appstore Challenge",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://ritualtoremember.terryschocolate.com/": {
       "attempts": 0,
@@ -5525,15 +5555,16 @@
     },
     "https://sweepwidget.com/c/103119-54jmyal7/f3e48i-103119": {
       "attempts": 1,
-      "status": "blocked",
-      "reason_code": "unreadable_page",
-      "reason": "SweepWidget page didn't come up in web search, so the page reader couldn't open it (links that don't come from search results hit the unanswered PROVENANCE_REQUIRED approval prompt). Rules not read.",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
       "last_attempt_at": "2026-11-13T17:58:16-05:00",
       "evidence": [
         "https://sweepwidget.com/c/103119-54jmyal7/f3e48i-103119"
       ],
-      "next_retry_at": "2026-11-14T17:58:16-05:00",
-      "name": "The Field Ready Giveaway"
+      "next_retry_at": null,
+      "name": "The Field Ready Giveaway",
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://sweepwidget.com/c/103203-zj5pi0v7": {
       "attempts": 3,
@@ -5658,6 +5689,15 @@
       "next_retry_at": null,
       "name": "Cafecito Filled Holidays: Part 1",
       "decided_at": "2026-11-18T17:39:11-05:00"
+    },
+    "https://sweepwidget.com/c/103390-tnvjpbdz/chrisiqvh-103390": {
+      "attempts": 0,
+      "name": "Grand Teton Vacation Giveaway",
+      "status": "ended",
+      "reason_code": "ended",
+      "reason": "ended before it could be verified",
+      "next_retry_at": null,
+      "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://sweepwidget.com/c/103391-6b4sow3e": {
       "attempts": 1,

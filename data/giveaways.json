@@ -1823,49 +1823,6 @@
       "rules_checked": "partial"
     },
     {
-      "name": "Tatcha Advent Calendar Giveaway",
-      "prize": "Two Tatcha 12 Ways to Love Your Skin advent calendars, one for you and one for a friend (5 winners per listing site)",
-      "category": "other",
-      "entry_url": "https://refer.tatcha.com/october2026sweepstakes",
-      "rules_url": null,
-      "ends": "2026-11-19T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Email entry; each referred friend who enters adds an entry.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-13T17:57:00-05:00",
-        "confirmed": {
-          "eligibility": false,
-          "free_entry": false,
-          "deadline": false,
-          "entry_limit": false
-        },
-        "reason": "Rechecked Nov 13: Tatcha's entry page asks only for an email and links no rules, and its home page says the giveaway ends 11/19 with no time. No official rules turned up in web search or Perplexity, so eligibility, free entry, end time and limit aren't confirmed.",
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://refer.tatcha.com/october2026sweepstakes",
-          "https://tatcha.com/"
-        ]
-      },
-      "match": [
-        "refer.tatcha.com/october2026sweepstakes"
-      ],
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "tatcha-advent-calendar-giveaway",
-      "rules_checked": "partial"
-    },
-    {
       "name": "Santa Margherita Uncork Extraordinary Moments Holiday Sweepstakes",
       "prize": "725 winners: set of 5 Santa Margherita scented candles ($77 each), no alcohol",
       "category": "other",
@@ -2944,47 +2901,6 @@
       "rules_checked": "partial"
     },
     {
-      "name": "OLIPOP Holiday Helper Giveaway",
-      "prize": "1,000 winners across 17 daily drawings: a 12-pack of limited-edition Pomegranate Sparkle plus an OLIPOP x Compartés holiday chocolate gift box",
-      "category": "other",
-      "entry_url": "https://drinkolipop.com/pages/holiday-helper-giveaway",
-      "rules_url": "https://drinkolipop.com/pages/holiday-helper-giveaway-official-rules-2026",
-      "match": [
-        "drinkolipop.com/pages/holiday-helper-giveaway",
-        "drinkolipop.com/holidayhelper"
-      ],
-      "ends": "2026-11-19T20:59:00-05:00",
-      "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/Los_Angeles",
-        "reset_hour": 12
-      },
-      "min_age": 18,
-      "notes": "One entry per daily entry period through Nov 19. The form asks for first name, last name and email. One prize per person for the whole giveaway.",
-      "day_note": "Entries are only taken from 12:00 PM to 5:59 PM PT (3:00 to 8:59 PM ET) each day.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://drinkolipop.com/pages/holiday-helper-giveaway-official-rules-2026",
-        "checked_at": "2026-11-13T17:54:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://drinkolipop.com/pages/holiday-helper-giveaway-official-rules-2026",
-          "https://drinkolipop.com/pages/holiday-helper-giveaway"
-        ]
-      },
-      "flags": {},
-      "added": "2026-11-13",
-      "source": "Claude review 2026-11-13",
-      "id": "olipop-holiday-helper-giveaway",
-      "rules_checked": "full"
-    },
-    {
       "name": "Peeler's Seafood Ultimate Montana Giveaway 2026",
       "prize": "One Montana prize package, ARV $4,623: Simms Rip Line Pro bib and jacket, FORLOH pant and jacket set, Peeler's $600 gift card, Old Salt Festival weekend passes for four, Montana Knife Co. paring knife, Mystery Ranch pack, Distinctly Montana gift certificate and more",
       "category": "mixed",
@@ -3021,44 +2937,6 @@
       "source": "Claude review 2026-11-14",
       "id": "peeler-s-seafood-ultimate-montana-giveaway-2026",
       "rules_checked": "full"
-    },
-    {
-      "name": "D'Addario Los Tigres del Norte Bajo Quinto Giveaway",
-      "prize": "Two winners: an H. Jimenez Natural Tiger Maple bajo quinto signed by Los Tigres del Norte, or an H. Jimenez Mexican Calendar bajo quinto, each with D'Addario accessories (ARV up to $1,050)",
-      "category": "other",
-      "entry_url": "https://www.daddario.com/pages/los-tigres-giveaway",
-      "match": [
-        "www.daddario.com/pages/los-tigres-giveaway"
-      ],
-      "ends": "2026-11-19T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Open to the 50 states, DC and Canada, age of majority. Free form on D'Addario's page (name, email, country, primary instrument). One entry per person and email. The page says enter by Nov 19, 2026, but its rules text gives a Feb 25 to Mar 17, 2026 entry period, so the end date isn't settled.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": "https://www.daddario.com/en-au/pages/los-tigres-giveaway",
-        "checked_at": "2026-11-14T17:52:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": false,
-          "entry_limit": true
-        },
-        "reason": "The rules on D'Addario's page (read from the en-au copy, which states US, DC and Canada eligibility; the US page didn't come up in search) confirm eligibility, a free online form and one entry per person, but their entry period reads Feb 25 to Mar 17, 2026, which conflicts with the page's 'Enter by November 19, 2026' and a Nov 20 drawing. The listing ends Nov 19 at 11:59 PM ET, the page's date with the rules' 23:59 ET time.",
-        "missing": [
-          "deadline"
-        ],
-        "evidence": [
-          "https://www.daddario.com/en-au/pages/los-tigres-giveaway"
-        ]
-      },
-      "added": "2026-11-14",
-      "source": "Claude review 2026-11-14",
-      "id": "d-addario-los-tigres-del-norte-bajo-quinto-giveaway",
-      "rules_checked": "partial"
     },
     {
       "name": "Win Watcharee's NEW Sweet Heat Spreads",
@@ -3228,47 +3106,6 @@
       "added": "2026-11-14",
       "source": "Claude review 2026-11-14",
       "id": "schneider-lures-20-000-wahoo-gear-giveaway",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "MAMBASNAKE Giveaway Round 84",
-      "prize": "MAMBASNAKE M2 wireless gaming mouse (carbon fiber shell, 41 g, PAW3395PRO sensor)",
-      "category": "electronics",
-      "entry_url": "https://gleam.io/Hqexi/mambasnake-giveaway-round-84",
-      "match": [
-        "gleam.io/Hqexi"
-      ],
-      "ends": "2026-11-20T02:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "notes": "Per a listing site's copy of the Gleam page: open worldwide, Nov 12 to Nov 20 at 07:59 UTC (11:59 PM PT Nov 19); the description says Nov 13 to Nov 19 (PST). The number of winners isn't stated. Gleam lists 24 entry actions, mostly Discord, YouTube, Instagram, TikTok, X, Facebook, Threads and Pinterest follows.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-14T18:00:00-05:00",
-        "confirmed": {
-          "eligibility": false,
-          "free_entry": false,
-          "deadline": false,
-          "entry_limit": false
-        },
-        "reason": "Facts come from giveaway-list.com's copy of the Gleam page; Gleam returns a client error to the page reader, so the terms weren't read and age, winners and entry limit aren't confirmed.",
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://giveaway-list.com/giveaway/gleam-Hqexi/giveaway-round-84"
-        ]
-      },
-      "flags": {},
-      "added": "2026-11-14",
-      "source": "Claude review 2026-11-14",
-      "id": "mambasnake-giveaway-round-84",
       "rules_checked": "partial"
     },
     {
@@ -3989,43 +3826,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "5 Years of Aitum Giveaway 2",
-      "prize": "One of 4 Aitum mousepads",
-      "category": "other",
-      "entry_url": "https://gleam.io/V8HvZ/5-years-of-aitum-giveaway-2",
-      "match": [
-        "gleam.io/V8HvZ"
-      ],
-      "starts": "2026-11-16T15:00:00-05:00",
-      "ends": "2026-11-19T18:59:59-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "follow": "Most entry actions are follows: AitumTV on X, Bluesky, Instagram and Twitch, a repost on X and joining Aitum's Discord; two actions only visit Aitum's Nexus page and YouTube."
-      },
-      "notes": "Per giveaway-list.com's copy of the Gleam page: offered by Aitum, worldwide, Nov 16 to Nov 19, 2026. The copy's timestamp is 11:59:59 PM UTC on Nov 19, which is 6:59:59 PM ET, so this listing uses that. No terms were shown, so the age limit and entry rules are unconfirmed.",
-      "verification": {
-        "status": "needs_rules_check",
-        "checked_at": "2026-11-17T18:05:00-05:00",
-        "reason": "Facts come from giveaway-list.com's copy of the Gleam page, which shows no terms; the Gleam page didn't come up in search and Gleam returns a client error to the page reader, so eligibility details, age, the end time and the entry limit aren't confirmed",
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://giveaway-list.com/giveaway/gleam-V8HvZ/5-years-of-aitum-giveaway-2"
-        ]
-      },
-      "added": "2026-11-17",
-      "source": "Claude review 2026-11-17",
-      "id": "5-years-of-aitum-giveaway-2",
-      "rules_checked": "partial"
-    },
-    {
       "name": "Buck Knives Winter Giveaway",
       "prize": "Two prize packs, one to keep and one to gift: a limited Buck 791 Range Titanium Winterhawk knife, Buck X Huk hoodie, beanie and Yeti tumbler, Pelican dry bag and waist pack, Klymit sleeping pad and WaterPORT water tank (over $1,000 MSRP; 1 winner)",
       "category": "other",
@@ -4396,45 +4196,6 @@
       "added": "2026-11-18",
       "source": "Claude review 2026-11-18",
       "id": "oho-sunshine-smart-glasses-special-giveaways",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "When the Holidays Feel Heavy Giveaway",
-      "prize": "Every entrant gets a free collection of 10 practical digital resources (breath prayer guides, burnout strategies and more) from 10 contributors; one random winner is drawn Nov 20, and what the winner gets beyond that isn't stated",
-      "category": "other",
-      "entry_url": "https://kingsumo.com/g/1gl98zm/when-the-holidays-feel-heavy",
-      "match": [
-        "kingsumo.com/g/1gl98zm"
-      ],
-      "ends": "2026-11-19T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 21,
-      "flags": {
-        "marketing": "Entering adds you to the email lists of all the contributing authors (you can unsubscribe).",
-        "follow": "The entry actions are Instagram follows of the 10 contributors; whether they're required isn't shown.",
-        "age21": true
-      },
-      "notes": "From a giveaway-list.com copy of the KingSumo page and its rules: hosted by author Amber Ginter Johnson; US and Canada residents, 21+; no purchase; winners must confirm their email through KingSumo's message. The rules text says it runs Nov 17 to 19, while the KingSumo timer runs to Nov 20, 12:00 PM ET, so this uses the end of Nov 19. No entry limit is stated.",
-      "verification": {
-        "status": "needs_rules_check",
-        "checked_at": "2026-11-18T18:25:00-05:00",
-        "reason": "Facts come from a giveaway-list.com copy of the KingSumo page. The KingSumo page waits on a page reader approval (PROVENANCE_REQUIRED), the two end dates disagree, and no entry limit is stated.",
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://giveaway-list.com/giveaway/kingsumo-1gl98zm/when-the-holidays-feel-heavy",
-          "https://www.freestufftimes.com/contests/17/when-the-holidays-feel-heavy-giveaway/"
-        ]
-      },
-      "added": "2026-11-18",
-      "source": "Claude review 2026-11-18",
-      "id": "when-the-holidays-feel-heavy-giveaway",
       "rules_checked": "partial"
     },
     {
