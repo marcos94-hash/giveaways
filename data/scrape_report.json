@@ -1,31 +1,33 @@
 {
- "run_at": "2026-11-20T11:17:02+00:00",
+ "run_at": "2026-11-20T21:17:01+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 41,
-   "parsed": 40,
-   "skipped_seen": 1,
-   "kept": 40,
-   "dropped": {},
+   "parsed": 16,
+   "skipped_seen": 25,
+   "kept": 15,
+   "dropped": {
+    "social-media-only entry": 1
+   },
    "errors": [],
    "samples": [
     {
-     "title": "2026 MLF Bass Pro Shops Z19 Sweepstakes",
-     "entry_url": "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
+     "title": "Blumhouse Atomic Monster Sweepstakes",
+     "entry_url": "https://pages.blumhouse.com/lp/prize-pack-sweepstakes/",
      "rules_url": null,
-     "ends_guess": null,
-     "ends_text": "Ends today\n20",
+     "ends_guess": "2026-11-30",
+     "ends_text": "Last day to enter: Mon, Nov 30",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     },
     {
-     "title": "EDC x Nautilus Ammo Giveaway",
-     "entry_url": "https://app.viralsweep.com/sweeps/full/557589-240398?framed=1",
+     "title": "Icy Hot Winter Recovery Sweepstakes",
+     "entry_url": "https://recoveryspacredit.com/",
      "rules_url": null,
-     "ends_guess": null,
-     "ends_text": "Ends today\n20",
+     "ends_guess": "2026-12-31",
+     "ends_text": "Last day to enter: Thu, Dec 31",
      "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
@@ -34,9 +36,9 @@
   },
   "thefreebieguy": {
    "listing_pages": 2,
-   "detail_links": 274,
+   "detail_links": 273,
    "parsed": 0,
-   "skipped_seen": 274,
+   "skipped_seen": 273,
    "kept": 0,
    "dropped": {},
    "errors": [],
@@ -45,40 +47,40 @@
   "winprizesonline": {
    "listing_pages": 2,
    "detail_links": 19,
-   "parsed": 10,
-   "skipped_seen": 9,
-   "kept": 5,
+   "parsed": 9,
+   "skipped_seen": 10,
+   "kept": 7,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Cricket Wireless Value Hub Sweepstakes",
-     "entry_url": "https://www.cricketsweepstakes.com/vhh",
+     "title": "Cafecito Corner Holiday Giveaway",
+     "entry_url": "https://sweepwidget.com/c/103330-sljc50mr",
      "rules_url": null,
-     "ends_guess": "2026-12-06",
-     "ends_text": "Expires\n 12-06-2026",
+     "ends_guess": "2026-12-02",
+     "ends_text": "Expires\n 12-02-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Cricket "
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Cafecito"
     },
     {
-     "title": "BedSure Pet Holiday Giveaway",
-     "entry_url": null,
+     "title": "Logitech ASTRO A50 Gen 5 Giveaway",
+     "entry_url": "https://gleam.io/vXlX2/logitech-g-game-day",
      "rules_url": null,
-     "ends_guess": "2026-11-29",
-     "ends_text": "Expires\n 11-29-2026",
+     "ends_guess": "2026-11-20",
+     "ends_text": "Expires\n 11-20-2026",
      "frequency_guess": "daily",
-     "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n BedSure "
+     "min_age_guess": null,
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Logitech"
     }
    ],
    "retry_later": {
-    "no entry link found": 5
+    "no entry link found": 2
    },
    "no_entry_samples": [
     {
-     "source_url": "https://www.winprizesonline.com/BedSure-Pet-Holiday-Giveaway/",
-     "title": "BedSure Pet Holiday Giveaway",
+     "source_url": "https://www.winprizesonline.com/Bertolli-Thanksgiving-Sweepstakes/",
+     "title": "Bertolli Thanksgiving Sweepstakes",
      "entry_link_hints": [
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
@@ -93,8 +95,8 @@
      ]
     },
     {
-     "source_url": "https://www.winprizesonline.com/EBL-November-Giveaway/",
-     "title": "EBL November Giveaway",
+     "source_url": "https://www.winprizesonline.com/Wet-Noses-x-All-About-the-Vibe-Giveaway/",
+     "title": "Wet Noses x All About the Vibe Giveaway",
      "entry_link_hints": [
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
@@ -111,6 +113,6 @@
    ]
   }
  },
- "total_candidates": 784,
- "details_budget_left": 100
+ "total_candidates": 800,
+ "details_budget_left": 125
 }
