@@ -3753,14 +3753,35 @@
       "name": "Win a $1,000 Gift Certificate to Greg Landry’s Homeschool Science",
       "decided_at": "2026-11-19T17:39:39-05:00"
     },
+    "https://kingsumo.com/g/1vj8n71/2026-schroepfers-500-holiday-cash-giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a giveaway-list.com copy of the KingSumo page (found with a Perplexity search) and other listing sites. The KingSumo page and its official rules (kingsumo.com/giveaways/1vj8n71/rules) never came up in web search, so eligibility (including any local-area limit), the end time and the entry limit aren't confirmed.",
+      "last_attempt_at": "2026-11-21T18:08:00-05:00",
+      "evidence": [
+        "https://giveaway-list.com/kingsumo",
+        "https://gleamgiveaways.com/giveaways/2026-schroepfers-500-holiday-cash-giveaway-2026-11/",
+        "https://www.freestufftimes.com/contests/20/2026-schroepfers-500-holiday-cash-giveaway/"
+      ],
+      "listing_id": "schroepfer-s-500-holiday-cash-giveaway-2026",
+      "decided_at": "2026-11-21T18:08:00-05:00",
+      "next_retry_at": "2026-11-24T18:08:00-05:00"
+    },
     "https://kingsumo.com/g/1vj8n71/2026-schroepfers-500-holiday-cash-giveaway/qqeo9nw": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Facts come from a giveaway-list.com copy of the KingSumo page (found with a Perplexity search) and other listing sites. The KingSumo page and its official rules (kingsumo.com/giveaways/1vj8n71/rules) never came up in web search, so eligibility (including any local-area limit), the end time and the entry limit aren't confirmed.",
+      "last_attempt_at": "2026-11-21T18:08:00-05:00",
+      "evidence": [
+        "https://giveaway-list.com/kingsumo",
+        "https://gleamgiveaways.com/giveaways/2026-schroepfers-500-holiday-cash-giveaway-2026-11/",
+        "https://www.freestufftimes.com/contests/20/2026-schroepfers-500-holiday-cash-giveaway/"
+      ],
+      "listing_id": "schroepfer-s-500-holiday-cash-giveaway-2026",
+      "decided_at": "2026-11-21T18:08:00-05:00",
+      "next_retry_at": "2026-11-24T18:08:00-05:00"
     },
     "https://kingsumo.com/g/1wgwnwm/win-2-espresso-streamline-metal-crochet-hooks": {
       "attempts": 1,
@@ -3859,12 +3880,17 @@
     },
     "https://kingsumo.com/g/3q5o7l3/appsumo-black-friday-lucky-giveaway-2026": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "The KingSumo page, read through a Perplexity search extract, gives the prize, one entry per person and the 10:30 PM IST Nov 27 end, but not who can enter. Its official rules (kingsumo.com/giveaways/3q5o7l3/rules) weren't read: the page reader's approval prompt (PROVENANCE_REQUIRED) for the KingSumo page went unanswered.",
+      "last_attempt_at": "2026-11-21T18:08:00-05:00",
+      "evidence": [
+        "https://giveaway-list.com/giveaway/kingsumo-3q5o7l3/appsumo-black-friday-lucky-giveaway-2026",
+        "https://kingsumo.com/g/3q5o7l3/appsumo-black-friday-lucky-giveaway-2026"
+      ],
+      "listing_id": "appsumo-black-friday-lucky-giveaway-avinash-katta-x-appsumo",
+      "decided_at": "2026-11-21T18:08:00-05:00",
+      "next_retry_at": "2026-11-24T18:08:00-05:00"
     },
     "https://kingsumo.com/g/3zjegw1/verus-pet-foods-dry-wet-food-giveaway": {
       "attempts": 1,
@@ -5778,13 +5804,16 @@
       "decided_at": "2026-11-13T17:58:16-05:00"
     },
     "https://sweepwidget.com/c/102057-es490tj5": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "needs_review",
+      "reason_code": "incomplete_info",
+      "reason": "SweepWidget's public directory shows this free giveaway live with 2 days left on Nov 21 (about Nov 23), but names no prize items, value or sponsor, and the campaign page and its rules never came up in web search, so the prize (including whether it's hunting or firearm gear), eligibility and entry limit are unknown.",
+      "last_attempt_at": "2026-11-21T18:08:00-05:00",
+      "evidence": [
+        "https://sweepwidget.com/giveaways/?sort=latest&page=2"
+      ],
+      "next_retry_at": "2026-11-22T18:08:00-05:00",
+      "name": "WIN THE ULTIMATE TECHNICAL ADVENTURE BUNDLE"
     },
     "https://sweepwidget.com/c/103001-h02bwi63": {
       "attempts": 1,
@@ -5963,12 +5992,16 @@
     },
     "https://sweepwidget.com/c/103333-jgamxfel": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Only SweepWidget's public directory card was read (prize, 1 winner, 4 days left on Nov 21). The campaign page and its rules never came up in web search, so the page reader couldn't open them; the sponsor, eligibility, free entry, the exact end and the entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-21T18:08:00-05:00",
+      "evidence": [
+        "https://sweepwidget.com/giveaways/?sort=latest"
+      ],
+      "listing_id": "fuel-your-wellness-liquid-ashwagandha-giveaway",
+      "decided_at": "2026-11-21T18:08:00-05:00",
+      "next_retry_at": "2026-11-24T18:08:00-05:00"
     },
     "https://sweepwidget.com/c/103390-tnvjpbdz/chrisiqvh-103390": {
       "attempts": 0,
@@ -6078,12 +6111,16 @@
     },
     "https://sweepwidget.com/c/103607-dakcvobf": {
       "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "Only SweepWidget's public directory card was read (prize, 1 winner, 4 days left on Nov 21). The campaign page and its rules never came up in web search, so the page reader couldn't open them; eligibility, free entry, the exact end and the entry limit are unconfirmed.",
+      "last_attempt_at": "2026-11-21T18:08:00-05:00",
+      "evidence": [
+        "https://sweepwidget.com/giveaways/?sort=latest"
+      ],
+      "listing_id": "maison-backyards-propane-smoker-giveaway",
+      "decided_at": "2026-11-21T18:08:00-05:00",
+      "next_retry_at": "2026-11-24T18:08:00-05:00"
     },
     "https://sweepwidget.com/c/98809-w42okmt5": {
       "attempts": 1,

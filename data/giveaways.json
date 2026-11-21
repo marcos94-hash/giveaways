@@ -4393,6 +4393,149 @@
       "source": "Claude review 2026-11-21",
       "id": "runtimewire-nvidia-dgx-spark-giveaway",
       "rules_checked": "partial"
+    },
+    {
+      "name": "AppSumo Black Friday Lucky Giveaway (Avinash Katta x AppSumo)",
+      "prize": "1 winner: a Tier 2 license for any AppSumo Black Friday deal of your choice ($399 value)",
+      "category": "other",
+      "entry_url": "https://kingsumo.com/g/3q5o7l3/appsumo-black-friday-lucky-giveaway-2026",
+      "rules_url": "https://kingsumo.com/giveaways/3q5o7l3/rules",
+      "match": [
+        "kingsumo.com/g/3q5o7l3"
+      ],
+      "ends": "2026-11-27T12:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering signs you up for offers from Avinash Katta x AppSumo (you can unsubscribe)."
+      },
+      "notes": "Software prize (an AppSumo deal license). One entry per person by email; optional bonus actions include a daily click, visiting a picks page and a YouTube subscribe. Ends 10:30 PM IST Nov 27, which is noon ET. Not the same as AppSumo's own SuperGrok and Starlink giveaway.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-21T18:12:00-05:00",
+        "reason": "The KingSumo page, read through a Perplexity search extract, gives the prize, one entry per person and the 10:30 PM IST Nov 27 end, but not who can enter. Its official rules (kingsumo.com/giveaways/3q5o7l3/rules) weren't read: the page reader's approval prompt (PROVENANCE_REQUIRED) for the KingSumo page went unanswered.",
+        "evidence": [
+          "https://kingsumo.com/g/3q5o7l3/appsumo-black-friday-lucky-giveaway-2026",
+          "https://giveaway-list.com/giveaway/kingsumo-3q5o7l3/appsumo-black-friday-lucky-giveaway-2026"
+        ],
+        "missing": [
+          "eligibility"
+        ]
+      },
+      "added": "2026-11-21",
+      "source": "Claude review 2026-11-21",
+      "id": "appsumo-black-friday-lucky-giveaway-avinash-katta-x-appsumo",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Schroepfer's $500 Holiday Cash Giveaway 2026",
+      "prize": "1 winner: $500 cash",
+      "category": "cash",
+      "entry_url": "https://kingsumo.com/g/1vj8n71/2026-schroepfers-500-holiday-cash-giveaway",
+      "rules_url": "https://kingsumo.com/giveaways/1vj8n71/rules",
+      "match": [
+        "kingsumo.com/g/1vj8n71"
+      ],
+      "ends": "2026-11-23T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "Schroepfer's annual holiday cash giveaway on KingSumo. Base entry is the email form; a Facebook follow and a daily click are optional bonus entries. The sponsor says entrant info is used only to pick and contact the winner, with no marketing. Listing sites give the end as Nov 23 or Nov 24 and the winner is announced Nov 24, so enter by Nov 23. Schroepfer's looks like a local business, so check the rules for an area limit.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-21T18:12:00-05:00",
+        "reason": "Facts come from a giveaway-list.com copy of the KingSumo page (found with a Perplexity search) and other listing sites. The KingSumo page and its official rules (kingsumo.com/giveaways/1vj8n71/rules) never came up in web search, so eligibility (including any local-area limit), the end time and the entry limit aren't confirmed.",
+        "evidence": [
+          "https://giveaway-list.com/kingsumo",
+          "https://gleamgiveaways.com/giveaways/2026-schroepfers-500-holiday-cash-giveaway-2026-11/",
+          "https://www.freestufftimes.com/contests/20/2026-schroepfers-500-holiday-cash-giveaway/"
+        ],
+        "missing": [
+          "eligibility",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-21",
+      "source": "Claude review 2026-11-21",
+      "id": "schroepfer-s-500-holiday-cash-giveaway-2026",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Maison Backyards Propane Smoker Giveaway",
+      "prize": "1 winner: Maison Backyards Vertical Propane Smoker with Cover ($249.99)",
+      "category": "other",
+      "entry_url": "https://sweepwidget.com/c/103607-dakcvobf",
+      "match": [
+        "sweepwidget.com/c/103607-dakcvobf"
+      ],
+      "ends": "2026-11-25T23:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "SweepWidget campaign. SweepWidget's directory showed it live with 4 days left on Nov 21 and freestufftimes gives Nov 26 as the last day, so the end time here is a guess. Read the rules on the page before entering; the entry limit and who can enter are unknown.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-21T18:12:00-05:00",
+        "reason": "Only SweepWidget's public directory card was read (prize, 1 winner, 4 days left on Nov 21). The campaign page and its rules never came up in web search, so the page reader couldn't open them; eligibility, free entry, the exact end and the entry limit are unconfirmed.",
+        "evidence": [
+          "https://sweepwidget.com/giveaways/?sort=latest"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-21",
+      "source": "Claude review 2026-11-21",
+      "id": "maison-backyards-propane-smoker-giveaway",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Fuel Your Wellness: Liquid Ashwagandha Giveaway",
+      "prize": "1 winner: Ashwagandha Home & Travel Bundle ($116)",
+      "category": "other",
+      "entry_url": "https://sweepwidget.com/c/103333-jgamxfel",
+      "match": [
+        "sweepwidget.com/c/103333-jgamxfel"
+      ],
+      "ends": "2026-11-25T12:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "SweepWidget campaign for a dietary-supplement bundle; the sponsor isn't named. SweepWidget's directory showed 4 days left on Nov 21 and freestufftimes gives Nov 25, so the end time here is a guess. Read the rules on the page before entering; the entry limit and who can enter are unknown.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-21T18:12:00-05:00",
+        "reason": "Only SweepWidget's public directory card was read (prize, 1 winner, 4 days left on Nov 21). The campaign page and its rules never came up in web search, so the page reader couldn't open them; the sponsor, eligibility, free entry, the exact end and the entry limit are unconfirmed.",
+        "evidence": [
+          "https://sweepwidget.com/giveaways/?sort=latest"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-21",
+      "source": "Claude review 2026-11-21",
+      "id": "fuel-your-wellness-liquid-ashwagandha-giveaway",
+      "rules_checked": "partial"
     }
   ]
 }
