@@ -1149,42 +1149,6 @@
       "rules_checked": "partial"
     },
     {
-      "name": "Universal Forgotten Island Sweepstakes",
-      "prize": "Signed Forgotten Island concept art (ERV $100 each)",
-      "category": "other",
-      "entry_url": "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form",
-      "rules_url": "https://www.universalpicturesathome.com/forgotten-island-sweepstakes",
-      "ends": "2026-11-20T21:00:00-05:00",
-      "limit": {
-        "type": "rolling24"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "Entries must be received by 6:00 PM PT Nov 20 (the period runs to Nov 27 but later entries don't count). One entry per person per day, up to 31; the rules don't define the day, so this waits 24 hours. Form asks for email, name and birth date. 50 states and DC, 18+.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.universalpicturesathome.com/forgotten-island-sweepstakes",
-        "checked_at": "2026-11-04T11:43-05:00",
-        "evidence": [
-          "https://www.universalpicturesathome.com/forgotten-island-sweepstakes",
-          "https://cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form"
-        ],
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        }
-      },
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "universal-forgotten-island-sweepstakes",
-      "match": [
-        "cloud.email.universalpicturesathome.com/forgottenisland_upheportal_sweeps_form"
-      ],
-      "rules_checked": "full"
-    },
-    {
       "name": "Ferrero Rocher Raise A Rocher Sweepstakes (free entry)",
       "prize": "3 grand prizes: 4-day/3-night NYC New Year's Eve trip for 2 (ARV $25,000); 55 secondary prizes per phase ($6-$72)",
       "category": "trip",
@@ -1485,43 +1449,6 @@
       "match": [
         "madisoncreekoutfitters.com/pages/giveaway"
       ],
-      "rules_checked": "full"
-    },
-    {
-      "name": "Allegiant Double Down Flyaway Sweepstakes (Luke Bryan & Jason Aldean)",
-      "prize": "1 winner: 2 tickets to the Double Down Tour (Dec 11, Allegiant Stadium, Las Vegas) + round-trip flights and hotel (ARV $2,258)",
-      "category": "trip",
-      "entry_url": "https://www.allegiantair.com/DoubleDownFlyawaySweepstakes",
-      "rules_url": "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules",
-      "ends": "2026-11-21T02:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 21,
-      "flags": {
-        "age21": true
-      },
-      "notes": "Ends 11:59 PM PT Nov 20. One entry per email address. 50 states and DC, 21+.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules",
-        "checked_at": "2026-11-04T11:58-05:00",
-        "evidence": [
-          "https://www.allegiantair.com/DoubleDownFlyawaySweepstakesRules"
-        ],
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        }
-      },
-      "match": [
-        "allegiantair.com/DoubleDownFlyawaySweepstakes"
-      ],
-      "added": "2026-11-04",
-      "source": "Claude review 2026-11-04",
-      "id": "allegiant-double-down-flyaway-sweepstakes-luke-bryan-jason-a",
       "rules_checked": "full"
     },
     {
@@ -2823,163 +2750,6 @@
       "rules_checked": "partial"
     },
     {
-      "name": "2026 MLF Bass Pro Shops Nitro Z19 Sweepstakes",
-      "prize": "Nitro Z19 bass boat with a 200 L Pro XS Mercury package (ARV $57,995); runner-up prizes are a $2,500 Rapala.com gift card, a Champion 2400W dual fuel inverter and a BUBBA prize package",
-      "category": "other",
-      "entry_url": "https://gleam.io/r8CSA/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
-      "rules_url": "https://majorleaguefishing.com/promorules/",
-      "match": [
-        "gleam.io/r8CSA"
-      ],
-      "ends": "2026-11-21T00:59:59-05:00",
-      "limit": {
-        "type": "rolling24"
-      },
-      "min_age": 18,
-      "flags": {},
-      "notes": "MLF's announcement: open to legal residents of the 48 contiguous states and DC, 18+, no purchase, one entry per person per day at MajorLeagueFishing.com/promos (a Gleam form) through Nov 20. Listing sites quoting the rules give 11:59:59 PM CT Nov 20 as the end and say extra email addresses don't add entries. Per a listing site, the Gleam form asks for name, email and ZIP plus terms and 18+ checkboxes, and the marketing box is optional. Drawing about Nov 24.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-19T18:09:00-05:00",
-        "reason": "MLF's own announcement (reposted by The Bass Cast) confirms 48 states + DC, 18+, no purchase and one entry per person per day through Nov 20, and listing sites quoting the rules give 11:59:59 PM CT, but this year's official rules weren't read: MLF's promo page hit the unanswered PROVENANCE_REQUIRED approval prompt, its rules page and press release returned client errors, and the Gleam page didn't come up in search.",
-        "evidence": [
-          "https://thebasscast.com/2026/05/20/major-league-fishing-announces-2026-mlf-bass-pro-shops-z19-sweepstakes",
-          "https://www.worldfreeprizes.com/giveaways/2026-mlf-bass-pro-shops-nitro-z19-sweepstakes/",
-          "https://winthatwhip.com/giveaway/mlf-bass-pro-shops-nitro-z19-sweepstakes",
-          "https://sweepsatlas.com/sweeps/major-league-fishing-bass-pro-shops-nitro-z19-sweepstakes-224716"
-        ],
-        "missing": [
-          "full_official_rules"
-        ]
-      },
-      "added": "2026-11-10",
-      "source": "Claude review 2026-11-10",
-      "id": "2026-mlf-bass-pro-shops-nitro-z19-sweepstakes",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "Wedderspoon Winter Wellness Giveaway",
-      "prize": "1 winner: KitchenAid Artisan stand mixer, two 250g jars of raw Manuka honey (MGO 1100+ and 850+), a candle and a kitchen towel (ARV $720)",
-      "category": "other",
-      "entry_url": "https://wedderspoon.com/pages/giveaway",
-      "rules_url": "https://wedderspoon.com/pages/terms-conditions",
-      "ends": "2026-11-21T02:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "marketing": "Entry details may be used for Wedderspoon marketing emails (and texts if you give a phone number)."
-      },
-      "notes": "Entry form on Wedderspoon's giveaway page asks for an email; the phone number is only for optional texts. The rules sit in the site's Terms & Conditions page and give no entry limit, so this is set to one entry. Ends Nov 20, 11:59 PM PT.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": "https://wedderspoon.com/pages/terms-conditions",
-        "checked_at": "2026-11-13T17:52:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": false
-        },
-        "reason": "Sponsor's rules (in wedderspoon.com Terms & Conditions) confirm US residents 18+, a website entry form needing only an email, and Nov 2 to Nov 20, 2026 at 11:59 PM PT, but state no entry limit.",
-        "missing": [
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://wedderspoon.com/pages/terms-conditions",
-          "https://wedderspoon.com/pages/giveaway"
-        ]
-      },
-      "added": "2026-11-13",
-      "source": "Claude review 2026-11-13",
-      "id": "wedderspoon-winter-wellness-giveaway",
-      "match": [
-        "wedderspoon.com/pages/giveaway"
-      ],
-      "rules_checked": "partial"
-    },
-    {
-      "name": "Peeler's Seafood Ultimate Montana Giveaway 2026",
-      "prize": "One Montana prize package, ARV $4,623: Simms Rip Line Pro bib and jacket, FORLOH pant and jacket set, Peeler's $600 gift card, Old Salt Festival weekend passes for four, Montana Knife Co. paring knife, Mystery Ranch pack, Distinctly Montana gift certificate and more",
-      "category": "mixed",
-      "entry_url": "https://www.peelersseafood.com/montana-giveaway-2026",
-      "rules_url": "https://www.peelersseafood.com/sweepstakes",
-      "match": [
-        "www.peelersseafood.com/montana-giveaway-2026"
-      ],
-      "ends": "2026-11-21T01:59:59-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 21,
-      "flags": {
-        "age21": true
-      },
-      "notes": "Open to the 50 states and DC, 21+. The form needs an email, a phone number or both: each counts as one entry, so giving both in one go uses the full limit of two entries per person. Marketing consent is optional. Ends 11:59:59 PM MT Nov 20 (1:59 AM ET Nov 21). One item, a Bozeman Spirits barrel, $50 gift card and hat, is called an alcohol-related prize component in the rules, which the sponsor may swap for a non-alcohol prize. Festival passes exclude travel.",
-      "verification": {
-        "status": "verified",
-        "rules_source": "https://www.peelersseafood.com/sweepstakes",
-        "checked_at": "2026-11-14T17:52:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": true
-        },
-        "evidence": [
-          "https://www.peelersseafood.com/sweepstakes",
-          "https://www.peelersseafood.com/montana-giveaway-2026"
-        ]
-      },
-      "added": "2026-11-14",
-      "source": "Claude review 2026-11-14",
-      "id": "peeler-s-seafood-ultimate-montana-giveaway-2026",
-      "rules_checked": "full"
-    },
-    {
-      "name": "Win Watcharee's NEW Sweet Heat Spreads",
-      "prize": "19 winners each get a Sweet Heat Spread Duo (Sweet Chili Ginger and Lime Habanero)",
-      "category": "other",
-      "entry_url": "https://sweepwidget.com/c/103482-rfn9uve6",
-      "match": [
-        "sweepwidget.com/c/103482-rfn9uve6",
-        "sweepwidget.com/giveaways/103482-rfn9uve6"
-      ],
-      "ends": "2026-11-20T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "follow": "Must be following @wthaisauce on Instagram."
-      },
-      "notes": "Open to US residents, Nov 13 to Nov 20 at 11:59 PM EST. You must follow @wthaisauce on Instagram. Optional bonus entries for a newsletter sign-up and for sharing or tagging friends on the Instagram post. The page states no entry limit and no minimum age. Winners are emailed Nov 23 and must reply by Nov 30.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-14T17:52:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": true,
-          "entry_limit": false
-        },
-        "reason": "The SweepWidget giveaway page (no separate official rules) says open to US residents only, Nov 13 to Nov 20 at 11:59 PM EST, with a free form and a required Instagram follow of @wthaisauce, but it states no entry limit or minimum age. The listing assumes one entry per person.",
-        "missing": [
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://sweepwidget.com/giveaways/103482-rfn9uve6"
-        ]
-      },
-      "added": "2026-11-14",
-      "source": "Claude review 2026-11-14",
-      "id": "win-watcharee-s-new-sweet-heat-spreads",
-      "rules_checked": "partial"
-    },
-    {
       "name": "Shane Co. $10K Sparkle Spree",
       "prize": "31 Shane Co. gift cards: one $10,000 grand prize, ten $500 and twenty $50 ($16,000 total)",
       "category": "gift_card",
@@ -3305,51 +3075,6 @@
       "added": "2026-11-15",
       "source": "Claude review 2026-11-15",
       "id": "atk-gear-black-friday-lucky-draw-round-1",
-      "rules_checked": "partial"
-    },
-    {
-      "name": "CoinWeek Giveaway #667: 2012 US Mint Limited Edition Silver Proof Set",
-      "prize": "One 2012 US Mint Limited Edition Silver Proof Set (eight coins, including a 2012-W Proof Silver Eagle), value $245, one winner",
-      "category": "other",
-      "entry_url": "https://contests.coinweek.com/giveaway/coin-giveaway-667/",
-      "rules_url": "https://contests.coinweek.com/giveaway-terms-and-rules/",
-      "match": [
-        "contests.coinweek.com/giveaway/coin-giveaway-667"
-      ],
-      "ends": "2026-11-21T08:00:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "flags": {
-        "marketing": "Entering adds your email to CoinWeek's mailing list, and its terms let CoinWeek share or use the address."
-      },
-      "notes": "CoinWeek's general terms: legal US residents 18+, no purchase necessary, enter with your email on the giveaway page. The #667 page says entries close at 10 AM GMT-4 on Sat Nov 21 (9 AM ET), but the contest hub says 8 AM, so this listing uses 8 AM ET. Neither the page nor the terms state an entry limit; CoinWeek's entries page shows one entry per email, plus optional bonus entries for a Facebook like and comment, article comments, text alerts and each newsletter you join. Winner announced about Nov 25.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": "https://contests.coinweek.com/giveaway-terms-and-rules/",
-        "checked_at": "2026-11-15T18:11:00-05:00",
-        "confirmed": {
-          "eligibility": true,
-          "free_entry": true,
-          "deadline": false,
-          "entry_limit": false
-        },
-        "reason": "CoinWeek's terms confirm US residents 18+ and free online entry, but they state no entry limit, and the end time conflicts: the #667 page says 10 AM GMT-4 on Nov 21 while the contest hub says 8 AM.",
-        "missing": [
-          "deadline",
-          "entry_limit"
-        ],
-        "evidence": [
-          "https://contests.coinweek.com/giveaway-terms-and-rules/",
-          "https://contests.coinweek.com/giveaway/coin-giveaway-667/",
-          "https://contests.coinweek.com/",
-          "https://contests.coinweek.com/entries/"
-        ]
-      },
-      "added": "2026-11-15",
-      "source": "Claude review 2026-11-15",
-      "id": "coinweek-giveaway-667-2012-us-mint-limited-edition-silver-pr",
       "rules_checked": "partial"
     },
     {
@@ -4509,43 +4234,6 @@
       "rules_checked": "full"
     },
     {
-      "name": "Disney+ Hulu Percy Jackson Season 3 Premiere Sweepstakes",
-      "prize": "Percy Jackson season 3 premiere prize pack (camp shirt, woven blanket, constellation projector and other merchandise; ARV $312 each), 230 winners",
-      "category": "other",
-      "entry_url": "https://percy-jackson-s3-premiere.prod.fooji.com/",
-      "rules_url": "https://images.prod.fooji.com/original/organizations/20/campaigns/3695/published/click_for_official_rules-ab8550d.pdf",
-      "match": [
-        "percy-jackson-s3-premiere.prod.fooji.com"
-      ],
-      "ends": "2026-11-20T23:59:00-05:00",
-      "limit": {
-        "type": "once"
-      },
-      "min_age": 18,
-      "notes": "Type this form by hand: a listing site warns that entries made with phone or browser autofill are disqualified, so don't use Fill anyway. Listing sites: 50 US + DC, 18+, one entry per person, 230 winners. One listing site gives the end as 1:00 AM Nov 21 and another as Nov 20, so this listing ends at 11:59 PM ET Nov 20.",
-      "verification": {
-        "status": "needs_rules_check",
-        "rules_source": null,
-        "checked_at": "2026-11-19T18:09:00-05:00",
-        "reason": "Facts come from listing sites (The Freebie Guy, Freebie Shark). The Fooji entry page and its rules PDF didn't come up in web search or a Perplexity lookup, so they weren't opened, and eligibility, the entry method, the end time and the limit are unconfirmed.",
-        "evidence": [
-          "https://thefreebieguy.com/sweepstakes/win-a-312-percy-jackson-season-3-prize-pack/",
-          "https://www.freebieshark.com/2026/11/disney-hulu-percy-jackson-sweepstakes-230-winners.html"
-        ],
-        "missing": [
-          "eligibility",
-          "free_entry",
-          "deadline",
-          "entry_limit"
-        ]
-      },
-      "flags": {},
-      "added": "2026-11-19",
-      "source": "Claude review 2026-11-19",
-      "id": "disney-hulu-percy-jackson-season-3-premiere-sweepstakes",
-      "rules_checked": "partial"
-    },
-    {
       "name": "Fresh Express Ugly Sweater Sweepstakes",
       "prize": "10 Fresh Express ugly holiday sweaters (ARV up to $45.29 each) and 45 holiday ornaments (ARV up to $3.95 each)",
       "category": "other",
@@ -4582,6 +4270,128 @@
       "added": "2026-11-19",
       "source": "Claude review 2026-11-19",
       "id": "fresh-express-ugly-sweater-sweepstakes",
+      "rules_checked": "partial"
+    },
+    {
+      "name": "Delta x Hyatt Group Drop Sweepstakes",
+      "prize": "25 group prizes, each a trip for 2 to Cancun (arrive Jan 22, depart Jan 25, 2027): round-trip flights, 3 nights at Alila Mayakoba, transfers, Delta Lounge pop-up access, a welcome dinner, 2 gifts and a daily food and drink credit (ARV $9,600 per group)",
+      "category": "trip",
+      "entry_url": "https://www.skymilesexperiences.com/iSynApp/playInstantWin!showInstantPlay.action?sid=1101601&selectedItwName=delta-hyatt-groupdrop",
+      "rules_url": "https://www.skymilesexperiences.com/iSynApp/playInstantWin!showInstantPlay.action?sid=1101601&selectedItwName=delta-hyatt-groupdrop",
+      "rules_note": "The full Official Rules are printed on the entry page.",
+      "match": [
+        "skymilesexperiences.com/iSynApp/playInstantWin!showInstantPlay.action"
+      ],
+      "ends": "2026-11-23T23:59:00-05:00",
+      "starts": "2026-11-17T09:00:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 21,
+      "flags": {
+        "account": "Free Delta SkyMiles membership; you log in to SkyMiles to enter. A valid US passport is also required.",
+        "age21": true
+      },
+      "notes": "21+, 50 US + DC, Delta SkyMiles members with a valid US passport. You enter as Group Drop Leader and invite one friend (also 21+, US resident, SkyMiles member with a valid passport), who must accept with the code and submit their own form before the end, or the group entry is disqualified. One group entry as leader; you may also accept invitations as someone else's friend. Linking SkyMiles and World of Hyatt accounts (delta.com/worldofhyatt) gives the leader's duo one bonus entry. The rules say it ends 11:59:59 PM PT Nov 23 and the page summary says ET, so enter by 11:59 PM ET. Finalists drawn about Nov 24, winners about Dec 16. Sponsor: Delta Air Lines.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://www.skymilesexperiences.com/iSynApp/playInstantWin!showInstantPlay.action?sid=1101601&selectedItwName=delta-hyatt-groupdrop",
+        "checked_at": "2026-11-21T18:08:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://www.skymilesexperiences.com/iSynApp/playInstantWin!showInstantPlay.action?sid=1101601&selectedItwName=delta-hyatt-groupdrop",
+          "https://news.delta.com/delta-and-hyatt-launch-new-benefits-and-experiences-skymilesr-and-world-hyatt-members"
+        ]
+      },
+      "added": "2026-11-21",
+      "source": "Claude review 2026-11-21",
+      "id": "delta-x-hyatt-group-drop-sweepstakes",
+      "rules_checked": "full"
+    },
+    {
+      "name": "Enwild Osprey Ozone Hardside Giveaway",
+      "prize": "1 winner: Osprey Ozone Hardside 30-inch 4-wheel suitcase (Black or Moody Burgundy)",
+      "category": "other",
+      "entry_url": "https://trailsense.enwild.com/giveaway/",
+      "rules_url": "https://trailsense.enwild.com/giveaway/",
+      "rules_note": "Contest rules are on the entry page.",
+      "match": [
+        "trailsense.enwild.com/giveaway"
+      ],
+      "ends": "2026-11-23T22:59:00-05:00",
+      "starts": "2026-11-17T08:00:00-04:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "marketing": "Entering signs you up for Enwild emails (rule 21; you can unsubscribe)."
+      },
+      "notes": "Legal US residents 18+, no purchase. One entry per person; extra entries only through optional social sharing. The form asks for name, email, color choice and a US-resident 18+ checkbox, and entering signs you up for Enwild emails. The rules say it ends 11:59 PM EDT Nov 23; Eastern time is EST by then, so enter by 10:59 PM ET to be safe. Winner emailed on or after Nov 24.",
+      "verification": {
+        "status": "verified",
+        "rules_source": "https://trailsense.enwild.com/giveaway/",
+        "checked_at": "2026-11-21T18:08:00-05:00",
+        "confirmed": {
+          "eligibility": true,
+          "free_entry": true,
+          "deadline": true,
+          "entry_limit": true
+        },
+        "evidence": [
+          "https://trailsense.enwild.com/giveaway/"
+        ]
+      },
+      "added": "2026-11-21",
+      "source": "Claude review 2026-11-21",
+      "id": "enwild-osprey-ozone-hardside-giveaway",
+      "rules_checked": "full"
+    },
+    {
+      "name": "RuntimeWire NVIDIA DGX Spark Giveaway",
+      "prize": "1 winner: factory-sealed NVIDIA DGX Spark (128 GB, 4 TB), ARV $6,950",
+      "category": "electronics",
+      "entry_url": "https://runtimewire.com/giveaway",
+      "rules_url": "https://runtimewire.com/giveaway/rules",
+      "rules_note": "Official Rules are linked on the giveaway page (not read).",
+      "match": [
+        "runtimewire.com/giveaway"
+      ],
+      "ends": "2026-11-23T00:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {
+        "account": "Entering creates a free RuntimeWire account; you verify your email with a one-time code, then press Confirm my entry on your dashboard.",
+        "marketing": "Entering subscribes you to the RuntimeWire newsletter (you can unsubscribe and keep your entry)."
+      },
+      "notes": "Sponsor's page: free, no purchase; 18+ (and the local age of majority), all 50 US states and DC plus a few other countries; one base entry per person plus up to 25 bonus entries for accepted referrals. Closes 11:59 PM CST Nov 22 (12:59 AM ET Nov 23). NVIDIA is not a sponsor.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-21T18:10:00-05:00",
+        "reason": "RuntimeWire's own giveaway page and its podcast and video descriptions give the prize, US eligibility, free entry, one entry per person and an 11:59 PM CST Nov 22 close, but the page labels its dates 'Proposed' and says the approved Official Rules control and entries open only when the campaign launches. The Official Rules page (runtimewire.com/giveaway/rules) never came up in search, so it wasn't read.",
+        "evidence": [
+          "https://runtimewire.com/giveaway",
+          "https://runtimewire.com/article/runtimewire-plans-to-give-a-reader-a-6-950-nvidia-dgx-spark-for-signing-up",
+          "https://www.youtube.com/watch?v=7ddEQYPlLaU"
+        ],
+        "missing": [
+          "eligibility",
+          "free_entry",
+          "deadline",
+          "entry_limit"
+        ]
+      },
+      "added": "2026-11-21",
+      "source": "Claude review 2026-11-21",
+      "id": "runtimewire-nvidia-dgx-spark-giveaway",
       "rules_checked": "partial"
     }
   ]
