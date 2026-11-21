@@ -4551,6 +4551,38 @@
       "source": "Claude review 2026-11-21",
       "id": "fuel-your-wellness-liquid-ashwagandha-giveaway",
       "rules_checked": "partial"
+    },
+    {
+      "name": "AppSumo Black Friday 2026 SuperGrok + Starlink Giveaway",
+      "prize": "Grand prize: one year of Grok Bot Pro+ (SuperGrok Plus) and Starlink Roam 300 GB, plus SpaceX merch; 5 more winners: one year of Grok Bot Pro and SpaceX merch. AppSumo also mentions Starlink Mini hardware ($4,500 total value)",
+      "category": "mixed",
+      "entry_url": "https://appsumo.com/black-friday-2026/giveaway",
+      "match": [
+        "appsumo.com/black-friday-2026/giveaway"
+      ],
+      "ends": "2026-12-04T12:59:00-05:00",
+      "limit": {
+        "type": "once"
+      },
+      "min_age": 18,
+      "flags": {},
+      "notes": "The entry form is a KingSumo form on AppSumo's page: email only, no purchase. One entry per person; bonus entries for sharing on social media and browsing the AppSumo store. Deadline 11:59 AM CT Dec 4 (12:59 PM ET); winners emailed Dec 4. Found while checking the Avinash Katta x AppSumo listing, which is a separate giveaway.",
+      "verification": {
+        "status": "needs_rules_check",
+        "rules_source": null,
+        "checked_at": "2026-11-21T18:24:00-05:00",
+        "reason": "AppSumo's own giveaway page (read directly and through a Perplexity extract) gives the prizes, free email entry, one entry per person and the 11:59 AM CT Dec 4 deadline, but states no eligibility and links no official rules, and the KingSumo giveaway behind its form wasn't identified.",
+        "evidence": [
+          "https://appsumo.com/black-friday-2026/giveaway"
+        ],
+        "missing": [
+          "eligibility"
+        ]
+      },
+      "added": "2026-11-21",
+      "source": "Claude review 2026-11-21",
+      "id": "appsumo-black-friday-2026-supergrok-starlink-giveaway",
+      "rules_checked": "partial"
     }
   ]
 }

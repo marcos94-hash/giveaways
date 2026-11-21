@@ -428,6 +428,19 @@
       ],
       "decided_at": "2026-11-06T17:40:02-05:00"
     },
+    "https://appsumo.com/black-friday-2026/giveaway": {
+      "attempts": 0,
+      "status": "listed",
+      "reason_code": "needs_rules_check",
+      "reason": "AppSumo's own giveaway page (read directly and through a Perplexity extract) gives the prizes, free email entry, one entry per person and the 11:59 AM CT Dec 4 deadline, but states no eligibility and links no official rules, and the KingSumo giveaway behind its form wasn't identified.",
+      "last_attempt_at": "2026-11-21T18:10:26-05:00",
+      "evidence": [
+        "https://appsumo.com/black-friday-2026/giveaway"
+      ],
+      "listing_id": "appsumo-black-friday-2026-supergrok-starlink-giveaway",
+      "decided_at": "2026-11-21T18:10:26-05:00",
+      "next_retry_at": "2026-11-24T18:10:26-05:00"
+    },
     "https://architecturaldigest.com/story/ad-gozney-sweepstakes-2026": {
       "attempts": 0,
       "status": "listed",
