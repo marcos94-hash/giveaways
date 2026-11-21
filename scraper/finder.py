@@ -232,10 +232,19 @@ def find_end(text, today):
     return fallback
 
 
-def find_frequency(text):
+def find_frequency(text, post=""):
+    """post: the first line after the post title. With no 'Entry:' label, freestufftimes prints the
+    frequency there ("Daily", "One Entry"); the site menu ("One Entry Daily ... Weekly") at the top of
+    text[:3000] would otherwise make every post "daily"."""
     lab = re.search(r"(?:entry frequency|frequency|entry|entries)\s*[:\-–—]\s*([^\n]{0,60})", text, re.I)
     chunk = lab.group(1) if lab else ""
-    probe = chunk or text[:3000]
+    if chunk:
+        return frequency_in(chunk)
+    found = frequency_in(post) if post else "unknown"
+    return found if found != "unknown" else frequency_in(text[:3000])
+
+
+def frequency_in(probe):
     if re.search(r"\b(daily|once (?:a|per) day|per day|every day|each day)\b", probe, re.I):
         return "daily"
     if re.search(r"\b(weekly|per week|once a week)\b", probe, re.I):
@@ -373,7 +382,9 @@ def money(text):
 
 def category(text):
     t = text.lower()
-    if re.search(r"\bcash\b(?! ?&)|in the form of a check|venmo|paypal|\$\d[\d,]* (?:cash|check)", t):
+    # Not "cash" here: "Cash & gift cards" (a menu label), "Cash Back Apps" sidebars, and "cash value"
+    # (freestufftimes' "Sign-up bonuses ranked by cash value" box under every post, "no cash value").
+    if re.search(r"\bcash\b(?! ?&| ?back\b| value)|in the form of a check|venmo|paypal|\$\d[\d,]* (?:cash|check)", t):
         return "cash"
     if re.search(r"gift card|giftcard|e-gift|visa prepaid|prepaid card|gift certificate", t):
         return "gift_card"
@@ -398,6 +409,10 @@ def extract(url, body, source_host, today):
     title = re.sub(r"(?:\s*\|\s*|\s+[-–]\s+)[^|\-–]{2,40}$", "", title) or title
     enter, rules = pick_links(p, source_host)
     end, end_raw, end_how = find_end(text, today)
+    at = text.find(title[:40]) if title else -1
+    # The post's own first line after the title (freestufftimes: "Daily Last day to enter: ..."), before any
+    # "updated daily" boxes further down.
+    post = next((ln for ln in text[at + len(title):].split("\n") if ln.strip()), "")[:120] if at >= 0 else ""
     c = {
         "title": title[:160],
         "source_url": url,
@@ -406,7 +421,7 @@ def extract(url, body, source_host, today):
         "ends_guess": end.isoformat() if end else None,
         "ends_text": end_raw,
         "ends_how": end_how,  # explicit | inferred (year guessed) | uncertain | None
-        "frequency_guess": find_frequency(text),
+        "frequency_guess": find_frequency(text, post),
         "min_age_guess": find_age(text),
         "value_guess": money(text[:6000]),
         # The title names the prize more reliably than page text, where sidebars ("Best Cash Back Apps") read as cash.

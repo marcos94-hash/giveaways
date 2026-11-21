@@ -266,6 +266,37 @@ def test_main_offline(monkeypatch=None):
     finally:
         finder.dt.date = real_today
 
+FST_PAGE = """<html><head><meta property="og:title" content="{t} - Free Stuff Times"></head><body>
+<nav><a href="/contests/">Contests</a><a href="/c/one">One Entry</a><a href="/c/daily">Daily</a>
+<a href="/c/instant">Instant Win Games</a><a href="/c/weekly">Weekly</a><a href="/money/">Money</a></nav>
+<h1>{t}</h1><p>{freq} Last day to enter: Fri, Nov 27 Save post</p><p>{label} · Prize value: $2,500</p>
+<p><a href="https://app.viralsweep.com/sweeps/full/abc-123">Enter giveaway</a></p>
+<ul><li>Class Action Settlements Open settlements you can claim, updated daily.</li>
+<li>High Interest Savings The best savings rates, checked daily.</li>
+<li>Credit Card Bonuses Sign-up bonuses ranked by cash value.</li></ul></body></html>"""
+
+def test_fst_menu_and_promo_box_dont_set_guesses():
+    # Candidates (Nov 21): category_guess was "cash" for 437 of 483 freestufftimes posts and frequency_guess "daily"
+    # for all of them. The box under every post says "ranked by cash value" and "updated daily", and the site
+    # menu lists "One Entry Daily ... Weekly" before the post. The post's own line after the title decides.
+    for title, freq, label, want_freq, want_cat in [
+            ("Yamaha YTR-5335GSIIAL Trumpet Giveaway", "One Entry", "Other", "once", "other"),
+            ("Pack Hacker x NOMATIC Giveaway", "Daily", "Other", "daily", "other"),
+            ("Wellness Box Giveaway", "Weekly", "Other", "weekly", "other"),
+            ("Holiday Giveaway", "One Entry", "Cash &amp; gift cards", "once", "gift_card"),
+            ("2026 Schroepfers $500 Holiday Cash Giveaway", "Daily", "Cash &amp; gift cards", "daily", "cash")]:
+        c = finder.extract("https://www.freestufftimes.com/contests/20/x/", FST_PAGE.format(t=title, freq=freq, label=label),
+                           "freestufftimes.com", TODAY)
+        assert c["title"] == title, c["title"]
+        assert c["frequency_guess"] == want_freq, (title, c["frequency_guess"])
+        assert c["category_guess"] == want_cat, (title, c["category_guess"])
+        assert c["entry_url"] == "https://app.viralsweep.com/sweeps/full/abc-123"
+    # Real cash wording still counts; "cash back" and "no cash value" don't.
+    assert finder.category("Win $500 cash for the holidays") == "cash"
+    assert finder.category("Best Cash Back Apps. Prize has no cash value.") == "other"
+    # No line after the title: the old whole-page guess still applies.
+    assert finder.find_frequency("Enter daily for a chance to win.") == "daily"
+
 if __name__ == "__main__":
     for n, f in list(globals().items()):
         if n.startswith("test_"): f(); print("ok -", n)
