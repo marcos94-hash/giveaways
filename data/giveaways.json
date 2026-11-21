@@ -129,7 +129,7 @@
         "type": "rolling24"
       },
       "flags": {},
-      "notes": "18+. No signup found.",
+      "notes": "US residents 18+, no purchase. Valpak's page: runs Oct 26 to Dec 4, 2026, enter daily. The 8:00 AM ET end time comes from listing sites (it matches Valpak's 2024 rules). No signup found.",
       "day_note": "The rules didn't say when a day starts, so this waits a full 24 hours between entries to stay under the limit.",
       "rules_checked": "partial",
       "min_age": 18,
@@ -138,8 +138,8 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-12T17:53:00-05:00",
-        "reason": "The rules link on Valpak's holiday page (valpak.com/holiday?rules=true) still serves the 2024 $10,000 Food Network Sweepstakes rules, which ended Dec 6, 2024, so this year's Holiday Haul rules weren't found. Dates and 18+ come from Valpak's entry page; the end time and daily limit come from listing sites.",
+        "checked_at": "2026-11-21T18:20:00-05:00",
+        "reason": "Rechecked Nov 21: Valpak's page (read again) confirms the $5,000 Holiday Haul runs 10/26/26 to 12/4/26 for US residents 18+, no purchase necessary, with daily entry, but its rules link (valpak.com/holiday?rules=true) still serves the 2024 Food Network rules, so the end time and the day boundary aren't confirmed from this year's rules.",
         "evidence": [
           "https://www.valpak.com/holiday",
           "https://valpak.com/holiday?rules=true"
@@ -467,8 +467,8 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-11T18:06:00-05:00",
-        "reason": "Rechecked Nov 11: Coppola's entry form and rules link (coppolaholidayoffer.com/en/IH6898/submission/form) didn't come up in web search, and the page reader can't open links that don't (they wait on an unanswered PROVENANCE_REQUIRED approval prompt), so the facts still come from listing sites and the end time is unknown.",
+        "checked_at": "2026-11-21T18:20:00-05:00",
+        "reason": "Rechecked Nov 21: coppolaholidayoffer.com is a JavaScript app that returns only its title to the page reader (it names Delicato Family Wines / Francis Ford Coppola Winery), and no rules page came up in search, so the facts still come from listing sites and the end time is unknown.",
         "evidence": [
           "https://www.sweepstakesbible.com/giveaways/coppola-diamond-holiday-party-sweepstakes",
           "https://www.sweepsadvantage.com/holiday-sweepstakes"
@@ -603,7 +603,7 @@
       "prize": "$5,000 check",
       "category": "cash",
       "entry_url": "https://www.hgtv.com/sweepstakes/home-for-the-holidays",
-      "rules_url": null,
+      "rules_url": "https://xd.wayin.com/display/container/dc/05749ccd",
       "rules_note": "Linked on the entry page.",
       "match": [
         "hgtv.com/sweepstakes/home-for-the-holidays"
@@ -615,8 +615,8 @@
       "flags": {
         "age21": true
       },
-      "notes": "Same drawing as the Food Network entry. You get one entry on each site per day.",
-      "day_note": "The rules weren't read, so the day boundary isn't confirmed (listing sites say midnight ET; the 8:59 AM end time hints at 9 AM). This waits a full 24 hours between entries on this site.",
+      "notes": "Same drawing as the Food Network entry; one entry on each site per day. Listing sites quoting the rules: 50 US + DC, 21+ as of the Oct 28 start; promotional emails are optional.",
+      "day_note": "The rules weren't read, so the day boundary isn't confirmed (a listing site says midnight ET; the 8:59 AM end time hints at 9 AM). This waits a full 24 hours between entries on this site.",
       "rules_checked": "partial",
       "min_age": 21,
       "added": "2026-11-03",
@@ -624,10 +624,14 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-12T17:56:00-05:00",
-        "reason": "Official rules not read: they open inside the Wayin entry frame (xd.wayin.com), and that rules page didn't come up in web search or Perplexity. HGTV's page confirms $5,000, one entry a day on HGTV.com plus one on FoodNetwork.com, and the Jan 6, 2027 8:59 AM ET end; 21+ and US/DC eligibility come from listing sites.",
+        "checked_at": "2026-11-21T18:20:00-05:00",
+        "reason": "Rechecked Nov 21: HGTV's and Food Network's pages (read again) confirm $5,000, no purchase necessary and one entry a day on each site through 8:59 AM ET Jan 6, 2027, but carry no rules text. Listing sites quoting the official rules give 50 US + DC and 21+ as of the Oct 28 start. The rules page (xd.wayin.com/display/container/dc/05749ccd) waited on a page reader approval (PROVENANCE_REQUIRED) that went unanswered, so eligibility isn't confirmed from the rules.",
         "evidence": [
-          "https://www.hgtv.com/sweepstakes/home-for-the-holidays"
+          "https://www.hgtv.com/sweepstakes/home-for-the-holidays",
+          "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays",
+          "https://slickdeals.net/f/20227086-hgtv-home-for-the-holidays-giveaway-1-6-27",
+          "https://freeentry.org/hgtv/hgtv-home-for-the-holidays-giveaway/",
+          "https://www.sweepstakesbible.com/giveaways/hgtv-home-for-the-holidays-giveaway-5000-cash"
         ],
         "missing": [
           "eligibility"
@@ -635,7 +639,8 @@
       },
       "frames": [
         "xd.wayin.com"
-      ]
+      ],
+      "starts": "2026-10-28T09:00:00-04:00"
     },
     {
       "id": "foodnetwork-home-for-holidays",
@@ -643,23 +648,20 @@
       "prize": "$5,000 check (same drawing as HGTV)",
       "category": "cash",
       "entry_url": "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays",
-      "rules_url": null,
+      "rules_url": "https://xd.wayin.com/display/container/dc/05749ccd",
       "rules_note": "Linked on the entry page.",
       "match": [
         "foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays"
       ],
       "ends": "2027-01-06T08:59:00-05:00",
       "limit": {
-        "type": "daily",
-        "count": 1,
-        "reset_tz": "America/New_York",
-        "reset_hour": 9
+        "type": "rolling24"
       },
       "flags": {
         "age21": true
       },
-      "notes": "Second daily entry into the HGTV drawing.",
-      "day_note": "Day assumed to run 9 AM to 8:59 AM ET, matching the 8:59 AM end time.",
+      "notes": "Second daily entry into the HGTV drawing (one entry a day on each site). Listing sites quoting the rules: 50 US + DC, 21+ as of the Oct 28 start; promotional emails are optional.",
+      "day_note": "The rules weren't read, so the day boundary isn't confirmed (a listing site says midnight ET; the 8:59 AM end time hints at 9 AM). This waits a full 24 hours between entries on this site.",
       "rules_checked": "partial",
       "min_age": 21,
       "added": "2026-11-03",
@@ -667,11 +669,14 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-11T18:06:00-05:00",
-        "reason": "Rechecked Nov 11: HGTV's sweepstakes page (read again) still confirms one entry a day on each of HGTV.com and FoodNetwork.com through Jan 6, 2027 at 8:59 AM ET, but it has no Official Rules link, and web search and Perplexity didn't find the rules, so 21+ and 50 US + DC eligibility still come from listing sites.",
+        "checked_at": "2026-11-21T18:20:00-05:00",
+        "reason": "Rechecked Nov 21: HGTV's and Food Network's pages (read again) confirm $5,000, no purchase necessary and one entry a day on each site through 8:59 AM ET Jan 6, 2027, but carry no rules text. Listing sites quoting the official rules give 50 US + DC and 21+ as of the Oct 28 start. The rules page (xd.wayin.com/display/container/dc/05749ccd) waited on a page reader approval (PROVENANCE_REQUIRED) that went unanswered, so eligibility isn't confirmed from the rules.",
         "evidence": [
           "https://www.hgtv.com/sweepstakes/home-for-the-holidays",
-          "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays"
+          "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays",
+          "https://slickdeals.net/f/20227086-hgtv-home-for-the-holidays-giveaway-1-6-27",
+          "https://freeentry.org/hgtv/hgtv-home-for-the-holidays-giveaway/",
+          "https://www.sweepstakesbible.com/giveaways/hgtv-home-for-the-holidays-giveaway-5000-cash"
         ],
         "missing": [
           "eligibility"
@@ -679,7 +684,8 @@
       },
       "frames": [
         "xd.wayin.com"
-      ]
+      ],
+      "starts": "2026-10-28T09:00:00-04:00"
     },
     {
       "name": "Take Flight with Pepsi Sweepstakes",
@@ -824,7 +830,7 @@
     },
     {
       "name": "Nokian Tyres Virtual Green Tire Giveaway",
-      "prize": "Weekly: set of Nokian tires (closest map guess) or 2 lift-ticket vouchers (second closest); grand prize 3-night mountain getaway (random drawing)",
+      "prize": "Weekly: a set of Nokian tires (closest map guess) or 2 lift-ticket vouchers (second closest); grand prize a 3-night mountain getaway (random drawing)",
       "category": "trip",
       "entry_url": "https://na.nokiantyres.com/gtg/",
       "rules_url": null,
@@ -834,12 +840,12 @@
       },
       "min_age": 18,
       "flags": {},
-      "notes": "Place a pin on the map once a day; a new resort location each week. Daily clues are posted on Nokian's and the resorts' social channels.",
+      "notes": "Place a pin on the map once a day ('Limit one entry per day'); a new resort location each week. The form asks for name, email, ZIP and a favorite social platform, with a required terms checkbox; the email opt-in is optional. Clues are posted on Nokian's social channels; following isn't stated as required.",
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-12T17:56:00-05:00",
-        "reason": "Sponsor's giveaway page gives the dates (ends Nov 22, 11:59 PM ET) and one entry per day, but the official rules page (na.nokiantyres.com/gtg/rules/) didn't come up in web search this run and was robots.txt-blocked before, so eligibility, free entry and age weren't confirmed. Weekly prizes go to the closest guess, not a random draw.",
+        "checked_at": "2026-11-21T18:20:00-05:00",
+        "reason": "Rechecked Nov 21: Nokian's page confirms Oct 12 to Nov 22 at 11:59 PM ET and one entry per day with no purchase step, but has no eligibility text, and the official rules (na.nokiantyres.com/gtg/rules/) never came up in search (robots.txt-blocked before), so who can enter and the age aren't confirmed. Weekly prizes go to the closest guess, not a random draw.",
         "evidence": [
           "https://na.nokiantyres.com/gtg/"
         ],
@@ -969,27 +975,30 @@
     },
     {
       "name": "Rangers Perks: Win 100,000 AAdvantage Miles (American Airlines)",
-      "prize": "100,000 American Airlines AAdvantage miles",
+      "prize": "100,000 American Airlines AAdvantage miles (ARV $2,530 per listing sites)",
       "category": "trip",
       "entry_url": "https://www.rangersperks.com/",
       "rules_url": "https://rules.gselive.com/49a748b6-8c11-40e2-8956-45edd570dab5",
       "ends": "2026-11-30T23:59:00-05:00",
       "limit": {
-        "type": "once"
+        "type": "rolling24"
       },
       "min_age": 21,
       "flags": {
         "account": "Free American Airlines AAdvantage membership required to enter",
         "age21": true
       },
-      "notes": "Other sweepstakes on the same site are limited to people within 150 miles of Globe Life Field (Texas); this one says all fans 21+. Check the rules link on the page before entering.",
+      "notes": "Free AAdvantage membership required. Other sweepstakes on the same site are limited to people within 150 miles of Globe Life Field (Texas); this one says all fans 21+. Listing sites quoting the rules: 50 US + DC, one entry per person per day, ends 11:59 PM Nov 30 (CST on one site, EST on another; ET used here). Check the rules link on the page before entering.",
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-12T17:53:00-05:00",
-        "reason": "American Airlines' page says the miles sweepstakes is open to all fans 21+ through Nov 30, 2026, no purchase necessary, AAdvantage membership required, and invites daily entries site-wide. Its official rules on rules.gselive.com didn't come up in web search, so the page reader couldn't open them; end time, state eligibility and the entry limit aren't confirmed.",
+        "checked_at": "2026-11-21T18:20:00-05:00",
+        "reason": "Rechecked Nov 21: American Airlines' page still says the miles sweepstakes is open to all fans 21+ through Nov 30, 2026, no purchase necessary, AAdvantage membership required, and 'Enter every day'. Listing sites quoting the rules add 50 US + DC, one entry per person per day and an 11:59 PM Nov 30 end (CST on one, EST on another). The rules page on rules.gselive.com never came up in search, so it wasn't opened.",
         "evidence": [
-          "https://www.rangersperks.com/"
+          "https://www.rangersperks.com/",
+          "https://www.sweepsatlas.com/sweeps/american-airlines-texas-rangers-perks-sweepstakes-216201",
+          "https://morningsweeps.com/sweeps/aa-ranger-perks-100000-miles-sweepstakes/",
+          "https://www.sweepstakesradar.com/listing/american-airlines-rangers-perks-100000-aadvantage-miles-sweepstakes"
         ],
         "missing": [
           "eligibility",
@@ -1003,7 +1012,8 @@
       "match": [
         "rangersperks.com/"
       ],
-      "rules_checked": "partial"
+      "rules_checked": "partial",
+      "day_note": "The rules weren't read, so this waits a full 24 hours between entries."
     },
     {
       "name": "Hallmark Christmas Countdown Adventure Game (Michaels)",
