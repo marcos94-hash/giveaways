@@ -216,8 +216,8 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-11T18:06:00-05:00",
-        "reason": "Rechecked Nov 11: Health-Ade's official rules (linked at qr.health-ade.com/c/Y3WM/custom) didn't come up in web search, and the page reader can't open links that don't (they wait on an unanswered PROVENANCE_REQUIRED approval prompt), so the facts still come from listing sites.",
+        "checked_at": "2026-11-21T18:16:00-05:00",
+        "reason": "Rechecked Nov 21: Health-Ade's 2026 Grocery Sweepstakes page (qr.health-ade.com/c/Y3WM/sweepstakes) came up in search but refuses the page reader by robots.txt, and the rules page (qr.health-ade.com/c/Y3WM/custom) never came up, so the facts still come from listing sites.",
         "evidence": [
           "https://www.sweepstakesbible.com/giveaways/health-ade-free-groceries-for-a-year-2026-giveaway",
           "https://www.sweepsadvantage.com/one-entry-sweepstakes.html"
@@ -273,21 +273,24 @@
     },
     {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
-      "prize": "JCPenney gift cards ($250 to $1,000), a Jingle Ball NYC trip for 2, signed merch (27 winners)",
+      "prize": "JCPenney gift cards and signed merch. Still to be drawn: Nov 16 to 29 period, one $750, two $500 and three $250 gift cards; Nov 30 to Dec 20 period, three $500 and three $250 gift cards and three signed-merch prizes (the NYC trip period closed Nov 15)",
       "category": "gift_card",
       "entry_url": "https://news.iheart.com/promotions/",
       "rules_url": null,
       "rules_note": "On iHeart's contest rules page.",
       "ends": "2026-12-20T23:59:00-05:00",
       "limit": {
-        "type": "rolling24"
+        "type": "daily",
+        "count": 1,
+        "reset_tz": "America/New_York",
+        "reset_hour": 0
       },
       "min_age": 18,
       "rules_checked": "partial",
       "flags": {
-        "account": "JCPenney Rewards or Aeropostale Rewards membership (free)"
+        "bonus": "JCPenney Rewards or Aeropostale Rewards members (free programs) can add a one-time bonus of 10 entries."
       },
-      "notes": "On the promotions page, open 'iHeartRadio Jingle Ball x JCPenney Sweepstakes'. One entry per person/email/household per day. Four entry periods, so entering early covers more drawings.",
+      "notes": "Entry page: news.iheart.com/promotions/iheartradio-jingle-ball-x-jcpenney-sweepstakes-1925122/. Entry is free; a rewards membership only adds bonus entries. One entry per person, email and household per calendar day (ET) through 11:59:59 PM ET Dec 20, per a listing site quoting the rules. Non-winning entries carry forward to later drawings; one prize per household.",
       "added": "2026-11-04",
       "source": "Claude review 2026-11-04",
       "id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
@@ -297,15 +300,17 @@
       "verification": {
         "status": "needs_rules_check",
         "rules_source": null,
-        "checked_at": "2026-11-11T18:06:00-05:00",
-        "reason": "Rechecked Nov 11: the sweepstakes' own iHeart page and rules still didn't come up in web search (only last year's version and station Jingle Ball flyaways did), so the facts still come from listing sites; one says a free JCPenney or Aeropostale Rewards membership is required.",
+        "checked_at": "2026-11-21T18:16:00-05:00",
+        "reason": "Rechecked Nov 21: the entry page (news.iheart.com/promotions/iheartradio-jingle-ball-x-jcpenney-sweepstakes-1925122/) loads by JavaScript and iHeart's rules pages don't carry this promotion's rules, so they weren't read. iHeart's and JCPenney's own announcements confirm free entry through Dec 20 with bonus entries for rewards members; 50 US + DC, 18+, the daily limit and the 11:59:59 PM ET end come from a listing site quoting the rules.",
         "evidence": [
-          "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
-          "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
+          "https://www.iheart.com/content/2026-11-18-jcpenney-bella-kay-team-up-for-iheartradio-jingle-ball-collection-backstage-access/",
+          "https://corporate.jcpenney.com/2026/10/21/jcpenney-gives-fans-vip-access-this-holiday-season-with-exclusive-bella-kay-partnership-backstage-experiences-and-new-iheartradio-jingle-ball-fashion-collection/",
+          "https://www.doublethedeal.com/sweepstakes/jcpenney-iheartradio-jingle-ball-sweepstakes-2026"
         ],
         "missing": [
           "eligibility",
-          "entry_limit_day_definition"
+          "deadline",
+          "entry_limit"
         ]
       }
     },

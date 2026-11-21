@@ -2792,13 +2792,13 @@
       "decided_at": "2026-11-10T17:39:28-05:00"
     },
     "https://gleam.io/cDeXH/-win-the-eucalyptus-spa-sanctuary-bundle-": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "Six searches (title, Gleam code, exact address, gleam.io and giveaway-list.com) didn't identify the sponsor or find this Gleam page or a copy, so the prize details and rules are unknown. Ste. Anne's Spa '12 Days of Giveaways' came up but is a different, Canada-only 2025 contest.",
+      "last_attempt_at": "2026-11-21T18:08:59-05:00",
+      "next_retry_at": "2026-11-22T18:08:59-05:00",
+      "name": "Eucalyptus Spa Sanctuary Bundle Giveaway"
     },
     "https://gleam.io/cPggF/stormcraft-salem-tech-sales-season-pc-giveaway?gsr=cPggF-oH0RlOPhUE": {
       "attempts": 0,
@@ -4504,37 +4504,21 @@
     },
     "https://news.iheart.com/promotions": {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
-      "status": "in_progress",
-      "decided_at": "2026-11-11T18:06:30-05:00",
+      "status": "listed",
+      "decided_at": "2026-11-21T18:08:59-05:00",
       "attempts": 0,
       "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
       "reason_code": "needs_rules_check",
-      "reason": "Rechecked Nov 11: the sweepstakes' own iHeart page and rules still didn't come up in web search (only last year's version and station Jingle Ball flyaways did), so the facts still come from listing sites; one says a free JCPenney or Aeropostale Rewards membership is required.",
-      "next_retry_at": "2026-11-14T18:06:30-05:00",
-      "last_attempt_at": "2026-11-11T18:06:30-05:00",
+      "reason": "Rechecked Nov 21: the entry page (news.iheart.com/promotions/iheartradio-jingle-ball-x-jcpenney-sweepstakes-1925122/) loads by JavaScript and iHeart's rules pages don't carry this promotion's rules, so they weren't read. iHeart's and JCPenney's own announcements confirm free entry through Dec 20 with bonus entries for rewards members; 50 US + DC, 18+, the daily limit and the 11:59:59 PM ET end come from a listing site quoting the rules.",
+      "next_retry_at": "2026-11-24T18:08:59-05:00",
+      "last_attempt_at": "2026-11-21T18:08:59-05:00",
       "evidence": [
+        "https://corporate.jcpenney.com/2026/10/21/jcpenney-gives-fans-vip-access-this-holiday-season-with-exclusive-bella-kay-partnership-backstage-experiences-and-new-iheartradio-jingle-ball-fashion-collection/",
+        "https://www.doublethedeal.com/sweepstakes/jcpenney-iheartradio-jingle-ball-sweepstakes-2026",
+        "https://www.iheart.com/content/2026-11-18-jcpenney-bella-kay-team-up-for-iheartradio-jingle-ball-collection-backstage-access/",
         "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
         "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
-      ],
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": {
-          "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
-          "status": "listed",
-          "decided_at": "2026-11-11T18:06:30-05:00",
-          "attempts": 0,
-          "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
-          "reason_code": "needs_rules_check",
-          "reason": "Rechecked Nov 11: the sweepstakes' own iHeart page and rules still didn't come up in web search (only last year's version and station Jingle Ball flyaways did), so the facts still come from listing sites; one says a free JCPenney or Aeropostale Rewards membership is required.",
-          "next_retry_at": "2026-11-14T18:06:30-05:00",
-          "last_attempt_at": "2026-11-11T18:06:30-05:00",
-          "evidence": [
-            "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
-            "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
-          ]
-        }
-      }
+      ]
     },
     "https://news.iheart.com/promotions/clean-up-at-iheartradio-jingle-ball-1927140": {
       "attempts": 0,
@@ -4574,37 +4558,21 @@
     },
     "https://news.iheart.com/rules": {
       "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
-      "status": "in_progress",
-      "decided_at": "2026-11-11T18:06:30-05:00",
+      "status": "listed",
+      "decided_at": "2026-11-21T18:08:59-05:00",
       "attempts": 0,
       "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
       "reason_code": "needs_rules_check",
-      "reason": "Rechecked Nov 11: the sweepstakes' own iHeart page and rules still didn't come up in web search (only last year's version and station Jingle Ball flyaways did), so the facts still come from listing sites; one says a free JCPenney or Aeropostale Rewards membership is required.",
-      "next_retry_at": "2026-11-14T18:06:30-05:00",
-      "last_attempt_at": "2026-11-11T18:06:30-05:00",
+      "reason": "Rechecked Nov 21: the entry page (news.iheart.com/promotions/iheartradio-jingle-ball-x-jcpenney-sweepstakes-1925122/) loads by JavaScript and iHeart's rules pages don't carry this promotion's rules, so they weren't read. iHeart's and JCPenney's own announcements confirm free entry through Dec 20 with bonus entries for rewards members; 50 US + DC, 18+, the daily limit and the 11:59:59 PM ET end come from a listing site quoting the rules.",
+      "next_retry_at": "2026-11-24T18:08:59-05:00",
+      "last_attempt_at": "2026-11-21T18:08:59-05:00",
       "evidence": [
+        "https://corporate.jcpenney.com/2026/10/21/jcpenney-gives-fans-vip-access-this-holiday-season-with-exclusive-bella-kay-partnership-backstage-experiences-and-new-iheartradio-jingle-ball-fashion-collection/",
+        "https://www.doublethedeal.com/sweepstakes/jcpenney-iheartradio-jingle-ball-sweepstakes-2026",
+        "https://www.iheart.com/content/2026-11-18-jcpenney-bella-kay-team-up-for-iheartradio-jingle-ball-collection-backstage-access/",
         "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
         "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
-      ],
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": {
-          "name": "iHeartRadio Jingle Ball x JCPenney Sweepstakes",
-          "status": "listed",
-          "decided_at": "2026-11-11T18:06:30-05:00",
-          "attempts": 0,
-          "listing_id": "iheartradio-jingle-ball-x-jcpenney-sweepstakes",
-          "reason_code": "needs_rules_check",
-          "reason": "Rechecked Nov 11: the sweepstakes' own iHeart page and rules still didn't come up in web search (only last year's version and station Jingle Ball flyaways did), so the facts still come from listing sites; one says a free JCPenney or Aeropostale Rewards membership is required.",
-          "next_retry_at": "2026-11-14T18:06:30-05:00",
-          "last_attempt_at": "2026-11-11T18:06:30-05:00",
-          "evidence": [
-            "https://www.sweepsatlas.com/sweeps/iheartradio-jingle-ball-x-jcpenney-sweepstakes",
-            "https://www.sweepstakestoday.com/sweeps/details/118178/iheartradio-jingle-ball-x-jcpenney-sweepstakes"
-          ]
-        }
-      }
+      ]
     },
     "https://newyorkjets.com/fans/sweepstakes/26carnival": {
       "attempts": 0,
@@ -5018,37 +4986,18 @@
     },
     "https://qr.health-ade.com/c/Y3WM": {
       "name": "Health-Ade Free Groceries for a Year Giveaway",
-      "status": "in_progress",
-      "decided_at": "2026-11-11T18:06:30-05:00",
+      "status": "listed",
+      "decided_at": "2026-11-21T18:08:59-05:00",
       "attempts": 0,
       "listing_id": "health-ade-free-groceries-for-a-year-giveaway",
       "reason_code": "needs_rules_check",
-      "reason": "Rechecked Nov 11: Health-Ade's official rules (linked at qr.health-ade.com/c/Y3WM/custom) didn't come up in web search, and the page reader can't open links that don't (they wait on an unanswered PROVENANCE_REQUIRED approval prompt), so the facts still come from listing sites.",
-      "next_retry_at": "2026-11-14T18:06:30-05:00",
-      "last_attempt_at": "2026-11-11T18:06:30-05:00",
+      "reason": "Rechecked Nov 21: Health-Ade's 2026 Grocery Sweepstakes page (qr.health-ade.com/c/Y3WM/sweepstakes) came up in search but refuses the page reader by robots.txt, and the rules page (qr.health-ade.com/c/Y3WM/custom) never came up, so the facts still come from listing sites.",
+      "next_retry_at": "2026-11-24T18:08:59-05:00",
+      "last_attempt_at": "2026-11-21T18:08:59-05:00",
       "evidence": [
         "https://www.sweepsadvantage.com/one-entry-sweepstakes.html",
         "https://www.sweepstakesbible.com/giveaways/health-ade-free-groceries-for-a-year-2026-giveaway"
-      ],
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": {
-          "name": "Health-Ade Free Groceries for a Year Giveaway",
-          "status": "listed",
-          "decided_at": "2026-11-11T18:06:30-05:00",
-          "attempts": 0,
-          "listing_id": "health-ade-free-groceries-for-a-year-giveaway",
-          "reason_code": "needs_rules_check",
-          "reason": "Rechecked Nov 11: Health-Ade's official rules (linked at qr.health-ade.com/c/Y3WM/custom) didn't come up in web search, and the page reader can't open links that don't (they wait on an unanswered PROVENANCE_REQUIRED approval prompt), so the facts still come from listing sites.",
-          "next_retry_at": "2026-11-14T18:06:30-05:00",
-          "last_attempt_at": "2026-11-11T18:06:30-05:00",
-          "evidence": [
-            "https://www.sweepsadvantage.com/one-entry-sweepstakes.html",
-            "https://www.sweepstakesbible.com/giveaways/health-ade-free-groceries-for-a-year-2026-giveaway"
-          ]
-        }
-      }
+      ]
     },
     "https://qr.health-ade.com/c/Y3WM/custom": {
       "attempts": 0,
@@ -6517,13 +6466,16 @@
       ]
     },
     "https://wawa.com/iframe/form/adventcalendargiveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "wawa.com returns client errors to the page reader (wawa.com/sweepstakes and a Wawa rules page both failed) and no 2026 Advent Calendar rules came up in search. The 2025 edition had 100 winners of a $10 gift card and merch box (up to $145), US + DC 18+, one entry, ending Nov 24, 2025 at 5 PM, from a different form address.",
+      "last_attempt_at": "2026-11-21T18:08:59-05:00",
+      "evidence": [
+        "https://www.freebieshark.com/?p=329807"
+      ],
+      "next_retry_at": "2026-11-22T18:08:59-05:00",
+      "name": "Wawa “Advent Calendar” Sweepstakes"
     },
     "https://weatherby.com/diehard-waterfowl-giveaway": {
       "attempts": 0,
