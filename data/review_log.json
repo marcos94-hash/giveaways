@@ -334,13 +334,13 @@
       "decided_at": "2026-11-17T17:40:20-05:00"
     },
     "https://app.viralsweep.com/sweeps/full/796d82-241854?framed=1": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "The ViralSweep page and its rules never came up in web search (searches for the trumpet model, the ID and the address found only retail pages and unrelated giveaways), so the page reader couldn't open them; the sponsor, eligibility, end time and entry limit are unknown.",
+      "last_attempt_at": "2026-11-21T18:08:15-05:00",
+      "next_retry_at": "2026-11-22T18:08:15-05:00",
+      "name": "Yamaha YTR-5335GSIIAL Trumpet Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/7fae0a-241843?framed=1": {
       "attempts": 1,
@@ -352,13 +352,13 @@
       "name": "Year of Better Sleep Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/a196f3-242227?framed=1": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "The ViralSweep page and its rules never came up in web search (searched by ID, exact address, title, and limited to viralsweep.com and listing sites), so the page reader couldn't open them; the sponsor 'Dear Reader', eligibility, end time and entry limit are unknown.",
+      "last_attempt_at": "2026-11-21T18:08:15-05:00",
+      "next_retry_at": "2026-11-22T18:08:15-05:00",
+      "name": "Dear Reader Kindle Paperwhite Giveaway"
     },
     "https://app.viralsweep.com/sweeps/full/b39b44-239468?framed=1": {
       "attempts": 1,
@@ -2290,13 +2290,13 @@
       "name": "ATTACK SHARK Black Friday Giveaway Round 2"
     },
     "https://gleam.io/LJtS6/bigfun-friday-giveaway": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "no_rules_found",
+      "reason": "Six searches (title, BigFun!, the Gleam code LJtS6, the exact address, gleam.io and giveaway-list.com) found nothing, so the sponsor, prize and rules are unknown; the listing site guesses it ends Nov 22.",
+      "last_attempt_at": "2026-11-21T18:08:16-05:00",
+      "next_retry_at": "2026-11-22T18:08:16-05:00",
+      "name": "BigFun! FRIDAY Giveaway"
     },
     "https://gleam.io/LXGIW/weekly-tempspike-pro-giveaway-nov-915": {
       "attempts": 0,
@@ -2581,13 +2581,16 @@
       "decided_at": "2026-11-15T17:40:05-05:00"
     },
     "https://gleam.io/Ts96x/pack-hacker-x-nomatic-giveaway-2026": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "gleam.io returns a client error to the page reader (gleam.io/giveaways/Ts96x) and no copy of this Gleam page came up. Pack Hacker's own giveaway page lists the Pack Hacker x NOMATIC Giveaway (2026) as its November giveaway with this link, so it's live, but the prize, end time, eligibility and entry limit are unread.",
+      "last_attempt_at": "2026-11-21T18:08:16-05:00",
+      "evidence": [
+        "https://packhacker.com/blog/general/giveaway/"
+      ],
+      "next_retry_at": "2026-11-22T18:08:16-05:00",
+      "name": "Pack Hacker x NOMATIC Giveaway"
     },
     "https://gleam.io/UGLuA/weekly-tempspike-pro-giveaway-nov-1622": {
       "attempts": 1,
@@ -3171,13 +3174,16 @@
       "decided_at": "2026-11-20T17:39:35-05:00"
     },
     "https://gleam.io/viuyi/bookoo-black-friday-giveaway?gsr=viuyi-oZu5DrBnhm": {
-      "attempts": 0,
-      "status": "in_progress",
-      "claim": {
-        "run": "review-2026-11-21",
-        "expires_at": "2026-11-21T20:41:36-05:00",
-        "prev": null
-      }
+      "attempts": 1,
+      "status": "blocked",
+      "reason_code": "unreadable_page",
+      "reason": "gleam.io returns a client error to the page reader (gleam.io/giveaways/viuyi), and BOOKOO's own giveaway page (bookoocoffee.com/pages/bookoo-giveaway) never came up in search. BOOKOO's Black Friday sale page says entries close Nov 26 (no time given) for BOOKOO gear, winners announced Nov 28; the entry tasks, eligibility and limit are unread.",
+      "last_attempt_at": "2026-11-21T18:08:16-05:00",
+      "evidence": [
+        "https://bookoocoffee.com/pages/bookoo-black-friday-sale"
+      ],
+      "next_retry_at": "2026-11-22T18:08:16-05:00",
+      "name": "BOOKOO Black Friday Giveaway"
     },
     "https://gleam.io/vxBKz/black-friday-giveaway": {
       "attempts": 1,
