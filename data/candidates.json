@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T11:17:02+00:00",
- "count": 829,
+ "updated": "2026-11-22T21:17:02+00:00",
+ "count": 841,
  "candidates": {
   "https://michupet-copy-2.referral-factory.com/clkDfVK8/signup": {
    "title": "Michupet CHRISTMAS CAT TREE Giveaway",
@@ -331,6 +331,328 @@
    },
    "review_flags": [],
    "key": "https://gleam.io/viuyi/bookoo-black-friday-giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://app.viralsweep.com/sweeps/full/61f599-241946?framed=1": {
+   "title": "BRD Christmas Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/22/brd-christmas-giveaway/",
+   "entry_url": "https://app.viralsweep.com/sweeps/full/61f599-241946?framed=1#f1959282",
+   "rules_url": null,
+   "ends_guess": "2027-01-01",
+   "ends_text": "Last day to enter: Fri, Jan 1, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://app.viralsweep.com/sweeps/full/61f599-241946?framed=1",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://jamesonwhiskey.com/en-us/blackbarrelholiday": {
+   "title": "Jameson Black Barrel Holiday Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/22/jameson-black-barrel-holiday-sweepstakes/",
+   "entry_url": "https://www.jamesonwhiskey.com/en-us/blackbarrelholiday",
+   "rules_url": null,
+   "ends_guess": "2027-01-11",
+   "ends_text": "Last day to enter: Mon, Jan 11, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://jamesonwhiskey.com/en-us/blackbarrelholiday",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://chargersperks.com/": {
+   "title": "American Airlines Chargers Perks Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/22/american-airlines-chargers-perks-sweepstakes/",
+   "entry_url": "https://www.chargersperks.com/",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Last day to enter: Thu, Dec 31",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://chargersperks.com/",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://mercurymarine.com/us/en/promotions/enter-now": {
+   "title": "Mercury VIP Experience at Bassmaster Classic Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/22/mercury-vip-experience-at-bassmaster-classic-giveaway/",
+   "entry_url": "https://www.mercurymarine.com/us/en/promotions/enter-now",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Last day to enter: Mon, Nov 30",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://mercurymarine.com/us/en/promotions/enter-now",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://insider.taylorguitars.com/sweepstakes-us": {
+   "title": "Taylor Guitars Signed Ben Harper Gold Label 512e Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/22/taylor-guitars-signed-ben-harper-gold-label-512e-sweepstakes/",
+   "entry_url": "https://insider.taylorguitars.com/sweepstakes-us",
+   "rules_url": null,
+   "ends_guess": "2027-01-26",
+   "ends_text": "Last day to enter: Tue, Jan 26, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://insider.taylorguitars.com/sweepstakes-us",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://ubsarena.com/5-year-anniversary-sweepstakes": {
+   "title": "UBS Arena’s Five-Year Anniversary Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/22/ubs-arenas-five-year-anniversary-sweepstakes/",
+   "entry_url": "https://ubsarena.com/5-year-anniversary-sweepstakes/",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Last day to enter: Thu, Dec 31",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 5000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://ubsarena.com/5-year-anniversary-sweepstakes",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://easterntownships.org/contests/49/win-a-family-ski-getaway-in-the-eastern-townships": {
+   "title": "Eastern Townships Family Ski Getaway Contest",
+   "source_url": "https://www.freestufftimes.com/contests/22/eastern-townships-family-ski-getaway-contest/",
+   "entry_url": "https://www.easterntownships.org/contests/49/win-a-family-ski-getaway-in-the-eastern-townships",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Last day to enter: Mon, Nov 30",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "trip",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://easterntownships.org/contests/49/win-a-family-ski-getaway-in-the-eastern-townships",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://gleam.io/gXcXk/-win-the-balmain-sphynx-mini-bag-in-purple-?gsr=gXcXk-oL8O2tnJmg": {
+   "title": "Balmain Sphynx Mini Bag Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/22/balmain-sphynx-mini-bag-giveaway/",
+   "entry_url": "https://gleam.io/gXcXk/-win-the-balmain-sphynx-mini-bag-in-purple-?gsr=gXcXk-oL8O2tnJmg",
+   "rules_url": null,
+   "ends_guess": "2026-12-22",
+   "ends_text": "Last day to enter: Tue, Dec 22",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://gleam.io/gXcXk/-win-the-balmain-sphynx-mini-bag-in-purple-?gsr=gXcXk-oL8O2tnJmg",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://dearreader.co/pages/giveaway": {
+   "title": "Dear Reader Kindle Paperwhite Giveaway",
+   "source_url": "https://www.winprizesonline.com/Dear-Reader-Kindle-Paperwhite-Giveaway/",
+   "entry_url": "https://dearreader.co/pages/giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-22",
+   "ends_text": "Expires\n 11-22-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 1000000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://dearreader.co/pages/giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://gleam.io/bBvCX/snapmaker-black-friday-giveaway": {
+   "title": "Snapmaker Black Friday Giveaway",
+   "source_url": "https://www.winprizesonline.com/Snapmaker-Black-Friday-Giveaway/",
+   "entry_url": "https://gleam.io/bBvCX/snapmaker-black-friday-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-12-01",
+   "ends_text": "Expires\n 12-01-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 1000000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://gleam.io/bBvCX/snapmaker-black-friday-giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://gleam.io/oyC0M/thanksgiving-dinner-giveaway10-families-will-win-a-50-gift-card": {
+   "title": "Entech Thanksgiving Dinner Giveaway",
+   "source_url": "https://www.winprizesonline.com/Entech-Thanksgiving-Dinner-Giveaway/",
+   "entry_url": "https://gleam.io/oyC0M/thanksgiving-dinner-giveaway10-families-will-win-a-50-gift-card",
+   "rules_url": null,
+   "ends_guess": "2026-11-24",
+   "ends_text": "Expires\n 11-24-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 1000000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://gleam.io/oyC0M/thanksgiving-dinner-giveaway10-families-will-win-a-50-gift-card",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  "https://onceagain.com/pages/holiday-baking-giveaway-2026": {
+   "title": "Once Again Holiday Baking Giveaway",
+   "source_url": "https://www.winprizesonline.com/Once-Again-Holiday-Baking-Giveaway/",
+   "entry_url": "https://www.onceagain.com/pages/holiday-baking-giveaway-2026",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Expires\n 12-31-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 1000000,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://onceagain.com/pages/holiday-baking-giveaway-2026",
    "source": "winprizesonline",
    "first_seen": "2026-11-22",
    "last_seen": "2026-11-22"
@@ -1089,17 +1411,17 @@
    "last_seen": "2026-11-21"
   },
   "https://gleam.io/Oyb5p/lefeet-black-friday-giveaway": {
-   "title": "LEFEET Black Friday Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/21/lefeet-black-friday-giveaway-2/",
+   "title": "Lefeet Black Friday Giveaway",
+   "source_url": "https://www.winprizesonline.com/Lefeet-Black-Friday-Giveaway/",
    "entry_url": "https://gleam.io/Oyb5p/lefeet-black-friday-giveaway",
    "rules_url": null,
    "ends_guess": "2026-11-30",
-   "ends_text": "Last day to enter: Mon, Nov 30",
-   "ends_how": "inferred",
+   "ends_text": "Expires\n 11-30-2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 20000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 261000,
+   "category_guess": "other",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -1108,13 +1430,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://gleam.io/Oyb5p/lefeet-black-friday-giveaway",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21"
+   "last_seen": "2026-11-22"
   },
   "https://gleam.io/zaz4D/black-friday-giveaway?gsr=zaz4D-p3ma9MSmcF": {
    "title": "Fanttik Black Friday Giveaway",
@@ -3880,17 +4200,17 @@
    "last_seen": "2026-11-19"
   },
   "https://sweepwidget.com/c/103500-g53mal2t": {
-   "title": "Win 1 of 5 DOVOH PV-360G Laser Levels",
-   "source_url": "https://www.freestufftimes.com/contests/19/win-1-of-5-dovoh-pv-360g-laser-levels/",
+   "title": "Dovoh Laser Level Giveaway",
+   "source_url": "https://www.winprizesonline.com/Dovoh-Laser-Level-Giveaway/",
    "entry_url": "https://sweepwidget.com/c/103500-g53mal2t",
    "rules_url": null,
-   "ends_guess": "2026-11-29",
-   "ends_text": "Last day to enter: Sun, Nov 29",
-   "ends_how": "inferred",
+   "ends_guess": "2026-11-30",
+   "ends_text": "Expires\n 11-30-2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "cash",
+   "min_age_guess": 18,
+   "value_guess": 139700,
+   "category_guess": "other",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -3899,13 +4219,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://sweepwidget.com/c/103500-g53mal2t",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
+   "last_seen": "2026-11-22"
   },
   "https://dosequis.com/en-us/xx-sweepstakes/uglysweater": {
    "title": "Dos Equis Holiday Sweater Sweepstakes",

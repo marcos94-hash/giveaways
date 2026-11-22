@@ -1,32 +1,34 @@
 {
- "run_at": "2026-11-22T11:17:02+00:00",
+ "run_at": "2026-11-22T21:17:02+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 40,
-   "parsed": 12,
-   "skipped_seen": 28,
-   "kept": 12,
-   "dropped": {},
+   "parsed": 10,
+   "skipped_seen": 30,
+   "kept": 8,
+   "dropped": {
+    "social-media-only entry": 2
+   },
    "errors": [],
    "samples": [
     {
-     "title": "Coffee mate Year of Flavor Sweepstakes",
-     "entry_url": "https://www.coffeematesweeps.snipp.us/",
+     "title": "BRD Christmas Giveaway",
+     "entry_url": "https://app.viralsweep.com/sweeps/full/61f599-241946?framed=1#f1959282",
      "rules_url": null,
-     "ends_guess": "2026-11-22",
-     "ends_text": "Last day to enter: Sun, Nov 22",
-     "frequency_guess": "daily",
+     "ends_guess": "2027-01-01",
+     "ends_text": "Last day to enter: Fri, Jan 1, 2027",
+     "frequency_guess": "once",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     },
     {
-     "title": "Michupet CHRISTMAS CAT TREE Giveaway",
-     "entry_url": "https://michupet-copy-2.referral-factory.com/clkDfVK8/signup?",
+     "title": "Jameson Black Barrel Holiday Sweepstakes",
+     "entry_url": "https://www.jamesonwhiskey.com/en-us/blackbarrelholiday",
      "rules_url": null,
-     "ends_guess": "2026-12-11",
-     "ends_text": "Last day to enter: Fri, Dec 11",
-     "frequency_guess": "once",
+     "ends_guess": "2027-01-11",
+     "ends_text": "Last day to enter: Mon, Jan 11, 2027",
+     "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     }
@@ -34,9 +36,9 @@
   },
   "thefreebieguy": {
    "listing_pages": 2,
-   "detail_links": 270,
+   "detail_links": 269,
    "parsed": 0,
-   "skipped_seen": 270,
+   "skipped_seen": 269,
    "kept": 0,
    "dropped": {},
    "errors": [],
@@ -47,38 +49,38 @@
    "detail_links": 20,
    "parsed": 9,
    "skipped_seen": 11,
-   "kept": 3,
+   "kept": 6,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Osprey Ozone Hardside Giveaway",
-     "entry_url": "https://trailsense.enwild.com/giveaway/",
-     "rules_url": null,
-     "ends_guess": "2026-11-23",
-     "ends_text": "Expires\n 11-23-2026",
-     "frequency_guess": "daily",
-     "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Osprey O"
-    },
-    {
-     "title": "Insomnia Cookies Plushie Giveaway",
+     "title": "ReliveX Christmas on Us Giveaway",
      "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-11-22",
-     "ends_text": "Expires\n 11-22-2026",
+     "ends_guess": "2026-12-24",
+     "ends_text": "Expires\n 12-24-2026",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Insomnia"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n ReliveX "
+    },
+    {
+     "title": "Dovoh Laser Level Giveaway",
+     "entry_url": "https://sweepwidget.com/c/103500-g53mal2t",
+     "rules_url": null,
+     "ends_guess": "2026-11-30",
+     "ends_text": "Expires\n 11-30-2026",
+     "frequency_guess": "daily",
+     "min_age_guess": 18,
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Dovoh La"
     }
    ],
    "retry_later": {
-    "no entry link found": 6
+    "no entry link found": 3
    },
    "no_entry_samples": [
     {
-     "source_url": "https://www.winprizesonline.com/Insomnia-Cookies-Plushie-Giveaway/",
-     "title": "Insomnia Cookies Plushie Giveaway",
+     "source_url": "https://www.winprizesonline.com/ReliveX-Christmas-on-Us-Giveaway/",
+     "title": "ReliveX Christmas on Us Giveaway",
      "entry_link_hints": [
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
@@ -93,19 +95,9 @@
      ]
     },
     {
-     "source_url": "https://www.winprizesonline.com/A-Very-Merry-Holiday-Giveaway/",
-     "title": "A Very Merry Holiday Giveaway",
+     "source_url": "https://www.winprizesonline.com/Yanke-Candle-Peppi-Mint-Giveaway/",
+     "title": "Yanke Candle Peppi Mint Giveaway",
      "entry_link_hints": [
-      {
-       "href": "https://riflepaperco.com",
-       "text": "Rifle Paper Co.",
-       "onsite": false
-      },
-      {
-       "href": "https://riflepaperco.com",
-       "text": "riflepaperco.com",
-       "onsite": false
-      },
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
        "text": "Daily Entry",
@@ -121,6 +113,6 @@
    ]
   }
  },
- "total_candidates": 829,
- "details_budget_left": 129
+ "total_candidates": 841,
+ "details_budget_left": 131
 }
