@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T11:17:01+00:00",
- "count": 822,
+ "updated": "2026-11-23T21:17:02+00:00",
+ "count": 838,
  "candidates": {
   "https://regmovies.com/promotions/equine-isle-travel-sweepstakes-rules": {
    "title": "Regal Rewards The Equine Isle Travel Sweepstakes",
@@ -555,6 +555,438 @@
    "first_seen": "2026-11-23",
    "last_seen": "2026-11-23"
   },
+  "https://gleam.io/UFIEk/-press-play-giveaway-win-a-mydash-retro-bluetooth-cd-player-": {
+   "title": "Win a MYDASH Retro Bluetooth CD Player",
+   "source_url": "https://www.freestufftimes.com/contests/23/win-a-mydash-retro-bluetooth-cd-player/",
+   "entry_url": "https://gleam.io/UFIEk/-press-play-giveaway-win-a-mydash-retro-bluetooth-cd-player-?",
+   "rules_url": null,
+   "ends_guess": "2026-12-23",
+   "ends_text": "Last day to enter: Wed, Dec 23",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://gleam.io/UFIEk/-press-play-giveaway-win-a-mydash-retro-bluetooth-cd-player-",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://news.iheart.com/promotions/enter-to-win-a-trip-to-1936952": {
+   "title": "Win A Trip To Our 2027 iHeartRadio ALTer EGO",
+   "source_url": "https://www.freestufftimes.com/contests/23/win-a-trip-to-our-2027-iheartradio-alter-ego/",
+   "entry_url": "https://news.iheart.com/promotions/enter-to-win-a-trip-to-1936952/",
+   "rules_url": null,
+   "ends_guess": "2026-12-27",
+   "ends_text": "Last day to enter: Sun, Dec 27",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 4960,
+   "category_guess": "trip",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://news.iheart.com/promotions/enter-to-win-a-trip-to-1936952",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://web.witcontests.com/bills/sweepstakes/win/2026-super-bowl-261120": {
+   "title": "Buffalo Bills Super Bowl Trip  Contest",
+   "source_url": "https://www.freestufftimes.com/contests/23/buffalo-bills-super-bowl-trip-contest/",
+   "entry_url": "https://web.witcontests.com/bills/sweepstakes/win/2026-super-bowl-261120",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Last day to enter: Thu, Dec 31",
+   "ends_how": "inferred",
+   "frequency_guess": "daily",
+   "min_age_guess": null,
+   "value_guess": 4600,
+   "category_guess": "trip",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://web.witcontests.com/bills/sweepstakes/win/2026-super-bowl-261120",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://beaches.com/shelf-to-shore-sweepstakes": {
+   "title": "Beaches Shelf To Shore Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/23/beaches-shelf-to-shore-sweepstakes-2/",
+   "entry_url": "https://www.beaches.com/shelf-to-shore-sweepstakes/",
+   "rules_url": null,
+   "ends_guess": "2026-12-25",
+   "ends_text": "Last day to enter: Fri, Dec 25",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://beaches.com/shelf-to-shore-sweepstakes",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://olukai.com/pages/wailea-holiday-trip-giveaway": {
+   "title": "OluKai 2026 Holiday Trip Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/23/olukai-2026-holiday-trip-giveaway/",
+   "entry_url": "https://olukai.com/pages/wailea-holiday-trip-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-12-25",
+   "ends_text": "Last day to enter: Fri, Dec 25",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 18000,
+   "category_guess": "trip",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://olukai.com/pages/wailea-holiday-trip-giveaway",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://gleam.io/zZ2NY/the-holiday-on-wheels-giveaway": {
+   "title": "The Holiday on Wheels Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/23/the-holiday-on-wheels-giveaway/",
+   "entry_url": "https://gleam.io/zZ2NY/the-holiday-on-wheels-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-25",
+   "ends_text": "Last day to enter: Wed, Nov 25",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://gleam.io/zZ2NY/the-holiday-on-wheels-giveaway",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://veuveclicquot.wyng.com/joy-collective-game?page=page_224445666159": {
+   "title": "Veuve Clicquot Joy Collective-Chase the Sun Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/23/euve-clicquot-joy-collective-chase-the-sun-sweepstakes/",
+   "entry_url": "https://veuveclicquot.wyng.com/joy-collective-game?page=page_224445666159",
+   "rules_url": null,
+   "ends_guess": "2026-12-07",
+   "ends_text": "Last day to enter: Mon, Dec 7",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://veuveclicquot.wyng.com/joy-collective-game?page=page_224445666159",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://supercuts.com/holiday": {
+   "title": "Supercuts Holiday Challenge Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/23/supercuts-holiday-challenge-sweepstakes/",
+   "entry_url": "https://www.supercuts.com/holiday",
+   "rules_url": null,
+   "ends_guess": "2027-01-31",
+   "ends_text": "Last day to enter: Sun, Jan 31, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://supercuts.com/holiday",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://sway.cloud.microsoft/bhRZzU1ICX9inPDP": {
+   "title": "Win a Prize Pack in The Best Of Glasshouse Holiday Sweepstakes!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-prize-pack-in-the-best-of-glasshouse-holiday-sweepstakes/",
+   "entry_url": "https://sway.cloud.microsoft/bhRZzU1ICX9inPDP",
+   "rules_url": null,
+   "ends_guess": "2026-11-28",
+   "ends_text": "ENDING – \nNovember 28, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 18,
+   "value_guess": 1010,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://sway.cloud.microsoft/bhRZzU1ICX9inPDP",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://promorules.com/MK264035": {
+   "title": "Win a $200 Gift Card in The Blue Moon Pie and Beer Sweeps!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-200-gift-card-in-the-blue-moon-pie-and-beer-sweeps/",
+   "entry_url": "https://www.promorules.com/MK264035",
+   "rules_url": null,
+   "ends_guess": "2026-11-23",
+   "ends_text": "ENDING – \nNovember 23, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 21,
+   "value_guess": 200,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "excluded_prize_hint"
+   ],
+   "key": "https://promorules.com/MK264035",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://easybreathe.com/pages/airmini-sweepstakes-email": {
+   "title": "AirMini Travel CPAP Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/AirMini-Travel-CPAP-Sweepstakes/",
+   "entry_url": "https://easybreathe.com/pages/airmini-sweepstakes-email",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Expires\n 12-31-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 21,
+   "value_guess": 40750,
+   "category_guess": "trip",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://easybreathe.com/pages/airmini-sweepstakes-email",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://app.viralsweep.com/sweeps/full/ed82c2-241081": {
+   "title": "The Joy of Gathering Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/The-Joy-of-Gathering-Sweepstakes/",
+   "entry_url": "https://app.viralsweep.com/sweeps/full/ed82c2-241081",
+   "rules_url": null,
+   "ends_guess": "2026-12-22",
+   "ends_text": "Expires\n 12-22-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 40750,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://app.viralsweep.com/sweeps/full/ed82c2-241081",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://thewhispertree.com/pages/giveaway": {
+   "title": "Whispertree Big Christmas Giveaway",
+   "source_url": "https://www.winprizesonline.com/Whispertree-Big-Christmas-Giveaway/",
+   "entry_url": "https://thewhispertree.com/pages/giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Expires\n 11-30-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 40750,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://thewhispertree.com/pages/giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://androidheadlines.com/gta-6-giveaway": {
+   "title": "Android Headlines GTA 6 Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Android-Headlines-GTA-6-Sweepstakes/",
+   "entry_url": "https://www.androidheadlines.com/gta-6-giveaway",
+   "rules_url": null,
+   "ends_guess": "2027-01-04",
+   "ends_text": "Expires\n 01-04-2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 40750,
+   "category_guess": "electronics",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://androidheadlines.com/gta-6-giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://cameronscoffee.com/pages/giveaway": {
+   "title": "National Expresso Day Giveaway",
+   "source_url": "https://www.winprizesonline.com/National-Expresso-Day-Giveaway/",
+   "entry_url": "https://www.cameronscoffee.com/pages/giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-23",
+   "ends_text": "Expires\n 11-23-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 40750,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://cameronscoffee.com/pages/giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  "https://threadsmagazine.com/2026/11/16/threads-2026-holiday-sweepstakes": {
+   "title": "Threads Magazine Holiday Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Threads-Magazine-Holiday-Sweepstakes/",
+   "entry_url": "https://www.threadsmagazine.com/2026/11/16/threads-2026-holiday-sweepstakes",
+   "rules_url": null,
+   "ends_guess": "2026-12-31",
+   "ends_text": "Expires\n 12-31-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 40750,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://threadsmagazine.com/2026/11/16/threads-2026-holiday-sweepstakes",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
   "https://michupet-copy-2.referral-factory.com/clkDfVK8/signup": {
    "title": "Michupet CHRISTMAS CAT TREE Giveaway",
    "source_url": "https://www.freestufftimes.com/contests/22/michupet-christmas-cat-tree-giveaway/",
@@ -913,19 +1345,19 @@
    "last_seen": "2026-11-22"
   },
   "https://jamesonwhiskey.com/en-us/blackbarrelholiday": {
-   "title": "Jameson Black Barrel Holiday Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/22/jameson-black-barrel-holiday-sweepstakes/",
+   "title": "Instantly Win a Cocktail Kit in The Jameson Black Barrel Holiday Sweeps& IWG",
+   "source_url": "https://thefreebieguy.com/sweepstakes/instantly-win-a-cocktail-kit-in-the-jameson-black-barrel-holiday-sweeps-iwg/",
    "entry_url": "https://www.jamesonwhiskey.com/en-us/blackbarrelholiday",
-   "rules_url": null,
+   "rules_url": "https://www.mdmgames.com/MDMAdmin/RulesPolicies/blackbarrelholiday_OfficialRules.html",
    "ends_guess": "2027-01-11",
-   "ends_text": "Last day to enter: Mon, Jan 11, 2027",
+   "ends_text": "ENDING – \nJanuary 11, 2027",
    "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "gift_card",
+   "min_age_guess": 21,
+   "value_guess": 5,
+   "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
@@ -934,9 +1366,9 @@
    },
    "review_flags": [],
    "key": "https://jamesonwhiskey.com/en-us/blackbarrelholiday",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   "https://chargersperks.com/": {
    "title": "American Airlines Chargers Perks Sweepstakes",
@@ -3687,16 +4119,16 @@
    "last_seen": "2026-11-20"
   },
   "https://jtv.com/sweepstakes": {
-   "title": "JTV Cruise Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/21/jtv-cruise-sweepstakes/",
+   "title": "JTV’s The Greatest Getaway Holiday Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/23/jtvs-the-greatest-getaway-holiday-sweepstakes/",
    "entry_url": "https://www.jtv.com/sweepstakes",
    "rules_url": null,
    "ends_guess": "2027-01-18",
    "ends_text": "Last day to enter: Mon, Jan 18, 2027",
    "ends_how": "explicit",
-   "frequency_guess": "daily",
+   "frequency_guess": "once",
    "min_age_guess": null,
-   "value_guess": 20000,
+   "value_guess": 17900,
    "category_guess": "trip",
    "flags": {
     "us_mentioned": false,
@@ -3710,7 +4142,7 @@
    "key": "https://jtv.com/sweepstakes",
    "source": "freestufftimes",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-21"
+   "last_seen": "2026-11-23"
   },
   "https://pages.blumhouse.com/lp/prize-pack-sweepstakes": {
    "title": "Blumhouse Atomic Monster Sweepstakes",
@@ -5481,16 +5913,16 @@
    "last_seen": "2026-11-18"
   },
   "https://chuckecheese.com/holidaysweeps": {
-   "title": "A chuck e. cheese christmas sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/18/a-chuck-e-cheese-christmas-sweepstakes/",
+   "title": "Win a $500 Party Package in The Chuck E. Cheese Christmas Sweeps",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-500-party-package-in-the-chuck-e-cheese-christmas-sweeps/",
    "entry_url": "https://www.chuckecheese.com/holidaysweeps/",
-   "rules_url": null,
+   "rules_url": "https://www.chuckecheese.com/terms-conditions/holidaysweepsrules/",
    "ends_guess": "2026-11-29",
-   "ends_text": "Last day to enter: Sun, Nov 29",
-   "ends_how": "inferred",
-   "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 6000,
+   "ends_text": "ENDING – \nNovember 29, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 21,
+   "value_guess": 500,
    "category_guess": "cash",
    "flags": {
     "us_mentioned": true,
@@ -5500,13 +5932,11 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://chuckecheese.com/holidaysweeps",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-23"
   },
   "https://dudafresh.com/2026-holiday-giveaway": {
    "title": "2026 Dandy Holiday Sweepstakes",
