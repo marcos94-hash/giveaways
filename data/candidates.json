@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T11:17:02+00:00",
- "count": 839,
+ "updated": "2026-11-24T21:17:01+00:00",
+ "count": 851,
  "candidates": {
   "https://pbs.org/wgbh/masterpiece/masterpiece-european-river-cruise-sweepstakes": {
    "title": "PBS 2026 MASTERPIECE European River Cruise Sweepstakes",
@@ -827,13 +827,39 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24"
   },
-  "https://stix.golf/pages/sweepstakes": {
-   "title": "Stix Holiday Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/23/stix-holiday-giveaway/",
-   "entry_url": "https://stix.golf/pages/sweepstakes",
+  "https://home.com/": {
+   "title": "home.com Welcome Home Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/24/home-com-welcome-home-giveaway/",
+   "entry_url": "https://home.com/?ref=v1.R3CSkr-3rxZ7xpD-Y80Q4jIAFtONtv_gyB8WH1bnariL1kdiQ2gytlwQmMMiN09mgqz9UlHZOdybWn9OkV8wzw&utm_source=homecom&utm_medium=referral",
    "rules_url": null,
-   "ends_guess": "2026-12-29",
-   "ends_text": "Last day to enter: Tue, Dec 29",
+   "ends_guess": "2027-03-01",
+   "ends_text": "Last day to enter: Mon, Mar 1, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 75000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://home.com/",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://paktbags.com/pages/12-days-of-pack-friday": {
+   "title": "Pakt Bags 12 Days Of Pack Friday Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/24/pakt-bags-12-days-of-pack-friday-giveaway/",
+   "entry_url": "https://paktbags.com/pages/12-days-of-pack-friday",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Last day to enter: Mon, Nov 30",
    "ends_how": "inferred",
    "frequency_guess": "once",
    "min_age_guess": null,
@@ -850,10 +876,306 @@
    "review_flags": [
     "end_date_inferred"
    ],
-   "key": "https://stix.golf/pages/sweepstakes",
+   "key": "https://paktbags.com/pages/12-days-of-pack-friday",
    "source": "freestufftimes",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://enjoyillinois.com/middle-wonderland": {
+   "title": "Illinois Middle Wonderland Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/24/illinois-middle-wonderland-sweepstakes/",
+   "entry_url": "https://www.enjoyillinois.com/middle-wonderland/",
+   "rules_url": null,
+   "ends_guess": "2026-12-21",
+   "ends_text": "Last day to enter: Mon, Dec 21",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 10890,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://enjoyillinois.com/middle-wonderland",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://jacklinks.com/pages/signedbasketball": {
+   "title": "Jack Link’s Signed Basketball Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/24/jack-links-signed-basketball-sweepstakes/",
+   "entry_url": "https://www.jacklinks.com/pages/signedbasketball",
+   "rules_url": null,
+   "ends_guess": "2026-12-03",
+   "ends_text": "Last day to enter: Thu, Dec 3",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://jacklinks.com/pages/signedbasketball",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://sites.prh.com/borzoiholidaysweeps2026": {
+   "title": "Penguin Random House Borzoi Holiday Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/24/penguin-random-house-borzoi-holiday-sweepstakes/",
+   "entry_url": "https://sites.prh.com/borzoiholidaysweeps2026",
+   "rules_url": null,
+   "ends_guess": "2026-12-21",
+   "ends_text": "Last day to enter: Mon, Dec 21",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://sites.prh.com/borzoiholidaysweeps2026",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://topshelfcountrycruise.com/winafreestateroom": {
+   "title": "Top Shelf Country Cruise Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/24/top-shelf-country-cruise-sweepstakes-2/",
+   "entry_url": "https://topshelfcountrycruise.com/winafreestateroom/",
+   "rules_url": null,
+   "ends_guess": "2027-01-31",
+   "ends_text": "Last day to enter: Sun, Jan 31, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "trip",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://topshelfcountrycruise.com/winafreestateroom",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://bookthrone.com/november-kindle-unlimited-giveaway": {
+   "title": "Book Throne Kindle Unlimited Giveaway",
+   "source_url": "https://www.freestufftimes.com/contests/24/book-throne-kindle-unlimited-giveaway-6/",
+   "entry_url": "https://www.bookthrone.com/november-kindle-unlimited-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-12-20",
+   "ends_text": "Last day to enter: Sun, Dec 20",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://bookthrone.com/november-kindle-unlimited-giveaway",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://amoe.tmt.t-mobile.com/": {
+   "title": "T-Mobile Tuesdays Week #547 Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/24/t-mobile-tuesdays-week-547-sweepstakes/",
+   "entry_url": "https://amoe.tmt.t-mobile.com/",
+   "rules_url": null,
+   "ends_guess": "2026-12-01",
+   "ends_text": "Last day to enter: Tue, Dec 1",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://amoe.tmt.t-mobile.com/",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://m.cmpgn.page/jcNkr5": {
+   "title": "Win $5K in Gift Cards in The Jersey Mike’s My Way Sweepstakes!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-5k-in-gift-cards-in-the-jersey-mikes-my-way-sweepstakes/",
+   "entry_url": "https://m.cmpgn.page/jcNkr5",
+   "rules_url": null,
+   "ends_guess": "2026-12-13",
+   "ends_text": "ENDING – \nDecember 13, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 5000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://m.cmpgn.page/jcNkr5",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://win.save.com/home": {
+   "title": "440 Instantly Win a Gift Code in Save’s Snow Day Double Play IWG!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/440-instantly-win-a-gift-code-in-saves-snow-day-double-play-iwg/",
+   "entry_url": "https://win.save.com/home",
+   "rules_url": "https://win.save.com/rules",
+   "ends_guess": "2026-12-19",
+   "ends_text": "ENDING – \nDecember 19, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 1000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://win.save.com/home",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://sweepwidget.com/c/103634-cx0imqre": {
+   "title": "Sunkissed Coconut Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Sunkissed-Coconut-Sweepstakes/",
+   "entry_url": "https://sweepwidget.com/c/103634-cx0imqre",
+   "rules_url": null,
+   "ends_guess": "2026-12-20",
+   "ends_text": "Expires\n 12-20-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 3500,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://sweepwidget.com/c/103634-cx0imqre",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://woom.com/en_US/giveaway": {
+   "title": "The Holiday on Wheels Giveaway",
+   "source_url": "https://www.winprizesonline.com/The-Holiday-on-Wheels-Giveaway/",
+   "entry_url": "https://woom.com/en_US/giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-11-25",
+   "ends_text": "Expires\n 11-25-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 3500,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://woom.com/en_US/giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  "https://stix.golf/pages/sweepstakes": {
+   "title": "Stix Golf Holiday Giveaway",
+   "source_url": "https://www.winprizesonline.com/Stix-Golf-Holiday-Giveaway/",
+   "entry_url": "https://stix.golf/pages/sweepstakes",
+   "rules_url": null,
+   "ends_guess": "2026-12-29",
+   "ends_text": "Expires\n 12-29-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 3500,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://stix.golf/pages/sweepstakes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "last_seen": "2026-11-24"
   },
   "https://thechristmas.com/pages/ugly-christmas-sweaters-giveway": {
    "title": "Ugly Christmas Party Giveaway",
@@ -1465,32 +1787,30 @@
    "last_seen": "2026-11-23"
   },
   "https://olukai.com/pages/wailea-holiday-trip-giveaway": {
-   "title": "OluKai 2026 Holiday Trip Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/23/olukai-2026-holiday-trip-giveaway/",
+   "title": "OluKai Holiday Trip Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/OluKai-Holiday-Trip-Sweepstakes/",
    "entry_url": "https://olukai.com/pages/wailea-holiday-trip-giveaway",
    "rules_url": null,
    "ends_guess": "2026-12-25",
-   "ends_text": "Last day to enter: Fri, Dec 25",
-   "ends_how": "inferred",
-   "frequency_guess": "once",
-   "min_age_guess": null,
+   "ends_text": "Expires\n 12-25-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
    "value_guess": 18000,
    "category_guess": "trip",
    "flags": {
-    "us_mentioned": true,
+    "us_mentioned": false,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://olukai.com/pages/wailea-holiday-trip-giveaway",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "last_seen": "2026-11-24"
   },
   "https://gleam.io/zZ2NY/the-holiday-on-wheels-giveaway": {
    "title": "The Holiday on Wheels Giveaway",
@@ -5538,32 +5858,30 @@
    "last_seen": "2026-11-19"
   },
   "https://eltamdsweepstakes.com/": {
-   "title": "Colgate EltaMD Skin Health Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/19/colgate-eltamd-skin-health-sweepstakes/",
+   "title": "15 Will Win a $245 Skincare Prize Pack in The EltaMD Skin Health Sweeps!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/15-will-win-a-245-skincare-prize-pack-in-the-eltamd-skin-health-sweeps/",
    "entry_url": "https://www.eltamdsweepstakes.com/",
    "rules_url": null,
    "ends_guess": "2026-12-16",
-   "ends_text": "Last day to enter: Wed, Dec 16",
-   "ends_how": "inferred",
-   "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 3000,
+   "ends_text": "ENDING – \nDecember 16, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 18,
+   "value_guess": 245,
    "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://eltamdsweepstakes.com/",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
+   "last_seen": "2026-11-24"
   },
   "https://frewines.com/holiday-sweeps-": {
    "title": "Fre Holiday Sweepstakes",
@@ -11726,32 +12044,30 @@
    "last_seen": "2026-11-11"
   },
   "https://boost12daysofgiveaways.com/": {
-   "title": "Boost Mobile “12 Days of Giveaways” 2026 Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/11/boost-mobile-12-days-of-giveaways-2026-sweepstakes/",
+   "title": "Win GC's or Tech Prizes in Boost Mobile “12 Days of Giveaways” 2026!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-gcs-or-tech-prizes-in-boost-mobile-12-days-of-giveaways-2026/",
    "entry_url": "https://boost12daysofgiveaways.com/",
    "rules_url": null,
    "ends_guess": "2026-12-20",
-   "ends_text": "Last day to enter: Sun, Dec 20",
-   "ends_how": "inferred",
+   "ends_text": "ENDING – \nDecember 20, 2026",
+   "ends_how": "explicit",
    "frequency_guess": "daily",
-   "min_age_guess": null,
-   "value_guess": 4060,
+   "min_age_guess": 18,
+   "value_guess": 1000,
    "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://boost12daysofgiveaways.com/",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-24"
   },
   "https://ghdhair.com/us/sweepstakes-entry": {
    "title": "GHD Holiday Sweepstakes",
@@ -13807,32 +14123,30 @@
    "last_seen": "2026-11-08"
   },
   "https://fordeventreg.com/hdtrucktour": {
-   "title": "Ohio Ford Dealers Truck Tour Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/08/ohio-ford-dealers-truck-tour-sweepstakes/",
+   "title": "Win a $5k Home Depot GC in The Truck Tour Sweepstakes!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-5k-home-depot-gc-in-the-truck-tour-sweepstakes/",
    "entry_url": "https://fordeventreg.com/hdtrucktour",
-   "rules_url": null,
+   "rules_url": "https://fordeventreg.com/assets/pdfs/en/Xperience%20Ford%20Sweepstakes%20Official%20Rules.pdf",
    "ends_guess": "2026-12-04",
-   "ends_text": "Last day to enter: Fri, Dec 4",
-   "ends_how": "inferred",
-   "frequency_guess": "daily",
-   "min_age_guess": null,
+   "ends_text": "ENDING – \nDecember 4, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 18,
    "value_guess": 5000,
    "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://fordeventreg.com/hdtrucktour",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-24"
   },
   "https://hp2win.com/2-towns-ciderhouse-shred-the-holiday-sweepstakes-2townsshred-12312026": {
    "title": "2 Towns Ciderhouse “Shred the Holiday” Sweepstakes",
