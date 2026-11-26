@@ -1,74 +1,66 @@
 {
- "run_at": "2026-11-25T21:17:01+00:00",
+ "run_at": "2026-11-26T11:17:02+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
-   "detail_links": 40,
-   "parsed": 9,
-   "skipped_seen": 31,
-   "kept": 9,
-   "dropped": {},
+   "detail_links": 41,
+   "parsed": 20,
+   "skipped_seen": 21,
+   "kept": 19,
+   "dropped": {
+    "social-media-only entry": 1
+   },
    "errors": [],
    "samples": [
     {
-     "title": "Giraffe Tools Dream Garage Setup Giveaway",
-     "entry_url": "https://giraffetools.com/pages/win-your-dream-garage-setup",
+     "title": "Monos Mercedes-Benz G320 Giveaway",
+     "entry_url": "https://ca.monos.com/collections/pre-merger-mercedes-g-wagon-class?variant=67635293159734",
      "rules_url": null,
-     "ends_guess": "2026-11-27",
-     "ends_text": "Last day to enter: Fri, Nov 27",
-     "frequency_guess": "once",
+     "ends_guess": "2026-11-26",
+     "ends_text": "Last day to enter: Thu, Nov 26",
+     "frequency_guess": "daily",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     },
     {
-     "title": "Fuel Your Wellness: Liquid Zinc Giveaway",
-     "entry_url": "https://sweepwidget.com/c/103306-egzti7m0",
+     "title": "Zig-Zag Friend Trip Sweepstakes",
+     "entry_url": "https://www.mdmgames.com/zigzagfriendstrip/joinme.aspx?rc=CDZDFDYD",
      "rules_url": null,
-     "ends_guess": "2026-11-30",
-     "ends_text": "Last day to enter: Mon, Nov 30",
+     "ends_guess": "2026-11-26",
+     "ends_text": "Last day to enter: Thu, Nov 26",
      "frequency_guess": "once",
-     "min_age_guess": null,
+     "min_age_guess": 21,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     }
    ]
   },
   "thefreebieguy": {
    "listing_pages": 2,
-   "detail_links": 280,
-   "parsed": 7,
-   "skipped_seen": 273,
-   "kept": 7,
+   "detail_links": 275,
+   "parsed": 1,
+   "skipped_seen": 274,
+   "kept": 1,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Win a Trip in The Kewpie Japan Experience Sweepstakes!",
-     "entry_url": "https://kiisfm.iheart.com/promotions/the-kewpie-japan-experience-sweepstakes-1923861/",
-     "rules_url": "https://campaign.aptivada.com/terms/1923861",
-     "ends_guess": "2026-12-05",
-     "ends_text": "ENDING – \nDecember 5, 2026",
-     "frequency_guess": "daily",
-     "min_age_guess": 21,
-     "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
-    },
-    {
-     "title": "Win a $100 Bookshop Gift Card, Deluxe Edition Book & Framed Artwork!",
-     "entry_url": "https://www.kensingtonbooks.com/between-the-chapters/btcexclusive/",
-     "rules_url": "https://www.kensingtonbooks.com/termsconditions/",
+     "title": "Win Grand Theft Auto VI, Pokémon Cards, $100 Gift Cards & More!",
+     "entry_url": "https://www.bmptuning.com/pages/holiday-giveaway",
+     "rules_url": null,
      "ends_guess": "2026-11-30",
      "ends_text": "ENDING – \nNovember 30, 2026",
      "frequency_guess": "once",
-     "min_age_guess": null,
+     "min_age_guess": 18,
      "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
     }
    ]
   },
   "winprizesonline": {
    "listing_pages": 2,
-   "detail_links": 19,
-   "parsed": 7,
-   "skipped_seen": 12,
-   "kept": 4,
+   "detail_links": 21,
+   "parsed": 10,
+   "skipped_seen": 11,
+   "kept": 3,
    "dropped": {},
    "errors": [],
    "samples": [
@@ -83,18 +75,18 @@
      "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n The DeFr"
     },
     {
-     "title": "Intel Core Ultra 270K Plus PC Giveaway",
-     "entry_url": "https://gleam.io/giveaways/nJweV",
+     "title": "Cruise Club Star of the Seas Sweepstakes",
+     "entry_url": "https://cruiseclub.com/star-of-the-seas-cruise-giveaway/",
      "rules_url": null,
-     "ends_guess": "2026-12-31",
-     "ends_text": "Expires\n 12-31-2026",
+     "ends_guess": "2027-03-31",
+     "ends_text": "Expires\n 03-31-2027",
      "frequency_guess": "daily",
-     "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Intel Co"
+     "min_age_guess": 21,
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Cruise C"
     }
    ],
    "retry_later": {
-    "no entry link found": 3
+    "no entry link found": 7
    },
    "no_entry_samples": [
     {
@@ -124,8 +116,8 @@
      ]
     },
     {
-     "source_url": "https://www.winprizesonline.com/Clear-Your-Gift-List-Sweepstakes/",
-     "title": "Clear Your Gift List Sweepstakes",
+     "source_url": "https://www.winprizesonline.com/Fresh-Scents-Holiday-Giveaway/",
+     "title": "Fresh Scents Holiday Giveaway",
      "entry_link_hints": [
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
@@ -142,6 +134,6 @@
    ]
   }
  },
- "total_candidates": 866,
- "details_budget_left": 127
+ "total_candidates": 869,
+ "details_budget_left": 119
 }
