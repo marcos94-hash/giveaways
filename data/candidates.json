@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T11:17:02+00:00",
- "count": 876,
+ "updated": "2026-11-27T21:17:02+00:00",
+ "count": 885,
  "candidates": {
   "https://palenmusic.com/pages/blue-friday": {
    "title": "Palen Music Blue Friday Giveaway",
@@ -636,6 +636,246 @@
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
+  "https://filippoberio.com/making-memories-sweepstakes": {
+   "title": "Filippo Berio Holiday Memories Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/27/filippo-berio-holiday-memories-sweepstakes/",
+   "entry_url": "https://filippoberio.com/making-memories-sweepstakes/",
+   "rules_url": null,
+   "ends_guess": "2027-01-09",
+   "ends_text": "Last day to enter: Sat, Jan 9, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://filippoberio.com/making-memories-sweepstakes",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  "https://remitly.com/us/en/home/remitly-global-card-sweepstakes": {
+   "title": "Remitly Global Card Going Home Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/27/remitly-global-card-going-home-sweepstakes/",
+   "entry_url": "https://www.remitly.com/us/en/home/remitly-global-card-sweepstakes",
+   "rules_url": null,
+   "ends_guess": "2026-12-15",
+   "ends_text": "Last day to enter: Tue, Dec 15",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 107150,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://remitly.com/us/en/home/remitly-global-card-sweepstakes",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  "https://kohlsblackfriday.com/": {
+   "title": "Kohl’s Black Friday Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/27/kohls-black-friday-sweepstakes-7/",
+   "entry_url": "https://www.kohlsblackfriday.com/",
+   "rules_url": null,
+   "ends_guess": "2026-11-30",
+   "ends_text": "Last day to enter: Mon, Nov 30",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 200000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "end_date_inferred"
+   ],
+   "key": "https://kohlsblackfriday.com/",
+   "source": "freestufftimes",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  "https://modelousa.com/pages/cfp-2026": {
+   "title": "281 Win a Trip or Merch in The Modelo College Football Playoff 2026 Sweeps!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/281-win-a-trip-or-merch-in-the-modelo-college-football-playoff-2026-sweeps/",
+   "entry_url": "https://www.modelousa.com/pages/cfp-2026",
+   "rules_url": null,
+   "ends_guess": "2027-01-25",
+   "ends_text": "ENDING – \nJanuary 25, 2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 21,
+   "value_guess": 7244,
+   "category_guess": "trip",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://modelousa.com/pages/cfp-2026",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  "https://feastables10kdash.splashthat.com/web-spot": {
+   "title": "Win a $10,000 Shopping Spree from Feastables!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-10000-shopping-spree-from-feastables/",
+   "entry_url": "https://feastables10kdash.splashthat.com/web-spot",
+   "rules_url": "https://assets.simon.com/content/rules/2026/national/simon-feastables-shopping-contest-263481-final-rules-v.3.pdf",
+   "ends_guess": "2026-12-03",
+   "ends_text": "ENDING – \nDecember 3, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 18,
+   "value_guess": 20602,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://feastables10kdash.splashthat.com/web-spot",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  "https://svedka.wyng.com/big-game-contest": {
+   "title": "Win $500,000 Cash in the SVEDKA Big Game Commercial Contest!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-500000-cash-in-the-svedka-big-game-commercial-contest/",
+   "entry_url": "https://svedka.wyng.com/big-game-contest",
+   "rules_url": null,
+   "ends_guess": "2026-12-01",
+   "ends_text": "ENDING – \nDecember 1, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 21,
+   "value_guess": 500000,
+   "category_guess": "cash",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": true,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [
+    "purchase_required"
+   ],
+   "key": "https://svedka.wyng.com/big-game-contest",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  "https://kohlsblackfriday.com/home": {
+   "title": "Over 1K Win a Gift Card in The Kohl’s Black Friday Sweepstakes",
+   "source_url": "https://thefreebieguy.com/sweepstakes/over-1k-win-a-gift-card-in-the-kohls-black-friday-sweepstakes/",
+   "entry_url": "https://www.kohlsblackfriday.com/home",
+   "rules_url": "https://www.kohlsblackfriday.com/rules",
+   "ends_guess": "2026-11-30",
+   "ends_text": "ENDING – \nNovember 30, 2026",
+   "ends_how": "explicit",
+   "frequency_guess": "once",
+   "min_age_guess": 18,
+   "value_guess": 200000,
+   "category_guess": "gift_card",
+   "flags": {
+    "us_mentioned": true,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://kohlsblackfriday.com/home",
+   "source": "thefreebieguy",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  "https://academysweeps.com/": {
+   "title": "Academy x HYROX Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Academy-x-HYROX-Sweepstakes/",
+   "entry_url": "https://academysweeps.com/",
+   "rules_url": null,
+   "ends_guess": "2027-04-30",
+   "ends_text": "Expires\n 04-30-2027",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 10899,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://academysweeps.com/",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  "https://fasthouse.com/pages/ducati-giveaway": {
+   "title": "Fasthouse Ducati Motorcycle Sweepstakes",
+   "source_url": "https://www.winprizesonline.com/Fasthouse-Ducati-Motorcycle-Sweepstakes/",
+   "entry_url": "https://www.fasthouse.com/pages/ducati-giveaway",
+   "rules_url": null,
+   "ends_guess": "2026-12-14",
+   "ends_text": "Expires\n 12-14-2026",
+   "ends_how": "explicit",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 10899,
+   "category_guess": "other",
+   "flags": {
+    "us_mentioned": false,
+    "foreign_only": false,
+    "nj_excluded": false,
+    "purchase_required": false,
+    "local_only": false,
+    "social_entry": false
+   },
+   "review_flags": [],
+   "key": "https://fasthouse.com/pages/ducati-giveaway",
+   "source": "winprizesonline",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
   "https://tradehome.com/pages/win-the-gift-of-fit-online-2026": {
    "title": "The Gift of Fit Sweepstakes",
    "source_url": "https://www.winprizesonline.com/The-Gift-of-Fit-Sweepstakes/",
@@ -801,17 +1041,17 @@
    "last_seen": "2026-11-26"
   },
   "https://mbaction.com/giveaways/aventon-giveaway": {
-   "title": "Aventon Current ADV Giveaway",
-   "source_url": "https://www.freestufftimes.com/contests/26/aventon-current-adv-giveaway/",
+   "title": "Aventon Electric Mountain Bike Giveaway",
+   "source_url": "https://www.winprizesonline.com/Aventon-Electric-Mountain-Bike-Giveaway/",
    "entry_url": "https://mbaction.com/giveaways/aventon-giveaway/",
    "rules_url": null,
    "ends_guess": "2027-03-30",
-   "ends_text": "Last day to enter: Tue, Mar 30, 2027",
+   "ends_text": "Expires\n 03-30-2027",
    "ends_how": "explicit",
-   "frequency_guess": "once",
-   "min_age_guess": null,
-   "value_guess": 3999,
-   "category_guess": "gift_card",
+   "frequency_guess": "daily",
+   "min_age_guess": 18,
+   "value_guess": 10899,
+   "category_guess": "other",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -822,9 +1062,9 @@
    },
    "review_flags": [],
    "key": "https://mbaction.com/giveaways/aventon-giveaway",
-   "source": "freestufftimes",
+   "source": "winprizesonline",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   "https://sweepwidget.com/c/103741-9zt8r3ef/fh1rod-103741": {
    "title": "$400 Nov 25 to Dec 2 Week Giveaway",
@@ -1257,17 +1497,17 @@
    "last_seen": "2026-11-26"
   },
   "https://sites.prh.com/dcc-partner-sweepstakes-nov-26": {
-   "title": "The Epic Dungeon Sweepstakes",
-   "source_url": "https://www.winprizesonline.com/The-Epic-Dungeon-Sweepstakes/",
+   "title": "Penguin Random House DCC Partner sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/27/penguin-random-house-dcc-partner-sweepstakes/",
    "entry_url": "https://sites.prh.com/dcc-partner-sweepstakes-nov-26",
    "rules_url": null,
    "ends_guess": "2026-11-30",
-   "ends_text": "Expires\n 11-30-2026",
-   "ends_how": "explicit",
-   "frequency_guess": "daily",
-   "min_age_guess": 18,
-   "value_guess": 20100,
-   "category_guess": "other",
+   "ends_text": "Last day to enter: Mon, Nov 30",
+   "ends_how": "inferred",
+   "frequency_guess": "once",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
    "flags": {
     "us_mentioned": false,
     "foreign_only": false,
@@ -1276,11 +1516,13 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [],
+   "review_flags": [
+    "end_date_inferred"
+   ],
    "key": "https://sites.prh.com/dcc-partner-sweepstakes-nov-26",
-   "source": "winprizesonline",
+   "source": "freestufftimes",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   "https://gleam.io/BRnZt/attack-shark-weekly-giveaway-week-48-of-2026": {
    "title": "Attack Shark Turbo Mouse Giveaway",
@@ -3209,32 +3451,30 @@
    "last_seen": "2026-11-24"
   },
   "https://jacklinks.com/pages/signedbasketball": {
-   "title": "Jack Link’s Signed Basketball Sweepstakes",
-   "source_url": "https://www.freestufftimes.com/contests/25/jack-links-signed-basketball-sweepstakes-2/",
+   "title": "Win a $550 Autographed Basketball Signed by Jalen Brunson & Josh Hart from Jack Link’s!",
+   "source_url": "https://thefreebieguy.com/sweepstakes/win-a-550-autographed-basketball-signed-by-jalen-brunson-josh-hart-from-jack-links/",
    "entry_url": "https://www.jacklinks.com/pages/signedbasketball",
-   "rules_url": null,
+   "rules_url": "https://cdn.shopify.com/s/files/1/0701/1241/1717/files/26_11_11_Jack_Links_Signed_Basketball_Sweepstakes_Rules.pdf?v=1794586287",
    "ends_guess": "2026-12-03",
-   "ends_text": "Last day to enter: Thu, Dec 3",
-   "ends_how": "inferred",
+   "ends_text": "ENDING – \nDecember 3, 2026",
+   "ends_how": "explicit",
    "frequency_guess": "once",
-   "min_age_guess": null,
-   "value_guess": 3000,
-   "category_guess": "gift_card",
+   "min_age_guess": 18,
+   "value_guess": 550,
+   "category_guess": "cash",
    "flags": {
-    "us_mentioned": false,
+    "us_mentioned": true,
     "foreign_only": false,
     "nj_excluded": false,
     "purchase_required": false,
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [
-    "end_date_inferred"
-   ],
+   "review_flags": [],
    "key": "https://jacklinks.com/pages/signedbasketball",
-   "source": "freestufftimes",
+   "source": "thefreebieguy",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25"
+   "last_seen": "2026-11-27"
   },
   "https://sites.prh.com/borzoiholidaysweeps2026": {
    "title": "Penguin Random House Borzoi Holiday Sweepstakes",
@@ -7140,17 +7380,17 @@
    "last_seen": "2026-11-20"
   },
   "https://usatoday.gannettcontests.com/2026-New-Years-Eve-Live-Nashvilles-Big-Bash": {
-   "title": "New Years Eve in Nashville Sweepstakes",
-   "source_url": "https://www.winprizesonline.com/New-Years-Eve-in-Nashville-Sweepstakes/",
+   "title": "USA Today Nashville's Big Bash Sweepstakes",
+   "source_url": "https://www.freestufftimes.com/contests/27/usa-today-nashvilles-big-bash-sweepstakes/",
    "entry_url": "https://usatoday.gannettcontests.com/2026-New-Years-Eve-Live-Nashvilles-Big-Bash/",
    "rules_url": null,
    "ends_guess": "2026-12-17",
-   "ends_text": "Expires\n 12-17-2026",
-   "ends_how": "explicit",
+   "ends_text": "Last day to enter: Thu, Dec 17",
+   "ends_how": "inferred",
    "frequency_guess": "daily",
-   "min_age_guess": 21,
-   "value_guess": 139700,
-   "category_guess": "trip",
+   "min_age_guess": null,
+   "value_guess": 3000,
+   "category_guess": "gift_card",
    "flags": {
     "us_mentioned": true,
     "foreign_only": false,
@@ -7159,11 +7399,13 @@
     "local_only": false,
     "social_entry": false
    },
-   "review_flags": [],
+   "review_flags": [
+    "end_date_inferred"
+   ],
    "key": "https://usatoday.gannettcontests.com/2026-New-Years-Eve-Live-Nashvilles-Big-Bash",
-   "source": "winprizesonline",
+   "source": "freestufftimes",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-27"
   },
   "https://kudosz.com/giftbaskets/cozy-caramel-winter-holiday-woodland-candle-gift-basket": {
    "title": "Cozy Caramel Sweepstakes",
