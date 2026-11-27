@@ -1,22 +1,34 @@
 {
- "run_at": "2026-11-26T21:17:02+00:00",
+ "run_at": "2026-11-27T11:17:02+00:00",
  "sources": {
   "freestufftimes": {
    "listing_pages": 4,
    "detail_links": 41,
-   "parsed": 1,
-   "skipped_seen": 40,
-   "kept": 1,
-   "dropped": {},
+   "parsed": 26,
+   "skipped_seen": 15,
+   "kept": 23,
+   "dropped": {
+    "social-media-only entry": 3
+   },
    "errors": [],
    "samples": [
     {
-     "title": "19 Crimes Holiday Heist Instant Win Game",
-     "entry_url": "https://www.sweeppromo.com/fbsweeps/pages/19CrimesHolidayHeistInstantWinPromotion/agegate",
+     "title": "Palen Music Blue Friday Giveaway",
+     "entry_url": "https://www.palenmusic.com/pages/blue-friday",
      "rules_url": null,
-     "ends_guess": "2026-12-31",
-     "ends_text": "Last day to enter: Thu, Dec 31",
-     "frequency_guess": "daily",
+     "ends_guess": "2026-11-27",
+     "ends_text": "Last day to enter: Fri, Nov 27",
+     "frequency_guess": "once",
+     "min_age_guess": null,
+     "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
+    },
+    {
+     "title": "Palen Music Blue Friday Giveaway",
+     "entry_url": "https://app.viralsweep.com/sweeps/full/24a45e-237145?framed=1#f1374229",
+     "rules_url": null,
+     "ends_guess": "2026-11-27",
+     "ends_text": "Last day to enter: Fri, Nov 27",
+     "frequency_guess": "once",
      "min_age_guess": null,
      "snippet": "Skip to the contests\n Free Stuff\nBirthday Freebies\nClass Action Settlements\n Contests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\n Hot Deals\n Money\nHigh Interest Savings\nCredit Card Bonuses\n What I Got\n About\nAbout Free Stuff Times\nContact\nSocial\nFacebook\nInstagram\nTelegram\nPinterest\nFacebook Contests\nFree Stuff RSS Feed\nApps\niPhone\niPad\nAndroid\nEmail\nSubscribe to the Free Stuff Newsletter\n Search for:\n Dark mode\n Menu\n Search for:\nFree Stuff\nBirthday Freebies\nClass Action Settlements\nMoney\nHigh Interest Savings\nCredit Card Bonuses\nContests\nOne Entry\nDaily\nInstant Win Games\nWeekly\nOther\nUnlimited\nMonthly\n10 entries\nMy Saved Posts\nBrowse by prize"
     }
@@ -24,27 +36,27 @@
   },
   "thefreebieguy": {
    "listing_pages": 2,
-   "detail_links": 279,
-   "parsed": 5,
-   "skipped_seen": 274,
-   "kept": 5,
+   "detail_links": 277,
+   "parsed": 2,
+   "skipped_seen": 275,
+   "kept": 2,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Win a Blumhouse Horror Movie Prize Pack + $50 Fandango Gift Card!",
-     "entry_url": "https://pages.blumhouse.com/lp/prize-pack-sweepstakes",
+     "title": "Win a $100 Homefield Apparel Gift Card from poppi & Kroger!",
+     "entry_url": "https://poppicollegemerchgiveaway.com",
      "rules_url": null,
-     "ends_guess": "2026-11-30",
-     "ends_text": "ENDING – \nNovember 30, 2026",
+     "ends_guess": "2026-12-01",
+     "ends_text": "ENDING – \nDecember 1, 2026",
      "frequency_guess": "once",
      "min_age_guess": 18,
      "snippet": "Home\nContact Us\nJoin Our Facebook Group\nJoin Our Telegram Group\nTFG Instagram\nEmail Newsletter\nSubmit a Deal\nTips\nMake Money from Home\nClass Action Settlements\nBest Cash Back Apps\nGrocery Surplus Stores Near Me (HUGE LIST)\nStudent Discounts\nWalmart Shopping Tips & Tricks\nWhere To Sell Used Stuff\nDeals\nAll Category Deals\nAll Store Deals\nBlack Friday & Cyber Monday Deals\nAdidas Deals\nAmazon Deals\nAmazon Deals\nAmazon Prime Membership Benefits + Free 30-Day Trial\nFree Amazon Prime Student 6-Month Trial\nAmazon Baby Registry\nAmazon Wedding Registry\nAmazon Pet Deals\nAmazon Snack Deals\nBaby Deals\nBack To School Deals\nBeauty & Personal Care Deals\nBest Buy Deals\nClearance Shopping\nCoach Deals\nCrocs De"
     },
     {
-     "title": "Win Pakt Travel Bags & Backpacks Worth Up to $379!",
-     "entry_url": "https://paktbags.com/pages/12-days-of-pack-friday",
-     "rules_url": null,
+     "title": "Win United Airlines Flights for 2 Worth Up to $37,500!",
+     "entry_url": "https://somebodyfindphil.com",
+     "rules_url": "https://somebodyfindphil.com/rules/",
      "ends_guess": "2026-11-30",
      "ends_text": "ENDING – \nNovember 30, 2026",
      "frequency_guess": "once",
@@ -55,47 +67,68 @@
   },
   "winprizesonline": {
    "listing_pages": 2,
-   "detail_links": 21,
-   "parsed": 5,
-   "skipped_seen": 16,
+   "detail_links": 22,
+   "parsed": 11,
+   "skipped_seen": 11,
    "kept": 4,
    "dropped": {},
    "errors": [],
    "samples": [
     {
-     "title": "Monument Grills Black Friday Giveaway",
-     "entry_url": "https://monumentgrills.com/pages/black-friday-giveaway-2026",
-     "rules_url": null,
-     "ends_guess": "2026-12-02",
-     "ends_text": "Expires\n 12-02-2026",
-     "frequency_guess": "daily",
-     "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Monument"
-    },
-    {
-     "title": "Nordstrom Holiday Beauty Sweepstakes",
+     "title": "The DeFranco Million Sweepstakes",
      "entry_url": null,
      "rules_url": null,
-     "ends_guess": "2026-12-01",
-     "ends_text": "Expires\n 12-01-2026",
+     "ends_guess": "2027-02-13",
+     "ends_text": "Expires\n 02-13-2027",
      "frequency_guess": "daily",
      "min_age_guess": 18,
-     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Nordstro"
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n The DeFr"
+    },
+    {
+     "title": "Quicksilver Winter Sweepstakes",
+     "entry_url": "https://www.quiksilver.com/pages/winter-26-giveaway",
+     "rules_url": null,
+     "ends_guess": "2027-01-10",
+     "ends_text": "Expires\n 01-10-2027",
+     "frequency_guess": "daily",
+     "min_age_guess": 18,
+     "snippet": "﻿\nSkip to content\n Community\n |\n Tips & Blog\n |\n Power Sweeper\n WinPrizesOnline\n All Sweepstakes\n Ending Soon\n New Entries\n Most Popular\n Instant Win\n Winners Circle\n Tips & Blog\n Community\n ★ Power Sweeper\n Log In\n Join Free →\n Power Sweeper — your personal sweepstakes manager. Track entries, set reminders and win more. \n Upgrade Now → \n ✕\nJoin WinPrizesOnline — Enter More Sweepstakes\n ×\nSign up free and enjoy:\nEntry Tracking\n — know exactly when you can enter again\nDaily Newsletter\n with the latest sweepstakes & picks\nSave Favorites\n to your personal list\nJoin the \nWPO community\n — comment, rate & more\n Already a member? Log In\n Register Free →\n No thanks\n Home\n ›\n Sweepstakes\n ›\n Quicksil"
     }
    ],
    "retry_later": {
-    "no entry link found": 1
+    "no entry link found": 7
    },
    "no_entry_samples": [
     {
-     "source_url": "https://www.winprizesonline.com/Nordstrom-Holiday-Beauty-Sweepstakes/",
-     "title": "Nordstrom Holiday Beauty Sweepstakes",
+     "source_url": "https://www.winprizesonline.com/The-DeFranco-Million-Sweepstakes/",
+     "title": "The DeFranco Million Sweepstakes",
      "entry_link_hints": [
       {
-       "href": "https://www.winprizesonline.com/Go-Solutions-Pet-Food-Baking-Giveaway/",
-       "text": "Go Solutions Pet Food Baking G...",
+       "href": "https://defrancomillion.com",
+       "text": "Phil DeFranco",
+       "onsite": false
+      },
+      {
+       "href": "https://defrancomillion.com",
+       "text": "defrancomillion.com",
+       "onsite": false
+      },
+      {
+       "href": "https://www.winprizesonline.com/daily/sweepstakes/",
+       "text": "Daily Entry",
        "onsite": true
       },
+      {
+       "href": "https://www.winprizesonline.com/weekly/sweepstakes/",
+       "text": "Weekly Entry",
+       "onsite": true
+      }
+     ]
+    },
+    {
+     "source_url": "https://www.winprizesonline.com/Salmon-Lovers-Box-Giveaway/",
+     "title": "Salmon Lovers Box Giveaway",
+     "entry_link_hints": [
       {
        "href": "https://www.winprizesonline.com/daily/sweepstakes/",
        "text": "Daily Entry",
@@ -111,6 +144,6 @@
    ]
   }
  },
- "total_candidates": 875,
- "details_budget_left": 139
+ "total_candidates": 876,
+ "details_budget_left": 111
 }
